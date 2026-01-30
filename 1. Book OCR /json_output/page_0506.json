@@ -1,0 +1,104 @@
+[
+  {
+    "recipe_id": "MR_498_1",
+    "title_original": "MUSAGA",
+    "title_normalized": "Musaga",
+    "region": null,
+    "page_number": 498,
+    "category": "Hidangan Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging kambing 3 bh.",
+            "item_original": "daging kambing",
+            "item_normalized": "daging kambing",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terung pandjang 1/2 kg.",
+            "item_original": "terung pandjang",
+            "item_normalized": "terong panjang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tomat 10 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "katjang hidjau 3 sdm.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak 1 tjangkir",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine 1 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bumbu kare 3 sdm.",
+            "item_original": "bumbu kare",
+            "item_normalized": "bumbu kari",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dipotong ketjil² lalu ditjintjang sampai halus.",
+      "Ditumis dengan margarine sampai kuning.",
+      "Ditjampurkan bumbu dan garam.",
+      "Kemudian dituangkan air dua gelas dan direbus sampai air itu kira² tinggal setengahnja.",
+      "Katjang hidjau digoreng sangan sampai kuning.",
+      "Ditumbuk sampai halus.",
+      "Dimasukkan dalam rebusan dan direbus sampai masak.",
+      "Terongnja dipotong-potong serong dan digoreng dengan minjak setengah masak."
+    ]
+  }
+]

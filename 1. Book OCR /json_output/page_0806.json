@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_id": "MR_806_1",
+    "title_original": "ANTAKUSUMA",
+    "title_normalized": "Antakusuma",
+    "region": "Riau",
+    "page_number": 798,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1½ kg.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "santan kental 4 tjkr.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikatjau sampai kental.",
+      "Dimasukkan santan dan tepung dalamnja sehingga merupakan adonan jang kental.",
+      "Dimasak dalam wadjan sambil di-aduk², sampai kering dan berminjak.",
+      "Menghidangkannja dipiring ketjil, digaruk dengan garpu permukaannja."
+    ]
+  },
+  {
+    "recipe_id": "MR_806_2",
+    "title_original": "APEM",
+    "title_normalized": "Apem",
+    "region": "Madiun",
+    "page_number": 798,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 5 tjkr.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 5.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air kelapa 2 tjkr.",
+            "item_original": "air kelapa",
+            "item_normalized": "air kelapa",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "ragi 1 btr.",
+            "item_original": "ragi",
+            "item_normalized": "ragi",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung, gula dan ragi ditjampur dengan air kelapa, di-aduk² dan diuli sampai lembut dan terus didjemur dulu kira-kira 2 djam sampai naik."
+    ]
+  }
+]

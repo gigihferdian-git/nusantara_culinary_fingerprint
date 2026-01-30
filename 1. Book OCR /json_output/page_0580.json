@@ -1,0 +1,150 @@
+[
+  {
+    "recipe_id": "MR_580_001",
+    "title_original": "PU JONG HAY DJAGUNG MUDA",
+    "title_normalized": "Fu Yung Hai Jagung Muda",
+    "region": null,
+    "page_number": 572,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur bebek 2 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "djagung muda 2 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "udang basah 1 ons",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "prei putih 2 tk.",
+            "item_original": "prei putih",
+            "item_normalized": "prei putih",
+            "quantity": 2.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun seledri 2 tk.",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 2.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "wortel 2 bh.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 2.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng 1 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 1/2 sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "saus",
+        "original_header": "Untuk saosnja",
+        "ingredients": [
+          {
+            "original_text": "tomat merah 4 bh.",
+            "item_original": "tomat merah",
+            "item_normalized": "tomat merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tepung kandji 1/2 sdt.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "lada setjukupnja",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula pasir setjukupnja",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diiris, digiling setengah halus. Udang setelah dibersihkan, direbus dengan air.",
+      "Ditjampuri sedikit garam, kemudian di-potong² ketjil-ketjil.",
+      "Kaki dan kepala udang digiling bersama garam dan bawang putih sampai halus.",
+      "Ditjam pur djadi satu dengan bahan-bahan lainnja jang telah diiris halus : wortel, prei dan seledri.",
+      "Telur dikotjok sampai putih dan kuningnja tjampur betul.",
+      "Dimasukkan kedalamnja bahan-bahan jang telah ditjam pur disertai lada dan vetsin."
+    ]
+  }
+]

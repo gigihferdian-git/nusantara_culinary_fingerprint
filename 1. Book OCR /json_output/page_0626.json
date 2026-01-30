@@ -1,0 +1,193 @@
+[
+  {
+    "recipe_id": "MR_626_1",
+    "title_original": "TUMIS BUNGA DURIAN",
+    "title_normalized": "Tumis Bunga Durian",
+    "region": "Jakarta",
+    "page_number": 618,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bunga durian 1 ons",
+            "item_original": "bunga durian",
+            "item_normalized": "bunga durian",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "udang ½ ons",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 10 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "sereh 1 tk.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bunga durian dibersihkan, dipisahkan benang sari dari daun bungannja, ditjutji.",
+      "Setelah bersih, direbus dulu sampai masak, ditjutji lagi dan diperas.",
+      "Bawang merah dan bawang putih diiris halus, lombok rawit dibuangi tangkainja, ditumis dengan minjak, ditambah sereh, laos dan garam.",
+      "Bunga durian dimasukkan, diberi air, direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_626_2",
+    "title_original": "TUMIS BUNTJIS",
+    "title_normalized": "Tumis Buncis",
+    "region": null,
+    "page_number": 618,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "buntjis ½ kg.",
+            "item_original": "buntjis",
+            "item_normalized": "buncis",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "ebi 1 sdm.",
+            "item_original": "ebi",
+            "item_normalized": "ebi",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak 2 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam 5 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kejap 3 sdm.",
+            "item_original": "kejap",
+            "item_normalized": "kecap",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

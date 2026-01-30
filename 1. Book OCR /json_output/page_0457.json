@@ -1,0 +1,220 @@
+[
+  {
+    "recipe_id": "MR_457_0",
+    "title_original": "BUNTJIS SANTAN (Continuation)",
+    "title_normalized": "Buncis Santan",
+    "region": null,
+    "page_number": 449,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 3 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam 6 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 6.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dibuat santan 2 gelas.",
+      "Buntjis dipotong-potong.",
+      "Bawang merah diirisi tipis, digoreng.",
+      "Bumbu² lain dihaluskan, ditumis, salam dimasukkan.",
+      "Buntjis dimasukkan, dituangkan santan, ditambah asam, direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_457_1",
+    "title_original": "GEMBROT SEMBUKAN",
+    "title_normalized": "Gembrot Sembukan",
+    "region": null,
+    "page_number": 449,
+    "category": "Kukusan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun sembukan 2 ggm.",
+            "item_original": "daun sembukan",
+            "item_normalized": "daun sembukan",
+            "quantity": 2.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "kelapa muda 1/2 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tempe bosok 4 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 4.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun pisang 1 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 1.0,
+            "unit": "pelepah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 7 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar 1/2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun sembukan ditjutji bersih, terus ditumbuk halus.",
+      "Kelapa diparut.",
+      "Bumbu² dihaluskan, lalu ditjampur dengan kelapa.",
+      "Tempe bosok dihaluskan.",
+      "Semua ditjampur djadi satu.",
+      "Dibungkusi daun pisang ketjil² pandjang, lalu dikukus.",
+      "Djika sudah dikukus, dibakar dengan dibolak-balik sampai kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_457_2",
+    "title_original": "GETJOK",
+    "title_normalized": "Getjok",
+    "region": "Sumbawa",
+    "page_number": 449,
+    "category": "Lauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "hati sapi 1/2 kg.",
+            "item_original": "hati sapi",
+            "item_normalized": "hati sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging 1/2 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1/4 btl",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "botol"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

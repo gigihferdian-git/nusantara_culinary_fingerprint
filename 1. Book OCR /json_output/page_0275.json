@@ -1,0 +1,175 @@
+[
+  {
+    "recipe_id": "MR_275_1",
+    "title_original": "LODEH WALUH DJIPANG",
+    "title_normalized": "Lodeh Waluh Jipang",
+    "region": "Purwokerto",
+    "page_number": 267,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "waluh djipang 2 bh.",
+            "item_original": "waluh djipang",
+            "item_normalized": "labu siam",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun melindjo 2 ggm.",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 2.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "petai 1 papan",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 1.0,
+            "unit": "papan"
+          },
+          {
+            "original_text": "tempe bosok 1 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "udang kering 1 sdm.",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1/3 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Waluh djipang dikupas, dipotong pandjang², di-remas² dengan garam, kemudian ditjutji.",
+      "Daun melindjo dibuang tangkainja, petai dikupas, dibelah empat.",
+      "Kelapa diparut, dibuat santan 2 gelas.",
+      "Bumbu² dihaluskan, ditumis.",
+      "Sajuran dimasukkan, di-aduk² sampai ½ masak.",
+      "Santan dimasukkan, ditambah gula dan garam, direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_275_2",
+    "title_original": "MANGUT BEBEK",
+    "title_normalized": "Mangut Bebek",
+    "region": null,
+    "page_number": 267,
+    "category": "Unggas",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bebek 1 ekor",
+            "item_original": "bebek",
+            "item_normalized": "bebek",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

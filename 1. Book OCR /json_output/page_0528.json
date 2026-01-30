@@ -1,0 +1,166 @@
+[
+  {
+    "recipe_id": "MR_520_1",
+    "title_original": "OSENG OSENG NANGKA MUDA",
+    "title_normalized": "Oseng Oseng Nangka Muda",
+    "region": null,
+    "page_number": 520,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "nangka muda 1 kg.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun so 1 ons",
+            "item_original": "daun so",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tempe 4 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 4.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 1 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Nangka muda dikupas, di-potong² ketjil² lalu direbus, setelah matang airnja dibuang.",
+      "Bumbu² diiris, lalu ditumis.",
+      "Sajuran dimasukkan, diberi air 1 gelas.",
+      "Dimasak sampai mendidih lagi."
+    ]
+  },
+  {
+    "recipe_id": "MR_520_2",
+    "title_original": "OSENG OSENG PEPAJA MUDA (Banjumas)",
+    "title_normalized": "Oseng Oseng Pepaya Muda",
+    "region": "Banyumas",
+    "page_number": 520,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pepaja muda 1 bh.",
+            "item_original": "pepaja muda",
+            "item_normalized": "pepaya muda",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tempe 1 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun melindjo 1 genggam",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "minjak goreng 5 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "udang kering 1/2 ons",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

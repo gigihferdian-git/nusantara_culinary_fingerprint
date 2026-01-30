@@ -1,0 +1,204 @@
+[
+  {
+    "recipe_id": "MR_417_1",
+    "title_original": "BOTOK MLANDINGAN",
+    "title_normalized": "Botok Mlandingan",
+    "region": "Purwokerto",
+    "page_number": 417,
+    "category": "Botok",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mlandingan 1 gls.",
+            "item_original": "mlandingan",
+            "item_normalized": "mlandingan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa setengah tua 1 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "biting",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 bh.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 3 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok hidjau 5 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe semangit",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut.",
+      "Semua bumbu² dihaluskan ketjuali lombok hidjau.",
+      "Lombok hidjau diiris tipis serong.",
+      "Semuanja ditjampur rata.",
+      "Dibungkusi daun pisang ± 3 sendok makan.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_417_2",
+    "title_original": "BOTOK PEDA",
+    "title_normalized": "Botok Peda",
+    "region": "Rembang",
+    "page_number": 417,
+    "category": "Botok",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan peda 5 ekor",
+            "item_original": "ikan peda",
+            "item_normalized": "ikan peda",
+            "quantity": 5.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "daun pisang 1 tk.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 1.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "kelapa agak muda 1 btr.",
+            "item_original": "kelapa agak muda",
+            "item_normalized": "kelapa agak muda",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 1/2 ons",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "blimbing wuluh 10 bh.",
+            "item_original": "blimbing wuluh",
+            "item_normalized": "belimbing wuluh",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/4 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 5 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun djeruk purut 2 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dibuang kepalanja."
+    ]
+  }
+]

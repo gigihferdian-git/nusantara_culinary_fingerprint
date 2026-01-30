@@ -1,0 +1,152 @@
+[
+  {
+    "recipe_id": "MR_592_1",
+    "title_original": "SEPAT",
+    "title_normalized": "Sepat",
+    "region": "Sumbawa",
+    "page_number": 584,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan bandeng 3 ekor",
+            "item_original": "ikan bandeng",
+            "item_normalized": "ikan bandeng",
+            "quantity": 3.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "terong besar 3 buah",
+            "item_original": "terong besar",
+            "item_normalized": "terong besar",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "udang laut 15 ekor",
+            "item_original": "udang laut",
+            "item_normalized": "udang laut",
+            "quantity": 15.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "tomat masak 2 bh.",
+            "item_original": "tomat masak",
+            "item_normalized": "tomat masak",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "belimbing wuluh 2 bh.",
+            "item_original": "belimbing wuluh",
+            "item_normalized": "belimbing wuluh",
+            "quantity": 2.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djeruk nipis 1/2 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang merah 5 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan, udang dan terong dibersihkan, kemudian dibakar sampai masak.",
+      "Tomat, kemiri dan bawang merah djuga dibakar.",
+      "Kelapa dibuat santan.",
+      "Kemiri, bawang merah dan lombok diulek sampai halus bersama garam, dimasukkan dalam santan.",
+      "Ikan, terong, udang jang sudah dibuangi kulitnja diatur dipiring, diberi air santan jang sudah ditjampur lebih dahulu dengan bumbu²nja, diperasi djeruk nipis sedikit."
+    ]
+  },
+  {
+    "recipe_id": "MR_592_2",
+    "title_original": "SERAPAH DAGING",
+    "title_normalized": "Serapah Daging",
+    "region": "Bali",
+    "page_number": 584,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1/2 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 4 sdm.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 12 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 12.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "djae 1 pt.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

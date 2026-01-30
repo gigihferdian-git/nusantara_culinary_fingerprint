@@ -1,0 +1,213 @@
+[
+  {
+    "recipe_id": "MR_768_0",
+    "title_original": "SAMBAL BADJAK",
+    "title_normalized": "Sambal Bajak",
+    "region": "Malang",
+    "page_number": 760,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 1 ons",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak 1/4 gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam djawa 5 mata",
+            "item_original": "asam djawa",
+            "item_normalized": "asam jawa",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula djawa 1 sdm.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdm.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lombok merah dibuangi bidjinja.",
+      "Bumbu² ditjutji, dihaluskan ketjuali salam dan sereh.",
+      "Lombok dihaluskan bersama bumbu lain, ditumis dengan minjak diberi air asam.",
+      "Udang ditjutji, dibuangi kulitnja.",
+      "Kemudian dilumuri bumbu.",
+      "Dibakar diatas bara sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_768_1",
+    "title_original": "SAMBAL BADJAK DAGING",
+    "title_normalized": "Sambal Bajak Daging",
+    "region": "Banjumas",
+    "page_number": 760,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 1/4 kg.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging 1 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ebi 1/2 ons",
+            "item_original": "ebi",
+            "item_normalized": "ebi",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "petai 1 papan",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 1.0,
+            "unit": "papan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 1/4 ons",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 0.25,
+            "unit": "ons"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 bt",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 1 bks.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjintjang, ebi direndam air panas, dihaluskan.",
+      "Petai dikuliti, digoreng 1/2 matang dalam keadaan utuh.",
+      "Bumbu² dihaluskan ketjuali salam dan sereh."
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "recipe_id": "MR_762_1",
+    "title_original": "TAOGE GORENG",
+    "title_normalized": "Tauge Goreng",
+    "region": null,
+    "page_number": 754,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ontjom 1 pt.",
+            "item_original": "ontjom",
+            "item_normalized": "oncom",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kutjai 1 ikt.",
+            "item_original": "kutjai",
+            "item_normalized": "kucai",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "tomat 1 bdj.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "salam 1 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Taoge dibersihkan, ontjom diiris-iris, kutjai diiris halus.",
+      "Bumbu² diiris halus, ketjuali salam dan laos, tomat dipotong-potong mendjadi empat.",
+      "Bumbu tersebut ditumis dalam minjak, ontjom, taoge dimasukkan diberi air.",
+      "Terachir dimasukkan tomat, kutjai direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_762_2",
+    "title_original": "TIMBUNG",
+    "title_normalized": "Timbung",
+    "region": "Lombok",
+    "page_number": 754,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "daging sapi ¹/₄ kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit 15 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 15.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1¹/₂ rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur ¹/₂ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "santan entjer 2 gelas",
+            "item_original": "santan entjer",
+            "item_normalized": "santan encer",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjintjang sampai halus.",
+      "Bumbu² diradjang halus, baru di-remas².",
+      "Daging + bumbu ditjampur, diberi santan, dimasukkan kedalam tabung bambu.",
+      "Diatasnja diberi tutup dengan daun labu air atau daun waluh jang masih muda."
+    ]
+  }
+]

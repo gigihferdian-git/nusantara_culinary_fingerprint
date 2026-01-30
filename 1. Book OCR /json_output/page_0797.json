@@ -1,0 +1,151 @@
+[
+  {
+    "recipe_id": "MR_789_1",
+    "title_original": "SAMBAL TJANGKEDIRO",
+    "title_normalized": "Sambal Cangkediroy",
+    "region": null,
+    "page_number": 789,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tjangkediro (tomat ketjil) 1 kobokan",
+            "item_original": "tjangkediro (tomat ketjil)",
+            "item_normalized": "cangkediroy (tomat kecil)",
+            "quantity": 1.0,
+            "unit": "kobokan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lombok rawit 15 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 15.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjangkediro dibersihkan.",
+      "Lombok merah, lombok rawit dan terasi dibakar.",
+      "Bumbu-bumbu dihaluskan.",
+      "Setelah itu dimasukkan tjangkediro jang telah dibelah empat.",
+      "Ditjamurkan sampai merata."
+    ]
+  },
+  {
+    "recipe_id": "MR_789_2",
+    "title_original": "SAMBAL TAHU TOMAT",
+    "title_normalized": "Sambal Tahu Tomat",
+    "region": null,
+    "page_number": 789,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu (besar) 5 pt.",
+            "item_original": "tahu (besar)",
+            "item_normalized": "tahu (besar)",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tomat 1 ons",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu dipotong-potong, digoreng.",
+      "Kelapa diparut, diambil santannja 1/2 gelas.",
+      "Tomat direndam dalam air panas, dikupas.",
+      "Bumbu-bumbu dihaluskan, ditjamput dengan tomat dan dihaluskan lagi, ditumis, masukkan santan, direbus sampai masak.",
+      "Menghidangkan: tahu diatur diatas piring, disiram sambal tomat."
+    ]
+  }
+]

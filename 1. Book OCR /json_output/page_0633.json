@@ -1,0 +1,197 @@
+[
+  {
+    "recipe_id": "MR_633_1",
+    "title_original": "TUMIS TAOGE",
+    "title_normalized": "Tumis Tauge",
+    "region": null,
+    "page_number": 625,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "taoege 1 ons",
+            "item_original": "taoege",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tautjo 2 sdm.",
+            "item_original": "tautjo",
+            "item_normalized": "tauco",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "asam 2 mata.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "salam 1 lembar",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "gula djawa 1 sdt.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bawang merah dan bawang putih di-iris², ditumis dengan minjak bersama bumbu² lain dan tautjo diberi air sedikit.",
+      "Taeoge dibersihkan, dimasukkan, direbus sampai taogenja setengah matang, kemudian diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_633_2",
+    "title_original": "TUMIS TAOGE DAN OJONG",
+    "title_normalized": "Tumis Tauge dan Oyong",
+    "region": null,
+    "page_number": 625,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "taoege 1/4 kg.",
+            "item_original": "taoege",
+            "item_normalized": "tauge",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "ojong 3 bh.",
+            "item_original": "ojong",
+            "item_normalized": "oyong",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 2 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Taeoge dibuang akar dan kulitnja, ditjutji.",
+      "Ojong dikupas, ditjutji di-iris².",
+      "Kelapa diparut, diambil santannja 2 gelas.",
+      "Bumbu² diiris, ditumis ditambah garam dan terasi.",
+      "Ojong dimasukkan dalam tumisan sampai laju, ditambah santan."
+    ]
+  }
+]

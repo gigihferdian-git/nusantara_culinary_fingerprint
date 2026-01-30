@@ -1,0 +1,151 @@
+[
+  {
+    "recipe_id": "MR_509_0",
+    "title_original": "NANI URA",
+    "title_normalized": "Nani Ura",
+    "region": "Batak",
+    "page_number": 501,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan mas 1/2 kg.",
+            "item_original": "ikan mas",
+            "item_normalized": "ikan mas",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 10 bd.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ketumbar 1 1/2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kentjur 3 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 3.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit 2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 3 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 3.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "djeruk nipis 10 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 10.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dibelah bagian punggung, ditjutji dengan air panas 3x, dimasukkan dalam pantji dan diberi air djeruk nipis.",
+      "Bawang merah dan sereh dibakar; kemiri dan ketumbar disangan. Semua bumbu dihaluskan.",
+      "Bumbu ditjampur dengan ikan.",
+      "Didiamkan 6-8 djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_509_1",
+    "title_original": "NASINORBUK",
+    "title_normalized": "Nasinorbuk",
+    "region": "Batak",
+    "page_number": 501,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan tawes, dll, ikan air tawar 1 kg.",
+            "item_original": "ikan tawes, dll, ikan air tawar",
+            "item_normalized": "ikan tawes, dll, ikan air tawar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu/pelengkap",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "djagung pipilan 2 kg.",
+            "item_original": "djagung pipilan",
+            "item_normalized": "jagung pipilan",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

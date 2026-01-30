@@ -1,0 +1,192 @@
+[
+  {
+    "recipe_id": "MR_409_1",
+    "title_original": "BOTOK [Ajam - Inferred]",
+    "title_normalized": "Botok Ayam",
+    "region": null,
+    "page_number": 409,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kemiri 10 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kentjur 3 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 3.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam ditjintjang halus.",
+      "Kelapa diparut dibuat santan kental.",
+      "Bumbu2 dihaluskan dan diberi santan kental.",
+      "Tjintjang ajam dimasukkan.",
+      "Kemudian dibungkusi daun pisang.",
+      "Tiap bungkus diberi 1 lembar daun salam, dikukus."
+    ]
+  },
+  {
+    "recipe_id": "MR_409_2",
+    "title_original": "BOTOK BEKASEM",
+    "title_normalized": "Botok Bekasem",
+    "region": "Rembang",
+    "page_number": 409,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "udang 1/4 kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "nasi 1¹/₂ gls.",
+            "item_original": "nasi",
+            "item_normalized": "nasi",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa muda ¹/₂ btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok hidjau ¹/₂ ons",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam ¹/₂ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang dibersihkan.",
+      "Bawang putih, laos, garam dihaluskan, ditjampur udang dan nasi.",
+      "Disimpan dalam pantji 2 hari lamanja.",
+      "Dimasak, diberi irisan lombok hidjau.",
+      "Kelapa diparut, bumbu lainnja dihaluskan ditjampur rata dengan bahan2 tersebut.",
+      "Dibungkusi, dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_409_3",
+    "title_original": "BOTOK BLENJIK",
+    "title_normalized": "Botok Belinjo",
+    "region": "Rembang",
+    "page_number": 409,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "belenjik 1 ons",
+            "item_original": "belenjik",
+            "item_normalized": "belinjo",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "petai 10 mata",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 10.0,
+            "unit": "mata"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

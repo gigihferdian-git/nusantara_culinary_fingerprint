@@ -1,0 +1,195 @@
+[
+  {
+    "recipe_id": "MR_585_1",
+    "title_original": "[Previous Recipe Continuation]",
+    "title_normalized": "Bumbu Daging (Inferred Sauce/Spice Paste)",
+    "region": null,
+    "page_number": 585,
+    "category": "Sauce",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu_utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 6 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak kelapa 4 sdm.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging direbus sampai lunak betul.",
+      "Bawang merah, bawang putih masing² 6 dan 3 butir diirisi lalu digoreng sampai kuning.",
+      "Sisa bumbu lainnja diulek halus ketjuali daun salam, ditjampur tepung jang telah diberi sedikit air.",
+      "Didjerangkan diwadjan sambil diaduk, diberi daun salam.",
+      "Setelah agak kental diangkat.",
+      "Kalau mau makan: Daging jang telah direbus empuk diiris lebar² dan tipis seperti irisan empal. Diatasnja diberi bumbu dan bawang goreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_585_2",
+    "title_original": "SEROMBOTAN",
+    "title_normalized": "Serombotan",
+    "region": "Bali",
+    "page_number": 585,
+    "category": "Vegetable Salad",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 4 ikat",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 4.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "taoge 1 kobokan",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "terung 2 bh.",
+            "item_original": "terung",
+            "item_normalized": "terung",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketjambah katjang tolo",
+            "item_original": "ketjambah katjang tolo",
+            "item_normalized": "kecambah kacang tolo",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 8 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djeruk limau 1 bh.",
+            "item_original": "djeruk limau",
+            "item_normalized": "jeruk limau",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Semua sajuran direbus ketjuali terung.",
+      "Katjang tolo jang dibuat ketjambah digoreng kering.",
+      "Terasi, kentjur, bawang putih dibakar, ditjampur dengan lombok merah dan lombok rawit, garam lalu dihaluskan.",
+      "Setengah dari bumbu diberi air djeruk limau sampai mendjadi tjair.",
+      "Kelapa dibakar, dibersihkan lalu diparut kemudian ditjampur"
+    ]
+  }
+]

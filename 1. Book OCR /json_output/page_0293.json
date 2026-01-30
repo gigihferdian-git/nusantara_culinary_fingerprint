@@ -1,0 +1,192 @@
+[
+  {
+    "recipe_id": "MR_293_1",
+    "title_original": "SAJUR BENING TERONG",
+    "title_normalized": "Sayur Bening Terong",
+    "region": "Banjumas",
+    "page_number": 285,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terong besar 2 bdj.",
+            "item_original": "terong besar",
+            "item_normalized": "terong besar",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bajam 1 ikt.",
+            "item_original": "bajam",
+            "item_normalized": "bayam",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "djagung muda 6 bdj.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 6.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada putih ½ sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala 1 iris",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Terong dikupas, di-potong² agak besar.",
+      "Bawang merah diiris, digoreng.",
+      "Bajam, djagung di-potong².",
+      "Bumbu² dihaluskan ketjuali gula merah.",
+      "Djagung direbus dengan air 5 gelas, setelah mendidih dimasukkan terong.",
+      "Djika telah masak, dimasukkan bumbu², gula djawa, bajam.",
+      "Kalau mau diangkat dimasukkan bawang goreng, di-aduk² sebentar."
+    ]
+  },
+  {
+    "recipe_id": "MR_293_2",
+    "title_original": "SAJUR BETIK",
+    "title_normalized": "Sayur Betik",
+    "region": "Rembang",
+    "page_number": 285,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pepaja muda 1 bh.",
+            "item_original": "pepaja muda",
+            "item_normalized": "pepaya muda",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "keluwak 2 btr.",
+            "item_original": "keluwak",
+            "item_normalized": "keluwak",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar ½ sdt",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "salam 1 lbr.",
+            "item_original": "salam",
+            "item_normalized": "salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pepaja dikupas, dibuang bidjinja, di-potong², direbus.",
+      "Kelapa diparut, dibuat santan 2 gelas."
+    ]
+  }
+]

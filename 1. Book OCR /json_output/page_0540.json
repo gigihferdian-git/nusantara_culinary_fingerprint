@@ -1,0 +1,187 @@
+[
+  {
+    "recipe_id": "MR_540_0",
+    "title_original": "Continuation of previous recipe",
+    "title_normalized": "Ikan Masak Kering (Continuation)",
+    "region": null,
+    "page_number": 532,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Ingredients (Continuation)",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "sereh 5 lbr.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "tjuka atau djeruk nipis 1 sdm.",
+            "item_original": "tjuka atau djeruk nipis",
+            "item_normalized": "cuka atau jeruk nipis",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan.",
+      "Kuali diisi air, didjerangkan, diberi garam.",
+      "Bawang merah, lombok, laos, dan sereh di-iris² lalu dimasukkan dalam kuali bersama ikan.",
+      "Dimasak sampai habis airnja.",
+      "Supaja djangan hangus, ikan dialas dengan daun sereh.",
+      "Keterangan: Dihidangkan dengan tjuka atau djeruk nipis."
+    ]
+  },
+  {
+    "recipe_id": "MR_540_1",
+    "title_original": "PANGEK BASANTAN",
+    "title_normalized": "Pangek Bersantan",
+    "region": "Padang",
+    "page_number": 532,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan sepat 8 ekor",
+            "item_original": "ikan sepat",
+            "item_normalized": "ikan sepat",
+            "quantity": 8.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "santan 6 gelas",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 6.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 20 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kunjit 1/3 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.33,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun kunjit 1 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun djeruk purut 2 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam kandis 1/2 sdm.",
+            "item_original": "asam kandis",
+            "item_normalized": "asam kandis",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air asam 2 sdm.",
+            "item_original": "air asam",
+            "item_normalized": "air asam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu² dihaluskan ketdjuali daun djeruk purut, daun kunjit, sereh.",
+      "Ikan dibersihkan.",
+      "Bumbu² dimasak bersama santan sampai berminjak.",
+      "Dimasukkan ikan, dimasak sampai kering."
+    ]
+  }
+]

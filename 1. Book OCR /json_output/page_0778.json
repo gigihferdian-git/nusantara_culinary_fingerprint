@@ -1,0 +1,194 @@
+[
+  {
+    "recipe_id": "MR_770_0",
+    "title_original": "RECIPE CONTINUED (BIDJI GUDE)",
+    "title_normalized": "Continuation Recipe (Biji Gude)",
+    "region": null,
+    "page_number": 770,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bidji gude dibersihkan.",
+      "Lombok merah dibuang bidji²nja.",
+      "Terasi dibakar.",
+      "Semua bumbu² dihaluskan lalu bidji gude sedikit-sedikit dimasukkan dan ditumbuk kasar.",
+      "Diaduk-aduk sampai bumbu² rata."
+    ]
+  },
+  {
+    "recipe_id": "MR_770_1",
+    "title_original": "SAMBAL IKAN KERING",
+    "title_normalized": "Sambal Ikan Kering",
+    "region": null,
+    "page_number": 770,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "ikan kering jang sudah dikupas 1 tjkr.",
+            "item_original": "ikan kering jang sudah dikupas",
+            "item_normalized": "ikan kering yang sudah dikupas",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "irisan bawang merah 3 sdm.",
+            "item_original": "irisan bawang merah",
+            "item_normalized": "irisan bawang merah",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "irisan lombok merah 1 sdm.",
+            "item_original": "irisan lombok merah",
+            "item_normalized": "irisan cabai merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air asem/air djeruk 2 sdm.",
+            "item_original": "air asem/air djeruk",
+            "item_normalized": "air asam/air jeruk",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak 3 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Irisan bawang dan irisan lombok ditumbuk halus terus digoreng bersama-sama ikan keringnja dengan minjak.",
+      "Dibubuhi air atau asam, dimasak sehingga kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_770_2",
+    "title_original": "SAMBAL KATJANG (Tegal)",
+    "title_normalized": "Sambal Kacang",
+    "region": "Tegal",
+    "page_number": 770,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak 1/2 gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

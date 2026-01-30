@@ -1,0 +1,214 @@
+[
+  {
+    "recipe_id": "MR_431_01",
+    "title_original": null,
+    "title_normalized": "Daging Kuah Kental (Continuation)",
+    "region": null,
+    "page_number": 431,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok 2 bh.",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 5 btr.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pala 1/5 sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.2,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjengkeh 2 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur 1/4 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1/4 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 3 hl.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdm.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung beras 3 sdm.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan, lalu direbus sampai lunak.",
+      "Semua bumbu dihaluskan, selain daun salam.",
+      "Santan dididihkan.",
+      "Bumbu dimasukkan dalam santan beserta tepung beras yang lalu diaduk menjadi sekental bubur sumsum.",
+      "Daging dipotong-potong persegi kecil, lalu",
+      "Dihidangkan dalam piring ceper, di atasnya disiram bumbu no. 4."
+    ]
+  },
+  {
+    "recipe_id": "MR_431_02",
+    "title_original": "DAGING BELATJANG",
+    "title_normalized": "Daging Belacan",
+    "region": "Timor",
+    "page_number": 431,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "daging 2 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 bh.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 1/2 lempeng",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.5,
+            "unit": "lempeng"
+          },
+          {
+            "original_text": "gula merah 1/2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lombok besar 10 bh.",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap sedikit",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging direbus, dipotong-potong kecil, lalu digoreng.",
+      "Daun bawang merah dicuci, dipotong-potong panjangnya kurang lebih 3 cm.",
+      "Bumbu dihaluskan, ditumis dalam sedikit minyak."
+    ]
+  }
+]

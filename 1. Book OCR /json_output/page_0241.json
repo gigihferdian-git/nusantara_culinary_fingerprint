@@ -1,0 +1,276 @@
+[
+  {
+    "recipe_id": "MR_241_1",
+    "title_original": "[CONTINUED RECIPE: BUMBU & TJARA MEMBUATNJA]",
+    "title_normalized": "Gulai Daging dan Kentang (Inferred)",
+    "region": null,
+    "page_number": 233,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 15 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada putih 1/2 sdm.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketumbar 1 sdm.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djinten 1/2 sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus 4 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 4.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "adas 1/2 sdt.",
+            "item_original": "adas",
+            "item_normalized": "adas",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kuskus 4 sdt.",
+            "item_original": "kuskus",
+            "item_normalized": "kuskus",
+            "quantity": 4.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjengkeh 4 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 1 pt.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "asam 1/2 sdm.",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tomat 2 bdj.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Utama (Inferred from Instructions)",
+        "original_header": "Bahan Utama",
+        "ingredients": [
+          {
+            "original_text": "Daging dipotong sebesar empu kaki.",
+            "item_original": "Daging",
+            "item_normalized": "daging",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "Tomat, kentang dibelah dua.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "Bumbu² ditumis dengan mentega...",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "Dituangkan santan kental...",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dipotong sebesar empu kaki.",
+      "Bawang merah, bawang putih diiris tipis, bumbu lainnja dihaluskan ketjuali tjengkeh, tomat, asam.",
+      "Tomat, kentang dibelah dua.",
+      "Bumbu² ditumis dengan mentega sampai kuning, dimasukkan daging, ditutup, didjerangkan sampai lunak.",
+      "Dituangkan santan kental, dimasukkan kentang, tomat, asam.",
+      "Dimasak sampai kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_241_2",
+    "title_original": "GULAI LABU PARANG",
+    "title_normalized": "Gulai Labu Parang",
+    "region": "Lampung",
+    "page_number": 233,
+    "category": "Sayur/Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "labu parang 1/2 bh.",
+            "item_original": "labu parang",
+            "item_normalized": "labu parang",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bajam 2 ikt.",
+            "item_original": "bajam",
+            "item_normalized": "bayam",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "djagung muda 2 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ikan kering 1 pt.",
+            "item_original": "ikan kering",
+            "item_normalized": "ikan kering",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kalapa 1/2 btr.",
+            "item_original": "kalapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "1/2 gelas santan kental (derived from instruction 2)",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "2 1/2 gelas santan tjair (derived from instruction 2)",
+            "item_original": "santan tjair",
+            "item_normalized": "santan cair",
+            "quantity": 2.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1/2 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Labu parang dan bajam dibersihkan dan di-potong². Djagung muda dibersihkan dan di-iris².",
+      "Kelapa diparut dan dikeluarkan 1/2 gelas santan kental dan 2 1/2 gelas santan tjair.",
+      "Ikan kering dibakar."
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "recipe_id": "MR_365_0",
+    "title_original": "SOTO SELADA AIR",
+    "title_normalized": "Soto Selada Air",
+    "region": null,
+    "page_number": 357,
+    "category": "Soto",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "selada air 1 ikat",
+            "item_original": "selada air",
+            "item_normalized": "selada air",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daging 1 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tahu putih 5 pt.",
+            "item_original": "tahu putih",
+            "item_normalized": "tahu putih",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 3 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 2 bks.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging diiris ketjil² lalu direbus sampai lunak.",
+      "Tahu di-iris² persegi ketjil dan digoreng setengah matang.",
+      "Bumbu² dihaluskan, ditumis dan dimasukkan kedalam rebusan daging.",
+      "Selada air ditjutji, diiris 1 cm pandjang.",
+      "Djika daging sudah lunak, selada, tahu dan taoge dimasukkan.",
+      "Djika sudah masak, vetsin dan ketjap ditambahkan dan diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_365_1",
+    "title_original": "TUTURUGA",
+    "title_normalized": "Tuturuga",
+    "region": "Menado",
+    "page_number": 357,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi ½ kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang 3 btr.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa ½ btg.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "batang"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sereh 3 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 3.0,
+            "unit": "batang"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

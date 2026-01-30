@@ -1,0 +1,176 @@
+[
+  {
+    "recipe_id": "MR_411_1",
+    "title_original": "BOTOK DJAGUNG PAKAI PEDA",
+    "title_normalized": "Botok Jagung Pakai Peda",
+    "region": null,
+    "page_number": 411,
+    "category": "Botok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 10 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "peda 2 ekor",
+            "item_original": "peda",
+            "item_normalized": "peda",
+            "quantity": 2.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "telur bebek 1 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok hidjau 3 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kemiri 3 bh.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula menurut selera",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": null,
+            "unit": "menurut selera"
+          },
+          {
+            "original_text": "daun pisang untuk bungkus",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "untuk bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diiris halus.",
+      "Lombok hidjau di-potong² ketjil.",
+      "Ikan dibersihkan dari tulang dan duri²nja.",
+      "Kelapa diparut didjadikan santan satu tjangkir.",
+      "Bumbu² digiling halus seperti : ketumbar, garam, bawang merah, bawang putih dan kemiri.",
+      "Setelah bumbu² halus, ditjampurkan djagung iris kedalam bumbu, digiling agar bumbu dan djagung tjampur betul, djangan sampai halus.",
+      "Barulah dimasukkan ikan peda jang di-potong² berikut santan.",
+      "Dibungkusi daun pisang, terus dikukus kira² 20 menit."
+    ]
+  },
+  {
+    "recipe_id": "MR_411_2",
+    "title_original": "BOTOK DJAMUR GIGIT",
+    "title_normalized": "Botok Jamur Gigit",
+    "region": "Rembang",
+    "page_number": 411,
+    "category": "Botok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa setengah tua ½ btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "djamur gigit ½ mangkok",
+            "item_original": "djamur gigit",
+            "item_normalized": "jamur gigit",
+            "quantity": 0.5,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

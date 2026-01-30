@@ -1,0 +1,250 @@
+[
+  {
+    "recipe_id": "MR_258_1",
+    "title_original": "KARE PENJU",
+    "title_normalized": "Kari Penyu",
+    "region": "Surabaya",
+    "page_number": 258,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging penju 1/4 kg.",
+            "item_original": "daging penju",
+            "item_normalized": "daging penyu",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan 1 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kaldu penju 1 lt.",
+            "item_original": "kaldu penju",
+            "item_normalized": "kaldu penyu",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "minjak goreng 3 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djinten 1 sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun seledri 3 tk.",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 3.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "peterseli 3 tk.",
+            "item_original": "peterseli",
+            "item_normalized": "peterseli",
+            "quantity": 3.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun bawang 3 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 3.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kemangi 1 ikt.",
+            "item_original": "kemangi",
+            "item_normalized": "kemangi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging penju direbus sampai lunak, lalu di-tjabik².",
+      "Bawang merah, lombok, ketumbar, djinten, kemiri, kunjit, asam dan garam dihaluskan. Djae, laos, sereh dimemarkan.",
+      "Bumbu ditumis dengan minjak.",
+      "Seledri, peterseli, daun bawang dan kemangi dibersihkan, di-potong² lalu dimasukkan kedalam kaldu penju.",
+      "Santan dimasukkan, dimasak sampai mendidih."
+    ]
+  },
+  {
+    "recipe_id": "MR_258_2",
+    "title_original": "KARE TERONG",
+    "title_normalized": "Kari Terong",
+    "region": "Palembang",
+    "page_number": 258,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terong 4 bh.",
+            "item_original": "terong",
+            "item_normalized": "terong",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 4 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 6 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 6.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 3/4 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.75,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

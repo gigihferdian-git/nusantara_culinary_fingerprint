@@ -1,0 +1,172 @@
+[
+  {
+    "recipe_id": "MR_641_0",
+    "title_original": "[Continuation]",
+    "title_normalized": "Sayuran Bumbu Pedas (Jagung & Pepaya)",
+    "region": null,
+    "page_number": 633,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "bunga pisang kepok 2 bh.",
+            "item_original": "bunga pisang kepok",
+            "item_normalized": "bunga pisang kepok",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "pepaja muda ketjil 1 bh.",
+            "item_original": "pepaja muda ketjil",
+            "item_normalized": "pepaya muda kecil",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 3 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung dibakar, diiris dari tongkol.",
+      "Djantung dan pepaja direbus, dipotong ketjil-ketjil.",
+      "Kelapa dibakar, diparut.",
+      "Bumbu² diiris halus, terasi dan garam dihaluskan, ditumis sampai masak.",
+      "Sajuran, bumbu dan kelapa ditjampur mendjadi satu. Dihidangkan pada piring tjeper."
+    ]
+  },
+  {
+    "recipe_id": "MR_641_1",
+    "title_original": "URAP ENGOS ENGOS",
+    "title_normalized": "Urap Engos Engos",
+    "region": "Sedayu",
+    "page_number": 633,
+    "category": "Urap",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "engos engos (tumbuh²an laut) 2 gls.",
+            "item_original": "engos engos (tumbuh²an laut)",
+            "item_normalized": "engos engos (tumbuhan laut)",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air kapur sirih 3 sdm.",
+            "item_original": "air kapur sirih",
+            "item_normalized": "air kapur sirih",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Engos engos ditjutji, direbus, diberi air kapur sirih.",
+      "Dimasak selama 1–2 djam, tandannja masak: apabila warnanja sudah mendjadi hidjau.",
+      "Diangkat dan ditjutji lagi, sampai air kapur sirih hilang sama sekali.",
+      "Untuk menghilangkan bau jang tidak enak, disiram dengan air mendidih.",
+      "Kelapa diparut, bumbu dihaluskan, ditjampur dengan kelapa jang sudah diparut."
+    ]
+  }
+]

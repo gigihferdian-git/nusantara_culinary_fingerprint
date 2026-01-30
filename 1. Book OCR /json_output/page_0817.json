@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_817_0",
+    "title_original": "BANGKET BEKATUL",
+    "title_normalized": "Bangket Bekatul",
+    "region": "Sukabumi",
+    "page_number": 809,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung bekatul 3 gls.",
+            "item_original": "tepung bekatul",
+            "item_normalized": "tepung bekatul",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut memandjang, ditjamputr dengan bekatul disangan sampai masak.",
+      "Telur dan gula dikotjok sampai putih.",
+      "Adonan telur ditjamputr dengan adonan tepung bekatul, diaduk sampai rata.",
+      "Dituang dalam tjetakan, dipanggang dalam pembakaran."
+    ]
+  },
+  {
+    "recipe_id": "MR_817_1",
+    "title_original": "BANTAL KETAN",
+    "title_normalized": "Bantal Ketan",
+    "region": "Bali",
+    "page_number": 809,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang tolo 1 tjkr.",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan ditjutji bersih dan direndam dalam air dingin, kemudian dikukus ½ masak.",
+      "Kelapa diparut dan katjang disangrai sebentar.",
+      "Ditjamputr ketan, kelapa parut, garam dan katjang.",
+      "Dibungkusi daun kelapa muda dan dibeliti tali. Bungkusannja boleh pandjang² atau segi tiga.",
+      "Direbus sampai masak."
+    ]
+  }
+]

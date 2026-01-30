@@ -1,0 +1,154 @@
+[
+  {
+    "recipe_id": "MR_761_1",
+    "title_original": "SATE UDANG MENADO",
+    "title_normalized": "Sate Udang Manado",
+    "region": "Manado",
+    "page_number": 753,
+    "category": "Sate",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "udang 1/2 kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak djelantah 1 sdm.",
+            "item_original": "minjak djelantah",
+            "item_normalized": "minyak jelantah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djeruk nipis 1 bdj.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang digiling kulitnja dan dipotong ketjil¹.",
+      "Bumbu diulek halus lalu ditambahkan udang dengan minjak djelantah dan air, ditambah djeruk nipis.",
+      "Sate ini dibakar dengan api ketjil."
+    ]
+  },
+  {
+    "recipe_id": "MR_761_2",
+    "title_original": "SATE USUS",
+    "title_normalized": "Sate Usus",
+    "region": null,
+    "page_number": 753,
+    "category": "Sate",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "usus 1 kg.",
+            "item_original": "usus",
+            "item_normalized": "usus",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar djinten 1 sdt.",
+            "item_original": "ketumbar djinten",
+            "item_normalized": "ketumbar dan jintan",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula djawa 2 sdm.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "asem 6 mata",
+            "item_original": "asem",
+            "item_normalized": "asam jawa",
+            "quantity": 6.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu² ditumbuk halus, ditjampur dengan potongan² usus.",
+      "Ditusukkan pada sudjen sate, dibakar sampai kuning.",
+      "Dimakan hangat²."
+    ]
+  }
+]

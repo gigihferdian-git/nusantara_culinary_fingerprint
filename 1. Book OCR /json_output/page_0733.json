@@ -1,0 +1,133 @@
+[
+  {
+    "recipe_id": "MR_733_1",
+    "title_original": "Tjara membuatnja (Continuation)",
+    "title_normalized": "Cara Memasaknya (Lanjutan Ikan Bakar Bambu)",
+    "region": null,
+    "page_number": 725,
+    "category": "Ikan",
+    "ingredient_groups": [],
+    "instructions": [
+      "Ikan dibersihkan, dipotong-potong, diberi kunjit halus dan tomat iris.",
+      "Kelapa diparut.",
+      "Daun kutjai, daun prei, kol, lombok besar dan bawang merah diiris halus, djae dan sereh dihaluskan.",
+      "Semuanja ditjampurkan, diberi garam, dimasukkan dalam bambu, dibakar diapi jang sedang."
+    ]
+  },
+  {
+    "recipe_id": "MR_733_2",
+    "title_original": "IKAN PINDANG GORENG",
+    "title_normalized": "Ikan Pindang Goreng",
+    "region": null,
+    "page_number": 725,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan pindang 10 ekor",
+            "item_original": "ikan pindang",
+            "item_normalized": "ikan pindang",
+            "quantity": 10.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan pindang dibersihkan.",
+      "Telur dikatjau, bumbu dihaluskan ditjampur dengan telur.",
+      "Ikan pindang dimasukkan dalam telur satu persatu, digoreng hingga kering.",
+      "Keterangan: Kalau pindang berasa asin, garam tidak usah dipakai."
+    ]
+  },
+  {
+    "recipe_id": "MR_733_3",
+    "title_original": "IKAN PEPES (Atjeh)",
+    "title_normalized": "Ikan Pepes",
+    "region": "Aceh",
+    "page_number": 725,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan teri basah 2 ons",
+            "item_original": "ikan teri basah",
+            "item_normalized": "ikan teri basah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ikan belanak jang ketjil ketjil atau matjam matjam ikan tjampuran 2 ons",
+            "item_original": "ikan belanak jang ketjil ketjil atau matjam matjam ikan tjampuran",
+            "item_normalized": "ikan belanak kecil atau berbagai macam ikan campuran",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 20 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 20.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Instructions not present in image."
+    ]
+  }
+]

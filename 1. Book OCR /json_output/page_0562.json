@@ -1,0 +1,192 @@
+[
+  {
+    "recipe_id": "MR_562_0",
+    "title_original": "PEPES ONTJOM",
+    "title_normalized": "Pepes Oncom",
+    "region": null,
+    "page_number": 554,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ontjom 1 pt.",
+            "item_original": "ontjom",
+            "item_normalized": "oncom",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "prei 2 btg.",
+            "item_original": "prei",
+            "item_normalized": "prei",
+            "quantity": 2.0,
+            "unit": "batang"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 5 bdj.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "asam 2 mt.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula djawa 1 sdt.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "salam 5 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 2 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun kemangi 2 btg.",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 2.0,
+            "unit": "batang"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lombok hidjau, prei dan sereh diiris halus.",
+      "Bumbu² lain dihaluskan, kemangi diambil daunnja.",
+      "Ontjom bersama bumbu ditumbuk, dimasukkan kemangi, prei, lombok hidjau dan sereh diaduk sampai rata.",
+      "Adonan dibungkusi daun pisang; tiap bungkus dialas dengan daun salam, dikukus sampai masak lalu dipanggang."
+    ]
+  },
+  {
+    "recipe_id": "MR_562_1",
+    "title_original": "PEPES PEDA",
+    "title_normalized": "Pepes Peda",
+    "region": "Rembang",
+    "page_number": 554,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ikan peda 4 ekor",
+            "item_original": "ikan peda",
+            "item_normalized": "ikan peda",
+            "quantity": 4.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "minjak kelapa 1 tjkr.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "daun mengkudu muda jang lebar 8 lbr.",
+            "item_original": "daun mengkudu muda jang lebar",
+            "item_normalized": "daun mengkudu muda yang lebar",
+            "quantity": 8.0,
+            "unit": "lembar"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok 3 bh.",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula pasir 1 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan peda dibersihkan, kepalanja dibuang.",
+      "Semua bumbu dihaluskan, diberi air sedikit.",
+      "Bagian perut peda sampai ekor dibelah dua.",
+      "Bumbu dimasukkan dalam peda, dibungkus daun mengkudu, diikat, kemudian dikukus.",
+      "Setelah masak, digoreng dengan minjak kelapa."
+    ]
+  }
+]

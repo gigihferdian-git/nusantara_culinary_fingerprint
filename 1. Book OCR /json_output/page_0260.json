@@ -1,0 +1,127 @@
+[
+  {
+    "recipe_id": "MR_260_1",
+    "title_original": "GULENE RAMPAUE",
+    "title_normalized": "Gulai Rampai",
+    "region": "Atjeh",
+    "page_number": 252,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "nangka muda 2 pt.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "katjang pandjang 1 ikt.",
+            "item_original": "katjang pandjang",
+            "item_normalized": "kacang panjang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "labu air 1/3 bh.",
+            "item_original": "labu air",
+            "item_normalized": "labu air",
+            "quantity": 0.33,
+            "unit": "buah"
+          },
+          {
+            "original_text": "pepaja muda 1 bh.",
+            "item_original": "pepaja muda",
+            "item_normalized": "pepaya muda",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "udang/kerang 1 ons",
+            "item_original": "udang/kerang",
+            "item_normalized": "udang/kerang",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun kangkung 2 ikt",
+            "item_original": "daun kangkung",
+            "item_normalized": "daun kangkung",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun melindjo 1 ons",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun katjang pandjang 2 ikt.",
+            "item_original": "daun katjang pandjang",
+            "item_normalized": "daun kacang panjang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun ubi 2 ikt.",
+            "item_original": "daun ubi",
+            "item_normalized": "daun ubi",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "belimbing wuluh 2 bh.",
+            "item_original": "belimbing wuluh",
+            "item_normalized": "belimbing wuluh",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun djeruk purut sedikit.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": null,
+            "unit": "null"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "asam sunti sedikit",
+            "item_original": "asam sunti",
+            "item_normalized": "asam sunti",
+            "quantity": null,
+            "unit": "null"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Nangka muda, melinjo, kacang panjang, labu, daun jeruk purut, udang atau kerang serta belimbing direbus dengan air secukupnya sampai matang, kemudian dimasukkan pepaya muda bersama-sama dengan daun-daun tadi yang sudah dipotong-potong, ditutup sebentar.",
+      "Kalau daun-daun sudah matang, diulek asam sunti, cabai rawit, garam dan belimbing yang sudah matang, lalu diangkat, diolah bersama-sama dengan bumbu-bumbu tadi.",
+      "Dimasukkan dalam sayur, kira-kira 3 menit lalu diangkat."
+    ]
+  }
+]

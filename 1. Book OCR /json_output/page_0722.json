@@ -1,0 +1,115 @@
+[
+  {
+    "recipe_id": "MR_714_0",
+    "title_original": "AJAM KODOK",
+    "title_normalized": "Ayam Kodok",
+    "region": null,
+    "page_number": 714,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "telur ajam/bebek 5 btr.",
+            "item_original": "telur ajam/bebek",
+            "item_normalized": "telur ayam/bebek",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "roti tawar ½ bt",
+            "item_original": "roti tawar",
+            "item_normalized": "roti tawar",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentang sedang 5 bh.",
+            "item_original": "kentang sedang",
+            "item_normalized": "kentang sedang",
+            "quantity": 5.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada bubuk",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus ¼ sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala bubuk",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 1 sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng/mentega 4 sdm.",
+            "item_original": "minjak goreng/mentega",
+            "item_normalized": "minyak goreng/mentega",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ayam dipotong, dibersihkan, dikeluarkan daging beserta tulang-tulangnya (baca keterangan), separuh dari belahan dijahit.",
+      "Daging ayam dilepaskan dari tulang-tulangnya, dicincang.",
+      "Kentang dikupas, dicuci, direbus dengan air secukupnya, dihaluskan, diberi garam (seperti pure).",
+      "Roti direndam dalam air hangat, diperas.",
+      "4 butir telur direbus, dikupas.",
+      "Bawang merah, bawang putih dihaluskan, ditumis, bumbu-bumbu yang lain dimasukkan.",
+      "Bumbu tadi dicampur dengan roti halus, pure kentang, daging ayam cincang dan 1 telur yang telah dikocok.",
+      "Telur rebus dimasukkan di bagian punggung belakang, bagian paha kiri-kanan dan bagian kepala, setelah bagian leher, sayap, paha dijahit.",
+      "Campuran bahan dimasukkan ke dalam kulit ayam.",
+      "Kulit dijahit, dikukus sampai masak.",
+      "Ayam kodok dilumuri margarin, dipanggang dalam pan pembakaran. Setiap kali dilumuri dengan margarin agar warna menjadi kuning keemas-emasan.",
+      "Dihidangkan di baskom lonjong dihiasi daun seledri, daun selada dan tomat."
+    ]
+  }
+]

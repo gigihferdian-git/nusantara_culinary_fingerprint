@@ -1,0 +1,176 @@
+[
+  {
+    "recipe_id": "MR_563_1",
+    "title_original": "PEPES PEDA BUMBU KELAPA",
+    "title_normalized": "Pepes Peda Bumbu Kelapa",
+    "region": null,
+    "page_number": 555,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "peda 4 ekor",
+            "item_original": "peda",
+            "item_normalized": "peda",
+            "quantity": 4.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa agak muda ¼ btr.",
+            "item_original": "kelapa agak muda",
+            "item_normalized": "kelapa agak muda",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 4 hl.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "helai"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa dikupas kulitnja, diparut.",
+      "Bumbu² ditumbuk halus, ketjuali daun salam.",
+      "Kelapa parut dan bumbu jang telah dihaluskan ditjamputr, diaduk rata.",
+      "Peda dibalut dengan tjamputran kelapa parut dan bumbu.",
+      "Dibungkus satu persatu atau berdua dengan daun pisang, diberi daun salam tiap bungkus.",
+      "Dikukus sampai masak.",
+      "Kemudian dipanggang sampai kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_563_2",
+    "title_original": "PEPES PEDA DAUN SINGKONG",
+    "title_normalized": "Pepes Peda Daun Singkong",
+    "region": null,
+    "page_number": 555,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "peda 4 ekor",
+            "item_original": "peda",
+            "item_normalized": "peda",
+            "quantity": 4.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "daun singkong muda 1 ggm.",
+            "item_original": "daun singkong muda",
+            "item_normalized": "daun singkong muda",
+            "quantity": 1.0,
+            "unit": "genggam"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 6 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sereh ½ btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 0.5,
+            "unit": "batang"
+          },
+          {
+            "original_text": "kunjit ½ rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun singkong ditjutji, diremas-remas, dikukus atau direbus.",
+      "Kunjit disembam.",
+      "Bumbu² ditumbuk halus.",
+      "Ikan dibalut bumbu jang telah halus.",
+      "Peda satu persatu dibungkusi daun pisang.",
+      "Dikukus sampai masak.",
+      "Kemudian dipanggang sampai masak."
+    ]
+  }
+]

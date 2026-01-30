@@ -1,0 +1,83 @@
+[
+  {
+    "recipe_id": "MR_727_1",
+    "title_original": "BEBEK ASAP",
+    "title_normalized": "Bebek Asap",
+    "region": null,
+    "page_number": 719,
+    "category": "Unggas (Poultry)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "bebek 1 ekor",
+            "item_original": "bebek",
+            "item_normalized": "bebek",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam dapur 225 gr.",
+            "item_original": "garam dapur",
+            "item_normalized": "garam",
+            "quantity": 225.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "salpeter (sendawa) 5 gr.",
+            "item_original": "salpeter (sendawa)",
+            "item_normalized": "sendawa (salpeter)",
+            "quantity": 5.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "pala 1 bdj.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 75 gr.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 75.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "air 1½ lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "daun salam 4 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bebek jang sudah dipersiapkan dibelah bagian dada seperti untuk dipanggang.",
+      "Garam, gula merah dan salpeter dilarutkan dengan air dan diaduk bersama bebek sampai merata, kemudian direbus sampai 5 menit.",
+      "Didinginkan dalam almari es selama 4 hari, setiap hari dibalik supaja rasanja merata.",
+      "Angkat dan tjutji sampai bersih.",
+      "Rendam dalam air selama 20 menit.",
+      "Tjutji kembali dan ditiriskan ½ djam supaja menetes dan kering.",
+      "Pala dan daun salam dihaluskan kemudian dilumurkan pada bebek.",
+      "Bebek diasap dalam almari asap selama 12 djam dengan suhu 60–70° C."
+    ]
+  }
+]

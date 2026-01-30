@@ -1,0 +1,204 @@
+[
+  {
+    "recipe_id": "MR_484_0",
+    "title_original": "LIDAH SAPI",
+    "title_normalized": "Lidah Sapi",
+    "region": null,
+    "page_number": 484,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "lidah sapi 2 bh.",
+            "item_original": "lidah sapi",
+            "item_normalized": "lidah sapi",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "wortel 1 btg.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun seledri 1 btg.",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 1.0,
+            "unit": "batang"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang bombay 1 bdj.",
+            "item_original": "bawang bombay",
+            "item_normalized": "bawang bombay",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lada putih 10 btr.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lidah direndam dulu dalam air, bagian ujung dan pangkal digosok dengan garam.",
+      "Lidah direbus dengan air dan bumbu² kaldu hingga terendam lamanja 2 1/2 djam sampai kulitnja mudah terlepas.",
+      "Lidah diangkat panas², kulitnja dibuang, dimasukkan lagi kedalam air kaldu jang panas.",
+      "Dihidangkan diiris setebal 1/2 cm, disusun dalam bentuk lidah asli, disiram dengan saos tomat."
+    ]
+  },
+  {
+    "recipe_id": "MR_484_1",
+    "title_original": "LINGGARDJATI",
+    "title_normalized": "Linggarjati",
+    "region": null,
+    "page_number": 484,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak kelapa 1/2 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "bubuk biskuit 3 sdm.",
+            "item_original": "bubuk biskuit",
+            "item_normalized": "bubuk biskuit",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung terigu 1 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine/mentega 2 sdm.",
+            "item_original": "margarine/mentega",
+            "item_normalized": "margarin/mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kertas minjak setjukupnja",
+            "item_original": "kertas minjak",
+            "item_normalized": "kertas minyak",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 buah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala 1/2 sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 4 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dipotong-potong, direbus sampai lunak.",
+      "Kuning telur dipisahkan dari putihnja lalu dikotjok.",
+      "Lada, pala, garam dihaluskan, ditjamput dengan telur dan tepung biskuit sampai rata."
+    ]
+  }
+]

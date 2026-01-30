@@ -1,0 +1,151 @@
+[
+  {
+    "recipe_id": "MR_287_1",
+    "title_original": "SAJUR ASAM (Continuation)",
+    "title_normalized": "Sayur Asam",
+    "region": null,
+    "page_number": 279,
+    "category": "Sayur (Soup/Vegetable Dish)",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 4 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "asam muda atau belimbing wuluh 10 mata/bh.",
+            "item_original": "asam muda atau belimbing wuluh",
+            "item_normalized": "asam jawa muda atau belimbing wuluh",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun salam 2 hl.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sajuran dibersihkan, dipetik, di-potong², menurut matjamnja.",
+      "Bumbu² dihaluskan, ketjuali daun salam, asam muda atau belimbing wuluh.",
+      "Kaldu daging didjerangkan dan bumbu² dimasukkan beserta daun salam.",
+      "Sajuran jang keras seperti djagung, daun melindjo, katjang tanah dan nangka muda, dimasukkan lebih dahulu setengah masak.",
+      "Disusul dengan djenis² sajuran lain jang lunak dan achirnja asam muda atau belimbing wuluh jang lebih dahulu di-iris².",
+      "Kesemuanja direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_287_2",
+    "title_original": "SAJUR ASAM KANGKUNG",
+    "title_normalized": "Sayur Asam Kangkung",
+    "region": "Bandung",
+    "page_number": 279,
+    "category": "Sayur (Soup/Vegetable Dish)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 2 ikat agak besar",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "minjak kelapa 3 sdm.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 2 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 1/2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kangkung dibersihkan, dihilangkan bagian jang tua, ditjutji diiris 1 cm pandjangnja.",
+      "Bawang merah dan tomat di-iris², ditumis, ditambah bumbu² lain, kemudian kangkung jang telah diiris dimasukkan, ditambah air. Perbandingan kuah : isi = 1 : 1.",
+      "Bumbu² dihaluskan ketjuali salam dan laos."
+    ]
+  }
+]

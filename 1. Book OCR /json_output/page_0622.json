@@ -1,0 +1,187 @@
+[
+  {
+    "recipe_id": "MR_614_0",
+    "title_original": "Ikan (Fragment)",
+    "title_normalized": "Ikan (Fragment)",
+    "region": null,
+    "page_number": 614,
+    "category": "Lauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu tambahan",
+        "original_header": "Ingredients (Continuation)",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "tomat 5 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 3 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 3.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "gula putih ½ sdt.",
+            "item_original": "gula putih",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, kemudian direndam dalam air tjuka sebanjak 3 sendok makan ditambah garam 3 sendok teh.",
+      "Tomat, bawang merah, bawang putih, djae diiris, kemudian digoreng sampai kuning, tautjo dimasukkan kemudian diaduk.",
+      "Diberi air 1½ gelas dan ketjap 5-8 sendok makan, tjuka 1 sendok teh.",
+      "Ikan dimasukkan terus dimasak."
+    ]
+  },
+  {
+    "recipe_id": "MR_614_1",
+    "title_original": "TJORPOT",
+    "title_normalized": "Tjorpot",
+    "region": null,
+    "page_number": 614,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pelepah bentul 3 btg.",
+            "item_original": "pelepah bentul",
+            "item_normalized": "pelepah talas",
+            "quantity": 3.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "santan 1 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "udang ½ ons",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 3 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ketumbar ½ sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lengkuas 1 pt.",
+            "item_original": "lengkuas",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pelepah bentul direbus dengan air sampai tiga kali.",
+      "Bumbu² dihaluskan.",
+      "Ditjamput pelepah bentul beserta santan; direbus sampai santannja mendidih."
+    ]
+  },
+  {
+    "recipe_id": "MR_614_2",
+    "title_original": "TOLLO PAMARASAN",
+    "title_normalized": "Tollo Pamarrasan",
+    "region": "Toraja",
+    "page_number": 614,
+    "category": "Lauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "daging babi ½ kg.",
+            "item_original": "daging babi",
+            "item_normalized": "daging babi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

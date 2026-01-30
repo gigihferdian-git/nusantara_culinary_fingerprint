@@ -1,0 +1,132 @@
+[
+  {
+    "recipe_id": "MR_802_0",
+    "title_original": "ABUG MATJAN UBI KAJU",
+    "title_normalized": "Abug Macan Ubi Kayu",
+    "region": "Bali",
+    "page_number": 794,
+    "category": "Kue/Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi kaju 3 kg.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 3.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi kaju dikupas, ditjutji bersih, lalu diparut kasar.",
+      "Gula merah di-iris².",
+      "Ubi kaju diberi garam.",
+      "Diletakkan dalam kukusan ber-selang² dengan gula merah, dimulai dengan ubi kaju parut.",
+      "Dikukus hingga masak, dan ditaruh pada talam jang dilumuri sedikit minjak, di-tekan² per-lahan² hingga rata.",
+      "Kelapa dikupas, diparut dan diberi garam seperlunja.",
+      "Dipotong persegi empat kira-kira 3x4 cm, tebal 1/2-1 cm. Disadjikan dengan ditaburi kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_802_1",
+    "title_original": "AGAR² SARIKAJU",
+    "title_normalized": "Agar Sarikaya",
+    "region": "Menado",
+    "page_number": 794,
+    "category": "Puding/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "agar² 1 btg.",
+            "item_original": "agar²",
+            "item_normalized": "agar",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan 1/2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air 2 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula merah direbus dengan air 1 gelas, disaring.",
+      "Agar² ditjutji, direndam dengan air 1 gelas, disaring.",
+      "Air gula dan agar² ditjampur, direbus sampai mendidih.",
+      "Telur dikotjok, ditambah santan, adonan agar² dimasukkan ditambah panili, ditjetak pada tjetakan poding."
+    ]
+  }
+]

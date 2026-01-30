@@ -1,0 +1,135 @@
+[
+  {
+    "recipe_id": "MR_658_0",
+    "title_original": "IKAN SAOS TOMAT",
+    "title_normalized": "Ikan Saus Tomat",
+    "region": null,
+    "page_number": 658,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan kakap atau gurami 2 ekor @ 1 kg.",
+            "item_original": "ikan kakap atau gurami",
+            "item_normalized": "ikan kakap atau gurami",
+            "quantity": 2.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "wortel 2 bh. jang besar",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 2.0,
+            "unit": "buah besar"
+          },
+          {
+            "original_text": "daun bawang/prei 1 ikat ketjil",
+            "item_original": "daun bawang/prei",
+            "item_normalized": "daun bawang/prei",
+            "quantity": 1.0,
+            "unit": "ikat kecil"
+          },
+          {
+            "original_text": "bawang bombai/timur 1 bh. jang besar",
+            "item_original": "bawang bombai/timur",
+            "item_normalized": "bawang bombai/timur",
+            "quantity": 1.0,
+            "unit": "buah besar"
+          },
+          {
+            "original_text": "tepung terigu 8 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 8.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung kandji 2 sdm.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak goreng setjukupnja",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "saos tomat 1/2 btl.",
+            "item_original": "saos tomat",
+            "item_normalized": "saus tomat",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan dan tidak di-potong² (periksa pada uraian persiapan ikan).",
+      "Ikan dikerat-kerat sedikit pada kedua belahnja kemudian digarami.",
+      "Ikan digulung-gulingkan dalam tepung terigu sampai merata.",
+      "Kemudian ikan digoreng dalam banjak minjak sampai warna merah kekuning-kuningan dan berkulit (keripik crequant).",
+      "Bumbu² dan sajuran dibersihkan.",
+      "Bawang bombay, wortel, bagian putih daun bawang prei diiris-iris halus sepandjang korek api.",
+      "Lada, bawang merah dan garam dihaluskan.",
+      "Bumbu² di tumis, turut dimasukkan irisan bawang bombay, wortel dan daun bawang, diberi saos tomat (djika mempergunakan saos dalam botol harap diperhatikan merknja, misalnja jang dari Hongkong sudah tjukup asam, djadi tak perlu menambah tjuka).",
+      "Saos setelah mendidih dikentalkan dengan tjairan tepung tapioka/kandji.",
+      "Ikan jang telah digoreng disiram dengan saos tomat kalau akan dimakan.",
+      "Dihidangkan panas-panas."
+    ]
+  }
+]

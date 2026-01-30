@@ -1,0 +1,211 @@
+[
+  {
+    "recipe_id": "MR_515_0",
+    "title_original": "OSENG OSENG (DAUN PAKIS)",
+    "title_normalized": "Oseng Oseng Daun Pakis",
+    "region": null,
+    "page_number": 515,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "petai 1 ldjr.",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 1.0,
+            "unit": "lonjor"
+          },
+          {
+            "original_text": "Daun pakis",
+            "item_original": "Daun pakis",
+            "item_normalized": "Daun pakis",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "Udang",
+            "item_original": "Udang",
+            "item_normalized": "Udang",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "ketjambah",
+            "item_original": "ketjambah",
+            "item_normalized": "kecambah",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "Tempe bosok",
+            "item_original": "Tempe bosok",
+            "item_normalized": "Tempe busuk",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lengkuas 1 pt.",
+            "item_original": "lengkuas",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 5 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1/2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 3/4 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.75,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun pakis didjemur, setelah laju ditjutji, di-potong².",
+      "Udang, ketjambah, dibersihkan.",
+      "Petai dikupas, dipotong².",
+      "Bawang merah, bawang putih, lombok, diiris.",
+      "Garam dan terasi diberi air sampai hantjur.",
+      "Tempe bosok dihaluskan, lengkuas dimemarkan.",
+      "Bumbu² jang diiris, ditumis, kemudian air garam, terasi, tempe bosok dan udang dimasukkan.",
+      "Ketjambah disiram air panas, ditjampurkan.",
+      "Daun pakis dimasukkan, diberi air 2 gelas.",
+      "Petai dimasukkan pada achirnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_515_1",
+    "title_original": "OSENG OSENG DJAGUNG",
+    "title_normalized": "Oseng Oseng Jagung",
+    "region": null,
+    "page_number": 515,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 10 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "salam 2 hl.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diiris-iris.",
+      "Bawang merah, lombok diiris-iris, ditumis bersama bumbu² lainnja.",
+      "Kalau sudah laju, djagung dimasukkan, diberi air sedikit.",
+      "Dimasak sampai agak kering, lalu diangkat."
+    ]
+  }
+]

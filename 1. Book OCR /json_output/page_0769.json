@@ -1,0 +1,117 @@
+[
+  {
+    "recipe_id": "MR_769_0",
+    "title_original": "SAMBAL BANGKET",
+    "title_normalized": "Sambal Bangket",
+    "region": null,
+    "page_number": 761,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "bangket 3-5 btg.",
+            "item_original": "bangket",
+            "item_normalized": "bangket",
+            "quantity": 3.0,
+            "unit": "batang"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang putih ½ suing",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 0.5,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok ketjil 5 bh.",
+            "item_original": "lombok ketjil",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi sedikit",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "kentjur seiris",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam seperlunja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "sesuai selera"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bangket dikupas, diambil bagian jang muda, kemudian diiris tipis² dan diulek tidak usah terlalu lembut.",
+      "Diperas/remas sedikit hingga airnja berkurang untuk mengurangi asamnja.",
+      "Semua bumbu diulek halus kemudian ditjampurkan dengan bangket diatas.",
+      "Digoreng hingga masak dengan minjak kelapa."
+    ]
+  },
+  {
+    "recipe_id": "MR_769_1",
+    "title_original": "SAMBAL BANTENG",
+    "title_normalized": "Sambal Banteng",
+    "region": null,
+    "page_number": 761,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "lombok hidjau ¼ kg.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tempe 5 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "petai 1 papan",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 1.0,
+            "unit": "papan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

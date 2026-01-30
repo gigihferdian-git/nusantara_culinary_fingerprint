@@ -1,0 +1,146 @@
+[
+  {
+    "recipe_id": "MR_471_1",
+    "title_original": "LABU MASAK SANTAN",
+    "title_normalized": "Labu Masak Santan",
+    "region": null,
+    "page_number": 471,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "labu ¼ bidji",
+            "item_original": "labu",
+            "item_normalized": "labu",
+            "quantity": 0.25,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan 2 gelas",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada 3 buah",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang merah 1 buah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 sendok",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "sendok"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah sedikit",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Labu ditjutji, dipotong-potong segi empat.",
+      "Bumbu² diuleg.",
+      "Santan dimasak, bumbu² dimasukkan.",
+      "Labu dimasukkan.",
+      "Di-aduk² sampai labunja masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_471_2",
+    "title_original": "LAKSA",
+    "title_normalized": "Laksa",
+    "region": "Djakarta",
+    "page_number": 471,
+    "category": "Mie dan Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "udang ½ kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "bandeng ½ kg.",
+            "item_original": "bandeng",
+            "item_normalized": "bandeng",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "bihun ½ kg.",
+            "item_original": "bihun",
+            "item_normalized": "bihun",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur rebus 3 btr.",
+            "item_original": "telur rebus",
+            "item_normalized": "telur rebus",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa 1 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun kemangi setjukupnja",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

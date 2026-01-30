@@ -1,0 +1,81 @@
+[
+  {
+    "recipe_id": "MR_657_1",
+    "title_original": "IKAN KODOK",
+    "title_normalized": "Ikan Kodok",
+    "region": null,
+    "page_number": 657,
+    "category": "Lauk Pauk (Ikan)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan bandeng jang besar 1 ekor",
+            "item_original": "ikan bandeng jang besar",
+            "item_normalized": "ikan bandeng yang besar",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "daging ajam ½ piring",
+            "item_original": "daging ajam",
+            "item_normalized": "daging ayam",
+            "quantity": 0.5,
+            "unit": "piring"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun seledri iris 1 sdm.",
+            "item_original": "daun seledri iris",
+            "item_normalized": "daun seledri iris",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "merica halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air asem 1 sdm.",
+            "item_original": "air asem",
+            "item_normalized": "air asam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Perut ikan dibelah, dibuang isinja dan insangnja, sisiki lalu dibersihkan.",
+      "Setelah itu keluarkan daging dan tulangnja per-lahan² dengan sendok garpu.",
+      "Daging ajam ditjintjang halus, ditjampur dengan daging ikan, telur, lada, garam dan air asam.",
+      "Tjampuran ini diaduk, lalu dimasukkan kembali kedalam perut ikan dan dijahit.",
+      "Terachir ikannja digoreng dengan minjak jang banjak sampai terendam dan warnanja kuning.",
+      "Memakannja dengan saus mentega."
+    ]
+  }
+]

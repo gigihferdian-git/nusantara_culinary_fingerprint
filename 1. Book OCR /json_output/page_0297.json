@@ -1,0 +1,205 @@
+[
+  {
+    "recipe_id": "MR_297_0",
+    "title_original": "Sayur Buah Kelor (continuation)",
+    "title_normalized": "Sayur Buah Kelor",
+    "region": null,
+    "page_number": 289,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "udang ketjil ½ ons",
+            "item_original": "udang ketjil",
+            "item_normalized": "udang kecil",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun kemangi 1 ikt.",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      },
+      {
+        "group_name": "utama",
+        "original_header": "Bahan Utama (inferred)",
+        "ingredients": [
+          {
+            "original_text": "Buah kelor",
+            "item_original": "Buah kelor",
+            "item_normalized": "buah kelor",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "santan kental",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buah kelor dibersihkan, di-potong² sepandjang 2 ruas djari. Daun kemangi dibersihkan, dipetik.",
+      "Bumbu² dihaluskan bersama udang ketjil.",
+      "Bumbu direbus dengan air, didihkan, sajuran dimasukkan.",
+      "Diselesaikan dengan santan kental. Di-aduk² supaja santan tidak petjah; daun kemangi dimasukkan kemudian diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_297_1",
+    "title_original": "SAJUR DAUN DAUNAN",
+    "title_normalized": "Sayur Daun-Daunan",
+    "region": null,
+    "page_number": 289,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 2 ikt.",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun katjang pandjang 2 ikt.",
+            "item_original": "daun katjang pandjang",
+            "item_normalized": "daun kacang panjang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "katjang pandjang 2 ikt.",
+            "item_original": "katjang pandjang",
+            "item_normalized": "kacang panjang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "terong ketjil 6 bh.",
+            "item_original": "terong ketjil",
+            "item_normalized": "terong kecil",
+            "quantity": 6.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok besar 2 bh.",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 6 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "daun kemangi 1 tk.",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 1.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "air asam 3 sdm.",
+            "item_original": "air asam",
+            "item_normalized": "air asam",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdm.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sajuran dibersihkan, di-potong², katjang pandjang di-potong² sepandjang 2 ruas djari.",
+      "Bumbu² dihaluskan.",
+      "Bumbu direbus dengan air, bila sudah mendidih sajuran dimasukkan, jang keras didahulukan.",
+      "Terachir dimasukkan air asam dan daun kemangi. Dihidangkan panas²."
+    ]
+  }
+]

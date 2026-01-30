@@ -1,0 +1,215 @@
+[
+  {
+    "recipe_id": "MR_238_1",
+    "title_original": "GULAI OTAK",
+    "title_normalized": "Gulai Otak",
+    "region": "Singkarak",
+    "page_number": 238,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "otak sapi 1 bh.",
+            "item_original": "otak sapi",
+            "item_normalized": "otak sapi",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "santan 8 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 8.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun mangkokan 3 lbr.",
+            "item_original": "daun mangkokan",
+            "item_normalized": "daun mangkokan",
+            "quantity": 3.0,
+            "unit": "lembar"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 15 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Otak dibersihkan di-potong².",
+      "Daun mangkokan diiris halus.",
+      "Kelapa diparut, disangan sampai kuning, digiling halus, dimasukkan dalam santan, didjerangkan sampai berminjak.",
+      "Bumbu² dihaluskan, dimasukkan kedalam santan bersama daun mangkokan dan otak.",
+      "Dimasak sampai kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_238_2",
+    "title_original": "GULAI PADEH AJAM",
+    "title_normalized": "Gulai Padeh Ayam",
+    "region": "Padang",
+    "page_number": 238,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun mangkokan 3 lbr.",
+            "item_original": "daun mangkokan",
+            "item_normalized": "daun mangkokan",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "minjak 2 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah giling 1/2 gls.",
+            "item_original": "lombok merah giling",
+            "item_normalized": "cabai merah giling",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kemiri 2 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "daun kunjit 1/2 hl.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 0.5,
+            "unit": "helai"
+          },
+          {
+            "original_text": "asam kandis 1 bh.",
+            "item_original": "asam kandis",
+            "item_normalized": "asam kandis",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

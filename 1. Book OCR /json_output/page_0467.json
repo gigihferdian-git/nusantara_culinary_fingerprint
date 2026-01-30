@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_459_0",
+    "title_original": "IKAN HAHIRU",
+    "title_normalized": "Ikan Hahiru",
+    "region": "Timor",
+    "page_number": 459,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "Ikan laut jang ketjil 1 kg.",
+            "item_original": "Ikan laut jang ketjil",
+            "item_normalized": "Ikan laut yang kecil",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "kunjit 3 iris",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 3.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "tjuka 3 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air 1 gelas",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "lombok besar 1 bh.",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "sereh 1 pt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dibuang kepalanja.",
+      "Bumbu diiris tipis².",
+      "Kunjit, laos dan sereh dipukul².",
+      "Bumbu² dimasukkan dalam pantji bersama ikan dan tjuka.",
+      "Dididihkan sampai masak.",
+      "Setelah itu kunjit, laos dan sereh dikeluarkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_459_1",
+    "title_original": "IKAN KUAH",
+    "title_normalized": "Ikan Kuah",
+    "region": "Irian Barat",
+    "page_number": 459,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan laut/tawar 1 kg.",
+            "item_original": "ikan laut/tawar",
+            "item_normalized": "ikan laut/tawar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tomat 6 bdj.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 6.0,
+            "unit": "biji"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok 15 bdj.",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 15.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 2 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air djeruk setjukupnja",
+            "item_original": "air djeruk",
+            "item_normalized": "air jeruk",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air dipanaskan bersama-sama bumbu²."
+    ]
+  }
+]

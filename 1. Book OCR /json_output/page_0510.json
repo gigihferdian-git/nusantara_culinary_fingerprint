@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_510_1",
+    "title_original": "NASU KADONTENG",
+    "title_normalized": "Nasu Kadonteng",
+    "region": "Palopo",
+    "page_number": 502,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 4 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 4.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "sereh 1 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam 4 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 4.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjutji dan dipotong-potong sebesar telur ajam, direbus sampai lunak.",
+      "Bawang merah di-iris², digoreng.",
+      "Laos di-iris² ketjil² dan dihaluskan bersama bumbu² lainnja, ketjuali sereh.",
+      "Kelapa diparut dan disangrai sampai merah, dihaluskan.",
+      "Bumbu jang telah dihaluskan diaduk dengan kelapa sangrai, terus dimasukkan dalam rebusan daging jang telah empuk.",
+      "Didjerangkan dan diaduk sampai agak kental.",
+      "Dihidangkan dengan ditaburi bawang merah goreng."
+    ]
+  }
+]

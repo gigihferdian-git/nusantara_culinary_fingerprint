@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_352_0",
+    "title_original": "SOP IKAN",
+    "title_normalized": "Sup Ikan",
+    "region": "Bogor",
+    "page_number": 344,
+    "category": "Sup/Sop",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan 1/4 kg.",
+            "item_original": "ikan",
+            "item_normalized": "ikan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung maizena 2 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine 2 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 7 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 2 btg.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun bawang 2 btg.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dibubuhi garam ½ sendok makan dan asam; kemudian direbus dengan air ²/₃ gelas, direbus sampai masak ; setelah itu dagingnja diambil, sisa kaldu ikan (air perebus) disaring dan disimpan.",
+      "Bawang merah, daun bawang diiris halus ditumis sampai kuning, dituangkan tjairan tepung jang sudah ditjairkan dengan 4 sendok makan air dan dituangi kaldu ikan sedikit demi sedikit.",
+      "Daging ikan dimasukkan, didjerangkan sambil diaduk-aduk sampai mendidih. Dihidangkan panas² dibubuhi irisan seledri.",
+      "Keterangan 1: Sop tersebut warnanja harus keputih-putihan.",
+      "Keterangan 2: Dihidangkan panas-panas dalam basi tertutup."
+    ]
+  },
+  {
+    "recipe_id": "MR_352_1",
+    "title_original": "SOP IKAN BANJAR",
+    "title_normalized": "Sup Ikan Banjar",
+    "region": "Sedayu",
+    "page_number": 344,
+    "category": "Sup/Sop",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan banjar 3 kg.",
+            "item_original": "ikan banjar",
+            "item_normalized": "ikan banjar",
+            "quantity": 3.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kol 1/2 kg.",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "wortel 1/2 kg.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang 1/2 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tomat 1 ons",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

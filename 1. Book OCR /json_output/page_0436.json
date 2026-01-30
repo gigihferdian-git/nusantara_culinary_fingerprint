@@ -1,0 +1,169 @@
+[
+  {
+    "recipe_id": "MR_428_0",
+    "title_original": "COTELET",
+    "title_normalized": "Cotelet",
+    "region": null,
+    "page_number": 428,
+    "category": "Lauk Pauk (Meat Dish)",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging ½ kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tomat 4 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tepung setjukupnja",
+            "item_original": "tepung",
+            "item_normalized": "tepung",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada halus ½ sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "susu 2 sdm.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala ¼ sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan dari sekalian gemuk²nja, diiris tipis² seperti dendeng jang pandjang 5 atau 6 cm.",
+      "Daging di-remas² dengan bumbu jang sesudah itu dilumuri dengan telur.",
+      "Dibiarkan dahulu beberap menit supaja masuk rasa bumbu kedalamnja.",
+      "Dipanaskan mentega, daging digoreng sampai dikedua bagiannja kuning tua warnanja ditambah 2½ mangkuk air, 2 sendok susu, air tomat jang sudah disaring, lalu dimasak dengan api jang ketjil kira² ½ djam lamanja."
+    ]
+  },
+  {
+    "recipe_id": "MR_428_1",
+    "title_original": "CONRIVILET",
+    "title_normalized": "Conrivilet",
+    "region": null,
+    "page_number": 428,
+    "category": "Lauk Pauk (Meat Dish)",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi ½ kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung roti setjukupnja",
+            "item_original": "tepung roti",
+            "item_normalized": "tepung roti",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang timur 1 bh.",
+            "item_original": "bawang timur",
+            "item_normalized": "bawang timur",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1/3 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djeruk nipis 1 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "pala 1 sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan dari gemuk²nja, kemudian dipotongi tipis², dibubuhi lada, pala, garam dan sesudah itu telur ; djeruk nipis dan tepung roti.",
+      "Dibiarkan sebentar supaja bumbu meresap.",
+      "Bawang digoreng dengan mentega, lalu daging dimasukkan."
+    ]
+  }
+]

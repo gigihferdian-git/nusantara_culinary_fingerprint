@@ -1,0 +1,174 @@
+[
+  {
+    "recipe_id": "MR_721_0",
+    "title_original": "DJAGUNG DJAMUR PADI BAKAR",
+    "title_normalized": "Jagung Jamur Padi Bakar",
+    "region": null,
+    "page_number": 721,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "djamur padi 2 tjkr.",
+            "item_original": "djamur padi",
+            "item_normalized": "jamur padi",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kuning telur dikembangkan 3 btr.",
+            "item_original": "kuning telur dikembangkan",
+            "item_normalized": "kuning telur dikocok",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "djagung pipilan 2 tjkr.",
+            "item_original": "djagung pipilan",
+            "item_normalized": "jagung pipil",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "putih telur dikembangkan 3 btr.",
+            "item_original": "putih telur dikembangkan",
+            "item_normalized": "putih telur dikocok",
+            "quantity": 3.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "susu 1 sdm.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lada halus setjukupnja",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tepung terigu 2 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 3 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dientjerkan, ditjampur dengan terigu, dimasak dan diaduk konstant sampai mendjadi kental.",
+      "Dimasukkan bahan-bahan lainnja, terachir putih telur jang telah dikembangkan dituangkan kekaleng bakar sampai 1½ guart.",
+      "Dibakar perlahan-lahan dioven satu djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_721_1",
+    "title_original": "DJAGUNG UDANG PANGGANG",
+    "title_normalized": "Jagung Udang Panggang",
+    "region": null,
+    "page_number": 721,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "pipilan djagung 4 tjkr.",
+            "item_original": "pipilan djagung",
+            "item_normalized": "jagung pipil",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "udang basah 2 tjkr.",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu entjer 1 tjkr.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "mentega entjer 3 sdm.",
+            "item_original": "mentega entjer",
+            "item_normalized": "mentega cair",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lombok giling 1 sdt.",
+            "item_original": "lombok giling",
+            "item_normalized": "cabai giling",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tepung maizena 1 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Semua bahan diaduk mendjadi rata, dituangkan dalam kaleng bakar.",
+      "Dibakar per-lahan² (300°) selama 40 menit sampai masak."
+    ]
+  }
+]

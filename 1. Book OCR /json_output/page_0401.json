@@ -1,0 +1,153 @@
+[
+  {
+    "recipe_id": "MR_401_0",
+    "title_original": "(Lanjutan Resep Bebek)",
+    "title_normalized": "Lanjutan Resep Bebek",
+    "region": null,
+    "page_number": 393,
+    "category": "Unggas",
+    "ingredient_groups": [],
+    "instructions": [
+      "Bebek jang sudah dipersiapkan di-potong² seperlunja.",
+      "Kelapa dikupas dan diparut, diambil santannja 1/2 liter (2 gelas).",
+      "Bumbu² dihaluskan ketjuali daun salam, laos dan djeruk purut.",
+      "Bumbu jang sudah halus ditumis dengan minjak sampai kuning, bebek, salam, laos dan daun djeruk purut ditumis sebentar.",
+      "Kemudian air setjangkir ditambahkan, bebek diungkep sampai empuk.",
+      "Santan dimasukkan, masakan didjerangkan sambil di-aduk² (supaja santan tidak petjah) sampai masak (kental dan berminjak)."
+    ]
+  },
+  {
+    "recipe_id": "MR_401_1",
+    "title_original": "BE GENJOL",
+    "title_normalized": "Be Genjol",
+    "region": "Bali",
+    "page_number": 393,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "daging babi jang berkulit 1/2 kg.",
+            "item_original": "daging babi jang berkulit",
+            "item_normalized": "daging babi yang berkulit",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 4 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "lada hitam 5 bdj.",
+            "item_original": "lada hitam",
+            "item_normalized": "lada hitam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tjengkeh 2 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tjabe 1 bh.",
+            "item_original": "tjabe",
+            "item_normalized": "cabai",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 4 hl.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Setelah daging ditjutji, dipotong agak besar.",
+      "Semua bumbu dihaluskan ketjuali daun salam.",
+      "Daging di-remas² bersama bumbunja.",
+      "Direbus sampai lunak sekali.",
+      "Masakan ini tak banjak kuahnja. Perbandingan kuah dan isi 1:3."
+    ]
+  }
+]

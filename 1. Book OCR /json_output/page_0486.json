@@ -1,0 +1,223 @@
+[
+  {
+    "recipe_id": "MR_478_1",
+    "title_original": "LAPIS TELUR",
+    "title_normalized": "Lapis Telur",
+    "region": "Sukabumi",
+    "page_number": 478,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1/2 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur bebek 5 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 1 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "mentega/margarine 1 sdm.",
+            "item_original": "mentega/margarine",
+            "item_normalized": "mentega/margarin",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "(air kaldu 1 gelas - extracted from instructions)",
+            "item_original": "air kaldu",
+            "item_normalized": "air kaldu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada halus 1/4 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada bubuk",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus 1/8 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala bubuk",
+            "quantity": 0.125,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 1 ikat",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 3 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun seledri, bawang merah diiris halus.",
+      "Telur dipisahkan kuningnya, dikocok dengan irisan bawang merah dan seledri.",
+      "Daging dicincang, dimasukkan dalam adonan telur bersama pala, lada dan margarin sambil diaduk.",
+      "Ditumis dengan minyak goreng sampai kuning.",
+      "Dituangkan air kaldu 1 gelas; kalau airnya tinggal sedikit diberi kecap dan cuka.",
+      "Sesudah berlemak diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_478_2",
+    "title_original": "LAUK GADANG",
+    "title_normalized": "Lauk Gadang",
+    "region": "Padang",
+    "page_number": 478,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "daging lulur dalam 1 kg.",
+            "item_original": "daging lulur dalam",
+            "item_normalized": "daging lulur dalam",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah giling 1 gls.",
+            "item_original": "lombok merah giling",
+            "item_normalized": "cabai merah giling",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kemiri 1 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos seiris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun kunjit 1 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam kandis 2 bdj.",
+            "item_original": "asam kandis",
+            "item_normalized": "asam kandis",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "recipe_id": "MR_226_0",
+    "title_original": "GULAI DAUN UBI TUMBUK",
+    "title_normalized": "Gulai Daun Ubi Tumbuk",
+    "region": "Tapanuli",
+    "page_number": 226,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "daun ubi kaju 1 ikt.",
+            "item_original": "daun ubi kaju",
+            "item_normalized": "daun ubi kayu",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daging (udang kering) 1 ons",
+            "item_original": "daging (udang kering)",
+            "item_normalized": "daging (udang kering)",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "rimbang 1 ggm.",
+            "item_original": "rimbang",
+            "item_normalized": "rimbang",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "rebung 1 pt.",
+            "item_original": "rebung",
+            "item_normalized": "rebung",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunjit 2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun kunjit 1 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam djawa 4 mata",
+            "item_original": "asam djawa",
+            "item_normalized": "asam jawa",
+            "quantity": 4.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun ubi dan rimbang ditumbuk, tetapi tak perlu halus².",
+      "Rebung diiris halus.",
+      "Kelapa diparut dibuat santan kental.",
+      "Santan kental dimasak sampai berminjak.",
+      "Air dari daun ubi dibuang, sebab air itu menghidjaukan gulai.",
+      "Daun ubi, rimbang dan rebung dimasukkan kedalam santan, dimasak sampai matang.",
+      "Perhatian: santan di-aduk² agar tidak petjah."
+    ]
+  },
+  {
+    "recipe_id": "MR_226_1",
+    "title_original": "GULAI EKOR SAPI",
+    "title_normalized": "Gulai Ekor Sapi",
+    "region": "Padang",
+    "page_number": 226,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ekor sapi 1 pt.",
+            "item_original": "ekor sapi",
+            "item_normalized": "ekor sapi",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": []
+      }
+    ],
+    "instructions": []
+  }
+]

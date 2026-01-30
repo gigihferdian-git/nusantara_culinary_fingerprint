@@ -1,0 +1,165 @@
+[
+  {
+    "recipe_id": "MR_731_1",
+    "title_original": "GULING",
+    "title_normalized": "Guling",
+    "region": "Bali",
+    "page_number": 723,
+    "category": "Lauk Pauk Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "babi umur 7 bulan 1 ekor",
+            "item_original": "babi umur 7 bulan",
+            "item_normalized": "babi umur 7 bulan",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kaju jang kuat 1 btg. panjang 2 m.",
+            "item_original": "kaju jang kuat",
+            "item_normalized": "kayu yang kuat",
+            "quantity": 1.0,
+            "unit": "batang"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 30 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 30.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 25 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 25.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1/2 tjkr.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "unit_of_measure"
+          },
+          {
+            "original_text": "terasi 1 1/2 ons",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ketumbar 1/2 tjkr.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "unit_of_measure"
+          },
+          {
+            "original_text": "kunjit 4 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 4.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djae 5 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 5.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "kentjur 4 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 4.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "isen/laos 4 rdj.",
+            "item_original": "isen/laos",
+            "item_normalized": "lengkuas/laos",
+            "quantity": 4.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "garam 1 ons",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun kemuning 30 lbr.",
+            "item_original": "daun kemuning",
+            "item_normalized": "daun kemuning",
+            "quantity": 30.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Babi disembelih lehernja supaja keluar darah.",
+      "Setelah mati disiram dengan air panas, di-gosok² supaja bulunja habis.",
+      "Isi perut dikeluarkan dan ditjutji bersih.",
+      "Batang kaju ditusukkan dari pantat tembus ke mulut hingga keluar kira-kira 30 cm dari mulut.",
+      "Bumbu diirisi didjadikan satu, ketjuali garam ditumbuk halus dan di-aduk² sampai rata.",
+      "Bumbu dimasukkan kedalam perut babi, terus didjahit dengan benang atau kawat.",
+      "Babi jang sudah berisi bumbu ditaruh diatas api jang membara sambil diputar-putar.",
+      "Kulit merah menandakan matang betul-betul, kaju ditjabut.",
+      "Babi (guling) tadi ditaruh diatas kapar.",
+      "Keterangan: Api didjaga djangan sampai menjala. Guling ini tahan lama."
+    ]
+  },
+  {
+    "recipe_id": "MR_731_2",
+    "title_original": "IKAN BAKAR",
+    "title_normalized": "Ikan Bakar",
+    "region": "Makasar",
+    "page_number": 723,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan bandeng 2 ekor",
+            "item_original": "ikan bandeng",
+            "item_normalized": "ikan bandeng",
+            "quantity": 2.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "ikan baruang 2 ekor",
+            "item_original": "ikan baruang",
+            "item_normalized": "ikan baruang",
+            "quantity": 2.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "ikan titang 2 ekor",
+            "item_original": "ikan titang",
+            "item_normalized": "ikan titang",
+            "quantity": 2.0,
+            "unit": "ekor"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "recipe_id": "MR_455_0",
+    "title_original": "GANTALAN",
+    "title_normalized": "Gantalan",
+    "region": "Batak",
+    "page_number": 447,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kulit kerbau atau kulit sapi 1 kg.",
+            "item_original": "kulit kerbau atau kulit sapi",
+            "item_normalized": "kulit kerbau atau kulit sapi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "rebung di iris² 2 lt.",
+            "item_original": "rebung di iris²",
+            "item_normalized": "rebung iris",
+            "quantity": 2.0,
+            "unit": "liter"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "sereh 3 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 3.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "kentjur setjukupnja",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kunjit 2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 2.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "lombok rawit setjukupnja",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "laos 2 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "lada 1/2 sdm.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kemiri 20 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 20.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "asam 1 bdj.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kelapa 1 bdj.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djeruk sundai (citroen) 3 bdj.",
+            "item_original": "djeruk sundai (citroen)",
+            "item_normalized": "jeruk sundai (lemon)",
+            "quantity": 3.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kulit di-potong² ketjil, direbus dengan rebung dan air ± 4 liter sampai mendjadi lembek.",
+      "Bila sudah keras, ditambah lagi dengan air, malam direbus, paginja dimasak lagi dengan air 1 liter.",
+      "Sesudah lunak ditjampuri bumbu.",
+      "Didinginkan sampai baunja harum, lalu dipanaskan diatas api."
+    ]
+  },
+  {
+    "recipe_id": "MR_455_1",
+    "title_original": "GARANG ASAM",
+    "title_normalized": "Garang Asam",
+    "region": "Bali",
+    "page_number": 447,
+    "category": "Ayam",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor.",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "anak pohon pisang 1 bt.",
+            "item_original": "anak pohon pisang",
+            "item_normalized": "anak pohon pisang",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "batu",
+            "item_original": "batu",
+            "item_normalized": "batu",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

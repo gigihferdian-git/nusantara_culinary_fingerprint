@@ -1,0 +1,198 @@
+[
+  {
+    "recipe_id": "MR_798_0",
+    "title_original": "SAMBAL TOMAT GORENG",
+    "title_normalized": "Sambal Tomat Goreng",
+    "region": null,
+    "page_number": 790,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tomat 1/4 kg.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak 1/4 gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 15 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula 1 sdt.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tomat diiris, digoreng, diangkat.",
+      "Bawang merah, lombok dan terasi ditumis.",
+      "Kelapa diparut, dibuat santan.",
+      "Semua bahan dihaluskan, ditumis, santan dimasukkan.",
+      "Dimasak sampai keluar minjak."
+    ]
+  },
+  {
+    "recipe_id": "MR_798_1",
+    "title_original": "SAMBAL UDANG (Palembang)",
+    "title_normalized": "Sambal Udang",
+    "region": "Palembang",
+    "page_number": 790,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "udang basah 1/2 kg.",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang 6 bh.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "petai 20 mata",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 20.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "asam 4 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 4.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang dikuliti, dibersihkan.",
+      "Petai dikupas, kentang di-potong² memandjang ± 4 cm, lebar ± 1 cm",
+      "Bumbu² dihaluskan, ditumis."
+    ]
+  }
+]

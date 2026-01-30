@@ -1,0 +1,109 @@
+[
+  {
+    "recipe_id": "MR_726_1",
+    "title_original": "IKAN WOKU",
+    "title_normalized": "Ikan Woku",
+    "region": "Manado",
+    "page_number": 726,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan belanak 1 ekor",
+            "item_original": "ikan belanak",
+            "item_normalized": "ikan belanak",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok besar 3 bh.",
+            "item_original": "lombok besar",
+            "item_normalized": "lombok besar",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat kuning 1 bh.",
+            "item_original": "tomat kuning",
+            "item_normalized": "tomat kuning",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kenari 3 bdj.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "djeruk nipis 1 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun kemangi 2 btg.",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun bawang 2 btg.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dikeluarkan isi perutnja, ditjutji.",
+      "Bumbu², lombok, tomat, djae, kenari, kunjit, garam ditumbuk (diuleg).",
+      "Daun bawang dipotong-potong, daun kemangi djuga dipotong-potong.",
+      "Bumbu² semua ditjampur, diberi air djeruk setjukupnja.",
+      "Minjak dimasukkan, ditjampur sampai rata.",
+      "Ikan dilumuri dengan bumbu² lalu dibungkus dengan daun, dibakar."
+    ]
+  }
+]

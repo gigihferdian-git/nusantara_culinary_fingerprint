@@ -1,0 +1,232 @@
+[
+  {
+    "recipe_id": "MR_331_01",
+    "title_original": "SAMBAL GORENG KOTOK IKAN (Solo)",
+    "title_normalized": "Sambal Goreng Kotok Ikan",
+    "region": "Solo",
+    "page_number": 323,
+    "category": "Sambal Goreng",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan panggang 4 pt.",
+            "item_original": "ikan panggang",
+            "item_normalized": "ikan panggang",
+            "quantity": 4.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "tahu 10 bh.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak 1 tjkr.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "petai 10 mata",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 10.0,
+            "unit": "mata"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "ketjap kental ½ tjkr.",
+            "item_original": "ketjap kental",
+            "item_normalized": "kecap kental",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 10 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djae 1 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "laos 2 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "sereh 1 bh.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah ½ ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lombok ditjutji, dipotong ½ cm, petai dikuliti di-iris².",
+      "Tahu dipotong mendjadi dua, digoreng ½ kering.",
+      "Bawang merah, bawang putih diiris halus, ditumis beserta lombok, dimasukkan bumbu² lainnja.",
+      "Setelah lombok laju, tahu dan ikan panggang dimasukkan kemudian ketjap dan air. Dibiarkan sampai mendidih, baru petai dimasukkan.",
+      "Dimasak sampai tjukup kentalnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_331_02",
+    "title_original": "SAMBAL GORENG KRETJEK",
+    "title_normalized": "Sambal Goreng Krecek",
+    "region": null,
+    "page_number": 323,
+    "category": "Sambal Goreng",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kretjek ¼ kg.",
+            "item_original": "kretjek",
+            "item_normalized": "krecek",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam 1 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kretjek didjemur, digoreng dalam minjak panas.",
+      "Bumbu² dihaluskan, ketjuali salam dan laos."
+    ]
+  }
+]

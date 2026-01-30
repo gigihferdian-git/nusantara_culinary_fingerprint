@@ -1,0 +1,102 @@
+[
+  {
+    "recipe_id": "MR_421_1",
+    "title_original": "BUMBU RUDJAK",
+    "title_normalized": "Bumbu Rujak",
+    "region": null,
+    "page_number": 421,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan emas 1 kg.",
+            "item_original": "ikan emas",
+            "item_normalized": "ikan mas",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang batu 1 plp.",
+            "item_original": "daun pisang batu",
+            "item_normalized": "daun pisang batu",
+            "quantity": 1.0,
+            "unit": "pelepah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "irisan bawang merah 1 sdm.",
+            "item_original": "irisan bawang merah",
+            "item_normalized": "irisan bawang merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lombok merah 10 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "irisan kentjur 1 sdt.",
+            "item_original": "irisan kentjur",
+            "item_normalized": "irisan kencur",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "salam 3 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air asam 1 sdm.",
+            "item_original": "air asam",
+            "item_normalized": "air asam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan dan dibuang isi perutnja.",
+      "Kelapa diparut. Bumbu² (selain salam dan sereh) dihaluskan, kemudian ditjamper dengan kelapa parut.",
+      "Ikan jang telah bersih diaduk dengan bumbu tadi.",
+      "Bumbu dibungkuskan kepada ikan dan dibungkus daun pisang.",
+      "Disembam didalam abu panas.",
+      "Dihidangkan diatas piring dalam daun jang sudah kering."
+    ]
+  }
+]

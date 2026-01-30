@@ -1,0 +1,176 @@
+[
+  {
+    "recipe_id": "MR_598_1",
+    "title_original": "TERANTJAM KETIMUN DAN BATANG KUNTJI",
+    "title_normalized": "Terancam Ketimun dan Batang Kunci",
+    "region": "Rembang",
+    "page_number": 598,
+    "category": "Salad/Vegetable Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "batang kuntji muda 3 ikat",
+            "item_original": "batang kuntji muda",
+            "item_normalized": "batang kunci muda",
+            "quantity": 3.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "ketimun 1/2 kg.",
+            "item_original": "ketimun",
+            "item_normalized": "ketimun",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa jang muda 1/2 btr.",
+            "item_original": "kelapa jang muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djeruk purut 1 pt.",
+            "item_original": "djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Batang kuntji muda diradjang halus, ketimun dikupas diiris bulat tipis.",
+      "Kelapa muda diparut, bumbu dihaluskan.",
+      "Petjahan genting dibakar sampai merah.",
+      "Bumbu dan kelapa parut ditjampur dengan bakaran genting, ditutup selama 10 menit.",
+      "Kemudian setelah bumbu dipisahkan dari petjahan genting, ditjampur dengan kuntji dan ketimun sampai rata."
+    ]
+  },
+  {
+    "recipe_id": "MR_598_2",
+    "title_original": "TERANTJAM MANGGA MUDA",
+    "title_normalized": "Terancam Mangga Muda",
+    "region": "Rembang",
+    "page_number": 598,
+    "category": "Salad/Fruit Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mangga muda 2 bh.",
+            "item_original": "mangga muda",
+            "item_normalized": "mangga muda",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mangga muda dikupas, diradjang halus, diuleni dengan garam supaja hilang rasa asamnja.",
+      "Ditjujtji dengan air bersih berulang kali."
+    ]
+  }
+]

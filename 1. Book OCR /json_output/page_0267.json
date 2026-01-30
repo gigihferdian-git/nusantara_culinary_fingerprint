@@ -1,0 +1,133 @@
+[
+  {
+    "recipe_id": "MR_259_0",
+    "title_original": "KARI MAKASAR",
+    "title_normalized": "Kari Makassar",
+    "region": "Makassar",
+    "page_number": 259,
+    "category": "Kari",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "tepung djagung 4 sdm.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun sereh 2 lbr.",
+            "item_original": "daun sereh",
+            "item_normalized": "daun serai",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun djeruk purut 2 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djinten 1/2 sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng 3 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ajam ditjintjang.",
+      "Bumbu direndang dulu, baru ditumbuk halus.",
+      "Kelapa diparut, dibuat santan.",
+      "Bumbu² jang telah halus ditumis dengan minjak, kemudian ajam tjintjang di-bulat²kan, dimasukkan.",
+      "Kemudian disusulkan santan dan daun djeruk purut.",
+      "Apabila akan diangkat tepung dimasukkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_259_1",
+    "title_original": "KINTUK",
+    "title_normalized": "Kintuk",
+    "region": "Banten",
+    "page_number": 259,
+    "category": "Unknown",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "hondje 1 bh.",
+            "item_original": "hondje",
+            "item_normalized": "honje",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

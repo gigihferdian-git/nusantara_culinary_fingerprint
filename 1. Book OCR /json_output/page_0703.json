@@ -1,0 +1,78 @@
+[
+  {
+    "recipe_id": "MR_695_0",
+    "title_original": "TAHU DADAR",
+    "title_normalized": "Tahu Dadar",
+    "region": "Wonosobo",
+    "page_number": 695,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu putih 5 pt.",
+            "item_original": "tahu putih",
+            "item_normalized": "tahu putih",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "telur ajam/itik 1 btr.",
+            "item_original": "telur ajam/itik",
+            "item_normalized": "telur ayam/itik",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng ½ gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada putih ½ sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun bawang 1 ikat ketjil",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat kecil"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin ½ sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu diiris tipis.",
+      "Daun bawang diiris halus.",
+      "Lada dan garam dihaluskan, telur dikocok dengan bumbu, daun bawang, tahu, semuanya dicampurkan terus digoreng dadar."
+    ]
+  }
+]

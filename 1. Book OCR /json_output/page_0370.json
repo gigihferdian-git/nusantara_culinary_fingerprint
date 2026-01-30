@@ -1,0 +1,225 @@
+[
+  {
+    "recipe_id": "MR_370_1",
+    "title_original": "AJAM BUMBU MENADO",
+    "title_normalized": "Ayam Bumbu Manado",
+    "region": "Sulawesi Utara",
+    "page_number": 362,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "telur bebek 2 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok hidjau 5 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 pt.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun bawang 5 lbr.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun djintan 3 lbr.",
+            "item_original": "daun djintan",
+            "item_normalized": "daun jintan",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun kutjai 5 lbr.",
+            "item_original": "daun kutjai",
+            "item_normalized": "daun kucai",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun kemangi 20 lbr.",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 20.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun peterseli 20 lbr.",
+            "item_original": "daun peterseli",
+            "item_normalized": "daun peterseli",
+            "quantity": 20.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu² ditumbuk halus ketjuali sereh dan daun pandan.",
+      "Ajam direbus sampai masak.",
+      "Telur dikotjok, diberi bumbu² dan sedikit air ditjampur dengan ajam rebus.",
+      "Dimasak sampai kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_370_2",
+    "title_original": "AJAM BUMBU RUDJAK",
+    "title_normalized": "Ayam Bumbu Rujak",
+    "region": "Jawa",
+    "page_number": 362,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 10 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kemiri 5 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kunjit 1 rsd.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas sedang"
+          },
+          {
+            "original_text": "djae 1 pt.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "minjak goreng 4 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan 4 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan, ditjutji, di-potong².",
+      "Bumbu² dihaluskan ketjuali djae dan sereh, ditumis dengan minjak ± 2 menit.",
+      "Daging dimasukkan, ditambah santan, diaduk di atas api supaja santan tidak petjah, sampai dagingnya lunak."
+    ]
+  }
+]

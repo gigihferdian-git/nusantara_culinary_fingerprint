@@ -1,0 +1,200 @@
+[
+  {
+    "recipe_id": "MR_663_1",
+    "title_original": "GORENGAN UDANG METRO",
+    "title_normalized": "Gorengan Udang Metro",
+    "region": "Purwokerto",
+    "page_number": 655,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "udang basah 2 ons",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung djagung ¼ kg.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1½ gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar 2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit ¼ rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kapur sirih 1 sdt.",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang dikupas, terus direndam dalam air panas dan ditjutji.",
+      "Bumbu² dihaluskan.",
+      "Tepung ditjampur air 2 tjangkir, dimasukkan bumbu, ditambah 1 sendok teh kapur sirih, diaduk sampai rata.",
+      "Dibentuk bulat², tengahnja diberi dua ekor udang.",
+      "Digoreng sampai kuning warnanja."
+    ]
+  },
+  {
+    "recipe_id": "MR_663_2",
+    "title_original": "GURAMI BUMBU KETJAP",
+    "title_normalized": "Gurami Bumbu Kecap",
+    "region": "Banyumas",
+    "page_number": 655,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gurami sedang 1 ekor",
+            "item_original": "gurami sedang",
+            "item_normalized": "gurami sedang",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 2 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 bt",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "ketjap ½ tjkr.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, digoreng sampai masak.",
+      "Bumbu diiris halus ketjuali salam, sereh dimemarkan dan tomat di-potong².",
+      "Bumbu² ditumis sampai laju.",
+      "Tambahkan ketjap dan air 1 gelas, dibiarkan sampai mendidih.",
+      "Ikan dimasukkan, dibiarkan ± 10 menit."
+    ]
+  }
+]

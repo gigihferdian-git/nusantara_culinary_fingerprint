@@ -1,0 +1,130 @@
+[
+  {
+    "recipe_id": "MR_810_0",
+    "title_original": "BARO BARO",
+    "title_normalized": "Baro Baro",
+    "region": "Rembang",
+    "page_number": 810,
+    "category": "Gorengan/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang hidjau 1/4 kg.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air atau santan 2 1/2 gls.",
+            "item_original": "air atau santan",
+            "item_normalized": "air atau santan",
+            "quantity": 2.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "ketumbar 1 1/4 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djinten 1 sdm.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang hidjau direndam sampai mengembang ± 1 djam",
+      "Bumbu² dihaluskan.",
+      "Tepung beras, bumbu² ditjampur, diaduk dengan santan lalu katjang dimasukkan diaduk sampai rata.",
+      "Adonan digoreng.",
+      "Keterangan (Tjarannja menggoreng): sesudah minjak mendidih maka adonan dituangkan dalam minjak dengan sendok. Tjara menuangkannja dari tepi memandjang. Hingga sesudah masak bentuknja pandjang."
+    ]
+  },
+  {
+    "recipe_id": "MR_810_1",
+    "title_original": "BARONGKO",
+    "title_normalized": "Barongko",
+    "region": "Mandar",
+    "page_number": 810,
+    "category": "Kue Basah/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pisang kapok masak benar 1 ssr.",
+            "item_original": "pisang kapok masak benar",
+            "item_normalized": "pisang kepok masak benar",
+            "quantity": 1.0,
+            "unit": "sisir"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang muda dan daun pisang agak tua",
+            "item_original": "daun pisang muda dan daun pisang agak tua",
+            "item_normalized": "daun pisang muda dan daun pisang agak tua",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang dikupas dihaluskan, dikotjok dengan telur.",
+      "Kelapa diparut mendjadi 1 gelas santan kental, dimasukkan dalam pisang tadi, diberi gula, dikotjok.",
+      "Dibungkusi daun pisang.",
+      "Dikukus sampai masak."
+    ]
+  }
+]

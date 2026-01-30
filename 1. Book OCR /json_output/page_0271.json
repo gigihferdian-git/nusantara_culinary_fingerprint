@@ -1,0 +1,247 @@
+[
+  {
+    "recipe_id": "MR_271_1",
+    "title_original": "LODEH DJANTUNG PISANG",
+    "title_normalized": "Lodeh Jantung Pisang",
+    "region": "Purwokerto",
+    "page_number": 263,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djantung pisang",
+            "item_original": "djantung pisang",
+            "item_normalized": "jantung pisang",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "kepok 2 bh.",
+            "item_original": "kepok",
+            "item_normalized": "pisang kepok",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun melindjo 1 ggm.",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "pete 1 papan",
+            "item_original": "pete",
+            "item_normalized": "petai",
+            "quantity": 1.0,
+            "unit": "papan"
+          },
+          {
+            "original_text": "tempe bosok 1 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "udang kering 2 sdm.",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 10 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1/3 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.33,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "salam 1 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Jantung pisang dibakar sampai masak, diambil kulitnya yang gosong, kemudian dipotong-potong.",
+      "Kelapa diparut, dibuat santan kental.",
+      "Bumbu diiris halus, petai dipotong-potong, tempe busuk dihaluskan.",
+      "Santan direbus, dimasukkan bumbu.",
+      "Setelah mendidih bahan dimasukkan, diaduk-aduk supaya tidak pecah."
+    ]
+  },
+  {
+    "recipe_id": "MR_271_2",
+    "title_original": "LODEH IKAN TJUTJUT",
+    "title_normalized": "Lodeh Ikan Cucut",
+    "region": "Rembang",
+    "page_number": 263,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan tjutjut 1/2 kg.",
+            "item_original": "ikan tjutjut",
+            "item_normalized": "ikan cucut",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kemiri 2 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun salam 4 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "kaju manis 1 djari",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "jari"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dicuci dibersihkan.",
+      "Kelapa dikupas, diparut, dibuat santan.",
+      "Bumbu ditumbuk halus, kecuali daun salam; lombok, bawang"
+    ]
+  }
+]

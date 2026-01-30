@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_716_0",
+    "title_original": "AJAM PANGGANG KLATEN",
+    "title_normalized": "Ayam Panggang Klaten",
+    "region": "Klaten",
+    "page_number": 716,
+    "category": "Ayam",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam jang gemuk 1 ekor",
+            "item_original": "ajam jang gemuk",
+            "item_normalized": "ayam yang gemuk",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 10 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 3 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "sereh 1 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "laos 2 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 3 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 3 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan, dipotong besar-besar.",
+      "Kelapa diparut, dibuat santan kental.",
+      "Bawang merah dan bawang putih, ketumbar, kemiri, laos, gula, garam, dihaluskan, ketjuali salam, laos, sereh, dimemarkan.",
+      "Santan dan bumbu dimasak sampai kental dan berminjak.",
+      "Bila kuah sudah kental, potongan-potongan ajam dimasukkan, direbus sampai lunak.",
+      "Potongan-potongan ajam diangkat, ditusuk dengan bambu (sebagai tangkai) dan dipanggang diatas bara api jang sedang panasnja, sambil dilumuri sisa atau endapan santan jang berbumbu.",
+      "Dipanggang sampai warnanja tjoklat kekuningan."
+    ]
+  }
+]

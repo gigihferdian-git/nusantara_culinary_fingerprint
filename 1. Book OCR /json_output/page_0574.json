@@ -1,0 +1,173 @@
+[
+  {
+    "recipe_id": "MR_574_0",
+    "title_original": "PETOLA DAGING",
+    "title_normalized": "Petola Daging",
+    "region": "Menado",
+    "page_number": 566,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1/4 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "udang basah 1/4 kg.",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ojong (petola) 5 bh.",
+            "item_original": "ojong (petola)",
+            "item_normalized": "oyong (petola)",
+            "quantity": 5.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Petola dikupas, dibelah dua, bidjinja dibuang.",
+      "Daging ditjintjang halus, ditjampur dengan udang basah jang telah dikupas kulitnja. Dibubuhi lada dan garam.",
+      "Telur didadar bersama radjangan bawang merah lalu ditjintjang, ditjampur dengan daging.",
+      "Tjampuran dimasukkan dalam petola kemudian ditangkupkan kembali.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_574_1",
+    "title_original": "PILITODE",
+    "title_normalized": "Pilitode",
+    "region": "Gorontalo",
+    "page_number": 566,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ikan tongkol 2 bdj.",
+            "item_original": "ikan tongkol",
+            "item_normalized": "ikan tongkol",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "pisang kepok mentah 3 bh.",
+            "item_original": "pisang kepok mentah",
+            "item_normalized": "pisang kepok mentah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan 2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit hidjau 1/2 sendok",
+            "item_original": "lombok rawit hidjau",
+            "item_normalized": "cabai rawit hijau",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 iris ketjil",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "iris kecil"
+          },
+          {
+            "original_text": "kunjit 1 iris sedang",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "iris sedang"
+          },
+          {
+            "original_text": "laos 1 iris ketjil",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris kecil"
+          },
+          {
+            "original_text": "sereh 1 btg",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "lada 1 sendok",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

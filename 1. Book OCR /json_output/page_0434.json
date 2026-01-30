@@ -1,0 +1,205 @@
+[
+  {
+    "recipe_id": "MR_426_0",
+    "title_original": "(Inferred BUNTIL)",
+    "title_normalized": "Buntil",
+    "region": null,
+    "page_number": 426,
+    "category": "Side Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "Lain-lain",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "djerami merang untuk pengikat setjukupnja",
+            "item_original": "djerami merang",
+            "item_normalized": "jerami merang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "petai 5 mata",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 5.0,
+            "unit": "mata"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lombok rawit 20 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun talas ditjutji dan ditiriskan, kemudian dilajukan sebentar.",
+      "Kelapa muda diparut.",
+      "Ikan peda diambil dagingnja dan dihantjurkan.",
+      "Petai dikupas, di-iris² halus.",
+      "Lombok merah dan lombok rawit jang telah ditjutji dan dibuangi tangkainja dihaluskan dengan bumbu² lainnja.",
+      "Kelapa diparut, peda hantjurkan dan petai ditjampurkan dengan bumbu jang telah dihaluskan sampai rata.",
+      "Daun talas jang telah dieber rangkap 3-4 helai diatasnja ditaroh tjampuran kelapa parut dan bumbu.",
+      "Dilipat bagian pinggirnja kedalam, dilipat lagi mendjadi persegi dan kemudian diikat dengan djerami.",
+      "Bungkusan ini dikukus sampai daunnja empuk (± 4 djam); djika warna telah mendjadi hidjau, buntil telah masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_426_1",
+    "title_original": "BUNTIL BERKUAH",
+    "title_normalized": "Buntil Berkuah",
+    "region": null,
+    "page_number": 426,
+    "category": "Side Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun lumbu 1 ikat",
+            "item_original": "daun lumbu",
+            "item_normalized": "daun lumbu",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kelapa muda 1/2 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "merang 1/4 ikat",
+            "item_original": "merang",
+            "item_normalized": "merang",
+            "quantity": 0.25,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "lamtoro 2 genggam",
+            "item_original": "lamtoro",
+            "item_normalized": "lamtoro",
+            "quantity": 2.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "teri kering 1 ons",
+            "item_original": "teri kering",
+            "item_normalized": "teri kering",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 10 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kulit djeruk 1 iris",
+            "item_original": "kulit djeruk",
+            "item_normalized": "kulit jeruk",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

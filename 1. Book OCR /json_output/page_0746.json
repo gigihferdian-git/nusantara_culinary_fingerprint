@@ -1,0 +1,194 @@
+[
+  {
+    "recipe_id": "MR_738_1",
+    "title_original": "PIONG DUKU MANUK",
+    "title_normalized": "Piong Duku Manuk",
+    "region": "Toradja",
+    "page_number": 738,
+    "category": "Main Course",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "umbut batang pisang kapok 1 batang ketjil",
+            "item_original": "umbut batang pisang kapok",
+            "item_normalized": "umbut batang pisang kepok",
+            "quantity": 1.0,
+            "unit": "batang kecil"
+          },
+          {
+            "original_text": "kelapa ½ buah",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bambu 2 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 2.0,
+            "unit": "ruas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "sereh 2 batang",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "bawang merah 4 buah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat besar 2 buah",
+            "item_original": "tomat besar",
+            "item_normalized": "tomat besar",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "djae 5 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 5.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "laos 5 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 5.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "lombok besar 2 buah",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 2.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan, di-potong².",
+      "Umbut batang pisang diiris halus, ditumbuk, diperas, dibuang airnja.",
+      "Kelapa diparut, djae, laos, dan sereh dihaluskan, tomat, bawang merah dan lombok besar diirisi.",
+      "Semuanja ditjampur, diberi garam dan air sedikit, dimasukkan dalam bambu lalu dibakar diapi jang sedang.",
+      "Keterangan : Masakan ini dapat djuga di masak didalam pantji."
+    ]
+  },
+  {
+    "recipe_id": "MR_738_2",
+    "title_original": "SATE AJAM",
+    "title_normalized": "Sate Ayam",
+    "region": null,
+    "page_number": 738,
+    "category": "Sate",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "tusukan sate",
+            "item_original": "tusukan sate",
+            "item_normalized": "tusukan sate",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit 7 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 7.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "katjang goreng 1 ons",
+            "item_original": "katjang goreng",
+            "item_normalized": "kacang goreng",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun djeruk purut 5 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

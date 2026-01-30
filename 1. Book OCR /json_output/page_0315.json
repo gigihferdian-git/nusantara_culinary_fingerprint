@@ -1,0 +1,202 @@
+[
+  {
+    "recipe_id": "MR_307_1",
+    "title_original": "RESEP LANJUTAN (Bumbu Sayur Daging Nangka)",
+    "title_normalized": "Resep Lanjutan (Bumbu Sayur Daging Nangka)",
+    "region": null,
+    "page_number": 307,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djintan 1 sdt.",
+            "item_original": "djintan",
+            "item_normalized": "jintan",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dan nangka direbus sampai lunak.",
+      "Bumbu² dihaluskan, ditumis, dimasukkan kedalam rebusan.",
+      "Kelapa diparut, dibuat santan.",
+      "Santan dituangkan kedalam adonan bumbu² dan didjerangkan sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_307_2",
+    "title_original": "SAJUR OJONG",
+    "title_normalized": "Sayur Oyong",
+    "region": null,
+    "page_number": 307,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ojong 10 bh.",
+            "item_original": "ojong",
+            "item_normalized": "oyong",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak kelapa ½ gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "ebi 2 sdm.",
+            "item_original": "ebi",
+            "item_normalized": "ebi",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada putih 1 sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala ¼ sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "seledri ½ ikat",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 0.5,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "tomat 3 bdj.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "daun bawang 1 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "garam 2 bks.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "vetsin 2 bks.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ojong dikupas, ditjutji, di-potong² bulat, setebal ± 1 cm.",
+      "Daun seledri, daun bawang diiris.",
+      "Ebi direndam sampai empuk.",
+      "Bawang merah, bawang putih diiris halus, digoreng.",
+      "Bumbu² lainnja dihaluskan, ditumis, dimasukkan daun bawang, ojong, tomat, vetsin.",
+      "Ditambahkan air 6 gelas, ditutup.",
+      "Setelah empuk, diangkat."
+    ]
+  }
+]

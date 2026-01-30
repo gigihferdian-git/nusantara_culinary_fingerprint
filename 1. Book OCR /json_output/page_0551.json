@@ -1,0 +1,178 @@
+[
+  {
+    "recipe_id": "MR_543_1",
+    "title_original": "AJAM PANGGANG BUMBU (lanjutan)",
+    "title_normalized": "Ayam Panggang Bumbu (lanjutan)",
+    "region": null,
+    "page_number": 543,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 1 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djeruk limau 2bh.",
+            "item_original": "djeruk limau",
+            "item_normalized": "jeruk limau",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1/4 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "minjak kelapa 2 sdm.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam setelah dibersihkan dibelah pada bagian dadanja. Semua isi perut dipisahkan dan ajam dibersihkan lalu ditusuk dengan bambu (katik), kemudian dipanggang diatas bara jang sedang sampai matang.",
+      "Bumbu² diulek semua, setelah halus diberi minjak kelapa dan perasan djeruk limau. Djika bumbu ini terlalu kental, diberi air kira² satu sendok makan.",
+      "Bumbu² tersebut diulaskan pada ajam jang telah dipanggang lagi diatas bara jang sedang panasnja sampai bumbu²nja masak.",
+      "Kalau ingin lebih sedap lagi, diberi perasan djeruk limau lagi."
+    ]
+  },
+  {
+    "recipe_id": "MR_543_2",
+    "title_original": "PENTJOK",
+    "title_normalized": "Pencok",
+    "region": "Wonosobo",
+    "page_number": 543,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tolo 1/4 kg.",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kulit djeruk purut 2 iris",
+            "item_original": "kulit djeruk purut",
+            "item_normalized": "kulit jeruk purut",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang tolo direndam 2 djam, direbus setengah masak, ditiriskan, terus digoreng.",
+      "Lombok, bawang merah, bawang putih diiris halus, bumbu² lainnja dihaluskan, semua digoreng sampai kuning.",
+      "Diberi air 1/3 gelas, dimasukkan garam serta gula, dimasak sampai kental.",
+      "Dimasukkan katjang tolo terus diaduk rata."
+    ]
+  }
+]

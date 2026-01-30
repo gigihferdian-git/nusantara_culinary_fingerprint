@@ -1,0 +1,194 @@
+[
+  {
+    "recipe_id": "MR_780_1",
+    "title_original": "SAMBAL KELUWAK",
+    "title_normalized": "Sambal Keluwak",
+    "region": null,
+    "page_number": 772,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "keluwak 20 bdj.",
+            "item_original": "keluwak",
+            "item_normalized": "keluwak",
+            "quantity": 20.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "air panas 1 tjkr.",
+            "item_original": "air panas",
+            "item_normalized": "air panas",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air asem 3 sdm.",
+            "item_original": "air asem",
+            "item_normalized": "air asam",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 5 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak/mentega 2 sdm.",
+            "item_original": "minjak/mentega",
+            "item_normalized": "minyak/mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lombok merah 4 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Semua keluwak diambil isinja, terus direndam dalam air panas kemudian kita ambil lagi, terus di-gilas² dengan air panas.",
+      "Setelah itu keluwak diremas halus seperti bubur.",
+      "Bawang, laos dan terasi, ditumbuk dan digoreng dengan irisan lombok, keluwak terus dimasukkan kedalam bumbu jang sedang digoreng dan dimasak sampai kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_780_2",
+    "title_original": "SAMBAL KEMANGI",
+    "title_normalized": "Sambal Kemangi",
+    "region": null,
+    "page_number": 772,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kemangi 1 ikt.",
+            "item_original": "kemangi",
+            "item_normalized": "kemangi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "teri 1/2 ons",
+            "item_original": "teri",
+            "item_normalized": "teri",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kemangi dibersihkan, ditjutji.",
+      "Kelapa diparut.",
+      "Teri digoreng sampai kuning.",
+      "Semua bumbu dihaluskan, ditjamur rata dengan teri, kemangi dan kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_780_3",
+    "title_original": "SAMBAL KEMIRI",
+    "title_normalized": "Sambal Kemiri",
+    "region": "Palembang",
+    "page_number": 772,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "kemiri 1½ ons",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 1.5,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

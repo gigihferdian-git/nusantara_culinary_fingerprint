@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_683_1",
+    "title_original": "PERKEDEL BUNGKUS DAUN SINGKONG",
+    "title_normalized": "Perkedel Bungkus Daun Singkong",
+    "region": null,
+    "page_number": 675,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun singkong 1 ikat",
+            "item_original": "daun singkong",
+            "item_normalized": "daun singkong",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daging ¼ kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak ¼ btl.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.25,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Perkedel dibungkus dengan daun singkong lalu digoreng.",
+      "Bawang merah di-potong², digoreng setengah matang diberi lada, garam, ketjap dan air kaldu 1/3 gls dan dibiarkan mendidih.",
+      "Kemudian perkedel dimasukkan ± 10 menit lamanja."
+    ]
+  },
+  {
+    "recipe_id": "MR_683_2",
+    "title_original": "PERKEDEL DAGING",
+    "title_normalized": "Perkedel Daging",
+    "region": null,
+    "page_number": 675,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging ¼ kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang ¼ kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng ½ liter",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "liter"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada ¼ sdm.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.25,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjutji ditjintjang halus.",
+      "Kentang direbus atau digoreng. Kalau direbus, dikupas setelah masak. Kalau digoreng, dikupas sebelum digoreng.",
+      "Kentang rebus atau kentang goreng dihaluskan.",
+      "Bumbu² dihaluskan."
+    ]
+  }
+]

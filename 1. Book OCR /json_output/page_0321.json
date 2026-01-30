@@ -1,0 +1,218 @@
+[
+  {
+    "recipe_id": "MR_321_0",
+    "title_original": "SAJUR SIBULUNG PULUNG",
+    "title_normalized": "Sayur Sibulung Pulung",
+    "region": "Makasar",
+    "page_number": 313,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ber-matjam sajuran",
+            "item_original": "ber-matjam sajuran",
+            "item_normalized": "bermacam sayuran",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "daun 1 kg.",
+            "item_original": "daun",
+            "item_normalized": "daun",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang idjo 1/2 lt.",
+            "item_original": "katjang idjo",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "djantung pisang",
+            "item_original": "djantung pisang",
+            "item_normalized": "jantung pisang",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "kepok 1 bh.",
+            "item_original": "kepok",
+            "item_normalized": "kepok",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ikan kering setjukupnja",
+            "item_original": "ikan kering",
+            "item_normalized": "ikan kering",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kemiri 6 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 10 btr.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "terasi 3 g.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 3.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "tomat 2 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kacang hijau direbus sampai masak betul.",
+      "Bumbu diulek halus.",
+      "Jantung pisang diiris, dimasukkan bersama kacang hijau, menyusul daunan, ditambahkan bumbu dan ikan kering.",
+      "Setelah masak ditambah 5 sendok air palu mara."
+    ]
+  },
+  {
+    "recipe_id": "MR_321_1",
+    "title_original": "SAJUR TJUPANG",
+    "title_normalized": "Sayur Cupang",
+    "region": null,
+    "page_number": 313,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "ikan petek atau bukur 1/2 kg.",
+            "item_original": "ikan petek atau bukur",
+            "item_normalized": "ikan petek atau bukur",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 2 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "temu kuntji 1 1/2 rdj.",
+            "item_original": "temu kuntji",
+            "item_normalized": "temu kunci",
+            "quantity": 1.5,
+            "unit": "ruji"
+          },
+          {
+            "original_text": "asam muda 10 mata",
+            "item_original": "asam muda",
+            "item_normalized": "asam muda",
+            "quantity": 10.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Petek atau bukur dicuci dulu.",
+      "Semua bumbu dihaluskan kecuali lengkuas, kunci dimemarkan.",
+      "Bumbu dimasukkan dalam air mendidih, terakhir ikan petek atau bukur, dimasak jangan terlalu lama."
+    ]
+  }
+]

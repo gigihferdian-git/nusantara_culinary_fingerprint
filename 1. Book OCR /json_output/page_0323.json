@@ -1,0 +1,219 @@
+[
+  {
+    "recipe_id": "MR_323_1",
+    "title_original": "SAJUR UNI",
+    "title_normalized": "Sayur Uni",
+    "region": null,
+    "page_number": 315,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa ¹/₄ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "nangka muda 1 kg.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kaldu 2 gls.",
+            "item_original": "kaldu",
+            "item_normalized": "kaldu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 6 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada ¹/₂ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "ketumbar ¹/₂ rdj.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "ruji"
+          },
+          {
+            "original_text": "asam 1 sdm.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Nangka muda dikupas, dipotong dan direbus dengan kaldu sampai lunak.",
+      "Kelapa diparut diambil santannja ± 1 gelas.",
+      "Bumbu² dihaluskan, lalu dimasukkan dalam rebusan nangka.",
+      "Santan dimasukkan, sambil diaduk supaja djangan petjah.",
+      "Dimasak sampai kuahnja tinggal sedikit."
+    ]
+  },
+  {
+    "recipe_id": "MR_323_2",
+    "title_original": "SAJUR UNDIS DAN BUNGA KEMBODJA",
+    "title_normalized": "Sayur Undis dan Bunga Kamboja",
+    "region": "Bali",
+    "page_number": 315,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "undis ¹/₂ tjkr.",
+            "item_original": "undis",
+            "item_normalized": "kacang hiris",
+            "quantity": 0.5,
+            "unit": "takar"
+          },
+          {
+            "original_text": "minjak goreng setjukupnja",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "bunga kembodja putih 20 bh.",
+            "item_original": "bunga kembodja putih",
+            "item_normalized": "bunga kamboja putih",
+            "quantity": 20.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak 2 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Undis direndam sampai 2–3 djam lalu direbus.",
+      "Bunga kembodja diambil daun bunganja, tangkainja dibuang, ditjutji bersih supaja getahnja hilang.",
+      "Semua bumbu dihaluskan kemudian diberi minjak."
+    ]
+  }
+]

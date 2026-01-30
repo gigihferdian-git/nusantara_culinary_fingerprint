@@ -1,0 +1,148 @@
+[
+  {
+    "recipe_id": "MR_659_1",
+    "title_original": "GEPUKAN DAGING",
+    "title_normalized": "Gepukan Daging",
+    "region": "Sukabumi",
+    "page_number": 651,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minyak goreng 1/2 gelas",
+            "item_original": "minyak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar 1 sdm.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "laos 2 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "asam 4 mata.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 4.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu² dihaluskan.",
+      "Daging di-potong² kira² 5×6 cm, diaduk dengan bumbu².",
+      "Didjerangkan diatas wadjan sampai keluar airnja.",
+      "Kelapa diparut, diambil santannja 6 gelas, dimasukkan kedalam wajan.",
+      "Dimasak sampai empuk dan santannja habis.",
+      "Setelah empuk, daging diangkat di-pukul² hingga lebar.",
+      "Digoreng sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_659_2",
+    "title_original": "GIMBAL UDANG",
+    "title_normalized": "Gimbal Udang",
+    "region": "Tjiandjur",
+    "page_number": 651,
+    "category": "Makanan Ringan / Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "udang 1/4 kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "terigu 5 sdm.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

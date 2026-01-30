@@ -1,0 +1,63 @@
+[
+  {
+    "recipe_id": "MR_775_0",
+    "title_original": "SAMBAL LADO UAP",
+    "title_normalized": "Sambal Lado Uap",
+    "region": "Bukittinggi",
+    "page_number": 775,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tjangkuk tulang*) 2 sdm.",
+            "item_original": "tjangkuk tulang",
+            "item_normalized": "cangkuk tulang",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djeruk nipis 1/2 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lombok merah digiling halus bersama garam, ditjampur dengan tulang sambil ditumbuk-tumbuk dan bawang merah iris.",
+      "Tjampuran dimasukkan dalam mangkok tjina diberi 1/2 gelas air tadjin nasi dan air djeruk nipis. Dikukus bersama nasi atau dalam kukusan."
+    ]
+  }
+]

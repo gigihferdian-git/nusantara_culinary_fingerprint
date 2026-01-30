@@ -1,0 +1,165 @@
+[
+  {
+    "recipe_id": "MR_542_1",
+    "title_original": "RESEP SEBELUMNYA (Bumbu Katjang Putih)",
+    "title_normalized": "Bumbu Kacang Putih",
+    "region": null,
+    "page_number": 534,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "bawang putih 3 bh.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "lombok merah giling 2 sdm.",
+            "item_original": "lombok merah giling",
+            "item_normalized": "cabai merah giling",
+            "quantity": 2.0,
+            "unit": "tablespoon"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "tablespoon"
+          },
+          {
+            "original_text": "daun kunjit 1/2 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 0.5,
+            "unit": "leaf"
+          },
+          {
+            "original_text": "djae 1 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "slice"
+          },
+          {
+            "original_text": "kunjit 1 iris",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "slice"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang putih ditjutji dan direndam semalam.",
+      "Semua bumbu digiling halus.",
+      "Dalam pantji dimasukkan 2 gelas air, katjang putih dan bumbu².",
+      "Dimasak dengan api sedang hingga empuk."
+    ]
+  },
+  {
+    "recipe_id": "MR_542_2",
+    "title_original": "PAPA KAMBONG",
+    "title_normalized": "Papa Kambong",
+    "region": "Toradja",
+    "page_number": 534,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ikan 3 ekor",
+            "item_original": "ikan",
+            "item_normalized": "ikan",
+            "quantity": 3.0,
+            "unit": "fish"
+          },
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "glass"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "buah tapi 1 bh.",
+            "item_original": "buah tapi",
+            "item_normalized": "buah tapi",
+            "quantity": 1.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "tomat 1 btr.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "tablespoon"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "leaf"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, isi perutnja dibuang, dipotong-potong setebal djari.",
+      "Bawang merah, lombok merah, lombok rawit, tomat dan buah tapi di-iris² tipis, bidjinja dibuang.",
+      "Bumbu ditjampur dengan ikan.",
+      "Wadjan dialas daun pisang, lalu ikan dan bumbu² diletakkan diatasnja ; dituangi santan.",
+      "Dimasak sampai kering dengan wadjan ditutup (tidak boleh di-aduk²)."
+    ]
+  }
+]

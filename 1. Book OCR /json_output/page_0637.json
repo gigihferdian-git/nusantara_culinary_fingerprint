@@ -1,0 +1,275 @@
+[
+  {
+    "recipe_id": "MR_629_0",
+    "title_original": "(Untitled)",
+    "title_normalized": "Untitled Continuation 1",
+    "region": null,
+    "page_number": 629,
+    "category": "Sayur Kuah",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 2 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lengkuas 1 pt.",
+            "item_original": "lengkuas",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kentjur 1 pt.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 1 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun djeruk purut 2 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula merah 1/2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tempe bosok 1 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bahan_utama_dari_instruksi",
+        "original_header": "Bahan Utama (dari Tjara membuatnja)",
+        "ingredients": [
+          {
+            "original_text": "Tempe",
+            "item_original": "Tempe",
+            "item_normalized": "tempe",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "udang",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "petai",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "air 2 gelas",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "Kelapa diparut (untuk santan)",
+            "item_original": "kelapa diparut",
+            "item_normalized": "kelapa parut",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "Bajam",
+            "item_original": "Bajam",
+            "item_normalized": "bayam",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "Ketjambah",
+            "item_original": "Ketjambah",
+            "item_normalized": "kecambah",
+            "quantity": 0.0,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tempe, udang, petai, bawang merah, bawang putih, lombok, salam, lengkuas, sereh, daun djeruk purut, tempe bosok direbus dengan air 2 gelas sampai lunak sekali.",
+      "Tempe, lombok, bawang merah, bawang putih, kentjur dihaluskan lalu ditjampurkan lagi.",
+      "Kelapa diparut, diambil santannja dengan sisa air dari no. 1 dalam pantji. Direbus sampai lama mendidih.",
+      "Bajam di-potong² direbus dalam pantji lain.",
+      "Ketjambah direbus djuga.",
+      "Kedua-duannja dimasukkan, dituangi bumbu (saus) diatasnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_629_1",
+    "title_original": "ULANG ULANG",
+    "title_normalized": "Ulang Ulang",
+    "region": null,
+    "page_number": 629,
+    "category": "Salad/Rujak",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terong jang besar 3 buah",
+            "item_original": "terong jang besar",
+            "item_normalized": "terong yang besar",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketimun 3 buah",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "taoge 1/2 kg.",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kol 1/2 kg.",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kenari 1/2 kg.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 buah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 6 buah",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok besar 5 buah",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi jang sudah dibakar 5 gram",
+            "item_original": "terasi jang sudah dibakar",
+            "item_normalized": "terasi yang sudah dibakar",
+            "quantity": 5.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "gula merah setjukupnja",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "tjuka setjukupnja",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.0,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sajuran dibersihkan, di-iris² ketjuali taoge.",
+      "Bumbu² dihaluskan, ditjampur dengan sajuran ditambah tjuka."
+    ]
+  }
+]

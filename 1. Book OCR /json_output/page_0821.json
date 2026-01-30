@@ -1,0 +1,147 @@
+[
+  {
+    "recipe_id": "MR_813_1",
+    "title_original": "BENDU",
+    "title_normalized": "Bendu",
+    "region": "Bali",
+    "page_number": 813,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan 1/2 kg.",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun kembang sepatu 10 lbr.",
+            "item_original": "daun kembang sepatu",
+            "item_normalized": "daun kembang sepatu",
+            "quantity": 10.0,
+            "unit": "lembar"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun kembang sepatu dan air diremas, disaring, diambil airnja ± 1 tjangkir.",
+      "Tepung ketan diuli hingga lemas, sambil diberi garam dan air daun kembang sepatu sesendok demi sesendok.",
+      "Dipakai tepung jang halus, jang telah rapuh, sedang jang masih ber-bidji² diuli kembali sebagai diatas. Demikian seterusnja sampai habis.",
+      "Disediakan tjobek tanah jang datar dan dipanaskan, tetapi apinja djangan terlalu besar, ditaruh tepung tadi sesendok sesendok dan diratakan dengan sendok setipis mungkin hingga bentuknja bulat telur.",
+      "Djajanan ini masak bila sisinja sudah terangkat.",
+      "Kelapa dikupas, diparut, ditjamput dengan gula, daun pandan, garam dibuat djadi inti.",
+      "Djadjn diberi inti diatasnja, kemudian dilipat berbentuk segitiga. Boleh djuga seperti menggulung dadar."
+    ]
+  },
+  {
+    "recipe_id": "MR_813_2",
+    "title_original": "BENGAWAN SOLO",
+    "title_normalized": "Bengawan Solo",
+    "region": "Banjumas",
+    "page_number": 813,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang tanah 1 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur 5 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir 3 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

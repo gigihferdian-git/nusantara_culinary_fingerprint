@@ -1,0 +1,228 @@
+[
+  {
+    "recipe_id": "MR_243_1",
+    "title_original": "Sambungan Resep (Gulai Pisang Ikan Kering)",
+    "title_normalized": "Sambungan Resep (Gulai Pisang Ikan Kering)",
+    "region": null,
+    "page_number": 243,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah giling 1/2 sdm.",
+            "item_original": "lombok merah giling",
+            "item_normalized": "cabai merah giling",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 iris",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "daun kunjit 1/2 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 0.5,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1/2 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 0.5,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam kandis 1 bh.",
+            "item_original": "asam kandis",
+            "item_normalized": "asam kandis",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang dikupas dan dipotong serong.",
+      "Dari kelapa dikeluarkan 1/2 gelas santan kental dan 2 gelas santan tjair.",
+      "Bumbu² digiling halus ketjuali daun kunjit, sereh dan asam kandis.",
+      "Santan tjair bersama bumbu dan ikan kering dididihkan, dimasukkan pisang, dimasak hingga empuk. Sebelum diangkat, dimasukkan santan kental dan dididihkan kembali."
+    ]
+  },
+  {
+    "recipe_id": "MR_243_2",
+    "title_original": "GULAI PLIEK UE ATAU PATARAM",
+    "title_normalized": "Gulai Pliek Ue atau Pataram",
+    "region": "Aceh",
+    "page_number": 243,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pliëk ue 1 ggm.",
+            "item_original": "pliëk ue",
+            "item_normalized": "pliek u (ampas kelapa)",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "nangka muda 1 pt.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun melindjo 1 ggm.",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "buah melindjo 1 ggm.",
+            "item_original": "buah melindjo",
+            "item_normalized": "buah melinjo",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "pepaja muda 1 pt.",
+            "item_original": "pepaja muda",
+            "item_normalized": "pepaya muda",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "udang/tiram 2 sdm.",
+            "item_original": "udang/tiram",
+            "item_normalized": "udang/tiram",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 4 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun turi 4 lbr.",
+            "item_original": "daun turi",
+            "item_normalized": "daun turi",
+            "quantity": 4.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

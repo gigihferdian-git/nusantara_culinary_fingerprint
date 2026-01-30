@@ -1,0 +1,158 @@
+[
+  {
+    "recipe_id": "MR_654_0",
+    "title_original": null,
+    "title_normalized": "Rebusan Perut Kambing Bumbu Kecap",
+    "region": null,
+    "page_number": 654,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Inferred from instructions",
+        "ingredients": [
+          {
+            "original_text": "Perut kambing (inferred from instructions)",
+            "item_original": "Perut kambing",
+            "item_normalized": "perut kambing",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok 5 bidji",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "asam 10 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 10.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Perut kambing ditjutji sampai bersih benar.",
+      "Dipotong ketjil-ketjil.",
+      "Ditarohkan diwadjan, masukkan bumbu jang ditumbuk dibubuhi air asam dan ketjap.",
+      "Ditambahkan air dua gelas dan direbus sampai masak dan kuning.",
+      "Dagingnja harus empuk."
+    ]
+  },
+  {
+    "recipe_id": "MR_654_1",
+    "title_original": "GORENG UDANG KERING",
+    "title_normalized": "Goreng Udang Kering",
+    "region": null,
+    "page_number": 654,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "udang 1 kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kelapa parut digoreng lalu ditumbuk 1 gelas",
+            "item_original": "kelapa parut digoreng lalu ditumbuk",
+            "item_normalized": "kelapa parut goreng tumbuk",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "lada 10 bidji",
+            "item_original": "lada",
+            "item_normalized": "merica",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "sesuai selera"
+          },
+          {
+            "original_text": "tomat 5 bidji",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "asam setjukupnja",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": null,
+            "unit": "sesuai selera"
+          },
+          {
+            "original_text": "bawang merah goreng 3 sendok",
+            "item_original": "bawang merah goreng",
+            "item_normalized": "bawang merah goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang dibersihkan, dibuang kulit-kulit dan kelapanja dibubuhi garam dan asam.",
+      "Bawang merah digoreng, sebagian besar dikeluarkan, udang dimasukkan, digoreng sampai agak kering.",
+      "Lada diulek, ditambahkan tomat di-iris², dimasukkan, digoreng sampai kering.",
+      "Tambahkan kelapa goreng tumbuk.",
+      "Keluarkan dan bubuhi bawang goreng diatasnja."
+    ]
+  }
+]

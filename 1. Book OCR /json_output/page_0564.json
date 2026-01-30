@@ -1,0 +1,183 @@
+[
+  {
+    "recipe_id": "MR_556_1",
+    "title_original": "PEPES TAHU",
+    "title_normalized": "Pepes Tahu",
+    "region": null,
+    "page_number": 556,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 5 bdj.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun bawang 4 batang",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 4.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "seledri 3 tangkai",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 3.0,
+            "unit": "tangkai"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 5 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "salam 10 lembar",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 10.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun bawang, seledri dibersihkan, diiris halus, lombok hidjau diiris halus.",
+      "Bumbu² dihaluskan, ketjuali salam.",
+      "Tahu dihaluskan bersama bumbu, daun bawang, seledri dan lombok hidjau dimasukkan diaduk sampai rata.",
+      "Adonan dibungkusi daun pisang dialas daun salam, dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_556_2",
+    "title_original": "PEPES TELUR IKAN",
+    "title_normalized": "Pepes Telur Ikan",
+    "region": null,
+    "page_number": 556,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ikan 1 gls.",
+            "item_original": "telur ikan",
+            "item_normalized": "telur ikan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 2 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lada 1/4 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur ikan dibersihkan, ditjutji.",
+      "Semua bumbu dihaluskan ditjampur rata dengan telur ikan.",
+      "Dibungkusi daun pisang, dikukus sampai masak."
+    ]
+  }
+]

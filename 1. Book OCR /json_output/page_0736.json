@@ -1,0 +1,143 @@
+[
+  {
+    "recipe_id": "MR_736_0",
+    "title_original": "KARMANATJI",
+    "title_normalized": "Karmanatji",
+    "region": "Makassar",
+    "page_number": 728,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan jang sedang 1 ekor",
+            "item_original": "ikan jang sedang",
+            "item_normalized": "ikan ukuran sedang",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "asam setjukupnja",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "terasi setjukupnja",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, diberi asam, garam, lalu dibakar.",
+      "Bumbu dihaluskan, ditumis, ditambah air asam, ketjap dan garam.",
+      "Ikan bakar disiram dengan bumbu."
+    ]
+  },
+  {
+    "recipe_id": "MR_736_1",
+    "title_original": "KOMOH",
+    "title_normalized": "Komoh",
+    "region": "Bali",
+    "page_number": 728,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "darah 1 gls.",
+            "item_original": "darah",
+            "item_normalized": "darah",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "djeruk sambal 1 bdj.",
+            "item_original": "djeruk sambal",
+            "item_normalized": "jeruk sambal",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "hati jang dipanggang 1 ons",
+            "item_original": "hati jang dipanggang",
+            "item_normalized": "hati yang dipanggang",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok 1 bdj.",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

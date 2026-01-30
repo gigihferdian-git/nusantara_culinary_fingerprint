@@ -1,0 +1,158 @@
+[
+  {
+    "recipe_id": "MR_630_1",
+    "title_original": "TUMIS LAMAN",
+    "title_normalized": "Tumis Laman",
+    "region": "Lampung",
+    "page_number": 622,
+    "category": "Lauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "rebon segar 1/2 ons",
+            "item_original": "rebon segar",
+            "item_normalized": "rebon segar",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "nasi 3 sdm.",
+            "item_original": "nasi",
+            "item_normalized": "nasi",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak kelapa 1 sdm.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan 3 sdm.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Rebon ditjutji, ditjampur dengan nasi dan garam.",
+      "Dimasukkan dalam stoples, ditutup dengan kain, disimpan 2 hari ditempat jang agak panas (masakan ini namanja laman).",
+      "Bumbu diiris halus, ditumis, begitu pula laman. Diberi sedikit santan.",
+      "Dihidangkan sebagai sambal dengan sajuran rebus (katjang pandjang, buntjis, dsb)."
+    ]
+  },
+  {
+    "recipe_id": "MR_630_2",
+    "title_original": "TUMIS NUS",
+    "title_normalized": "Tumis Nus",
+    "region": null,
+    "page_number": 622,
+    "category": "Seafood",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ikan nus ketjil 1 kg.",
+            "item_original": "ikan nus ketjil",
+            "item_normalized": "ikan nus kecil",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "minjak kelapa 2 sdm.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 sdm.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "recipe_id": "MR_387_0",
+    "title_original": "Continuation Recipe",
+    "title_normalized": "Continuation Recipe",
+    "region": null,
+    "page_number": 387,
+    "category": "Sambal or Saus",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tjuka ½ sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja :",
+      "1. Udang dibersihkan, direbus dengan sepotong arang.",
+      "2. Dikupas, dipotong ± 1 cm.",
+      "Saosnja :",
+      "3. Bumbu² dihaluskan, ditjamput dengan kaldu udang ½ gelas.",
+      "4. Rasa saos asam² manis.",
+      "5. Dimakan dengan saosnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_387_1",
+    "title_original": "AUNU SENEBRE",
+    "title_normalized": "Aunu Senebre",
+    "region": "Irian Barat",
+    "page_number": 387,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan ketjil² 1 kg.",
+            "item_original": "ikan ketjil²",
+            "item_normalized": "ikan kecil-kecil",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa parut ½ btr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun dan tangkai talas 15 btg.",
+            "item_original": "daun dan tangkai talas",
+            "item_normalized": "daun dan tangkai talas",
+            "quantity": 15.0,
+            "unit": "batang"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja :",
+      "1. Ikan jang telah ditjujti bersama daun dan tangkai talas jang telah di-potong² ketjil direbus hingga masak.",
+      "2. Kemudian ikan, tangkai dan daun talas ditjamput dengan parutan kelapa jang telah digarami.",
+      "3. Dikukus."
+    ]
+  },
+  {
+    "recipe_id": "MR_387_2",
+    "title_original": "AUNUVE HABRE",
+    "title_normalized": "Aunuve Habre",
+    "region": "Irian Barat",
+    "page_number": 387,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan (biasanja tjakalang) 1 kg.",
+            "item_original": "ikan (biasanja tjakalang)",
+            "item_normalized": "ikan (biasanya cakalang)",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun keladi setjukupnja",
+            "item_original": "daun keladi",
+            "item_normalized": "daun keladi",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja :",
+      "1. Daun² talas jang sudah dilajukan, dihampar dalam wadjan.",
+      "2. Potongan² ikan ditaruh diatas hamparan daun talas tersebut"
+    ]
+  }
+]

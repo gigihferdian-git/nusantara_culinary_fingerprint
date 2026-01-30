@@ -1,0 +1,145 @@
+[
+  {
+    "recipe_id": "MR_200_1",
+    "title_original": "NASI GORENG",
+    "title_normalized": "Nasi Goreng",
+    "region": null,
+    "page_number": 192,
+    "category": "Nasi",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "nasi 2 prg.",
+            "item_original": "nasi",
+            "item_normalized": "nasi",
+            "quantity": 2.0,
+            "unit": "porsi"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ketimun 1 bh.",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 1 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur didadar, diiris halus.",
+      "Ketimun, tomat diiris tipis².",
+      "Bawang merah diiris halus.",
+      "Lombok, bawang putih, terasi, garam digiling.",
+      "Bumbu² digoreng, dimasukkan nasinja dan ketjap, aduk rata.",
+      "Hidangan dihias dengan telur, tomat, ketimun."
+    ]
+  },
+  {
+    "recipe_id": "MR_200_2",
+    "title_original": "NASI GURIH DJAGUNG",
+    "title_normalized": "Nasi Gurih Jagung",
+    "region": null,
+    "page_number": 192,
+    "category": "Nasi",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras djagung 1/2 kg.",
+            "item_original": "beras djagung",
+            "item_normalized": "beras jagung",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa tua 1/2 btr.",
+            "item_original": "kelapa tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": []
+      }
+    ],
+    "instructions": []
+  }
+]

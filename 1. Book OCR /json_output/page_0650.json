@@ -1,0 +1,173 @@
+[
+  {
+    "recipe_id": "MR_642_1",
+    "title_original": "Bumbu/Isian Ikan Gabus (Lanjutan)",
+    "title_normalized": "Fish Filling/Spice Paste (Continued)",
+    "region": null,
+    "page_number": 642,
+    "category": "Condiment/Spice Paste",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kelapa parut 1 bidji",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 2 sendok",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 2.0,
+            "unit": "sendok"
+          },
+          {
+            "original_text": "lada 1 sendok",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok"
+          },
+          {
+            "original_text": "kunjit 1 sendok",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "sendok"
+          },
+          {
+            "original_text": "garam secukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan gabus dipanggang, lalu dikeluarkan dagingnja.",
+      "Ketumbar, lada goreng, lalu dihaluskan (ditumbuk bersama daging ikan).",
+      "Kelapa parut digoreng sampai hampir kering, dimasukkan ikan jang sudah ditumbuk tadi, ditambah goreng.",
+      "Digoreng sampai kering betul."
+    ]
+  },
+  {
+    "recipe_id": "MR_642_2",
+    "title_original": "BAKWAN DJAGUNG",
+    "title_normalized": "Bakwan Jagung",
+    "region": null,
+    "page_number": 642,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 6 buah",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "udang jang sedang besarnja 6 ekor",
+            "item_original": "udang jang sedang besarnja",
+            "item_normalized": "udang",
+            "quantity": 6.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "vetsin ½ sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin (MSG)",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun prei (putih) 4 helai",
+            "item_original": "daun prei (putih)",
+            "item_normalized": "daun prei (putih)",
+            "quantity": 4.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada setjukupnja",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "sedikit lombok rawit untuk mereka jang suka pedas",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "daun seledri 2 tangkai",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 2.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "bawang merah 3 buah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "minjak goreng 1 tjangkir",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur (inferred from instructions)",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diiris tipis² (2 atau 3 kali djalan).",
+      "Udang dikupas, di-potong² ketjil-ketjil.",
+      "Bawang merah, bawang putih, seledri, dan prei diiris halus.",
+      "Ditjampur dengan garam, lada, vetsin dan telur.",
+      "Kalau telah rata telurnja, digoreng dalam minjak panas.",
+      "Dihidangkan dengan lombok rawit."
+    ]
+  }
+]

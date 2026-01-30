@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_188_1",
+    "title_original": "AREM AREM ARON",
+    "title_normalized": "Arem Arem Aron",
+    "region": null,
+    "page_number": 180,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama (Aron)",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "aron 120 g.",
+            "item_original": "aron",
+            "item_normalized": "aron",
+            "quantity": 120.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "tepung singkong 35 g.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 35.0,
+            "unit": "gram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu dan Isi",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "petai 5 bdj.",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula, garam, salam, laos setjukupnja.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula, garam, salam, laos setjukupnja.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula, garam, salam, laos setjukupnja.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula, garam, salam, laos setjukupnja.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tempe 30 g.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 30.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Aron direndam dengan garam selama ± 5 menit.",
+      "Tepung singkong dimasukkan.",
+      "Diaduk dan dikukus dalam lojang jang dialas dengan daun pisang, sampai setengah masak.",
+      "Isi : Bawang merah, garam, gula, terasi, lombok merah, dihaluskan.",
+      "Petai dikupas di-potong².",
+      "tempe di-potong² tipis; bumbu jang sudah dihaluskan, beserta daun salam, laos ditumis;",
+      "petai dan tempe dimasukkan.",
+      "Dituangi santan kental, direbus sampai masak dan kuahnja ditinggalkan sedikit njemek².",
+      "Aron jang sudah setengah masak, panas² diambil sebagian, diratakan diatas daun pisang, diisi dengan isi, digulung, disemat biting pada kedua udjungnja, dikukus sampai masak.",
+      "Kalau akan mengisi harus panas² supaja tak kaku dan meratakannja dengan daun pisang jang dibasahi."
+    ]
+  }
+]

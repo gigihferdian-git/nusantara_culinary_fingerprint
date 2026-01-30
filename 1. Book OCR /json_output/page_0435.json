@@ -1,0 +1,136 @@
+[
+  {
+    "recipe_id": "MR_427_1",
+    "title_original": "BUNTIL DANAWARIH",
+    "title_normalized": "Buntil Danawarih",
+    "region": "Banyumas",
+    "page_number": 427,
+    "category": "Lauk Pauk / Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "daun lumbu 50 lbr.",
+            "item_original": "daun lumbu",
+            "item_normalized": "daun lumbu",
+            "quantity": 50.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "kelapa muda 1/2 bt.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "petai 5 papan",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 5.0,
+            "unit": "papan"
+          },
+          {
+            "original_text": "ikan asin 1 ons",
+            "item_original": "ikan asin",
+            "item_normalized": "ikan asin",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "merang setjukupnja",
+            "item_original": "merang",
+            "item_normalized": "merang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 10 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "rajangan"
+          },
+          {
+            "original_text": "salam 10 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 10.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, laos diparut.",
+      "Daun lumbu jang telah didjemur ditjutji, ikan asin ditjutji, petai dikupas dan diiris ketjil².",
+      "Bumbu² dihaluskan ketjuali salam.",
+      "Kelapa parut, petai, laos, ikan asin dan bumbu ditjamput mendjadi satu.",
+      "Adonan dibungkus dengan 4–5 helai daun lumbu, diikat dengan merang, kemudian dikukus sampai masak (± 2 djam)."
+    ]
+  }
+]

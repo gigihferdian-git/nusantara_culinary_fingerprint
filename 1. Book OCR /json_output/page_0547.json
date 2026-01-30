@@ -1,0 +1,199 @@
+[
+  {
+    "recipe_id": "MR_539_0",
+    "title_original": "PELAS",
+    "title_normalized": "Pelas",
+    "region": "Magetan",
+    "page_number": 539,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kedele 1 kg.",
+            "item_original": "kedele",
+            "item_normalized": "kedelai",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang 3 pelepah",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 3.0,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "daun salam 10 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 10.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kedele ditjutji, direndam 2 djam, ditumbuk agak kasar.",
+      "Kelapa diparut.",
+      "Bumbu² dihaluskan, ketjuali daun salam.",
+      "Kedele, kelapa, bumbu² ditjampur djadi satu sampai rata.",
+      "Tjampuran dibungkusi daun pisang, dialas daun salam.",
+      "Sesudah dibungkusi dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_539_1",
+    "title_original": "PELAS BELIMBING",
+    "title_normalized": "Pelas Belimbing",
+    "region": "Malang",
+    "page_number": 539,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "belimbing wuluh 2 ons",
+            "item_original": "belimbing wuluh",
+            "item_normalized": "belimbing wuluh",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "belondo ½ ons",
+            "item_original": "belondo",
+            "item_normalized": "blondo",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 ptg.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun kemangi 1 ikat",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu dibersihkan, dihaluskan beserta belondo, ketjuali laos dan djae.",
+      "Belimbing diirisi tipis, diuli dengan garam, ditumis bersama bumbu sampai masak.",
+      "Untuk menambah rasa diberi daun kemangi."
+    ]
+  }
+]

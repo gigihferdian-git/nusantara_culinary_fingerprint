@@ -1,0 +1,196 @@
+[
+  {
+    "recipe_id": "MR_500_0",
+    "title_original": null,
+    "title_normalized": "Pindang Ikan (Continuation)",
+    "region": null,
+    "page_number": 500,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "lanjutan bahan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "asam sundai (djeruk sitroen) 5 bdj.",
+            "item_original": "asam sundai (djeruk sitroen)",
+            "item_normalized": "asam sundai (jeruk sitrun)",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 10 senduk",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 10.0,
+            "unit": "sendok"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kemiri dibakar 50 bdj.",
+            "item_original": "kemiri dibakar",
+            "item_normalized": "kemiri bakar",
+            "quantity": 50.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1 bidji.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun ubi kaju 1/2 kg.",
+            "item_original": "daun ubi kaju",
+            "item_normalized": "daun ubi kayu",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air 3 lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 3.0,
+            "unit": "liter"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu ditumbuk dan dimasak bersama ikannya, sampai airnya tinggal satu gelas.",
+      "Didiamkan semalam.",
+      "Esok harinya dimasak lagi dengan ditambah air hingga 1 liter dan garam.",
+      "Direbus hingga air tinggal 1 gelas lagi."
+    ]
+  },
+  {
+    "recipe_id": "MR_500_1",
+    "title_original": "NANI GOTAAN",
+    "title_normalized": "Nani Gotaan",
+    "region": "Batak",
+    "page_number": 500,
+    "category": "Ayam",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "minjak 3 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar 1/2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos seiris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "djeruk nipis 2 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa sangan digiling halus 2 sdm.",
+            "item_original": "kelapa sangan digiling halus",
+            "item_normalized": "kelapa sangrai digiling halus",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dipotong dan darahnja ditampung dalam piring jang diberi garam dan air djeruk nipis supaja djangan membeku."
+    ]
+  }
+]

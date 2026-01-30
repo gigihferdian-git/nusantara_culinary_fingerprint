@@ -1,0 +1,97 @@
+[
+  {
+    "recipe_id": "MR_461_0",
+    "title_original": "JILABULO",
+    "title_normalized": "Jilabulo",
+    "region": "Gorontalo",
+    "page_number": 461,
+    "category": "Savory Snack / Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging ajam bagian dalam (hati, gemuk, dll) di-iris² 1 tjkr.",
+            "item_original": "daging ajam bagian dalam (hati, gemuk, dll) di-iris²",
+            "item_normalized": "daging ayam bagian dalam (hati, lemak, dll) diiris",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung sagu 3 sdm.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan 10 sdm.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 10.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 belah",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "belah"
+          },
+          {
+            "original_text": "djae seiris ketjil",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "iris kecil"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu ditjutji, diuleg.",
+      "Daging ajam jang sudah di-iris² ditjampur dengan bumbu.",
+      "Sagu dimasukkan.",
+      "Santan dimasukkan.",
+      "Diaduk sampai rata.",
+      "Adonan dimasukkan dalam pantji dimasak ± 5 menit diatas api (sampai agak kental).",
+      "Dibungkus daun pisang seperti nagasari.",
+      "Dikukus."
+    ]
+  }
+]

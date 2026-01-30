@@ -1,0 +1,229 @@
+[
+  {
+    "recipe_id": "MR_433_0",
+    "title_original": "AYAM BUMBU HALUS (Continuation)",
+    "title_normalized": "Ayam Bumbu Halus",
+    "region": null,
+    "page_number": 425,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "djintan 1/2 sdt.",
+            "item_original": "djintan",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketumbar 1 1/2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun djeruk purut 2 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "minjak 3 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam ditjintjang sampai halus.",
+      "Bumbu² direndang dulu, lalu diuleg, ditumis dengan minjak.",
+      "Kelapa diparut dibuat santan.",
+      "Ajam dimasukkan, kemudian tepung djagung dimasukkan; dimasak sampai tepung masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_433_1",
+    "title_original": "BUNGKUSAN TAHU",
+    "title_normalized": "Bungkusan Tahu",
+    "region": null,
+    "page_number": 425,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 10 bdj.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemangi 1 ikat",
+            "item_original": "kemangi",
+            "item_normalized": "kemangi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "asem 3 mata",
+            "item_original": "asem",
+            "item_normalized": "asam",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula djawa 1 sdt.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lombok merah 1 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar 1/2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 4 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun djeruk purut 2 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu² ditumbuk halus, ditjampur dengan tahu jang dihantjurkan atau diutuhkan sadja.",
+      "Kelapa diparut, dibuat santan kental, lalu ditjampurkan pada bahan tadi.",
+      "Dibungkus daun pisang, dikukus, sesudah itu dipanggang."
+    ]
+  },
+  {
+    "recipe_id": "MR_433_2",
+    "title_original": "BUNTIL",
+    "title_normalized": "Buntil",
+    "region": null,
+    "page_number": 425,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun talas 20 hl.",
+            "item_original": "daun talas",
+            "item_normalized": "daun talas",
+            "quantity": 20.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "kelapa muda 1/2 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ikan peda atau ikan kering asin 2 ekor 1 tjkr.",
+            "item_original": "ikan peda atau ikan kering asin",
+            "item_normalized": "ikan peda atau ikan kering asin",
+            "quantity": 2.0,
+            "unit": "ekor/takar"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

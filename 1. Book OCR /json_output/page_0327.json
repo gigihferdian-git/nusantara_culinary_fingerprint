@@ -1,0 +1,170 @@
+[
+  {
+    "recipe_id": "MR_327_0",
+    "title_original": "(Continuation: Missing Title)",
+    "title_normalized": "Continuation Recipe (Djeroan Kapri)",
+    "region": null,
+    "page_number": 319,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "(Ingredients Continuation)",
+        "ingredients": [
+          {
+            "original_text": "laos 2 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "asam 5 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djeroan di-iris² ketjil seperlunja.",
+      "Kapri di-potong² djadi dua.",
+      "Kelapa dikupas, diparut, dibikin santan kental 1 gelas dan 3 gelas santan tipis.",
+      "Petai dikupas dan dibelah dua tiap bidjinjn.",
+      "Bumbu² dihaluskan, ketjuali laos dan daun salam.",
+      "Djeroan digoreng sebentar dalam minjak sampai kuning lalu diangkat.",
+      "Bumbu ditumis dalam sisa minjak tersebut diatas.",
+      "Santan tipis dan djeroan dimasukkan dan didjerangkan terus sampai semuanja lunak.",
+      "Santan kental 1 gelas ditjampurkan, dimasak terus sampai kuwah tinggal sedikit, sambil di-aduk² supaja santan tidak petjah.",
+      "Kapri kemudian dimasukkan, dimasak sampai laju."
+    ]
+  },
+  {
+    "recipe_id": "MR_327_1",
+    "title_original": "SAMBAL GORENG IKAN KAKAP",
+    "title_normalized": "Sambal Goreng Ikan Kakap",
+    "region": "Bandjarmasin",
+    "page_number": 319,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan kakap 1 kg.",
+            "item_original": "ikan kakap",
+            "item_normalized": "ikan kakap",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunjit 1 rsd.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam 5 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, di-potong² diberi garam.",
+      "Digoreng agak kuning.",
+      "Bumbu² dihaluskan, ditumis dengan sedikit minjak, dimasukkan ikan goreng, diberi air 3 gelas.",
+      "Setelah mendidih dimasukkan asam, direbus sampai masak."
+    ]
+  }
+]
