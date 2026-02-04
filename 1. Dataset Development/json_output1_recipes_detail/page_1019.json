@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_1011_0",
+    "title_original": "LENTIS",
+    "title_normalized": "Lentis",
+    "region": null,
+    "page_number": 1011,
+    "category": "Jajanan / Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ketela pohon 1 kg.",
+            "item_original": "ketela pohon",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketela diparut, diperas, kemudian diberi bumbu² jang sudah digerus setjukupnja.",
+      "Di-kepal² sebesar ibu djari dan sepandjang ± 3 atau 4 cm lalu digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_1011_1",
+    "title_original": "LENTUK",
+    "title_normalized": "Lentuk",
+    "region": null,
+    "page_number": 1011,
+    "category": "Jajanan / Kukus",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ketela pohon 1 kg.",
+            "item_original": "ketela pohon",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketela dikuliti, ditjutji bersih, lalu dikukus.",
+      "Adonan bumbu² jang sudah digerus ditjampurkan ketela jang sudah dikukus tadi."
+    ]
+  }
+]

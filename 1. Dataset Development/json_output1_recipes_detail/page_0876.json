@@ -1,0 +1,85 @@
+[
+  {
+    "recipe_id": "MR_876_1",
+    "title_original": "DODOL NANGKA",
+    "title_normalized": "Dodol Nangka",
+    "region": "Bali",
+    "page_number": 868,
+    "category": "Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "nangka masak 3 gls.",
+            "item_original": "nangka masak",
+            "item_normalized": "nangka masak",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "minjak kelapa 1/2 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Nangka diiris/dirajang kecil-kecil.",
+      "Ditaruh di wajan, minyak kelapa ditambahkan, dijerangkan di atas api yang sedang. Diaduk hingga adonan menjadi lembut.",
+      "Setelah lembut, gula pasir ditambahkan sedikit demi sedikit dan diaduk sampai masak.",
+      "Setelah masak, dituang, dilengser dan diratakan setebal 3 cm.",
+      "Sesudah dingin, dipotong persegi dan dibungkus kertas minyak, lalu dijemur.",
+      "Keterangan: Pemasakan lamanya 2–4 jam. Kalau dimasak dengan api kecil hasilnya sangat baik, tetapi waktunya lebih lama."
+    ]
+  },
+  {
+    "recipe_id": "MR_876_2",
+    "title_original": "DODOL PELOK",
+    "title_normalized": "Dodol Pelok",
+    "region": "Madura",
+    "page_number": 868,
+    "category": "Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pelok 10 bdj.",
+            "item_original": "pelok",
+            "item_normalized": "pelok",
+            "quantity": 10.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

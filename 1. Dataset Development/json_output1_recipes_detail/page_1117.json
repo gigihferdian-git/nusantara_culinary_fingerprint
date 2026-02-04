@@ -1,0 +1,147 @@
+[
+  {
+    "recipe_id": "MR_1109_1",
+    "title_original": "TAART TAPE SINGKONG",
+    "title_normalized": "Tart Tape Singkong",
+    "region": null,
+    "page_number": 1109,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tape ½ kg.",
+            "item_original": "tape",
+            "item_normalized": "tape",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "tepung terigu 3½ tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.5,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "margarine 1 tjkr.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "air djeruk nipis 1½ tjkr.",
+            "item_original": "air djeruk nipis",
+            "item_normalized": "air jeruk nipis",
+            "quantity": 1.5,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "soda kue ½ sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tape dibuang seratnja, dilumatkan.",
+      "Margarine dikatjau dengan gula, telur dimasukkan satu persatu sambil dikatjau terus.",
+      "Tepung terigu sambil ditapis dimasukkan bersama panili dan soda kue.",
+      "Tape jang lumat ditjampurkan pada adonan, diaduk perlahan² sampai rata, dituangkan dilojang jang telah dilumasi margarine.",
+      "Dipan/oven sampai berwarna ke-kuning²an."
+    ]
+  },
+  {
+    "recipe_id": "MR_1109_2",
+    "title_original": "TAART TAPE UBI",
+    "title_normalized": "Tart Tape Ubi",
+    "region": null,
+    "page_number": 1109,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "tape ubi 1 tjkr.",
+            "item_original": "tape ubi",
+            "item_normalized": "tape ubi",
+            "quantity": 1.0,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "tepung terigu ¾ tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.75,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "mentega ¾ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.75,
+            "unit": "tjingkir"
+          },
+          {
+            "original_text": "susu manis 3 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

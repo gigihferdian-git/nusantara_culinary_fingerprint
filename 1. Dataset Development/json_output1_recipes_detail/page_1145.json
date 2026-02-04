@@ -1,0 +1,68 @@
+[
+  {
+    "recipe_id": "MR_1145_0",
+    "title_original": "WIDARAN",
+    "title_normalized": "Widaran",
+    "region": "Tegal",
+    "page_number": 1137,
+    "category": "Kue/Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 3 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1/4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan garam dikotjok sebentar, diberi santan kental.",
+      "Tepung dimasukkan sedikit demi sedikit sambil diaduk sampai mendjadi adonan jang telah dibentuk.",
+      "Di-remas² ± 1/2 djam lamanja, digiling pandjang, di-potong² pandjangnja ± 1 1/4 cm.",
+      "Digoreng dalam minjak goreng jang panas sampai kering.",
+      "Gula pasir direbus dengan air sampai merambut.",
+      "Kue tadi dimasukkan kedalam gula, diaduk sampai rata (dibesta)."
+    ]
+  }
+]

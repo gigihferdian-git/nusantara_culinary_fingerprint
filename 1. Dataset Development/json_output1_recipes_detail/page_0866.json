@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_866_1",
+    "title_original": "DJAGUNG BAKAR",
+    "title_normalized": "Jagung Bakar",
+    "region": null,
+    "page_number": 858,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "pipilan djagung muda 4 tjkr.",
+            "item_original": "pipilan djagung muda",
+            "item_normalized": "pipilan jagung muda",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kedju parut 2 tjkr.",
+            "item_original": "kedju parut",
+            "item_normalized": "keju parut",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "daging rebus potong tipis² dan diremas 1 ons",
+            "item_original": "daging rebus potong tipis² dan diremas",
+            "item_normalized": "daging rebus potong tipis dan diremas",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur dikotjok sampai kembang 3 btr.",
+            "item_original": "telur dikotjok sampai kembang",
+            "item_normalized": "telur dikocok sampai kembang",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula 2 sdm.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Dalam kotjokan telur ditjampur terigu, gula, diaduk sampai rata sekali, dimasukkan secara ber-turut² djagung, kedju, ¾ dari potongan² daging dan diaduk rata.",
+      "Ditaroh adonan dikaleng pembakaran, ditjiprati lebihan potongan² daging diatasnja.",
+      "Dibakar dalam oven sampai kalau pisau dimasukkan ditengah keluarnja tetap bersih."
+    ]
+  },
+  {
+    "recipe_id": "MR_866_2",
+    "title_original": "DJAGUNG TITI",
+    "title_normalized": "Jagung Titi",
+    "region": "Flores",
+    "page_number": 858,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "djagung tua 1 kg.",
+            "item_original": "djagung tua",
+            "item_normalized": "jagung tua",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kenari ½ kg.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung digoreng sangan sampai setengah masak.",
+      "Di-pukul² dengan batu seperti bikin emping.",
+      "Didjemur."
+    ]
+  },
+  {
+    "recipe_id": "MR_866_3",
+    "title_original": "DJEDJORONG",
+    "title_normalized": "Dedjorong",
+    "region": "Banten",
+    "page_number": 858,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ½ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "sagu 4 sdm.",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

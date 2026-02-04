@@ -1,0 +1,325 @@
+{
+  "last_active_category": "DJADJANAN",
+  "mappings": [
+    {
+      "recipes_original_name": "Kue Tar Susu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Telur",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Telur Gabus",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Tepung Tapioka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Terputar",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Tjendawan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Tjintjin",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Tjutjur",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Tobuu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Tumbeg",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Ular",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Wina Keras",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Woku Woku",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kumis",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kuping Gadjah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kuping Tikus",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ladrang Tepung Ubi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lapek Kembang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lapek Sagan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lapis Sanduk",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lapis Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lapis Susu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Las Elas",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Legese",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemeng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemet",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lempai",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemet Tepung Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemang Ketan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemper",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemper Aron",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemper Djagung Muda",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lemper Menado",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lempog",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Len Olen",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lentis",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lentuk",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lepa Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lepet",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lepet Bugis",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Leta",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lidah Kalo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Likak Likuk",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lingkaran Bunga",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lolise",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lompong Sagu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Londo Londo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lonon",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lopis",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lopis Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lotek",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Lumpia Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Manan Sjahmin",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Mantjo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Martabak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Martabak Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Masubah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Masupa",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Mata Sapi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Mendut Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Meniran",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Mento",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Minjolos",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Mihun Goreng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Model",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nabinolgang (Nabibi)",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nagasari",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nangka Susu Merah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nangka Susu Putih",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nanitipa",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nasi Djaba",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nasi Lamak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nasi Pandat",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nasi Tuai",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Njanak Uli",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Noga",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Noga Katjang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Nomsing",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Olet",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Oli Djepret",
+      "category": "DJADJANAN"
+    }
+  ]
+}

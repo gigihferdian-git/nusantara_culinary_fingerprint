@@ -1,0 +1,159 @@
+[
+  {
+    "recipe_id": "MR_935_1",
+    "title_original": "KUE AMBON",
+    "title_normalized": "Kue Ambon",
+    "region": null,
+    "page_number": 935,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ½ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "panili 5 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 5.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "soda kue 2½ sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 2.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjoklat 5 sdt.",
+            "item_original": "tjoklat",
+            "item_normalized": "cokelat",
+            "quantity": 5.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula pasir dikotjok sampai berbuih.",
+      "Tjoklat ditapis dan dimasukkan sambil ditapi, kemudian soda kue dan panili.",
+      "Tepung ditapis, dimasukkan ditambah air 2 sendok makan. Diaduk per-lahan².",
+      "Adonan dibuat dadar, ditengahnhja diberi kenari, digulung, dipan sampai kuning dan masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_935_2",
+    "title_original": "KUE ANEKA RUPA",
+    "title_normalized": "Kue Aneka Rupa",
+    "region": null,
+    "page_number": 935,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 1 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 3½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 13 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 13.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung susu 2 sdm.",
+            "item_original": "tepung susu",
+            "item_normalized": "tepung susu",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 btg.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "soda ½ sdt.",
+            "item_original": "soda",
+            "item_normalized": "soda",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "iris²an kenari 4 tjkr.",
+            "item_original": "iris²an kenari",
+            "item_normalized": "irisan kenari",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir 3 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

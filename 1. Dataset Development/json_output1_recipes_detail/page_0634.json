@@ -1,0 +1,210 @@
+[
+  {
+    "recipe_id": "MR_626_1",
+    "title_original": "TUMIS TAHU DENGAN SAWI",
+    "title_normalized": "Tumis Tahu Dengan Sawi",
+    "region": null,
+    "page_number": 626,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu besar 2 pt.",
+            "item_original": "tahu besar",
+            "item_normalized": "tahu besar",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "sawi bekot 1 batang",
+            "item_original": "sawi bekot",
+            "item_normalized": "sawi bekot",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "udang ½ ons",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak 2 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "tomat 1 bdj.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "salam 1 lembar",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sawi dibersihkan, di-potong², udang dibersihkan dikupas, dibuang kepalanja.",
+      "Tahu di-potong² sebesar dadu, tomat dibelah djadi empat.",
+      "Bumbu² diradjang halus, ditumis dengan minjak, diberi tomat.",
+      "Udang dimasukkan, menjusul sawi, diberi air sedikit, terachir dimasukkan tahu direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_626_2",
+    "title_original": "TUMIS TAHU TANGI",
+    "title_normalized": "Tumis Tahu Tangi",
+    "region": "Jogjakarta",
+    "page_number": 626,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 5 ptg.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kapri 1 ons",
+            "item_original": "kapri",
+            "item_normalized": "kapri",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada putih 1 sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 1 ikat ketjil",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "ikat kecil"
+          },
+          {
+            "original_text": "daun bawang 1 ikat ketjil",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat kecil"
+          },
+          {
+            "original_text": "minjak goreng 3 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu di-potong², digoreng.",
+      "Bumbu² di-potong² halus, lada dihaluskan."
+    ]
+  }
+]

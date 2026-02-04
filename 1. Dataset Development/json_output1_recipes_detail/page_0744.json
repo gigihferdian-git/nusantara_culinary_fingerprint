@@ -1,0 +1,188 @@
+[
+  {
+    "recipe_id": "MR_736_0",
+    "title_original": "PELALAH MANUK",
+    "title_normalized": "Pelalah Manuk",
+    "region": "Lombok",
+    "page_number": 736,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 6 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan lalu dipanggang, kemudian di-pukul² seperti empal.",
+      "Bumbu² dibersihkan lalu ditumis hingga harum.",
+      "Kelapa dibuat santan.",
+      "Santan dimasukkan kedalam bumbu tumis djangan sampai petjah.",
+      "Ajam jang sudah dipanggang dimasukkan, dibiarkan sebentar hingga bumbunja meresap, lalu diangkat.",
+      "Dihidangkan dalam pinggan."
+    ]
+  },
+  {
+    "recipe_id": "MR_736_1",
+    "title_original": "PERKEDEL PANGGANG",
+    "title_normalized": "Perkedel Panggang",
+    "region": null,
+    "page_number": 736,
+    "category": "Side Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 1/2 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging 2 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "roti tawar 3 iris",
+            "item_original": "roti tawar",
+            "item_normalized": "roti tawar",
+            "quantity": 3.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "kaldu 1/2 gls.",
+            "item_original": "kaldu",
+            "item_normalized": "kaldu",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala 1/3 sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine 1 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

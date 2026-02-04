@@ -1,0 +1,104 @@
+[
+  {
+    "recipe_id": "MR_1115_0",
+    "title_original": "TEK GETEK",
+    "title_normalized": "Tek Getek",
+    "region": "Madura",
+    "page_number": 1115,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung pipilan ½ kg.",
+            "item_original": "djagung pipilan",
+            "item_normalized": "jagung pipilan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Jagung disangan.",
+      "Gula dicairkan di atas wajan, jagung dicampurkan.",
+      "Dibentuk bulat."
+    ]
+  },
+  {
+    "recipe_id": "MR_1115_1",
+    "title_original": "TELUR BELANAK",
+    "title_normalized": "Telur Belanak",
+    "region": "Rembang",
+    "page_number": 1115,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "pisang radja 10 bdj.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ¼ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut halus.",
+      "Kelapa diparut, dicampur singkong dan garam.",
+      "Pisang dikupas, dipotong menjadi 2 atau 3.",
+      "Adonan dibuat bulat, di dalamnya diisi sepotong pisang.",
+      "Digoreng sampai kuning.",
+      "Gula pasir direbus dengan 2 sendok makan.",
+      "Jika telah larut, bulatan dimasukkan terus diaduk rata hingga kelihatan putih."
+    ]
+  }
+]

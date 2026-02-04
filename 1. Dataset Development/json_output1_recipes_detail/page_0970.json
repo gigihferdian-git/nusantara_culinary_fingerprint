@@ -1,0 +1,125 @@
+[
+  {
+    "recipe_id": "MR_970_0",
+    "title_original": "KUE KULIT MATJAN TUTUL",
+    "title_normalized": "Kue Kulit Macan Tutul",
+    "region": "Cianjur",
+    "page_number": 962,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 4 bdj.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, dicuci bersih, diparut.",
+      "Kelapa dibuat santan 3 gelas.",
+      "Singkong parut + santan, gula, garam dan vanili diaduk rata menjadi satu.",
+      "Dimasukkan kedalam loyang, bagian atas diratakan, ditaburi gula merah yang diiris.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_970_1",
+    "title_original": "KUE LADU",
+    "title_normalized": "Kue Ladu",
+    "region": null,
+    "page_number": 962,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan ½ kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula merah ½ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 2 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

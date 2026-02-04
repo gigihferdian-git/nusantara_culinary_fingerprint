@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_886_1",
+    "title_original": "EMPEK EMPEK DJAGUNG",
+    "title_normalized": "Empek Empek Jagung",
+    "region": "Madura",
+    "page_number": 878,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 10 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 2 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kuning telur 4 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "warna setjukupnja",
+            "item_original": "warna",
+            "item_normalized": "pewarna",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tepung djagung 2 1/2 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa muda 1 bh.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung muda dikupas, dipilih kulit djagung jang bagus² untuk bungkus.",
+      "Djagungnja disisir, direbus, diberi warna, ditiriskan.",
+      "Tepung djagung, kelapa muda jang telah diparut, kuning telur, gula pasir dan panili diaduk sampai rata, kalau terlalu kering boleh diberi santan.",
+      "Djagung jang telah direbus ditjampurkan.",
+      "Diambil klobot (kulit djagung) jang telah disediakan, dibungkus adonan ini terus dikukus sampai masak, kira² 2 djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_886_2",
+    "title_original": "ENGKAT KETAN",
+    "title_normalized": "Engkat Ketan",
+    "region": "Palembang",
+    "page_number": 878,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 3 gls.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung beras 1 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "margarine 1 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dibuat santan ± 3 gelas, dimasak sampai tinggal ± 2 gelas.",
+      "Tepung beras, tepung ketan, gula dan telur ditjampur dan diaduk rata sambil diuli.",
+      "Setelah itu dimasukkan santan sedikit demi sedikit sampai tertjampur semua.",
+      "Tjetakan dialasi kertas minjak dan diolesi margarine.",
+      "Adonan dimasukkan setebal 1/2 cm. Sebelumnja tjetakan dipanaskan dahulu."
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "recipe_id": "MR_1041_0",
+    "title_original": "PANDUT NASI",
+    "title_normalized": "Pandut Nasi",
+    "region": "Banjarmasin",
+    "page_number": 1041,
+    "category": "Nasi",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1 kg.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 8 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 8.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang 5 lbr.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 5.0,
+            "unit": "lembar"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 4 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Dibuat bungkusan² dari daun pisang.",
+      "Beras jang sudah ditjutji dimasukkan.",
+      "Ditambahkan santan jang sudah diberi garam.",
+      "Dikukus sampai masak ± 4 djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_1041_1",
+    "title_original": "PANGGANG SITI",
+    "title_normalized": "Panggang Siti",
+    "region": null,
+    "page_number": 1041,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur 1 tempat tjutji tangan",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "tempat cuci tangan"
+          },
+          {
+            "original_text": "gula pasir 1 tempat tjutji tangan",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "tempat cuci tangan"
+          },
+          {
+            "original_text": "tepung beras setjukupnja",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kulit djeruk purut sedikit",
+            "item_original": "kulit djeruk purut",
+            "item_normalized": "kulit jeruk purut",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula diputar hingga naik.",
+      "Sudah itu dimasukkan tepung jang sudah direndang sampai kuning dan didinginkan.",
+      "Diaduk semuanja hingga bertjampur benar, lalu dibubuhi djeruk purut kikis (jang dikikis).",
+      "Kalau mau memakai kelapa jang diparut, parutan kelapa itu harus direndang dulu hingga kuning warnanja."
+    ]
+  }
+]

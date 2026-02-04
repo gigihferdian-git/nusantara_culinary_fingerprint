@@ -1,0 +1,137 @@
+[
+  {
+    "recipe_id": "MR_413_1",
+    "title_original": "BISTIK DAGING SAOS SUSU",
+    "title_normalized": "Bistik Daging Saus Susu",
+    "region": null,
+    "page_number": 405,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging ½ kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "susu ½ gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "mentega 100 gr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 100.0,
+            "unit": "gram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dikerik dengan punggung pisau, dibubuhi garam dan lada.",
+      "Mentega 2/3 bagian, dikuningkan, daging dimasukkan lamanya kira² 5-10 menit hingga warnanja tjoklat dan rata, dalamnja harus mentah.",
+      "1/3 bagian mentega dipanaskan, dituangkan susu kedalamnja dan air sampai warnanja tjoklat.",
+      "Saos harus kental jang dibikin dari 1/3 lemak dan 2/3 tjoklat."
+    ]
+  },
+  {
+    "recipe_id": "MR_413_2",
+    "title_original": "BISTIK DJERMAN",
+    "title_normalized": "Bistik Jerman",
+    "region": null,
+    "page_number": 405,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging 1 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "mentega 3 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "susu 1 sdm.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang bombay 1 bh.",
+            "item_original": "bawang bombay",
+            "item_normalized": "bawang bombai",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala ¼ sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

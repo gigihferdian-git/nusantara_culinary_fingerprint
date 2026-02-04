@@ -1,0 +1,172 @@
+[
+  {
+    "recipe_id": "MR_993_0",
+    "title_original": "UNLABELED RECIPE (Instructions Only)",
+    "title_normalized": "Unlabeled Recipe (Continuation)",
+    "region": null,
+    "page_number": 985,
+    "category": "Kue",
+    "ingredient_groups": [],
+    "instructions": [
+      "Mentega, gula pasir, gula halus dan telur diputar dalam sebuah pantji sampai mengembang.",
+      "Sambil djauhi, ditjampur didalam pantji lain: terigu, maizena, soda dan kaju manis.",
+      "Kedua adonan ditjampur mendjadi satu dengan ditambah sedikit garam dan katjang tanah jang telah digoreng tanpa minjak dan ditumbuk halus.",
+      "Kemudian diaduk per-lahan², diratakan tipis² diatas papan dan dipotong kira² 2½ cm lebar dan 6 cm pandjang.",
+      "Diatasnja disemir mentega dan ditaburi gula pasir.",
+      "Ditaruh kaleng pembakaran jang disemir dengan mentega.",
+      "Achirnja dibakar dalam oven dengan api jang sedang."
+    ]
+  },
+  {
+    "recipe_id": "MR_993_1",
+    "title_original": "KUE SITRUN",
+    "title_normalized": "Kue Sitrun",
+    "region": null,
+    "page_number": 985,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 1 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 1¹/₂ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 1¹/₂ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 5 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 5.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tepung susu 2 sdm.",
+            "item_original": "tepung susu",
+            "item_normalized": "tepung susu",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "citroen essence 5 tetes",
+            "item_original": "citroen essence",
+            "item_normalized": "sitrun essence",
+            "quantity": 5.0,
+            "unit": "tetes"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dan mentega dikotjok sampai mengembang.",
+      "Kemudian dimasukkan terigu, soda, tepung susu dan citroen essence.",
+      "Adonan ini diaduk hingga tjampur betul.",
+      "Digiling dan kemudian ditjetak dalam bentuk jang diiingini.",
+      "Dibakar dalam oven dengan api atas dan bawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_993_2",
+    "title_original": "KUE SUMPING",
+    "title_normalized": "Kue Sumping",
+    "region": null,
+    "page_number": 985,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 mgk.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "tepung kandji 1 mgk.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "santan kental 8 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 8.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah ¹/₄ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "ubi djalar merah ¹/₂ kg.",
+            "item_original": "ubi djalar merah",
+            "item_normalized": "ubi jalar merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "pandan 3 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "pandan",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun pisang 2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

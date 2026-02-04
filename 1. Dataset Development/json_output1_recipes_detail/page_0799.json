@@ -1,0 +1,70 @@
+[
+  {
+    "recipe_id": "MR_791_0",
+    "title_original": "SAMBAL WIDJEN",
+    "title_normalized": "Sambal Wijen",
+    "region": null,
+    "page_number": 791,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "widjen ¹/₂ ons",
+            "item_original": "widjen",
+            "item_normalized": "wijen",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula ¹/₂ sdt.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lombok 5 bdj",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam ¹/₂ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Widjen digoreng sangan, ditumbuk halus.",
+      "Bumbu² dihaluskan sudah itu ditjampurkan."
+    ]
+  }
+]

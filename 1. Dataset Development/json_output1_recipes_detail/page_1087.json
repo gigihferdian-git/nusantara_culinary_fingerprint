@@ -1,0 +1,194 @@
+[
+  {
+    "recipe_id": "MR_1079_1",
+    "title_original": "RUDJAK TJEROBO",
+    "title_normalized": "Rujak Jerobo",
+    "region": null,
+    "page_number": 1079,
+    "category": "Makanan Penutup",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pisang batu muda 1 bh.",
+            "item_original": "pisang batu muda",
+            "item_normalized": "pisang batu muda",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "pepaja muda 1 bh.",
+            "item_original": "pepaja muda",
+            "item_normalized": "pepaya muda",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djambu bidji 1 bh.",
+            "item_original": "djambu bidji",
+            "item_normalized": "jambu biji",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "belimbing 1 bh.",
+            "item_original": "belimbing",
+            "item_normalized": "belimbing",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kawista 1 bh.",
+            "item_original": "kawista",
+            "item_normalized": "kawista",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bahan-bahan diparut dengan parut gobet.",
+      "Bumbu-bumbu dihaluskan.",
+      "Bumbu dan bahan ditumbuk menjadi satu dan diberi air sedikit."
+    ]
+  },
+  {
+    "recipe_id": "MR_1079_2",
+    "title_original": "SAGON DJAGUNG",
+    "title_normalized": "Sagon Jagung",
+    "region": "Sumatera Barat",
+    "page_number": 1079,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 4 gls.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 2 gls.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dicampur dengan gula, garam, vanili dan tepung.",
+      "Diaduk hingga rata.",
+      "Dicetak dalam cetakan rata.",
+      "Sagon dibakar dalam oven."
+    ]
+  },
+  {
+    "recipe_id": "MR_1079_3",
+    "title_original": "SAGON KETAN",
+    "title_normalized": "Sagon Ketan",
+    "region": null,
+    "page_number": 1079,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa parut 1 kg.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung ketan 2 ons",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 1 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

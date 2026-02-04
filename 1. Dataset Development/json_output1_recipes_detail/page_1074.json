@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_1066_1",
+    "title_original": "PUTRI KENTJANA",
+    "title_normalized": "Putri Kencana",
+    "region": "Banjumas",
+    "page_number": 1066,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tolo 1/2 kg.",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa setengah tua1 bh.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "pelengkap",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bidji katjang direndam 1 malam, direbus sampai masak.",
+      "Kelapa diparut.",
+      "Kelapa parut dan gula diberi air 2 gelas dimasak sampai berminjak.",
+      "Rebusan katjang dan garam dimasukkan, di-aduk² sampai kental seperti membuat djenang atau dodol.",
+      "Dibungkus dengan kertas minjak atau kertas pilus, bentuknja menurut kehendak masing²."
+    ]
+  },
+  {
+    "recipe_id": "MR_1066_2",
+    "title_original": "PUTRI BARUKUNG",
+    "title_normalized": "Putri Barukung",
+    "region": "Bandjarmasin",
+    "page_number": 1066,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air kapur 1 sdm.",
+            "item_original": "air kapur",
+            "item_normalized": "air kapur sirih",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air pandan 1 gls.",
+            "item_original": "air pandan",
+            "item_normalized": "air pandan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula djawa 2 ons",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras dan tepung ketan dibuat adonan dengan air kapur, garam dan air pandan dibuat adonan jang kental dan dapat digulung.",
+      "Gula djawa dan kelapa parut dimasak, ditambah garam, dibuat inti.",
+      "Adonan dibentuk bulat pandjang, diisi inti dikukus."
+    ]
+  }
+]

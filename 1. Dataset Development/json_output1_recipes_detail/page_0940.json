@@ -1,0 +1,95 @@
+[
+  {
+    "recipe_id": "MR_940_1",
+    "title_original": "KRUPUK GADUNG",
+    "title_normalized": "Kerupuk Gadung",
+    "region": null,
+    "page_number": 932,
+    "category": "Kerupuk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "gatot gadung kering 1 kg.",
+            "item_original": "gatot gadung kering",
+            "item_normalized": "gatot gadung kering",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang 6 siung",
+            "item_original": "bawang",
+            "item_normalized": "bawang",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gatot gadung kering dipercik-i air garam yang sudah diberi bawang.",
+      "Dijemur sampai kering.",
+      "Digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_940_2",
+    "title_original": "KRUPUK GURIH",
+    "title_normalized": "Kerupuk Gurih",
+    "region": null,
+    "page_number": 932,
+    "category": "Kerupuk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1/2 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "terigu 1 ons",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "vetsin 1/2 sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam halus 3/4 sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 0.75,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

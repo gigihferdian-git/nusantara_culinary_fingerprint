@@ -1,0 +1,114 @@
+[
+  {
+    "recipe_id": "MR_1037_0",
+    "title_original": "NANGKA SUSU MERAH",
+    "title_normalized": "Nangka Susu Merah",
+    "region": "Bandjarmasin",
+    "page_number": 1029,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ¼ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula djawa ½ kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental ½ sdm.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air panas 1 gls.",
+            "item_original": "air panas",
+            "item_normalized": "air panas",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "½ kg tepung beras, air panas dan gula djawa didjadjikan adonan jang tjair.",
+      "Santan kental ditambah garam dan tepung sisa.",
+      "Setelah adonan pertama masak, adonan ini dituangkandiatasnja, dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1037_1",
+    "title_original": "NANGKA SUSU PUTIH",
+    "title_normalized": "Nangka Susu Putih",
+    "region": "Bandjarmasin",
+    "page_number": 1029,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ¼ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ¼ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air daun pandan 1 gls.",
+            "item_original": "air daun pandan",
+            "item_normalized": "air daun pandan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Setengah bagian tepung beras dibuat adonan tjair dengan air panas, gula dan air daun pandan.",
+      "Adonan ini dimasukkan dalam lojang, dikukus sampai masak.",
+      "Untuk lapisan kedua dibuat adonan dari santan kental, garam dan sisa tepung beras."
+    ]
+  }
+]

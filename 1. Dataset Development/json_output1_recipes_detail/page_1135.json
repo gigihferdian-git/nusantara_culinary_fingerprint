@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": "MR_1135_1",
+    "title_original": "TJERIPING SUKUN",
+    "title_normalized": "Keripik Sukun",
+    "region": "Rembang",
+    "page_number": 1127,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sukun 2 bh.",
+            "item_original": "sukun",
+            "item_normalized": "sukun",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sukun dikupas, dibersihkan, diiris ketjil² dan tipis.",
+      "Gula dilarutkan dalam air ± ½ tjangkir.",
+      "Minjak dipanaskan, sukun dimasukkan, digoreng (djangan terlalu banjak).",
+      "Bila sudah ½ masak, minjak dikurangi, dituang tjairan gula ± 2 sendok, terus digoreng sampai masak dan kering gulanja. Begitu seterusnja sampai semuanja masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1135_2",
+    "title_original": "TJIMPLUNG",
+    "title_normalized": "Cimplung",
+    "region": null,
+    "page_number": 1127,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sukun 2 bh.",
+            "item_original": "sukun",
+            "item_normalized": "sukun",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kaju manis 1 rdj.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sukun direbus/dibakar menurut kesukaan, dipotong ketjil² persegi."
+    ]
+  }
+]

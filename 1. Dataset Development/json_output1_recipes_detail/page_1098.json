@@ -1,0 +1,112 @@
+[
+  {
+    "recipe_id": "MR_1098_0",
+    "title_original": "(Implied Serabi)",
+    "title_normalized": "Serabi",
+    "region": null,
+    "page_number": 89,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Adonan (Lanjutan)",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "air 1 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Santan Kental",
+        "original_header": "Santan kental :",
+        "ingredients": [
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1/4 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pandan 1 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja :",
+      "1. Terigu dimasukkan dalam tempat adonan.",
+      "2. Dibuat lobang di-tengah² tepung.",
+      "3. Telur dimasukkan di-tengah² tepung, ditambahakan ¼ gelas santan, dikatjau dari tengah ketepi.",
+      "4. Adonan di-pukul² sampai tidak melekat pada tempat adonan.",
+      "5. Ditambahkan santan jang ¼ gelas dan diaduk sampai rata.",
+      "6. Tjetakan serabi dipanaskan (tjobek tanah jang ketjil), setelah panas, adonan serabi (± 2 sdm) dituangkan.",
+      "7. Tjetakan ditutup, dibiarkan sampai serabi masak.",
+      "8. Dihidangkan dengan sirop gula merah dan santan kental.",
+      "Sirup gula merah :",
+      "Tjara membuatnja :",
+      "Air, gula dan pandan direbus sampai baunja sedap, kemudian disaring lalu direbus lagi sampai mendidih.",
+      "Santan kental :",
+      "Tjara membuatnja :",
+      "Santan direbus dengan pandan dan garam sambil diaduk, dibiarkan mendidih ± 5 menit."
+    ]
+  },
+  {
+    "recipe_id": "MR_1098_1",
+    "title_original": "SERIPING KENTANG",
+    "title_normalized": "Seriping Kentang",
+    "region": "Wonosobo",
+    "page_number": 89,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "kentang 1 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kapur sirih sedikit",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja :",
+      "1. Kentang dikupas, direndam air.",
+      "2. Di-iris² tipis, direndam air kapur selama ± 10 djam, ditjutji",
+      "i."
+    ]
+  }
+]

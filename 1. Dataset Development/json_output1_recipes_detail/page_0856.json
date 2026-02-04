@@ -1,0 +1,187 @@
+[
+  {
+    "recipe_id": "MR_856_0",
+    "title_original": "KUE LAPIS SUSUN NENAS (Lanjutan)",
+    "title_normalized": "Kue Lapis Susun Nanas (Lanjutan)",
+    "region": null,
+    "page_number": 848,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "alas nanas",
+        "original_header": "Untuk alas nanas",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 1 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula tumbuk 1 tjkr.",
+            "item_original": "gula tumbuk",
+            "item_normalized": "gula tumbuk",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "sedikit kulit djeruk purut diparut.",
+            "item_original": "sedikit kulit djeruk purut diparut",
+            "item_normalized": "kulit jeruk purut parut",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "mentega 1 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kuning telur 1 tjkr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "tambahan",
+        "original_header": "(Dari instruksi)",
+        "ingredients": [
+          {
+            "original_text": "selai ardbei atau lainnja",
+            "item_original": "selai ardbei atau lainnja",
+            "item_normalized": "selai arbei atau lainnya",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "nenas",
+            "item_original": "nenas",
+            "item_normalized": "nanas",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "4 putih telur",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula tumbuk sebanjak 3 tjangkir",
+            "item_original": "gula tumbuk",
+            "item_normalized": "gula tumbuk",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kismis",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "gintju tjoklat",
+            "item_original": "gintju tjoklat",
+            "item_normalized": "gincu cokelat",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "daun jang warnanja hidjau",
+            "item_original": "daun jang warnanja hidjau",
+            "item_normalized": "daun hijau",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula diaduk hingga naik.",
+      "Dimasukkan kuning telur dan kulit djeruk purut diparut lalu ditjampur pula tepung kedalamnja, semuanja diaduk hingga bertjampur betul serta dibakar dalam sebuah tjetakan bundar, lebar 14 cm dan tebal 1 cm, sampai kering.",
+      "Lalu kita susun kue tersebut didalam sebuah piring jang tjantik serta tjeper, sesudah itu diambil atasnja dan diletakkan diatas piring tadi.",
+      "Disapu dengan selai ardbei atau lainnja hingga rata.",
+      "Diatasnja diletakkan 1 lapis cake jang pertama.",
+      "Diatas ini disusun nenas lalu diletakkan satu lapis cake lagi disapu pula dengan selai diatasnja.",
+      "Begitu seterusnja hingga semua cake jang dibakar itu habis disusun hingga setinggi sebuah nenas.",
+      "Sekarang diputar pula 4 putih telur hingga naik sambil ditjampur djuga dengan gula tumbuk sebanjak 3 tjangkir.",
+      "Sekeliling kue nenas begitu djuga bagian sebelah atasnja disapu dengan adonan tersebut, disemprotkan sebagai sisik nenas dan tiap sisik ditekankan sebuah kismis, djuga dibagian keliling alas kue nenas ini disemprotkan adonan putih telur dengan ber-matjam² bunga²an.",
+      "Sesudah itu diletakkan kue tersebut kembali kedalam pembakaran untuk mengembangkan adonan putih telur.",
+      "Supaja menjerupai sisik nenas betul diberi gintju tjoklat. Diatasnja diletakkan daun jang warnanja hidjau."
+    ]
+  },
+  {
+    "recipe_id": "MR_856_1",
+    "title_original": "CAKE SINGKONG",
+    "title_normalized": "Kue Singkong",
+    "region": null,
+    "page_number": 848,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "santan 1½ gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "serbuk tjoklat 1¼ sdt.",
+            "item_original": "serbuk tjoklat",
+            "item_normalized": "serbuk cokelat",
+            "quantity": 1.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

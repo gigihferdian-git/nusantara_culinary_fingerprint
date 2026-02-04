@@ -1,0 +1,141 @@
+[
+  {
+    "recipe_id": "MR_706_1",
+    "title_original": "TERI GORENG",
+    "title_normalized": "Teri Goreng",
+    "region": "Rembang",
+    "page_number": 706,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "teri nasi jang masih basah 4 ons",
+            "item_original": "teri nasi jang masih basah",
+            "item_normalized": "teri nasi basah",
+            "quantity": 4.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung beras/terigu 3 sdm.",
+            "item_original": "tepung beras/terigu",
+            "item_normalized": "tepung beras/terigu",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kemiri 4 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada bubuk ½ sdt.",
+            "item_original": "lada bubuk",
+            "item_normalized": "lada bubuk",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Teri ditjuji bersih.",
+      "Bumbu dihaluskan.",
+      "Semua bahan ditjampur, ditambah tepung beras, diberi air satu sendok makan, kemudian diaduk rata.",
+      "Dibuat bulat-bulatan sebesar kelereng.",
+      "Digoreng sampai kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_706_2",
+    "title_original": "TJULO TJULO",
+    "title_normalized": "Culu Culu",
+    "region": "Ambon",
+    "page_number": 706,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan tongkol (kakap) 1 ekor",
+            "item_original": "ikan tongkol (kakap)",
+            "item_normalized": "ikan tongkol (kakap)",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan jang besar dibersihkan, dioles dengan garam, dibungkus dengan daun pisang, kemudian dipanggang.",
+      "Apinja djangan terlalu besar, supaja matang dalamnja."
+    ]
+  }
+]

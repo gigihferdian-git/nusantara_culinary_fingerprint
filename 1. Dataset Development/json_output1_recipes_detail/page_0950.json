@@ -1,0 +1,137 @@
+[
+  {
+    "recipe_id": "MR_950_1",
+    "title_original": "KUE BOLU KUKUS",
+    "title_normalized": "Kue Bolu Kukus",
+    "region": null,
+    "page_number": 942,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terigu 2 gls.",
+            "item_original": "terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula 1 gls.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur 4 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air kelapa ½ gls.",
+            "item_original": "air kelapa",
+            "item_normalized": "air kelapa",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan ½ gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "panili setjukupnja",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dikotjok dengan telur sampai berkembang.",
+      "Air santan dan air kelapa dimasukkan sedikit demi sedikit sampai habis.",
+      "Kemudian dimasukkan tepung, panili dan garam dengan diaduk.",
+      "Adonan ini dimasukkan kedalam tjetakan lapis, lalu dikukus.",
+      "Kalau sudah kelihatan mengambang dan retak empat baru diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_950_2",
+    "title_original": "KUE BUAH²AN DENGAN VLA",
+    "title_normalized": "Kue Buah-buahan Dengan Vla",
+    "region": null,
+    "page_number": 942,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur 12 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 12.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula ½ kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung 3½ ons",
+            "item_original": "tepung",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "selai nanas 1 prg.",
+            "item_original": "selai nanas",
+            "item_normalized": "selai nanas",
+            "quantity": 1.0,
+            "unit": "porsi"
+          },
+          {
+            "original_text": "vla room kental setjukupnja",
+            "item_original": "vla room kental",
+            "item_normalized": "vla kental",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "buah²an dalam kaleng sedikit",
+            "item_original": "buah²an dalam kaleng",
+            "item_normalized": "buah-buahan kalengan",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kuning telur diaduk bersama gula, tepung dan panili.",
+      "Achirnja dimasukkan putih telur jang sudah dikotjok dan diaduk bersama.",
+      "Adonan dituangkan dalam tjetakan setebal ½ djari."
+    ]
+  }
+]

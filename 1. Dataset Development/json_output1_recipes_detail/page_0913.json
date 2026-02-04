@@ -1,0 +1,155 @@
+[
+  {
+    "recipe_id": "MR_905_1",
+    "title_original": "KAJU MANIS",
+    "title_normalized": "Kayu Manis",
+    "region": null,
+    "page_number": 905,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 8 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 8.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kenari setjukupnja",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "susu manis 2 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bakpoeder 2 sdt.",
+            "item_original": "bakpoeder",
+            "item_normalized": "baking powder",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kaju manis ditumbuk 1/2 sdt.",
+            "item_original": "kaju manis ditumbuk",
+            "item_normalized": "kayu manis bubuk",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dan mentega diputar sampai mengembang.",
+      "Sesudah itu dimasukkan terigu, kaju manis, susu, bakpoeder dan panili.",
+      "Diaduk hingga rata.",
+      "Lalu adonan digiling dan di-potong².",
+      "Sebelah atas disapu dengan kuningnja telur serta ditaburi kenari tjintjang.",
+      "Dibakar dalam oven dengan api atas dan bawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_905_2",
+    "title_original": "KAKITJAK BUDJANG",
+    "title_normalized": "Kakicak Bujang",
+    "region": "Banjarmasin",
+    "page_number": 905,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/4 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air pandan 1/2 gls.",
+            "item_original": "air pandan",
+            "item_normalized": "air pandan",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air kapur 1 sdm.",
+            "item_original": "air kapur",
+            "item_normalized": "air kapur",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 3 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

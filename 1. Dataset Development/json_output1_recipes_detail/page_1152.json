@@ -1,0 +1,138 @@
+[
+  {
+    "recipe_id": "MR_1144_0",
+    "title_original": "CACAO TELUR",
+    "title_normalized": "Cokelat Telur",
+    "region": null,
+    "page_number": 1144,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu segar 1 gls.",
+            "item_original": "susu segar",
+            "item_normalized": "susu segar",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "cacao 2 sdt.",
+            "item_original": "cacao",
+            "item_normalized": "kakao",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 3 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Cacao dan gula ditjampur kering diberi susu, direbus djangan sampai petjah.",
+      "Didinginkan, ditjampur dengan telur jang telah dikotjok."
+    ]
+  },
+  {
+    "recipe_id": "MR_1144_1",
+    "title_original": "ES KRIM ADPOKAT",
+    "title_normalized": "Es Krim Alpukat",
+    "region": null,
+    "page_number": 1144,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "adpokat matang 1 gls.",
+            "item_original": "adpokat matang",
+            "item_normalized": "alpukat matang",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula 2/3 gls.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.67,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "susu entjer 1½ gls.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "maizena 2 sdm.",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kopi extract 2 sdm.",
+            "item_original": "kopi extract",
+            "item_normalized": "ekstrak kopi",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Susu dimasak dengan gula sampai mendidih.",
+      "Maizena dan kopi extract atau kopi kental sadja, diaduk lalu dituangkan susu kedalamnja sampai habis.",
+      "Setelah itu dimasak kembali sambil diaduk terus supaja djangan ber-bidji².",
+      "Kalau adonan ini sudah dingin baru dimasukkan adpokat lalu diputar didalam putaran es sampai keras."
+    ]
+  },
+  {
+    "recipe_id": "MR_1144_2",
+    "title_original": "ES BUAH²AN",
+    "title_normalized": "Es Buah-buahan",
+    "region": null,
+    "page_number": 1144,
+    "category": "Es",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung maizena ½ mgk.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 0.5,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

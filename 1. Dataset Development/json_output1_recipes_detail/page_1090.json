@@ -1,0 +1,112 @@
+[
+  {
+    "recipe_id": "MR_1082_1",
+    "title_original": "SAMPENG",
+    "title_normalized": "Sampeng",
+    "region": "Pamekasan",
+    "page_number": 1082,
+    "category": "Kue / Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "nangka tua belum masak 1/4 bh.",
+            "item_original": "nangka tua belum masak",
+            "item_normalized": "nangka tua belum masak",
+            "quantity": 0.25,
+            "unit": "buah"
+          },
+          {
+            "original_text": "dedak djagung 1 ons",
+            "item_original": "dedak djagung",
+            "item_normalized": "dedak jagung",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/2 btr",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kapur sirih 1 sdt",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Nangka dikupas, hatinja dibuang, ditjintjang, bidji jang tua dibuang.",
+      "Ditjampur dengan dedak djagung jang telah disiram dengan air kapur.",
+      "Dikukus sampai masak.",
+      "Kelapa diparut diberi garam.",
+      "Dimakan dengan kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_1082_2",
+    "title_original": "SANTELING",
+    "title_normalized": "Santeling",
+    "region": null,
+    "page_number": 1082,
+    "category": "Kue / Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketela pohon 1 kg.",
+            "item_original": "ketela pohon",
+            "item_normalized": "ketela pohon (singkong)",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1/4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/2 sdt",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketela pohon dikupas, ditjutji, terus diparut, lalu ditjampur dengan garam.",
+      "Kelapa diparut, ditjampur dengan adonan parutan ketela pohon, garam dengan gula pasir.",
+      "Jang 1/3 bagian ditjampur dengan warna merah.",
+      "Jang 2/3 bagian diratakan dalam lojang dan diatasnja ditutup dengan lapisan (1/3 bagian) jang berwarna merah.",
+      "Lojang dengan isinja dikukus sampai masak.",
+      "Djika akan dimakan, santeling ini dapat di-potong²."
+    ]
+  }
+]

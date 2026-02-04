@@ -1,0 +1,135 @@
+[
+  {
+    "recipe_id": "MR_1153_1",
+    "title_original": "TJENDOL MAIZENA",
+    "title_normalized": "Cendol Maizena",
+    "region": null,
+    "page_number": 1153,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung maizena 1 tjkr.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air 3 tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "santan 4 tjkr.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "daun pandan setjukupnja",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "es dan gula setjukupnja",
+            "item_original": "es dan gula",
+            "item_normalized": "es dan gula",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "aren setjukupnja",
+            "item_original": "aren",
+            "item_normalized": "gula aren",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air didihkan.",
+      "Tepung serta air pandan dan air kapur sirih dientjerkan dengan satu tjangkir air.",
+      "Kemudian dituangkan per-lahan² kedalam air mendidih, dengan terus dikatjau.",
+      "Kalau telah bagus kentalnja, diangkat pantjinja kebawah.",
+      "Dan bubur ini disendok kedalam kaleng ber-lobang² serta di-tekan² dengan sendok.",
+      "Tjendol ditampung dengan pantji jang berisi air dingin, santan diberi garam.",
+      "Didihkan sebentar supaja djangan lekas basi.",
+      "Menghidangkannja tiga sendok makan gula, setengah gelas tjendol, ¹/₄ gelas santan dan sepotong es, dimasukkan kedalam gelas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1153_2",
+    "title_original": "TJENDOL SAGU (Ambon)",
+    "title_normalized": "Cendol Sagu (Ambon)",
+    "region": "Ambon",
+    "page_number": 1153,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bidji sagu 2 ons",
+            "item_original": "bidji sagu",
+            "item_normalized": "biji sagu",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ½ ons",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "air mentah 5 gls.",
+            "item_original": "air mentah",
+            "item_normalized": "air",
+            "quantity": 5.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air dan gula dimasak sampai mendidih.",
+      "Daun pandan dimasukkan, kemudian bidji sagu djuga.",
+      "Kelapa diparut, dibuat santan sampai mendidih.",
+      "Untuk menjadjikan, sagu ditjairkan dan dituang kedalam gelas, lalu ditjampur dengan santan.",
+      "Sudah itu diminum seperti tjendol (boleh pakai es)."
+    ]
+  }
+]

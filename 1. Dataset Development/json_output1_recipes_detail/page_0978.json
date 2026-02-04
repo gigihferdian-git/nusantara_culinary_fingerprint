@@ -1,0 +1,130 @@
+[
+  {
+    "recipe_id": "MR_970_1",
+    "title_original": "KUE MENDUT",
+    "title_normalized": "Kue Mendut",
+    "region": null,
+    "page_number": 970,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ½ tua ½ btr.",
+            "item_original": "kelapa ½ tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa tua ½ btr.",
+            "item_original": "kelapa tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung ketan 1 sdt.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam ½ bks.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "bahan warna 5 hl.",
+            "item_original": "bahan warna",
+            "item_normalized": "pewarna makanan",
+            "quantity": 5.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "daun sudji 2 hl.",
+            "item_original": "daun sudji",
+            "item_normalized": "daun suji",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "daun pandan 1 gls.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang ½ plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 0.5,
+            "unit": "pelepah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa tua diparut, dibuat santan kental, dimasak dan diberi garam mendjadi areh.",
+      "Tepung ketan dibagi dua, sebagian diberi warna dan ditambah air dan sebagian lagi tetap putih.",
+      "Daun pandan dipotong ketjil².",
+      "Dibentuk bulat² sebesar kelereng dengan diisi enten².",
+      "Dibungkusi daun pisang berbentuk tum, tiap bungkus 2 atau 3 buah dibatasi daun pandan, disiram santan kental (areh).",
+      "Dikukus hingga masak."
+    ],
+    "related_steps": [
+      {
+        "related_title_original": "Tjara membuat isinja :",
+        "related_title_normalized": "Cara membuat isian :",
+        "related_instructions": [
+          "Kelapa ½ tua diparut.",
+          "Gula merah ditjairkan, disaring, dimasukkan kelapa parut, dimasukkan hingga kering."
+        ]
+      }
+    ]
+  },
+  {
+    "recipe_id": "MR_970_2",
+    "title_original": "KUE MOTE",
+    "title_normalized": "Kue Mote",
+    "region": null,
+    "page_number": 970,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bidji mote (mutiara) ½ kg.",
+            "item_original": "bidji mote (mutiara)",
+            "item_normalized": "biji mutiara",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "recipe_id": "MR_851_0",
+    "title_original": "BURAS",
+    "title_normalized": "Buras",
+    "region": null,
+    "page_number": 843,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ¹/₄ kg.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¹/₃ bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun pandan",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras dikukus sampai ¹/₂ masak.",
+      "Kelapa diambil santannja.",
+      "Dimasak bersama sereh, salam, garam, diaduk sampai mendidih.",
+      "Beras ¹/₂ masak dikaru dengan santan tersebut.",
+      "Bila telah kering, ditumbuk supaja agak hantjur.",
+      "Dibungkusi daun pisang, tiap bungkus 3 sendok makan.",
+      "Tiap dua bungkusan diikat dengan merang dekat udjungnja.",
+      "Direbus sampai masak."
+    ]
+  }
+]

@@ -1,0 +1,325 @@
+{
+  "last_active_category": "DJADJANAN",
+  "mappings": [
+    {
+      "recipes_original_name": "Kampalo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kapurung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kararabah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Katemel",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Katjang Asin",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Katjang Atom",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Katjang Bawang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Katjepit Mandi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kejabu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kekiping",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kelatak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kelepon",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kelepon Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kelepon Ubi Djalar",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kelesong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kelentji Si Upik",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kembang Gempol",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kembang Olang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kembang Patjar",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kemplang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Keripik Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketan Goreng Pisang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketan Srikaja",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketela Kurma",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketjok Ketan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketjiput",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketoprak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ketupat Ketan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Keladan (Lidah Kuda)",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Klenjem",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kletji",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kluring",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kluwo Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kokole",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kolak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kolak Kolang Kaling",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kolak Kopur",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kolak Labu Merah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kolak Talas",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kolak Ubi Djalar",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krakeling Bandeng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krasikan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krawon Tjiantel",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kroket Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kroket Tempe",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krupuk Babi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krupuk Benhur",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krupuk Gadung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krupuk Gurih",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Krupuk Kadarijah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Adas",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Ku",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Ambon",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Aneka Rupa",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Apam Sailan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Arai Pinang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Asia",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Asin",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Bawang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Bangket",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Basung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Batang Pohon",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Bidji Bidji",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Bidji Nangka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Bolu Kukus",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Buah'an dengan Vla",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Bunga Mai",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Chasidah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Dadar",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Daun Daun",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Delapan Djam",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Djae",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Don",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Dwiwarna",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Es Paes",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Gandus",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Gapit",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Kue Gelang",
+      "category": "DJADJANAN"
+    }
+  ]
+}

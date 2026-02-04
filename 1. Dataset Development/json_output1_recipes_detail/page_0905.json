@@ -1,0 +1,214 @@
+[
+  {
+    "recipe_id": "MR_905_1",
+    "title_original": "GOLUT",
+    "title_normalized": "Golut",
+    "region": null,
+    "page_number": 897,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1/2 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ikan asin 1 1/2 ons",
+            "item_original": "ikan asin",
+            "item_normalized": "ikan asin",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 1/2 ons",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 1/2 ons.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, diambil santannja 5 gelas.",
+      "Beras ketan dikukus, dikaru dengan santan ditambah garam.",
+      "Dibentuk bulat² tipis, diisi ikan asin.",
+      "Digoreng sampai matang."
+    ]
+  },
+  {
+    "recipe_id": "MR_905_2",
+    "title_original": "GORENG NANGKA",
+    "title_normalized": "Goreng Nangka",
+    "region": "Sumbawa",
+    "page_number": 897,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging jang bertulang 1/4 kg.",
+            "item_original": "daging jang bertulang",
+            "item_normalized": "daging yang bertulang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "nangka muda 2 kg.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 ons",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 5 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 6 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djinten 1/2 sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1/2 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 3 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 3.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun salam 4 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun djeruk purut 3 btr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

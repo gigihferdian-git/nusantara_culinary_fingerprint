@@ -1,0 +1,105 @@
+[
+  {
+    "recipe_id": "MR_1034_0",
+    "title_original": "NOMSING",
+    "title_normalized": "Nomsing",
+    "region": null,
+    "page_number": 1034,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula djawa ½ kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan air direbus sampai hancur.",
+      "Kelapa diparut, dimasukkan ke dalam no. 1, dijerangkan sampai kental.",
+      "Tepung dimasukkan, diaduk yang rata sampai masak.",
+      "Dicetak bulat panjang seperti kroket dengan pakai merang."
+    ]
+  },
+  {
+    "recipe_id": "MR_1034_1",
+    "title_original": "OLET",
+    "title_normalized": "Olet",
+    "region": "Madura",
+    "page_number": 1034,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong (sabrang) ½ kg.",
+            "item_original": "singkong (sabrang)",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang oto 1 ons",
+            "item_original": "katjang oto",
+            "item_normalized": "kacang oto",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sabrang diparut."
+    ]
+  }
+]

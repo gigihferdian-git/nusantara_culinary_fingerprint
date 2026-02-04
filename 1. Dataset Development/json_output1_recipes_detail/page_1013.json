@@ -1,0 +1,157 @@
+[
+  {
+    "recipe_id": "MR_1005_0",
+    "title_original": "LEMET",
+    "title_normalized": "Lemet",
+    "region": null,
+    "page_number": 1005,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ tua ½ btr.",
+            "item_original": "kelapa ½ tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "nangka 10 bdj.",
+            "item_original": "nangka",
+            "item_normalized": "nangka",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut, nangka diiris tipis.",
+      "Kelapa dibersihkan, diparut, dicampur dengan parutan singkong dan nangka.",
+      "Sesendok demi sesendok adonan ini ditaruh dalam daun pisang dibungkus seperti lontong.",
+      "Dikukus hingga masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1005_1",
+    "title_original": "LEMPAI",
+    "title_normalized": "Lempai",
+    "region": "Palembang",
+    "page_number": 1005,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "durian 1 kg.",
+            "item_original": "durian",
+            "item_normalized": "durian",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Durian yang sudah masak, diambil dagingnya.",
+      "Dicampur gula, diaduk rata.",
+      "Dimasukkan dalam bambu yang sedang tuanya. Sebelumnya bambu ini dicuci dulu.",
+      "Diisi 3/4-nya saja",
+      "Dibakar dengan api sedang, sampai kuning.",
+      "Kulit dari bambu dikupas, tinggal bagian putihnya saja.",
+      "Dihidangkan terpotong sedang."
+    ]
+  },
+  {
+    "recipe_id": "MR_1005_2",
+    "title_original": "LEMET TEPUNG DJAGUNG",
+    "title_normalized": "Lemet Tepung Jagung",
+    "region": null,
+    "page_number": 1005,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 2 gls.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "parutan kelapa 1 gls. (½ kelapa besar)",
+            "item_original": "parutan kelapa",
+            "item_normalized": "parutan kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1 gls.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental ½ gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

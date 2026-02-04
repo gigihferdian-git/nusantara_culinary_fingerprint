@@ -1,0 +1,147 @@
+[
+  {
+    "recipe_id": "MR_889_0",
+    "title_original": "GADO GADO",
+    "title_normalized": "Gado Gado",
+    "region": null,
+    "page_number": 88,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1/4 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "asam muda 4 mata",
+            "item_original": "asam muda",
+            "item_normalized": "asam muda",
+            "quantity": 4.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "kelapa 1/4 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bahan² sajuran dipetiki, di-potong² atau dibiarkan menurut keadaannja sesuai dengan matjamnja.",
+      "Dibersihkan dan ditjutji.",
+      "Kol, katjang pandjang, buntjis dan taoge direbus, ketjuali daun selada dan ketimun.",
+      "Tahu dan tempe diberi asam dan garam terus digoreng.",
+      "Krupuk, emping dan bawang merah jang telah diiris halus digoreng.",
+      "Katjang tanah digoreng.",
+      "Telur bebek direbus keras.",
+      "Kelapa diparut dan diambil santannja 1 tjangkir.",
+      "Gorengan katjang tanah bersama bumbu²: lombok merah, gula merah, terasi, bawang putih, ditumbuk sampai halus.",
+      "Gorengan katjang jang telah ditumbuk halus dan dibumbui itu direbus dalam air santan, ditambah tjuka dan sedikit air. Dibiarkan mendidih, diaduk sampai keluar minjaknja dan merupakan saos katjang.",
+      "Sajuran diatur diatas pinggan, dimulai dengan daun selada sebagai padjangan pinggiran, disusul oleh sajuran² lainnja. Diatas sajuran disusun ketimun, goreng tahu dan goreng tempe jang di-iris² kemudian goreng kerupuk dan emping serta telur bebek jang di-iris² tipis. Diatas sendiri ditaburi gorengan bawang merah.",
+      "Sajuran jang tersusun rapih ini, ada jang masak dan ada jang mentah; dihidangkan dengan saos katjang."
+    ]
+  },
+  {
+    "recipe_id": "MR_889_1",
+    "title_original": "GADO GADO MENTAH",
+    "title_normalized": "Gado Gado Mentah",
+    "region": null,
+    "page_number": 88,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "katjang pandjang 1 ikt.",
+            "item_original": "katjang pandjang",
+            "item_normalized": "kacang panjang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "taoge 1 bh.",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak goreng 1/4 btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "botol"
+          },
+          {
+            "original_text": "katjang tanah 2 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

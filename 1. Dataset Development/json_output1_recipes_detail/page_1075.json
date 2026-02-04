@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_1067_1",
+    "title_original": "PUTU BAKIRIS",
+    "title_normalized": "Putu Bakiris",
+    "region": null,
+    "page_number": 1067,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 ons.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "batang bambu",
+            "item_original": "batang bambu",
+            "item_normalized": "batang bambu",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung ditjamput dengan gula, garam.",
+      "Batang bambu dibelah dua, lalu adonan dimasukkan kedalam batang bambu.",
+      "Putu dikukus sampai masak.",
+      "Setelah masak didjemur sampai kering betul."
+    ]
+  },
+  {
+    "recipe_id": "MR_1067_2",
+    "title_original": "PUTU BUMBUNG",
+    "title_normalized": "Putu Bumbung",
+    "region": null,
+    "page_number": 1067,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 3 tjkr.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa parutan 1 prg. ketjil",
+            "item_original": "kelapa parutan",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "porsi kecil"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pandan wangi",
+            "item_original": "gula pandan wangi",
+            "item_normalized": "gula pandan wangi",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras diberi air hingga dapat lumat, di-kepal² dengan tangan.",
+      "Kepalan² tepung ditanak hingga masak.",
+      "Ditjamput dengan kelapa parutan dan garam hingga rata, mendjadi urapan. Memasaknja: menjediakan bumbung² (potongan² bambu) sepandjang 10 cm dialas dengan daun pandan wangi jang pandjangnja menurut bumbung.",
+      "Bumbung diisi dengan urapan, diberi gula djawa di-tengah²nja.",
+      "Dikukus hingga masak.",
+      "Dihidangkan dengan parutan kelapa dengan sedikit garam."
+    ]
+  }
+]

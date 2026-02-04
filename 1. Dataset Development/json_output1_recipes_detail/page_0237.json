@@ -1,0 +1,202 @@
+[
+  {
+    "recipe_id": "MR_237_1",
+    "title_original": "GULAI KATJANG HIDJAU",
+    "title_normalized": "Gulai Kacang Hijau",
+    "region": null,
+    "page_number": 229,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sungsum kambing/sapi 1/2 kg.",
+            "item_original": "sungsum kambing/sapi",
+            "item_normalized": "sumsum kambing/sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang hidjau 1/2 lt.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.5,
+            "unit": "liter"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang timur 1 bh.",
+            "item_original": "bawang timur",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "bumbu arab 1 sdm.",
+            "item_original": "bumbu arab",
+            "item_normalized": "bumbu arab",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "saus tomat 4 sdm.",
+            "item_original": "saus tomat",
+            "item_normalized": "saus tomat",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine 3 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sungsum direbus, kemudian didinginkan gemuknja tidak dipakai.",
+      "Katjang hidjau direbus sampai empuk.",
+      "Bawang di-iris² lalu ditumis dengan margarine, kalau sudah setengah matang dimasukkan bumbu arab, bawang putih jang sudah ditumbuk serta tomat. Diberi air sungsum dan dimasukkan kedalam pantji katjang hidjau jang telah direbus tadi.",
+      "Direbus sampai katjangnja kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_237_2",
+    "title_original": "GULAI KEMAMAH",
+    "title_normalized": "Gulai Kemamah",
+    "region": "Atjeh",
+    "page_number": 229,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan kaju 1/4 kg.",
+            "item_original": "ikan kaju",
+            "item_normalized": "ikan kayu",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun turi 1 tk.",
+            "item_original": "daun turi",
+            "item_normalized": "daun turi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "adas 1 sdt.",
+            "item_original": "adas",
+            "item_normalized": "adas",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "sereh 2 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam sunti 1/4 gls.",
+            "item_original": "asam sunti",
+            "item_normalized": "asam sunti",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 10 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 10.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 15 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kapulaga 1 bh.",
+            "item_original": "kapulaga",
+            "item_normalized": "kapulaga",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "belimbing wuluh 4 bdj.",
+            "item_original": "belimbing wuluh",
+            "item_normalized": "belimbing wuluh",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djinten 1/2 sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketumbar 1 sdm.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan kaju ditjutji, direbus dan dipotong besar² ."
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "recipe_id": "MR_456_0",
+    "title_original": null,
+    "title_normalized": "Resep Sambungan (Udang Rebung Saus)",
+    "region": null,
+    "page_number": 456,
+    "category": "Masakan",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 8 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 8.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lad halus 1 sdt.",
+            "item_original": "lad halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula pasir 1 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak babi 4 sdm.",
+            "item_original": "minjak babi",
+            "item_normalized": "minyak babi",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak goreng 1/3 btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.33,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang dikupas kulitnja, djangan dibuang ekornja, dibelah dua (djangan sampai putus), diberi lada dan garam.",
+      "Tepung terigu dan telur ditjampur djadi satu dengan air.",
+      "Daun bawang dipotong-potong.",
+      "Bawang merah diiris halus.",
+      "Bawang putih ditumbuk.",
+      "Rebung dipotong persegi, pinggirnja dikembang dan dipotong-potong tipis.",
+      "Minjak dipanaskan, udang jang direndam dahulu didalam adonan tepung dimasukkan dan digoreng sampai kuning.",
+      "Bawang merah dan bawang putih ditumis dengan minjak babi, diberi sedikit kaldu atau air, saos tomat, lada, garam dan gula pasir.",
+      "Djika sudah mendidih, dimasukkan rebung, daun bawang dan udang goreng.",
+      "Untuk dikentalkan, sausnja diberi sedikit tepung sagu, jang sudah dientjerkan lebih dahulu."
+    ]
+  },
+  {
+    "recipe_id": "MR_456_1",
+    "title_original": "IKAN BUMBU BALI",
+    "title_normalized": "Ikan Bumbu Bali",
+    "region": "Djeneponto",
+    "page_number": 456,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan bandeng 1 ekor",
+            "item_original": "ikan bandeng",
+            "item_normalized": "ikan bandeng",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "minjak kelapa 3 sendok",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok besar 3 buah",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang merah 3 bidji",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang putih 1 buah",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 2 buah.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, disisik, dikeluarkan isi perutnja, di-potong².",
+      "Diberi garam, digoreng."
+    ]
+  }
+]

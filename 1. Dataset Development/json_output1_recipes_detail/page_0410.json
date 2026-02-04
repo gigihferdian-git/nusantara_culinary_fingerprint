@@ -1,0 +1,173 @@
+[
+  {
+    "recipe_id": "MR_410_1",
+    "title_original": "[CONTINUATION OF PREVIOUS RECIPE]",
+    "title_normalized": "Masakan Daging",
+    "region": null,
+    "page_number": 402,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu (Cont.)",
+        "ingredients": [
+          {
+            "original_text": "ketumbar 1/2 sdm.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djintan 1/2 sdt.",
+            "item_original": "djintan",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjutji, di-iris² seperti lapis, selebar 2 djari.",
+      "Kelapa diparut, diambil santannja.",
+      "Bumbu² dihaluskan, ketjuali laos, sereh, salam dan asam.",
+      "Bumbu² ditumis, daging dimasukkan, diungkep, sebentar. Kemudian santan dimasukkan.",
+      "Dimasak sampai daging lunak.",
+      "Air asam dimasukkan pada achirnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_410_2",
+    "title_original": "BESENGEK TEMPE",
+    "title_normalized": "Besengek Tempe",
+    "region": null,
+    "page_number": 402,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tempe 20 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 20.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "udang kering 1 ons",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 ons",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 4 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tempe di-potong² djadi dua, ditjutji.",
+      "Lombok, bawang merah, bawang putih diiris, terus digoreng.",
+      "Tempe, udang, tempe bosok, bumbu² dimasukkan ditambah air 2 gelas, direbus hingga masak.",
+      "Kelapa diparut, diambil santannja, ditjampurkan kedalam no. 3, di-aduk² sampai masak."
+    ]
+  }
+]

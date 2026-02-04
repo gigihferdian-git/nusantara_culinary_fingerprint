@@ -1,0 +1,195 @@
+[
+  {
+    "recipe_id": "MR_324_1",
+    "title_original": "SAMBAL GORENG LOMBOK",
+    "title_normalized": "Sambal Goreng Lombok",
+    "region": null,
+    "page_number": 324,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah ½ kg.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minyak goreng 2 sdm.",
+            "item_original": "minyak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "udang 1 ons",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 hl.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang dibuang kulitnja, kepalanja dan dipotong 2.",
+      "Lombok merah dibuang bidjinnja, diiris halus.",
+      "Bumbu² diiris halus, ketjuali daun salam dan laos.",
+      "Bumbu² ditumis bersama udang.",
+      "Djika sudah setengah masak, lombok dimasukkan. Diberi sedikit air dan ketjap.",
+      "Direbus terus sampai hampir kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_324_2",
+    "title_original": "SAMBAL GORENG LOMBOK HIDJAU",
+    "title_normalized": "Sambal Goreng Lombok Hijau",
+    "region": null,
+    "page_number": 324,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tempe 20 ptg.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 20.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "lombok hidjau 20 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "laos 2 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak kelapa 1 sdm.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lombok hidjau dibelah dua, di-potong² ± 2 cm.",
+      "Bawang merah, bawang putih diiris halus.",
+      "Tempe diiris ketjil², seperti dadu.",
+      "Bumbu² ditumis dengan minjak kelapa.",
+      "Tempe, lombok, gula dan santan dimasukkan.",
+      "Dimasak hingga santan tinggal sedikit."
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "recipe_id": "MR_957_0",
+    "title_original": "KUE GELANG",
+    "title_normalized": "Kue Gelang",
+    "region": null,
+    "page_number": 949,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan 2 gls.",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam halus 2 sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air setjukupnja",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula setjukupnja",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dan garam diaduk dan dimasukkan air sedikit demi sedikit sampai sedang kerasnja.",
+      "Kemudian digulung sebesar pensil dan di-lingkar²kan.",
+      "Sesudah itu, digoreng dengan minjak kelapa.",
+      "Kalau sudah kuning, diangkat dan dilumari gula merah atau gula pasir jang sudah dimasak terlebih dahulu."
+    ]
+  },
+  {
+    "recipe_id": "MR_957_1",
+    "title_original": "KUE GEMBLONG KITJAK",
+    "title_normalized": "Kue Gemblong Kitjak",
+    "region": "Tegal",
+    "page_number": 949,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "nangka masak 5 bdj.",
+            "item_original": "nangka masak",
+            "item_normalized": "nangka masak",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 3½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 3.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan ditjutji, ditiriskan.",
+      "Kelapa² dikupas, jang 1 butir diparut.",
+      "Beras ketan dan kelapa diaduk, diberi garam 3 sendok makan, dikukus sampai masak."
+    ]
+  }
+]

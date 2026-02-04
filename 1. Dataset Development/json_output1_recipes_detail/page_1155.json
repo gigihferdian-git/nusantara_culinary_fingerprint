@@ -1,0 +1,138 @@
+[
+  {
+    "recipe_id": "MR_1155_0",
+    "title_original": "ES SJANGHAI",
+    "title_normalized": "Es Shanghai",
+    "region": null,
+    "page_number": 1147,
+    "category": "Minuman Dingin",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pepaja 1/2 bh.",
+            "item_original": "pepaja",
+            "item_normalized": "pepaya",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "nenas 1/2 bh.",
+            "item_original": "nenas",
+            "item_normalized": "nanas",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "nangka 20 bd.",
+            "item_original": "nangka",
+            "item_normalized": "nangka",
+            "quantity": 20.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "susu kental (manis) 1/2 klg.",
+            "item_original": "susu kental (manis)",
+            "item_normalized": "susu kental manis",
+            "quantity": 0.5,
+            "unit": "kaleng"
+          },
+          {
+            "original_text": "tomat 6 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sagu bidji delima 1 ons",
+            "item_original": "sagu bidji delima",
+            "item_normalized": "sagu biji delima",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tjintjau 1 gls.",
+            "item_original": "tjintjau",
+            "item_normalized": "cincau",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "es setjukupnja",
+            "item_original": "es",
+            "item_normalized": "es",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sagu bidji delima direbus, disiram air dingin, ditiriskan.",
+      "Buah²an, tjintjau di-potong² seperti dadu.",
+      "Bahan² diatur didalam mangkuk, ditutupi dengan es parut.",
+      "Diatasnja disiram susu kental manis satu sendok makan dan terachir sirop 1 sendok makan."
+    ]
+  },
+  {
+    "recipe_id": "MR_1155_1",
+    "title_original": "ES TJINTJAO",
+    "title_normalized": "Es Cincau",
+    "region": null,
+    "page_number": 1147,
+    "category": "Minuman Dingin",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun tjintjao 12 tangkai",
+            "item_original": "daun tjintjao",
+            "item_normalized": "daun cincau",
+            "quantity": 12.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "es setjukupnja",
+            "item_original": "es",
+            "item_normalized": "es",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun tjintjao ditjutji, di-remas² dengan air dingin sedikit, disaring (pekerdjaan ini dilakukan beberapa kali, sehingga getah daunnja habis), air remasan diendapkan.",
+      "Gula dibuat sirop, disaring.",
+      "Kelapa dibakar sebentar, lalu diparut, dibuat santan kental, diberi garam sedikit.",
+      "Air endapan tjintjao dibuang, tjintjao dimasukkan kedalam gelas beberapa sendok (± 1/2 penuh).",
+      "Diberi santan, sirop, es."
+    ]
+  }
+]

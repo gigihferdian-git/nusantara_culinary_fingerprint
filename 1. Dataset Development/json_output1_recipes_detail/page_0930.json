@@ -1,0 +1,175 @@
+[
+  {
+    "recipe_id": "MR_930_1",
+    "title_original": "KETOPRAK",
+    "title_normalized": "Ketoprak",
+    "region": "Jakarta",
+    "page_number": 922,
+    "category": "Makanan Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 2 tk.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 2.0,
+            "unit": "takar"
+          },
+          {
+            "original_text": "taoge 5 bdj.",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kol 1 ons",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "seledri 2 ons",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "katjang tanah 1/2 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak 4 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketjap 3 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Taoge dibuang tangkainja dan kepalanja jang hitam (tudungnja), kol dan seledri diradjang halus.",
+      "Tahu dan katjang tanah digoreng, bawang merah sebagian disisir halus dan digoreng sampai kuning.",
+      "Bumbu² dihaluskan, katjang bersama bumbu ditumbuk halus.",
+      "Taoge direndam dengan air mendidih, diangkat.",
+      "Tahu dipotong persegi sebesar dadu, bumbu ditjairkan tambah ketjap dan tjuka.",
+      "Menghidangkan bahan² diaduk dengan bumbu."
+    ]
+  },
+  {
+    "recipe_id": "MR_930_2",
+    "title_original": "KETUPAT KETAN",
+    "title_normalized": "Ketupat Ketan",
+    "region": "Kajutanam",
+    "page_number": 922,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 lt.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "sarang ketupat 15 bh.",
+            "item_original": "sarang ketupat",
+            "item_normalized": "sarang ketupat",
+            "quantity": 15.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

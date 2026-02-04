@@ -1,0 +1,61 @@
+[
+  {
+    "recipe_id": "MR_887_1",
+    "title_original": "GELAMAI",
+    "title_normalized": "Gelamai",
+    "region": "Pajakumbuh",
+    "page_number": 887,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan ¹/₂ kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan tjair 1¹/₂ gls.",
+            "item_original": "santan tjair",
+            "item_normalized": "santan cair",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 1¹/₂ gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam ¹/₂ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan kental dibagi 2.",
+      "Santan cair dan 1/2 bagian santan kental dimasak dengan gula dan garam.",
+      "Sisa santan untuk menghancurkan tepung.",
+      "Masakan gula dituangkan ke adonan tepung.",
+      "Dimasak terus sambil diaduk-aduk sampai keluar minyaknya.",
+      "Gelamai dituang di atas tampah yang dialasi dengan daun pisang yang dilumuri minyak, didinginkan, diiris-iris atau dibungkus dalam potongan kertas minyak."
+    ]
+  }
+]

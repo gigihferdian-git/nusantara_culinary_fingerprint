@@ -1,0 +1,140 @@
+[
+  {
+    "recipe_id": "MR_611_1",
+    "title_original": "TJAP TJAI TJAH",
+    "title_normalized": "Cap Cai Cah",
+    "region": null,
+    "page_number": 611,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging babi 1 kg.",
+            "item_original": "daging babi",
+            "item_normalized": "daging babi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging ajam 1/2 ekor",
+            "item_original": "daging ajam",
+            "item_normalized": "daging ayam",
+            "quantity": 0.5,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "hati dan rempela ajam 1/4 kg.",
+            "item_original": "hati dan rempela ajam",
+            "item_normalized": "hati dan rempela ayam",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "udang baah 1/2 kg.",
+            "item_original": "udang baah",
+            "item_normalized": "udang basah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "saos tomat 1/3 btl.",
+            "item_original": "saos tomat",
+            "item_normalized": "saus tomat",
+            "quantity": 0.33,
+            "unit": "botol"
+          },
+          {
+            "original_text": "kee kian 1 ons",
+            "item_original": "kee kian",
+            "item_normalized": "kekian",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "haiwan 1 ons",
+            "item_original": "haiwan",
+            "item_normalized": "haiwan",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung sagu 2 sdm.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kapri 2 ons",
+            "item_original": "kapri",
+            "item_normalized": "kapri",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kol 10 lbr.",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 10.0,
+            "unit": "lembar"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang timur 2 bh.",
+            "item_original": "bawang timur",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak babi 4 sdm.",
+            "item_original": "minjak babi",
+            "item_normalized": "minyak babi",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging babi, daging ajam di-potong² ketjil, lebar.",
+      "Udang dikupas kulitnja, ditinggalkan ekornja, ditjelup diadonan terigu dan air, lalu digoreng.",
+      "Kee kian dipotong pandjang-pandjang, setebal 1 cm, lalu digoreng.",
+      "Hati dibelah 4, rempela dipotong-potong dan digurat-gurat.",
+      "Haiwan dipotong tipis-tipis.",
+      "Kol dipotong-potong dan kapri dibuangi udjungnja.",
+      "Bawang timur diradjang kasar dan bawang putih dihaluskan.",
+      "Bawang timur dan bawang putih digoreng sebentar dengan minjak babi, kemudian dimasukkan babi, ajam dan lain² tersebut diatas, ketjuali kol dan kapri.",
+      "Diberi air setjukupnja, lada, garam, ketjap dan saos tomat."
+    ]
+  }
+]

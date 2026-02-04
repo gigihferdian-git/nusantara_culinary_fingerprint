@@ -1,0 +1,67 @@
+[
+  {
+    "recipe_id": "MR_834_0",
+    "title_original": "BOLU MUTIARA",
+    "title_normalized": "Bolu Mutiara",
+    "region": null,
+    "page_number": 826,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "sagu mutiara 1 ons",
+            "item_original": "sagu mutiara",
+            "item_normalized": "sagu mutiara",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/3 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1/2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, ditjutji, diparut.",
+      "Kelapa diparut, ditjampur singkong, garam halus.",
+      "Sagu mutiara dimasukkan dalam air mendidih, djangan terlalu masak, ditiriskan.",
+      "Semua bahan tersebut ditjampur djadi satu sampai rata.",
+      "Dimasukkan kedalam lojang, dikukus."
+    ]
+  }
+]

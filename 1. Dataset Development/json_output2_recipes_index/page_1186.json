@@ -1,0 +1,325 @@
+{
+  "last_active_category": "DJADJANAN",
+  "mappings": [
+    {
+      "recipes_original_name": "Rudjak Tahu Saos Tjuka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Rudjak Tjerobo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sagon Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sagon Ketan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sagu Gula",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sambu Katjuk",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sampeng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Santeling",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Saplak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sari Muka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sari Rasa Ketan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sari Penganten",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sawut",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Semar Mendem",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Semorondono",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Semporo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Serabi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Serabi (Madiun)",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Serabi Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Serabi Pakai Udang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Serabi Telur",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Seriping Kentang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Seriping Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Setup Djambu Bidji",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Singkong Selai Nanas",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sinolia (Panekoek)",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Siri Manis",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sigit",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Slei",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Slondok",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sokko Kakkala",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sorpot",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Spekkoek Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Spekulas",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sprit Tepung Tapioka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Srikaja Bakar",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sumpiah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Sumpit Tanah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Srikaja",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Susu Eok",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Susu Goreng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Susu Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Amandel",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Beschuit",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Buah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Djantung Hati",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Gulung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Kelapa",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Kelapa Muda",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Kedju",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Kopi Mocca",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Marmer",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Nasi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Panili",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Room",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Semangka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Singkong Buah-an",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Tape Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Tape Ubi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Taart Waluh Djipang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tahu Bumbu Ketjap",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tahu Gedjrot",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tahu Guling",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Takar Katul",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Talas Manis",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tami",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tattabun",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tawonan Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tegelte",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tek Getek",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Telur Belanak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tengteng Katjang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tetel",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Timhan (Lepet)",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Timus",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Timus Isi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Timus Panggang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tiwul Tepung Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjakar Ajam",
+      "category": "DJADJANAN"
+    }
+  ]
+}

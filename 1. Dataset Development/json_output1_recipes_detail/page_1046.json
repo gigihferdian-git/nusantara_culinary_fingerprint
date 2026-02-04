@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_1038_1",
+    "title_original": "ONTBIJTKOEK BEKATUL DJAGUNG",
+    "title_normalized": "Ontbijtkoek Bekatul Jagung",
+    "region": null,
+    "page_number": 1038,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bekatul djagung 1 tjkr.",
+            "item_original": "bekatul djagung",
+            "item_normalized": "bekatul jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir ¹/₂ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air kelapa/air soda ¹/₂ tjkr.",
+            "item_original": "air kelapa/air soda",
+            "item_normalized": "air kelapa/air soda",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tjengkeh halus ¹/₂ sdt.",
+            "item_original": "tjengkeh halus",
+            "item_normalized": "cengkeh halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¹/₂ tjkr.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "pala halus ¹/₂ sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kaju manis halus 1 sdt.",
+            "item_original": "kaju manis halus",
+            "item_normalized": "kayu manis halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula pasir, gula merah dan telur ditjair sampai kembang sekali.",
+      "Dimasukkan air kelapa, bekatul, soda kue, bumbu² halus ditjampur djadi satu, terus dimasukkan pelan² kedalam adonan.",
+      "Kalau sudah rata, dimasukkan kedalam tjetakan jang telah dilumari mentega.",
+      "Dikukus dalam dandang jang mendidih, atau dibakar dalam oven sampai masak ± ³/₄ djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_1038_2",
+    "title_original": "ONNOUVE",
+    "title_normalized": "Onnouve",
+    "region": "Irian Barat",
+    "page_number": 1038,
+    "category": "Gorengan/Lauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun dan tangkai bete setjukupnja",
+            "item_original": "daun dan tangkai bete",
+            "item_normalized": "daun dan tangkai bete",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

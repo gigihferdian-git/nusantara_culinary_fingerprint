@@ -1,0 +1,217 @@
+[
+  {
+    "recipe_id": "MR_257_0",
+    "title_original": "Sayur Daun Singkong (Inferred)",
+    "title_normalized": "Sayur Daun Singkong",
+    "region": null,
+    "page_number": 257,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kemiri 6 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar ½ sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun singkong disiram air panas, direndam sebentar, ditiriskan.",
+      "Kelapa diparut dibuat santan 4 gelas.",
+      "Daun singkong dipotong.",
+      "Bumbu dihaluskan, kecuali laos.",
+      "Bumbu direbus bersama santan dan daun singkong.",
+      "Dimasak sampai daunnya empuk."
+    ]
+  },
+  {
+    "recipe_id": "MR_257_1",
+    "title_original": "KARE KOL",
+    "title_normalized": "Kari Kol",
+    "region": "Purwokerto",
+    "page_number": 257,
+    "category": "Kari/Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "daging ¼ kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang ¼ kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kol ½ kg.",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "soun 1 ons",
+            "item_original": "soun",
+            "item_normalized": "sohun",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak ¼ gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 10 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 1 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 1.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging direbus.",
+      "Kelapa diparut, diambil santannya.",
+      "Daging, kol, kentang dikupas dipotong kecil.",
+      "Bumbu dihaluskan, ditumis, dimasukkan daging, kol, kentang, sampai 1/2 masak.",
+      "Santan dimasukkan ke dalam tumisan, direbus sampai masak.",
+      "Keterangan: Sohun tidak boleh terlalu lama dimasak, supaya tidak hancur."
+    ]
+  }
+]

@@ -1,0 +1,301 @@
+{
+  "last_active_category": "LAUK PAUK BAKAR",
+  "mappings": [
+    {
+      "recipes_original_name": "Sambal Goreng Kering",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tempe",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Seng Geseng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Serundeng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Serundeng Ikan Mudjair",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Serundeng Ikan Teri",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Serundeng Penganten",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Sinore",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Batjem Goreng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Berontak",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Dadar",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Goling",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Goreng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Goreng Bertepung",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Kering",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Ketjap",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Krida",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Lengko",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Masak Bawang",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Pong",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Soun",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Telur",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tahu Tempe dan Daging Goreng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Taotjo Ikan",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tempe Batjem",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tempe Goreng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tempe Kemul",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Telur Mata Sapi",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tepleng Ikan Kering",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Teri Goreng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Tjulo Tjulo",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Udang Isi",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Udang Wotjap",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Ujah Goreng",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Urutan",
+      "category": "LAUK PAUK GORENGAN"
+    },
+    {
+      "recipes_original_name": "Ajam Kodok",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ajam Panggang Sere Limo",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ajam Panggang Ketjap",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ajam Panggang Klaten",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ajam Panggang Petjel",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ajam Sapit",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Bandasi",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Bandeng Bumbu Rudjak",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Bebek Asap",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Bia",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Daging Bakar",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Djagung Djamur Padi Bakar",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Djagung Udang Panggang",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Gedjos Ontjom",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Gembrot Sembukan",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Guling",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ikan Bakar",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ikan Bungkus",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ikan Mas dalam Bambu",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ikan Pindang Goreng",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ikan Pepes",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ikan Woku",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ine Avau' Au",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Ituwu",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Jok",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Karmanatji",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Komoh",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Langga Roko",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Linting Pepes",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Napinadar",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Natinombur",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Palai Badar Basah",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Panggang Bandeng",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Panggang Bebek Bumbu Rudjak",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Panggang Belanak Bumbu Rudjak",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Panggang Kalak",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Panggang Udang",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Patjua",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Pelalah Manuk",
+      "category": "LAUK PAUK BAKAR"
+    }
+  ]
+}

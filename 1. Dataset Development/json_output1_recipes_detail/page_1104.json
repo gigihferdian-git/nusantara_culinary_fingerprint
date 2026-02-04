@@ -1,0 +1,167 @@
+[
+  {
+    "recipe_id": "MR_1096_0",
+    "title_original": "SPEKULAS",
+    "title_normalized": "Spekulas",
+    "region": null,
+    "page_number": 1096,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 2 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 3 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 9 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 9.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung susu 1 tjkr.",
+            "item_original": "tepung susu",
+            "item_normalized": "tepung susu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung maizena atau tepung singkong 1/2 tjkr.",
+            "item_original": "tepung maizena atau tepung singkong",
+            "item_normalized": "tepung maizena atau tepung singkong",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bubuk tjoklat 1 tjkr.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk cokelat",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "iris²an kenari 1 tjkr.",
+            "item_original": "iris²an kenari",
+            "item_normalized": "irisan kenari",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu manis 2 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak kaju manis 12 tetes",
+            "item_original": "minjak kaju manis",
+            "item_normalized": "minyak kayu manis",
+            "quantity": 12.0,
+            "unit": "tetes"
+          },
+          {
+            "original_text": "minjak tjengkeh 7 tetes",
+            "item_original": "minjak tjengkeh",
+            "item_normalized": "minyak cengkeh",
+            "quantity": 7.0,
+            "unit": "tetes"
+          },
+          {
+            "original_text": "minjak pala 7 tetes",
+            "item_original": "minjak pala",
+            "item_normalized": "minyak pala",
+            "quantity": 7.0,
+            "unit": "tetes"
+          },
+          {
+            "original_text": "kapulaga jang sudah ditumbuk halus",
+            "item_original": "kapulaga jang sudah ditumbuk halus",
+            "item_normalized": "kapulaga yang sudah ditumbuk halus",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "mentega 3 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok sampai mengembang, mentega dikotjok tersendiri hingga mengembang.",
+      "Kemudian dimasukkan terigu, tepung susu, maizena, bubuk tjoklat, kenari, kaju manis, tjengkeh, pala, kapulaga dan susu manis.",
+      "Sudah itu diaduk semuanja hingga rata betul.",
+      "Kemudian ditjetak dengan tjetakan spekulas dan dibakar dalam oven dengan api diatas dan dibawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_1096_1",
+    "title_original": "SPRIT TEPUNG TAPIOKA",
+    "title_normalized": "Semprit Tepung Tapioka",
+    "region": null,
+    "page_number": 1096,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung tapioka 4 gls.",
+            "item_original": "tepung tapioka",
+            "item_normalized": "tepung tapioka",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "margarine 1 gls.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula halus 1 gls.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

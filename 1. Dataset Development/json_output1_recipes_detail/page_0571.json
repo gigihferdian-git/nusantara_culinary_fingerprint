@@ -1,0 +1,154 @@
+[
+  {
+    "recipe_id": "MR_571_1",
+    "title_original": "PETJEL DJANTUNG PISANG",
+    "title_normalized": "Pecel Jantung Pisang",
+    "region": "Jawa Tengah",
+    "page_number": 563,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djantung pisang 1 bh.",
+            "item_original": "djantung pisang",
+            "item_normalized": "jantung pisang",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 2.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kemiri 5 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djantung pisang dibuangi kulitnja jang tua, dimasukkan dalam air mendidih, di-potong² ketjil.",
+      "Kelapa diparut, dikeluarkan santannja 1½ gelas.",
+      "Kemiri digoreng.",
+      "Tempe dan terasi disembam.",
+      "Semua bumbu² dihaluskan ketjuali salam.",
+      "Santan dan bumbu direbus.",
+      "Djantung dimasukkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_571_2",
+    "title_original": "PETJEL PANGGANG AJAM",
+    "title_normalized": "Pecel Panggang Ayam",
+    "region": "Bali",
+    "page_number": 563,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 4 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak kelapa 1 sdt.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djeruk limau 1 bidji",
+            "item_original": "djeruk limau",
+            "item_normalized": "jeruk limau",
+            "quantity": 1.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

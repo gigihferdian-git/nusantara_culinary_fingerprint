@@ -1,0 +1,132 @@
+[
+  {
+    "recipe_id": "MR_309_1",
+    "title_original": "SAJUR LOMPONG",
+    "title_normalized": "Sayur Lompong",
+    "region": "Purwokerto",
+    "page_number": 301,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "lompong 5 btg.",
+            "item_original": "lompong",
+            "item_normalized": "lompong",
+            "quantity": 5.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar ½ sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunji t ½ rdj.",
+            "item_original": "kunji t",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "dj ae 1 pt.",
+            "item_original": "dj ae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 1 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula pasir 1 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lompong dikupas kulitnja, di-potong².",
+      "Lompong direbus setengah masak dibuang airnja.",
+      "Kelapa diparut, dibuat santan 2 gelas.",
+      "Bumbu dihaluskan ketjuali laos, dj ae dan salam.",
+      "Santan dimasukkan kedalam lompong dan bumbu² dimasukkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_309_2",
+    "title_original": "SAJUR LUMBU PEDAS",
+    "title_normalized": "Sayur Lumbu Pedas",
+    "region": "Magelang",
+    "page_number": 301,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "lumbu 4 ikt.",
+            "item_original": "lumbu",
+            "item_normalized": "lumbu",
+            "quantity": 4.0,
+            "unit": "ikat"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

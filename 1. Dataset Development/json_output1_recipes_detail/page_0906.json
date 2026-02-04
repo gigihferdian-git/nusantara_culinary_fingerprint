@@ -1,0 +1,111 @@
+[
+  {
+    "recipe_id": "MR_906_1",
+    "title_original": "GRANAT MUNTJRAT",
+    "title_normalized": "Granat Muntjrat",
+    "region": "Banjumas",
+    "page_number": 898,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong ¹/₂ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¹/₄ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¹/₄ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng ¹/₂ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "widjen ¹/₂ ons",
+            "item_original": "widjen",
+            "item_normalized": "wijen",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam ¹/₂ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut, diperas.",
+      "Kelapa dibersihkan, diparut, dicampur dengan singkong dan garam, diaduk rata.",
+      "Gula diiris, halus.",
+      "Adonan singkong dibentuk bulat, dalamnya diisi dengan gula, kemudian bagian luar ditaburi wijen."
+    ]
+  },
+  {
+    "recipe_id": "MR_906_2",
+    "title_original": "GRAWUL",
+    "title_normalized": "Grawul",
+    "region": "Madiun",
+    "page_number": 898,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gaplek ¹/₂ kg.",
+            "item_original": "gaplek",
+            "item_normalized": "gaplek",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam ¹/₂ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

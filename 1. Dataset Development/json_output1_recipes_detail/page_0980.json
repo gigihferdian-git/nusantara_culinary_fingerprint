@@ -1,0 +1,197 @@
+[
+  {
+    "recipe_id": "MR_980_1",
+    "title_original": "(Masakan Oyong)",
+    "title_normalized": "Sayur Oyong",
+    "region": null,
+    "page_number": 972,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama dan bumbu pelengkap",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kemiri 1 ikt.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "ebi 2 sdm.",
+            "item_original": "ebi",
+            "item_normalized": "ebi",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada putih 1 sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "merica putih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala ¼ sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "seledri ½ ikt.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 0.5,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "tomat 3 bdj.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 2 bks.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ojong dikupas, ditjutji, di-potong² sepandjang kira² 1 cm.",
+      "Daun seledri, tomat dan kemiri diirisi.",
+      "Ebi direndam sampai empuk.",
+      "Bawang putih, bawang merah, diiris halus, digoreng.",
+      "Bumbu² lainnja dihaluskan, ditumis, dimasukkan kemiri, ojong, tomat dan vetsin.",
+      "Ditambah air 6 gelas, ditutup.",
+      "Setelah empuk diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_980_2",
+    "title_original": "KUE PAKIS BERAS",
+    "title_normalized": "Kue Pakis Beras",
+    "region": null,
+    "page_number": 972,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ½ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tape beras 2 gls.",
+            "item_original": "tape beras",
+            "item_normalized": "tapai beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air kelapa 2 gls.",
+            "item_original": "air kelapa",
+            "item_normalized": "air kelapa",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir 3½ ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng ¼ gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tape, air kelapa diaduk sampai hantjur.",
+      "Telur dan gula dikatjau sampai berbusa.",
+      "Ditambah tepung, diaduk rata dibiarkan 6 djam.",
+      "Kelapa diparut diambil santan jang kental, dimasukkan garam, direbus sampai mendjadi kanil (areh).",
+      "Adonan ditjampur dengan santan kanil, diaduk rata.",
+      "Tjetakan dilumari minjak, diletakkan diatas api jang sedang.",
+      "Adonan dituangkan sesendok demi sesendok kedalam tjetakan, diangkat satu persatu kalau sudah masak."
+    ]
+  }
+]

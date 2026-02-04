@@ -1,0 +1,144 @@
+[
+  {
+    "recipe_id": "MR_604_1",
+    "title_original": "TERIK TEMPE",
+    "title_normalized": "Terik Tempe",
+    "region": "Banyumas",
+    "page_number": 604,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "tempe 6 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 6.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "santan 1 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 1 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam 1 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 1.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tempe di-potong² tipis.",
+      "Bumbu² dihaluskan, ketjuali laos, daun salam, terus direbus dengan santan.",
+      "Tempe dimasukkan, dimasak hingga kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_604_2",
+    "title_original": "TERUNG ISI",
+    "title_normalized": "Terong Isi",
+    "region": "Banyumas",
+    "page_number": 604,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "terung besar 3 bh.",
+            "item_original": "terung besar",
+            "item_normalized": "terong besar",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daging 3 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng ½ gelas.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

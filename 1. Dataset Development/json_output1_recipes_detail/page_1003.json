@@ -1,0 +1,119 @@
+[
+  {
+    "recipe_id": "MR_1003_0",
+    "title_original": "KUE TJINTJIN",
+    "title_normalized": "Kue Cincin",
+    "region": null,
+    "page_number": 995,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ¹/₂ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa parut ¹/₂ btr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir setjukupnja",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras ditjampur dengan kelapa parut dan garam, kemudian dibasahi dengan air dingin setjukupnja.",
+      "Adonan di-bulat²kan seperti tjintjin lalu digoreng.",
+      "Gula pasir atau gula aren diberi air sedikit, dididihkan sampai kental, sesudah itu kue ini diberi gula.",
+      "Kue tjintjin ada jang bergula putih dan ada jang bergula merah.",
+      "Dari ubi kaju dapat djuga dibuat kue tjintjin."
+    ]
+  },
+  {
+    "recipe_id": "MR_1003_1",
+    "title_original": "KUE TJUTJUR",
+    "title_normalized": "Kue Cucur",
+    "region": "Sukabumi",
+    "page_number": 995,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ¹/₂ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung tapioka 1 ons",
+            "item_original": "tepung tapioka",
+            "item_normalized": "tepung tapioka",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¹/₂ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam ¹/₂ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

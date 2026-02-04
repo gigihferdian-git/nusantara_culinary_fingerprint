@@ -1,0 +1,116 @@
+[
+  {
+    "recipe_id": "MR_436_1",
+    "title_original": "DENGKE LAEAN",
+    "title_normalized": "Dengke Laean",
+    "region": "Batak",
+    "page_number": 436,
+    "category": "Lauk Pauk (Fish Dish)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan:",
+        "ingredients": [
+          {
+            "original_text": "ikan tawes 1 kg.",
+            "item_original": "ikan tawes",
+            "item_normalized": "ikan tawes",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "kunir 1 ruas djari",
+            "item_original": "kunir",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "lada setjukupnja",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "djae 1 ruas djari",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "lombok rawit segenggam",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "salam setjukupnja",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kemiri bakar 5 bidji",
+            "item_original": "kemiri bakar",
+            "item_normalized": "kemiri bakar",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "asam sundai 10 bidji",
+            "item_original": "asam sundai",
+            "item_normalized": "asam sundai",
+            "quantity": 10.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibungkus dalam daun alang² jang didjalin terlebih dahulu.",
+      "Didalam bungkusan ini, ikan direbus sampai masak.",
+      "Kemiri dibakar dahulu dalam tjangkangnja, lalu dipetjah, diambil isinja. Kemiri ditumbuk halus lalu ditjampuri air dan diberi asam sundai."
+    ]
+  },
+  {
+    "recipe_id": "MR_436_2",
+    "title_original": "DJAGUNG DAN BUNTJIS",
+    "title_normalized": "Jagung dan Buncis",
+    "region": null,
+    "page_number": 436,
+    "category": "Sayuran (Vegetable Dish)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 2 tjkr.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

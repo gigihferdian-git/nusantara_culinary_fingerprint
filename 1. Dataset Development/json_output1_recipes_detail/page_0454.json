@@ -1,0 +1,182 @@
+[
+  {
+    "recipe_id": "MR_454_1",
+    "title_original": "IKAN BAMBANGAN (Continuation)",
+    "title_normalized": "Ikan Bambangan (Lanjutan)",
+    "region": null,
+    "page_number": 446,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "(Continuation of Bumbu)",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 6 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan bambangan ditjutji dan digarami.",
+      "Kelapa diparut, dibuat santan 1 tjangkir.",
+      "Bumbu² diiris dan digoreng sampai masak.",
+      "Ikan dimasukkan dalam wadjan.",
+      "Keluwak dihaluskan, diberi santan, direbus bersama ikan sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_454_2",
+    "title_original": "GANO",
+    "title_normalized": "Gano",
+    "region": null,
+    "page_number": 446,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "tulang babi ½ kg.",
+            "item_original": "tulang babi",
+            "item_normalized": "tulang babi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "udang ¼ kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 5 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "buntjis ¼ kg.",
+            "item_original": "buntjis",
+            "item_normalized": "buncis",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "djamur kuping 1 ons",
+            "item_original": "djamur kuping",
+            "item_normalized": "jamur kuping",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun kol 6 lbr.",
+            "item_original": "daun kol",
+            "item_normalized": "daun kol",
+            "quantity": 6.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "tepung 2 sdm.",
+            "item_original": "tepung",
+            "item_normalized": "tepung",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 4 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gadjih atau minjak babi 2 sdm.",
+            "item_original": "gadjih atau minjak babi",
+            "item_normalized": "gajih atau minyak babi",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan dan tulang babi direbus dengan garam 1 djam.",
+      "Udang dikupas, diulek halus dengan 2 siung bawang putih, 2 sdm tepung, lada, garam.",
+      "Telur dibuat beberapa bidji dadar.",
+      "Udang jang diulek dipotong ketjil-ketjil setebal ½ djari.",
+      "Sadjuran dibersihkan dan di-potong² ketjil.",
+      "Kaldu disaring dan daging ajam di-potong² ketjil.",
+      "Irisan bawang putih ditumis, kaldu dituangkan tulang babi, daging ajam, sajuran, ketjap dan dadar jang diirisi."
+    ]
+  }
+]

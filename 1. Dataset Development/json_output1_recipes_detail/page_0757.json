@@ -1,0 +1,174 @@
+[
+  {
+    "recipe_id": "MR_749_1",
+    "title_original": "(Recipe Fragment - preceding SATE PADANG)",
+    "title_normalized": "Daging Bakar (Fragment)",
+    "region": null,
+    "page_number": 749,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "(continuation)",
+        "ingredients": [
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula 1 sdm.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak 2 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging di-iris² persegi empat.",
+      "Garam dan sereh diuleg dulu, kemudian jang lain.",
+      "Setelah bumbu halus, ditjampurkan kepotongan daging dan minjak djuga dimasukkan dengan diremas dan biarkan sebentar.",
+      "Ditusuki dan dibakar sampai matang.",
+      "Panas² disadjikan."
+    ]
+  },
+  {
+    "recipe_id": "MR_749_2",
+    "title_original": "SATE PADANG",
+    "title_normalized": "Sate Padang",
+    "region": "Sumatera Barat",
+    "page_number": 749,
+    "category": "Sate",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging, djantung, hati, babat 1/2 kg.",
+            "item_original": "daging, djantung, hati, babat",
+            "item_normalized": "daging, jantung, hati, babat",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 4 sdm.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar djintan 1/2 sdm.",
+            "item_original": "ketumbar djintan",
+            "item_normalized": "ketumbar dan jintan",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun kunjit 1/2 hl.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 0.5,
+            "unit": "helaian"
+          },
+          {
+            "original_text": "daun djeruk purut 2 hl.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "helaian"
+          },
+          {
+            "original_text": "djae 5 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 5.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos seiris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "kunjit 2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "lada 5 bdj.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan dan dipotong-potong persegi ketjil.",
+      "Bumbu digiling halus ketjuali sereh, daun kunjit dan daun djeruk purut.",
+      "Sebagian dari bumbu ditjampur dengan daging dan diungkep dengan api ketjil hingga kering.",
+      "Sisa bumbu ditjampur dengan air/kaldu dan dimasak hingga bumbu matang, dikentalkan dengan tepung beras.",
+      "Daging ditusuk dengan lidi 4–5 potong dan dibakar.",
+      "Dihidangkan panas-panas dengan saos."
+    ]
+  }
+]

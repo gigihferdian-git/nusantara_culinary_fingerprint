@@ -1,0 +1,138 @@
+[
+  {
+    "recipe_id": "MR_1083_1",
+    "title_original": "SAPLAK",
+    "title_normalized": "Saplak",
+    "region": "Rembang",
+    "page_number": 1083,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung gaplek 1/2 kg.",
+            "item_original": "tepung gaplek",
+            "item_normalized": "tepung gaplek",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang tolo 2 ons",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air setjukupnja",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang tolo direndam semalam.",
+      "Tepung gaplek dipertjiki air garam dan diratakan, agak diuli hingga tidak ber-butir².",
+      "Katjang tolo, gula ditjampurkan pada tepung lalu dikukus.",
+      "Ditumbuk sampai liat seperti getuk.",
+      "Dibentuk pandjang atau persegi dalam tampah jang telah dialas daun pisang jang telah dilumuri minjak.",
+      "Menghidangkannja seperti getuk, diberi kelapa parut jang diberi garam."
+    ]
+  },
+  {
+    "recipe_id": "MR_1083_2",
+    "title_original": "SARI MUKA",
+    "title_normalized": "Seri Muka",
+    "region": "Pati",
+    "page_number": 1083,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 1/2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air kapur 2 sdm.",
+            "item_original": "air kapur",
+            "item_normalized": "air kapur",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air garam 1 sdm.",
+            "item_original": "air garam",
+            "item_normalized": "air garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung diaduk dengan santan, diberi air kapur dan air garam.",
+      "Adonan dimasukkan dalam lojang jang sebelumnja diolesi minjak, dikukus.",
+      "Telur dikotjok dengan gula merah jang telah disisir halus, ditambah dengan 2 sendok makan tepung beras supaja kental."
+    ]
+  }
+]

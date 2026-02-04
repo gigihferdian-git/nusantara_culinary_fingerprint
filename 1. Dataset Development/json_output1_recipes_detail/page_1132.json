@@ -1,0 +1,116 @@
+[
+  {
+    "recipe_id": "MR_1124_1",
+    "title_original": "[Continuation - Missing Title]",
+    "title_normalized": "Kue Pisang Kukus (Inferred)",
+    "region": null,
+    "page_number": 1124,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "tjengkeh 2 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kaju manis 2 rdj.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang dikupas, di-iris² bundar.",
+      "Santan, gula, kaju manis, tjengkeh, daun pandan, garam direbus sampai mendidih.",
+      "Telur dikotjok sampai kembang.",
+      "Nangka iris, pisang iris, telur jang telah dikotjok semuanja dimasukkan kedalam santan mendidih, dimasak sebentar.",
+      "Adonan dibungkus dengan daun pisang kemudian dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1124_2",
+    "title_original": "TJEKAH",
+    "title_normalized": "Tjekah",
+    "region": "Madura",
+    "page_number": 1124,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, ditjutji, direbus.",
+      "Kelapa diparut.",
+      "Singkong rebus ditumbuk, ditjamput dengan gula merah dan kelapa parut.",
+      "Dibentuk bulat² seperti kelereng."
+    ]
+  }
+]

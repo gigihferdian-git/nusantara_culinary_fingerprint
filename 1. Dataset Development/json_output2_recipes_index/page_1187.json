@@ -1,0 +1,261 @@
+{
+  "last_active_category": "MINUMAN",
+  "mappings": [
+    {
+      "recipes_original_name": "Tjakra",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjala Isi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjapeng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjorobikang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjara Bikang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjara Berdapa",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjara Gesing",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjekah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjelempungan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjemplon",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjengkir Manis",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjenil",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjeriping Sukun",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjimprung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjingkiang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjotot",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjukok",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tjutjur Loka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Toli Toli",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Topeng Manaung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Towok",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tuk Bentul",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tulband",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Tumbi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ulen",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ulin Ulin",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Unti Aron",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Utri Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Vanei",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Vitello Sprits",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Wadjik",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Wadjik Kentang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Wadjik Kletik",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Widaran",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Badjigur",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Bowl Buah'an",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Cacao Telur",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Krim Adpokat",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Buah'an",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Kelapa Muda",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Krim Tjoklat",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Krim Sirsak",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Krim Panili",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Sjanghai",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Es Tjintjao",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Fosco",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Pangalumi",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Pokak Saripu",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Serbat Kuweni",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Sekoteng",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Sitrun Telur",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Sorbat Djeruk",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Susu Djeruk",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Susu Telur",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Tjao",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Tjendol Djagung",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Tjendol Maizena",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Tjendol Sagu",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Wedang Gaul",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Wedang Ronde",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Wedang Sereh",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Wedang Tape",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Wedang Tomat",
+      "category": "MINUMAN"
+    },
+    {
+      "recipes_original_name": "Wedang Ublek",
+      "category": "MINUMAN"
+    }
+  ]
+}

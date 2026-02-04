@@ -1,0 +1,122 @@
+[
+  {
+    "recipe_id": "MR_991_1",
+    "title_original": "KUE SENGKULUN",
+    "title_normalized": "Kue Sengkulun",
+    "region": "Malang",
+    "page_number": 983,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan ½ kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air 1½ lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "gula pasir 100 g.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 100.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "garam halus 10 g.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 10.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "kelapa agak muda 1/3 btr.",
+            "item_original": "kelapa agak muda",
+            "item_normalized": "kelapa agak muda",
+            "quantity": 0.33,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air kapur djernih 1 sdt.",
+            "item_original": "air kapur djernih",
+            "item_normalized": "air kapur jernih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "warna merah",
+            "item_original": "warna merah",
+            "item_normalized": "pewarna merah",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut.",
+      "Tepung ketan, kelapa parut, garam, air kapur dan gula ditjampur sampai rata.",
+      "Tjampuran lalu diuli dengan air.",
+      "Dari adonan diambil 1/3 untuk diberi warna merah.",
+      "2/3 bagian ditjetak dalam langseng jang dialas daun pisang.",
+      "Tebal adonan antara 3–4 cm.",
+      "Kemudian atasnja dihiasi adonan jang berwarna merah dan dikukus sampai masak.",
+      "Dihidangkan dalam pinggan tjeper dengan dialas kertas berbunga. Kue di-potong² dalam bentuk jang indah²."
+    ]
+  },
+  {
+    "recipe_id": "MR_991_2",
+    "title_original": "KUE SERABI BERKUAH",
+    "title_normalized": "Kue Serabi Berkuah",
+    "region": null,
+    "page_number": 983,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 kati",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "kati"
+          },
+          {
+            "original_text": "gula merah 5 pt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kelapa 1 bdj.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mula² dibuat induknja sbb. :",
+      "Segenggam tepung beras diaduk dengan air panas.",
+      "Dientjerkan seperti membuat kandji badju.",
+      "Tepung diaduk dengan air dingin dan 2/3 tjangkir induknja tadi.",
+      "Adonan tidak perlu dimalamkan, melainkan dapat dimasak disaat itu djuga.",
+      "Satu sendok adonan direbus dalam sebuah kuali jang ditutup."
+    ]
+  }
+]

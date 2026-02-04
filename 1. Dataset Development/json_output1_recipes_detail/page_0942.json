@@ -1,0 +1,87 @@
+[
+  {
+    "recipe_id": "MR_942_0",
+    "title_original": "KUE KU",
+    "title_normalized": "Kue Ku",
+    "region": null,
+    "page_number": 934,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung 2 gls.",
+            "item_original": "tepung",
+            "item_normalized": "tepung",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "katjang hidjau 1/2 gls.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kanil 10 sdm.",
+            "item_original": "santan kanil",
+            "item_normalized": "santan kental",
+            "quantity": 10.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pisang 1 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 1.0,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/4 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun sudji 4 lbr.",
+            "item_original": "daun sudji",
+            "item_normalized": "daun suji",
+            "quantity": 4.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang hidjau ditjutji direndam, direbus sampai lunak dan berair sedikit.",
+      "Gula merah diiris, dimasukkan kedalam katjang, dimasak sampai airnja habis dan kering.",
+      "Santan kanil direbus, didinginkan ditambah tepung, garam, zat warna dari daun sudji dan pandan, diuli sampai adonan liat.",
+      "Adonan dibentuk bulat² diisi kumbu, ditjetak dalam tjetakan kue ku, jang telah dilumari minjak."
+    ]
+  }
+]

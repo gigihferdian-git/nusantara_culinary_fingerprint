@@ -1,0 +1,119 @@
+[
+  {
+    "recipe_id": "MR_931_1",
+    "title_original": "KETUPAT KETAN (Inferred)",
+    "title_normalized": "Ketupat Ketan",
+    "region": null,
+    "page_number": 923,
+    "category": "Jajanan/Kue",
+    "ingredient_groups": [],
+    "instructions": [
+      "Ketan ditjutfji dan direndam selama 1/2 djam.",
+      "Kelapa diparut, dikeluarkan santan sebanjak ± 4 gelas dan diberi garam.",
+      "Ketan diisikan kedalam ketupat hingga terisi 3/4 bagian. Dimasukkan kedalam pantji berisi santan. Dimasak hingga matang dan santan kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_931_2",
+    "title_original": "KELADAN (LIDAH KUDA)",
+    "title_normalized": "Keladan (Lidah Kuda)",
+    "region": "Bali",
+    "page_number": 923,
+    "category": "Jajanan/Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/2 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2-1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kapur sirih sedikit",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung diseduh dengan air panas jang mendidih ber-dikit², diaduk baik² agar djangan ber-batu² mendjadi adonan jang lebih entjer dari adonan nagasari. Kemudian diberi air kapur 1/2 tjangkir lalu diaduk baik² hingga rata dan diberi garam.",
+      "Dibungkus daun pisang, seperti membungkus nagasari/sumping tetapi tipis², kemudian dikukus hingga matang.",
+      "Kelapa dikukus, diparut dan diberi garam.",
+      "Gula direbus dibuat sirop.",
+      "Dikupas bila mendjadikan djadjanan ini, diatasnja diberi parutan kelapa dan gula."
+    ]
+  },
+  {
+    "recipe_id": "MR_931_3",
+    "title_original": "KLENJEM",
+    "title_normalized": "Klenyem",
+    "region": null,
+    "page_number": 923,
+    "category": "Jajanan/Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi kaju 1 kg.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "atji ubi kaju 2 ons",
+            "item_original": "atji ubi kaju",
+            "item_normalized": "aci ubi kayu",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

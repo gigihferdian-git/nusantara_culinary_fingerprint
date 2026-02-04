@@ -1,0 +1,126 @@
+[
+  {
+    "recipe_id": "MR_1107_0",
+    "title_original": "TAART SEMANGKA",
+    "title_normalized": "Taart Semangka",
+    "region": null,
+    "page_number": 1107,
+    "category": "Kue/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 1½ tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 1¼ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.25,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 1 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 8 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 8.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili ½ sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "selai ardbei 1 klg. ketjil",
+            "item_original": "selai ardbei",
+            "item_normalized": "selai stroberi",
+            "quantity": 1.0,
+            "unit": "kaleng kecil"
+          },
+          {
+            "original_text": "susu entjer 1 mgk.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu cair",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "sukade ½ mgk.",
+            "item_original": "sukade",
+            "item_normalized": "sukade",
+            "quantity": 0.5,
+            "unit": "mangkuk"
+          }
+        ]
+      },
+      {
+        "group_name": "glazuur",
+        "original_header": "Tjara membuat glazuur : Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula halus 6 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 6.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air 2 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili sedikit",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "gintju warna kuning setjukupnja",
+            "item_original": "gintju warna kuning",
+            "item_normalized": "pewarna kuning",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula diputar hingga kembang, sudah itu dimasukkan kuning telur jang diputar lebih dahulu hingga kembang, berikut ini dimasukkan pula putih telur jang telah diputar kembang lebih dahulu.",
+      "Semuanja diaduk hingga bertjampur betul.",
+      "Sesudah itu dimasukkan gula halus serta panili lalu diaduk semuanja sekali lagi hingga rata.",
+      "Adonan tersebut dibakar dalam sebuah tjetakan jang bundar melengkung, sebelah kebawah/seperti semangka, sampai masak.",
+      "Sekarang kue tersebut dibelah dua dan di-tengah²nja disapu dengan selai.",
+      "Sesudah itu kue tersebut dipertautkan kembali.",
+      "Lalu disapu seluruh kue tersebut dengan glazuur warna kuning dan oranje.",
+      "Untuk sangkarnja disebelah keatas ditusukkan beberapa surade.",
+      "Taart tersebut diletakkan diatas sebuah piring tjeper jang terlebih dahulu telah dialas dengan kertas berbunga."
+    ]
+  }
+]

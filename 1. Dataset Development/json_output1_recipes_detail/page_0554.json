@@ -1,0 +1,155 @@
+[
+  {
+    "recipe_id": "MR_554_0",
+    "title_original": "PENTJOK DJANTUNG PISANG",
+    "title_normalized": "Pentok Jantung Pisang",
+    "region": "Purwokerto",
+    "page_number": 546,
+    "category": "Lauk/Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "djatung pisang 2 bh.",
+            "item_original": "djatung pisang",
+            "item_normalized": "jantung pisang",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur ¹/₄ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djeruk purut 1 iris",
+            "item_original": "djeruk purut",
+            "item_normalized": "jeruk purut",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djantung pisang dibakar sampai masak, dibuang kulitnja jang gosong.",
+      "Kelapa diparut, dibuat santan 1¹/₂ gelas.",
+      "Bumbu² dihaluskan, djantung dimasukkan dengan dibelah², kemudian disiram dengan santan."
+    ]
+  },
+  {
+    "recipe_id": "MR_554_1",
+    "title_original": "PENTJOK IKAN",
+    "title_normalized": "Pentok Ikan",
+    "region": "Priangan",
+    "page_number": 546,
+    "category": "Lauk/Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan:",
+        "ingredients": [
+          {
+            "original_text": "ikan tawes ¹/₂ kg.",
+            "item_original": "ikan tawes",
+            "item_normalized": "ikan tawes",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "bawang merah 6 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 3.0,
+            "unit": "mata"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan tawes dibersihkan, dipanggang.",
+      "Katjang tanah disangan.",
+      "Bawang merah, lombok, djae dibakar.",
+      "Bumbu² dihaluskan, ikan dimasukkan, diberi air panas sedikit."
+    ]
+  }
+]

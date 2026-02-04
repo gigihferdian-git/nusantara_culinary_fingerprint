@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_1136_1",
+    "title_original": "WADJIK KENTANG",
+    "title_normalized": "Wajik Kentang",
+    "region": null,
+    "page_number": 1136,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 1 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1/4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 5 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 5.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa dibersihkan, diparut.",
+      "Kentang dibersihkan, diiris tipis-tipis.",
+      "Kelapa parut, kentang dan gula dimasukkan dalam wadjan, dimasak sambil diaduk-aduk sampai kering.",
+      "Setelah masak, dimasukkan panili, diaduk rata, diangkat.",
+      "Dituangkan, diratakan diatas nampan, didiamkan sampai dingin, dipotong-potong persegi."
+    ]
+  },
+  {
+    "recipe_id": "MR_1136_2",
+    "title_original": "WADJIK KLETIK",
+    "title_normalized": "Wajik Kletik",
+    "region": null,
+    "page_number": 1136,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "beras ketan putih 1 pinggan",
+            "item_original": "beras ketan putih",
+            "item_normalized": "beras ketan putih",
+            "quantity": 1.0,
+            "unit": "pinggan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa parut 1 prg.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "peraga"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras dicuci bersih-bersih lalu ditanak, jangan masak betul (setengah masak).",
+      "Gula direbus hingga mendidih, setelah itu parutan kelapa dicampurkan dan diaduk terus diatas api yang tidak terlalu besar.",
+      "Kalau sudah kelihatan berminyak, maka ketan setengah masak tadi dimasukkan dan diaduk hingga rata, sementara kalau sudah kelihatan masak, diangkat dan dicetak.",
+      "Kemudian diatur diatas tampah yang bersih yang dialas merang dan dijemur sehari lamanya dan harus dibalikkan letaknya.",
+      "Untuk menjaga kebersihan menjemurnya ditutup dengan anyaman penutup makanan."
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "recipe_id": "MR_629_2",
+    "title_original": "TUMIS KOL",
+    "title_normalized": "Tumis Kol",
+    "region": "Banyumas",
+    "page_number": 621,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kol ½ kg.",
+            "item_original": "kol",
+            "item_normalized": "kol (kubis)",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur itik 2 btr.",
+            "item_original": "telur itik",
+            "item_normalized": "telur bebek",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 2½ sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.5,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 1 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

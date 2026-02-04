@@ -1,0 +1,181 @@
+[
+  {
+    "recipe_id": "MR_357_0",
+    "title_original": "SOP OJONG",
+    "title_normalized": "Sup Oyong",
+    "region": null,
+    "page_number": 349,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ojong 7 bh.",
+            "item_original": "ojong",
+            "item_normalized": "oyong",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daging 1 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "soun 1 ons",
+            "item_original": "soun",
+            "item_normalized": "soun",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala 1/4 sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 2 tk.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun bawang 1 ikat",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging diiris ketjil² dan direbus sampai lunak.",
+      "Bawang merah diiris tipis², terus digoreng.",
+      "Ojong jang masih muda dikupas, ditjutji, diiris pendek².",
+      "Setelah daging lunak, bumbu, ojong dan soun dimasukkan (soun harus direndam terlebih dahulu).",
+      "Sesudah masak, diangkat, ditaburi bawang goreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_357_1",
+    "title_original": "SOP SAWI TELUR",
+    "title_normalized": "Sup Sawi Telur",
+    "region": null,
+    "page_number": 349,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sawi putih 1 ikt.",
+            "item_original": "sawi putih",
+            "item_normalized": "sawi putih",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "minjak goreng 3 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada bubuk",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 2 bks.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sawi putih ditjutji, dipotong 2 cm lebarnja.",
+      "Bawang merah dan bawang putih diiris halus, digoreng sampai kuning.",
+      "Lada putih dan garam ditumbuk halus.",
+      "Ditumis, diberi air ± 3½ gelas, sawi dimasukkan.",
+      "Telur² dikatjau, dimasukkan kedalam sop sambil di-aduk².",
+      "Djika telur sudah masak diberi vetsin dan lada. Djangan terlalu lama dimasak.",
+      "Menjadikannja ditaburi bawang goreng."
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_371_01",
+    "title_original": "ANJANG ANJANG",
+    "title_normalized": "Anjang Anjang",
+    "region": "Atjeh",
+    "page_number": 371,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bunga pepaja 1 kobokan",
+            "item_original": "bunga pepaja",
+            "item_normalized": "bunga pepaya",
+            "quantity": 1.0,
+            "unit": "kobokan"
+          },
+          {
+            "original_text": "kelapa muda 1 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa tua 1/2 btr.",
+            "item_original": "kelapa tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok 10 bh.",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kentjur 2 rsd.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 4 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 4.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula 1 sdt.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bunga pepaya direbus 1/2 matang, terus dikeringkan airnya.",
+      "Bumbu-bumbu selain kelapa ditumbuk.",
+      "Kelapa yang tua dibuat santan.",
+      "Kelapa yang muda diparut, direndang terus ditumbuk.",
+      "Bumbu-bumbu ditumis, bubuk kelapa dimasukkan.",
+      "Dimasukkan santan, dibiarkan sampai agak kering."
+    ],
+    "notes": "Rasanya harus pedas."
+  },
+  {
+    "recipe_id": "MR_371_02",
+    "title_original": "ARES",
+    "title_normalized": "Ares",
+    "region": "Lombok",
+    "page_number": 371,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "batang pisang jang muda (bagian dalam) setjukupnja.",
+            "item_original": "batang pisang jang muda (bagian dalam)",
+            "item_normalized": "batang pisang muda (bagian dalam)",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

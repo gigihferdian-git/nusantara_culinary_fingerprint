@@ -1,0 +1,156 @@
+[
+  {
+    "recipe_id": "MR_296_0",
+    "title_original": "SAJUR (Continuation: Daun Sawi)",
+    "title_normalized": "Sayur (Continuation: Daun Sawi)",
+    "region": null,
+    "page_number": 288,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air didjerangkan, daun sawi ditjutji di-potong², direbus selama ¼ djam.",
+      "Daun sawi diangkat, ditiriskan.",
+      "Kelapa diparut, dibuat santan 2 gelas.",
+      "Bumbu² dihaluskan, ketjuali daun salam, dimasukkan kedalam santan.",
+      "Santan di-masak, di-aduk² djika sudah mendidih, sawi dimasukkan.",
+      "Dimasak terus selama 5 menit."
+    ]
+  },
+  {
+    "recipe_id": "MR_296_1",
+    "title_original": "SAJUR BOBOR TERONG",
+    "title_normalized": "Sayur Bobor Terong",
+    "region": null,
+    "page_number": 288,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terong 2 bh.",
+            "item_original": "terong",
+            "item_normalized": "terong",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "petsai 5 lbr.",
+            "item_original": "petsai",
+            "item_normalized": "petsai",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air 3 gelas direbus sampai mendidih.",
+      "Terong di-potong², dimasukkan sampai masak.",
+      "Bumbu² dihaluskan, ketjuali daun salam.",
+      "Kelapa diparut, petsai di-potong².",
+      "Bumbu², kelapa parut, petsai dimasukkan, direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_296_2",
+    "title_original": "SAJUR BUAH KELOR",
+    "title_normalized": "Sayur Buah Kelor",
+    "region": "Bugis",
+    "page_number": 288,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "buah kelor 1 ikt.",
+            "item_original": "buah kelor",
+            "item_normalized": "buah kelor",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

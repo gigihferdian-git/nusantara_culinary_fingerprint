@@ -1,0 +1,154 @@
+[
+  {
+    "recipe_id": "MR_833_0",
+    "title_original": "BOLU KOJA",
+    "title_normalized": "Bolu Koja",
+    "region": "Timor",
+    "page_number": 825,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 6 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air susu 3 gls.",
+            "item_original": "air susu",
+            "item_normalized": "air susu",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 8 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 8.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "kaju manis 1 btg.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "batang"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung, susu, gula dan telur dibuat adonan jang kental.",
+      "Ditambahkan panili, dimasukkan dalam tjetakan persegi empat, jang terlebih dahulu diulas dengan sedikit mentega.",
+      "Dibakar dalam pan dengan api atas dan bawah sampai masak.",
+      "Sesudah itu dipotong-potong."
+    ]
+  },
+  {
+    "recipe_id": "MR_833_1",
+    "title_original": "BOLU LAPIS",
+    "title_normalized": "Bolu Lapis",
+    "region": "Palembang",
+    "page_number": 825,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 1 gls.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "terigu ¼ gls.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "mentega ¼ gls.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kaju manis halus 3 sdt.",
+            "item_original": "kaju manis halus",
+            "item_normalized": "kayu manis halus",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "tjengkeh halus 1 sdt.",
+            "item_original": "tjengkeh halus",
+            "item_normalized": "cengkeh halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kapulaga halus 1 sdt.",
+            "item_original": "kapulaga halus",
+            "item_normalized": "kapulaga halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjetakan dialas kertas lalu dilumuri margarine. Oven dipanaskan.",
+      "Telur dan gula dikotjok sampai kembang, bumbu² dimasukkan."
+    ]
+  }
+]

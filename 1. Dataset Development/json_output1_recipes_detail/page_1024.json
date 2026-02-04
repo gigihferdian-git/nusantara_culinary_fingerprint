@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_1024_1",
+    "title_original": "LOLISE (BAGIA SULI)",
+    "title_normalized": "Lolise (Bagi Suli)",
+    "region": null,
+    "page_number": 1016,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "tepung sagu 2 lt.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 2.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kenari 1 mgk.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "daun sagu tjukup untuk pembungkus",
+            "item_original": "daun sagu",
+            "item_normalized": "daun sagu",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa ½ bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam halus setjukupnja",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, digoreng lalu ditumbuk halus.",
+      "Tepung sagu dicampur dengan kelapa, kenari yang telah diiris dan garam. Diberi air secukupnya untuk melekatkan.",
+      "Dibungkus dengan daun sagu (setiap helai 1 bungkus), diikat dengan tulang daun sagu.",
+      "Dipanggang di atas bara sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1024_2",
+    "title_original": "LOMPONG SAGU",
+    "title_normalized": "Lompong Sagu",
+    "region": "Sumatera Barat",
+    "page_number": 1016,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "tepung sagu 2 gls.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "pisang *) 8 bh.",
+            "item_original": "pisang",
+            "item_normalized": "pisang",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula merah dimasak dalam sedikit air bersama garam dan daun pandan, lalu disaring.",
+      "Kelapa diparut.",
+      "Pisang dihancurkan, dicampur dengan tepung kelapa dan air gula panas, hingga teraduk rata.",
+      "Adonan dibungkus dalam daun pisang (ukuran p. 15 cm, Ø 2 cm), ujungnya disemat dengan lidi.",
+      "Kue dibakar seperti halnya membakar pepesan."
+    ]
+  }
+]

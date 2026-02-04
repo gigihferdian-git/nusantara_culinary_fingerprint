@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_1027_0",
+    "title_original": "MODEL",
+    "title_normalized": "Model",
+    "region": "Palembang",
+    "page_number": 1027,
+    "category": "Hidangan Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan gabus/belida ¹/₂ kg.",
+            "item_original": "ikan gabus/belida",
+            "item_normalized": "ikan gabus / belida",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "sagu 1 mgk.",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "tahu 5 pt.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "ketimun 1 bh.",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak kelapa 2 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun sop/seledri 5 lbr.",
+            "item_original": "daun sop/seledri",
+            "item_normalized": "daun sup / seledri",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun bawang 8 lbr.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 8.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "tjuka 2 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air kaldu 2 gls.",
+            "item_original": "air kaldu",
+            "item_normalized": "air kaldu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dikupas, dibuang tulangnja, digiling halus.",
+      "Ikan jang sudah halus, ditjampur dengan sagu dan 5 sendok makan air garam (atau lebih), di-aduk² sampai dapat dibentuk.",
+      "Diambil ¹/₂ genggam, dibentuk bulat², ditipiskan dan lebar (untuk kulit).",
+      "Tahu dibelah dua menjerong (diagonal), tahu tersebut dibungkus dengan kulit. Membungkusnja dilipat dua, dirapatkan dengan sedikit air sambil di-tekan² udjung²nja supaja tidak terbuka, digoreng dalam minjak jang panas, sampai kering.",
+      "Saos terdiri:",
+      "1. Bawang merah, bawang putih, lada ditumbuk halus lalu ditumis dengan sesendok makan minjak kelapa, sampai kering.",
+      "2. Dimasukkan daun bawang jang telah di-potong² 1 cm sampai ¹/₂ matang, kemudian air kaldu, dimasukkan sesudah mendidih: ketjap, tjuka, didjerangkan sebentar."
+    ]
+  }
+]

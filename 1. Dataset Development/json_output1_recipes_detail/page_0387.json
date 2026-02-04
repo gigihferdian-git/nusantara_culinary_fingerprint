@@ -1,0 +1,177 @@
+[
+  {
+    "recipe_id": "MR_379_1",
+    "title_original": "ATJAR DJAGUNG MENTAH",
+    "title_normalized": "Acar Jagung Mentah",
+    "region": null,
+    "page_number": 379,
+    "category": "Acar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung jang muda sekali (putik djagung) 10 bh.",
+            "item_original": "djagung jang muda sekali (putik djagung)",
+            "item_normalized": "jagung muda (putik jagung)",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "air 1/2 tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada 3 btr.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung dikupas, ditjutji dan ditiriskan.",
+      "Air dimasak sampai mendidih beserta garam, lada, gula pasir dan tjuka.",
+      "Diangkat dari api dan didinginkan ; lada dikeluarkan.",
+      "Kalau sudah panas² kuku, djagung jang telah ditiriskan dimasukkan dan direndam beberapa waktu sebelum dihidangkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_379_2",
+    "title_original": "ATJAR GURAMI",
+    "title_normalized": "Acar Gurami",
+    "region": null,
+    "page_number": 379,
+    "category": "Acar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gurami 1 kg.",
+            "item_original": "gurami",
+            "item_normalized": "gurami",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak 2 gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 3 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 2 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, di-potong², digoreng kering.",
+      "Bawang merah dan lombok merah dibersihkan dipotong kasar. Digoreng agak kering.",
+      "Bumbu² lainnja dihaluskan, ditumis, dimasukkan bawang dan lombok goreng, diberi air dan tjuka.",
+      "Setelah mendidih, ikan dimasukkan, dimasak sampai kuahnja agak kental."
+    ]
+  }
+]

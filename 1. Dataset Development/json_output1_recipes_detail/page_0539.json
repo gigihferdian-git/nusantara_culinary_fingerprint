@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_531_0",
+    "title_original": "PALLU SANROH",
+    "title_normalized": "Pallu Sanroh",
+    "region": "Sulawesi Selatan",
+    "page_number": 531,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "sereh 1 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djeruk nipis 1 btr.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan, dipotong-potong.",
+      "Kelapa diparut dibuat santan, lalu dimasak hingga mendidih.",
+      "Potongan ajam dimasukkan.",
+      "Bawang merah, bawang putih dan laos di-iris², batang sereh dimemarkan, bumbu² ini bersama lada dimasukkan dalam santan mendidih.",
+      "Ditambah dengan air djeruk nipis dan garam.",
+      "Didjerangkan sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_531_1",
+    "title_original": "PALLU TJELLA",
+    "title_normalized": "Pallu Cella",
+    "region": "Sulawesi Selatan",
+    "page_number": 531,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "ikan laut basah 1 kg.",
+            "item_original": "ikan laut basah",
+            "item_normalized": "ikan laut basah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": []
+      }
+    ],
+    "instructions": []
+  }
+]

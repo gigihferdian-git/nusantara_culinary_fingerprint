@@ -1,0 +1,116 @@
+[
+  {
+    "recipe_id": "MR_1061_1",
+    "title_original": "PODING BUAH²AN",
+    "title_normalized": "Puding Buahan",
+    "region": null,
+    "page_number": 1053,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "anggur 1 gls. ketjil",
+            "item_original": "anggur",
+            "item_normalized": "anggur",
+            "quantity": 1.0,
+            "unit": "gelas kecil"
+          },
+          {
+            "original_text": "agar² 2 btg.",
+            "item_original": "agar²",
+            "item_normalized": "agar-agar",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "nanas 2 belik",
+            "item_original": "nanas",
+            "item_normalized": "nanas",
+            "quantity": 2.0,
+            "unit": "belah"
+          },
+          {
+            "original_text": "gula pasir setjukupnja",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "air 2 tjutji tangan",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "cuci tangan"
+          },
+          {
+            "original_text": "ardbei 2 belik",
+            "item_original": "ardbei",
+            "item_normalized": "arbei",
+            "quantity": 2.0,
+            "unit": "belah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mula² agar² ditjutji bersih.",
+      "Sesudah itu dimasak dengan air sampai hantjur.",
+      "Dimasukkan sesudah anggur, dan dimasak terus bersama.",
+      "Lalu disaring dan dibagi tiga.",
+      "Ambil pulalah sebuah tjetakan ringvorm jang ada berlubang dibagian tengahnja.",
+      "Tjetakan disapu dengan air sedikit.",
+      "Dan diletakkan dalam sebuah pantji jang berisi es.",
+      "Tjetakan itu diisi sepertiganja dan dua pertiga lagi dibiarkan, diletakkan diatas bara jang sedang sadja panasnja.",
+      "Kalau lapis pertama kelihatan sudah berkulit atau beku, maka masukkanlah pula nanas ber-ganti² dengan ardbei sekelilingnja.",
+      "Dan diatasnja dituangkan sepertiga lagi.",
+      "Bila sudah berkulit kelihatannja, disusun pula lagi buah²an tersebut.",
+      "Ardbei disusun diatas nanas dan nanas diatas ardbei dan seterusnja.",
+      "Dituangi kembali agar² jang seperti tadi.",
+      "Bila agar² ini telah dingin lalu diletakkan diatas piring katja, jang ditengahnja diletakkan pula beberapa buah²an itu.",
+      "Begitu djuga tentang kelebihan agar², dipotong runtjing² dan disusun berkeliling di-sebelah² luar.",
+      "Tiap runtjingan agar² itu diselimuti pula dengan slagroom."
+    ]
+  },
+  {
+    "recipe_id": "MR_1061_2",
+    "title_original": "PODING DJAGUNG",
+    "title_normalized": "Puding Jagung",
+    "region": null,
+    "page_number": 1053,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "irisan djagung muda 3 tjkr.",
+            "item_original": "irisan djagung muda",
+            "item_normalized": "irisan jagung muda",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kuningnja telur 1 btr.",
+            "item_original": "kuningnja telur",
+            "item_normalized": "kuning telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putihnja telur 4 btr.",
+            "item_original": "putihnja telur",
+            "item_normalized": "putih telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

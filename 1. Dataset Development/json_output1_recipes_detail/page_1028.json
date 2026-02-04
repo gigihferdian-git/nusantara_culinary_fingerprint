@@ -1,0 +1,93 @@
+[
+  {
+    "recipe_id": "MR_1020_0",
+    "title_original": "RECIPE_MISSING_1020_0",
+    "title_normalized": "Resep Lanjutan (Kue Ubi)",
+    "region": null,
+    "page_number": 1020,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "tambahan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar direbus, dikupas, dihaluskan.",
+      "Santan direbus sampai mendidih, diberi garam sedikit.",
+      "Telur dan gula merah dikotjok sampai kembang.",
+      "Ubi rambat jang telah halus dimasukkan.",
+      "Setelah bertjampur, dimasukkan santan kental jang sudah dingin.",
+      "Adonan dituangkan kedalam tjetakan, dipanggang dengan api bawah.",
+      "Sudah agak kembang, api bawah diketjilkan, api atas ditambah.",
+      "Dipanggang sampai masak, bagian atas ditaburi dengan gula pasir."
+    ]
+  },
+  {
+    "recipe_id": "MR_1020_1",
+    "title_original": "MANTJO",
+    "title_normalized": "Mantjo",
+    "region": "Jawa Timur",
+    "page_number": 1020,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan 1/2 kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "karuk ketan 1/4 kg.",
+            "item_original": "karuk ketan",
+            "item_normalized": "karuk ketan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan direndam dalam air ± 1 malam, ditanak, setelah masak ditumbuk atau digemblong jang halus.",
+      "Ambil dulang kaju jang sudah dialas daun pisang, dan ares pisang (isi batang pisang).",
+      "Adonan tadi diambil sedikit demi sedikit, diratakan diatas dulang dengan memakai ares kira² setebal ½ cm. Tiap² kepingan ini didjemur dipanas supaja dapat di-iris².",
+      "Setelah dapat dipotong, maka adonan tadi di-potong² dengan pisau jang telah dilumuri minjak, dengan lebar 2 cm dan pandjang 3—10 cm, didjemur lagi hingga kering betul.",
+      "Karuk digoreng dengan pisang jang telah dibersihkan, kemudian brondong tadi diajak supaja brondong dan pasir terpisah."
+    ]
+  }
+]

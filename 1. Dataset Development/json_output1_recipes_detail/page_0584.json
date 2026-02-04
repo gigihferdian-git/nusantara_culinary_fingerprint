@@ -1,0 +1,166 @@
+[
+  {
+    "recipe_id": "MR_576_0",
+    "title_original": "(Continuation of previous recipe)",
+    "title_normalized": "(Continuation of previous recipe)",
+    "region": null,
+    "page_number": 576,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "lanjutan",
+        "original_header": "Bahan Lanjutan",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 3 bh",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djeruk nipis 1 btr.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dikerat-kerat.",
+      "Dilumuri garam dan air djeruk nipis.",
+      "Bawang merah, lombok, djae, sereh ditumbuk lalu ditumis dengan minjak agak banjak.",
+      "Ikan dilumari dengan sebagian dari bumbu² tumis, dibiarkan dulu supaja meresap.",
+      "Ikan dibakar sambil disiram sisa bumbu dan minjak."
+    ]
+  },
+  {
+    "recipe_id": "MR_576_1",
+    "title_original": "RITJA RODOH",
+    "title_normalized": "Rica Rodoh",
+    "region": "Menado",
+    "page_number": 576,
+    "category": "Sayuran Pedas",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "daging babi atau sapi 1 ons",
+            "item_original": "daging babi atau sapi",
+            "item_normalized": "daging babi atau sapi",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "djagung muda 2 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "buntjis ¼ ons",
+            "item_original": "buntjis",
+            "item_normalized": "buncis",
+            "quantity": 0.25,
+            "unit": "ons"
+          },
+          {
+            "original_text": "terung 1 bh.",
+            "item_original": "terung",
+            "item_normalized": "terong",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok hidjau 2 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 1 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kutjai ½ ikat",
+            "item_original": "kutjai",
+            "item_normalized": "kucai",
+            "quantity": 0.5,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun kemangi ½ ikat",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 0.5,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "sereh 1 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dipotong-potong ketjil lalu direbus.",
+      "Semua bumbu² dihaluskan, ketjuali sereh dimemarkan.",
+      "Djagung muda diiris dari tongkolnja, dan dimasukkan kedalam daging rebus.",
+      "Sajuran dibersihkan, buntjis dan lombok hidjau di-iris² serong agak kasar.",
+      "Terong dibelah 4 dan dipotong serong. Tomat diiris kasar. Kutjai dipotong-potong ± 1 cm. Daun kemangi dipetik dari tangkai."
+    ]
+  }
+]

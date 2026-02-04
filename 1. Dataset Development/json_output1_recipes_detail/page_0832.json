@@ -1,0 +1,144 @@
+[
+  {
+    "recipe_id": "MR_832_0",
+    "title_original": "BOLU KODJA",
+    "title_normalized": "Bolu Kojo",
+    "region": "Sumatera Barat",
+    "page_number": 824,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur bebek 4 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah halus ¾ gls.",
+            "item_original": "gula merah halus",
+            "item_normalized": "gula merah halus",
+            "quantity": 0.75,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir ¾ gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.75,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung terigu 1 gls.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "margarine 4 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dikeluarkan santan kental sebanjak 1½ gelas.",
+      "Telur bebek dikotjok, dimasukkan gula merah dan santan. Diaduk dan disaring, diberi panili dan garam.",
+      "Adonan dimasukkan kedalam tjetakan aluminium atau pinggan tahan panas jang telah diolesi dengan margarine. Selebihnja ditjelupkan sesendok demi sesendok kedalamnja.",
+      "Kue dibakar dalam oven api jang sedang, selama 40–50 menit."
+    ]
+  },
+  {
+    "recipe_id": "MR_832_1",
+    "title_original": "BOLU KODJA LUNAK",
+    "title_normalized": "Bolu Kojo Lunak",
+    "region": "Timor",
+    "page_number": 824,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "santan kelapa 1 gls.",
+            "item_original": "santan kelapa",
+            "item_normalized": "santan kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung terigu 3 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah (sudah diiris) 3 gls.",
+            "item_original": "gula merah (sudah diiris)",
+            "item_normalized": "gula merah (sudah diiris)",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikotjok dengan gula, tepung dientjerkan dengan santan, kemudian dimasukkan kedalam telur lalu diberi panili, garam dan air pandan.",
+      "Bila sudah selesai mendjadi adonan, dituangkan kedalam tjetakan jang telah diberi kertas dan mentega.",
+      "Sementara itu kukusan kaleng telah didjerangkan.",
+      "Manakala air dikuali telah mendidih, baru tjetakan dimasukkan."
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "recipe_id": "MR_937_1",
+    "title_original": "KRASIKAN",
+    "title_normalized": "Krasikan",
+    "region": null,
+    "page_number": 929,
+    "category": "Kue / Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan 1 kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula djawa 8 ons",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 8.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan digoreng sangan lalu ditumbuk.",
+      "Kelapa disrundeng lalu ditumbuk.",
+      "Buatlah djuruh gula djawa, setelah djuruh akan kental masukkan ketan dan srundeng tadi lalu di-potong² setelah dingin."
+    ]
+  },
+  {
+    "recipe_id": "MR_937_2",
+    "title_original": "KRAWON TJANTEL",
+    "title_normalized": "Krawon Cantel",
+    "region": "Yogyakarta",
+    "page_number": 929,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras tjantel (tjantel) 1 kg.",
+            "item_original": "beras tjantel (tjantel)",
+            "item_normalized": "beras cantel (cantel)",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras tjantel ditjutji bersih.",
+      "Dikukus sampai setengah masak.",
+      "Dikaru dengan air panas.",
+      "Dikukus lagi sampai masak betul.",
+      "Parutlah kelapa setjukupnja.",
+      "Parutan kelapa diberi garam setjukupnja.",
+      "Kalau rawon itu akan dimakan, biasanja kelapa parutan ditjampurkan."
+    ]
+  }
+]

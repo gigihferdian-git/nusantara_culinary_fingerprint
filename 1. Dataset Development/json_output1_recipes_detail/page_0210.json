@@ -1,0 +1,112 @@
+[
+  {
+    "recipe_id": "MR_210_1",
+    "title_original": "Tamales",
+    "title_normalized": "Tamales",
+    "region": null,
+    "page_number": 202,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [],
+    "instructions": [
+      "Djagung pipilan direbus dalam air jang diberi sedikit kapur hingga kulitnja mudah dilepaskan.",
+      "Djagung ditjutji bersih² dan digiling sampai halus dan disaring.",
+      "Dimasukkan sedikit gadjih dan diaduk sampai tjampur betul.",
+      "Menurut keinginan, adonan dapat diberi gula atau garam.",
+      "Dengan daun djagung atau daun pisang adonan dibungkusi beserta daging.",
+      "Dikukus, dan diangkat apabila bungkus mudah dilepaskan dari isinja."
+    ]
+  },
+  {
+    "recipe_id": "MR_210_2",
+    "title_original": "TINOTUAN",
+    "title_normalized": "Tinutuan",
+    "region": "Menado",
+    "page_number": 202,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1 gls.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "ubi kaju 1 bh.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bajam 1 ikt.",
+            "item_original": "bajam",
+            "item_normalized": "bayam",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "djagung 1 bh.",
+            "item_original": "djagung",
+            "item_normalized": "jagung",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kangkung 1 ikt.",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "air 5 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 5.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemangi 1 ikt.",
+            "item_original": "kemangi",
+            "item_normalized": "kemangi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ditjutji bersih, direbus dengan air mendjadi bubur, sekali² diaduk.",
+      "Garam dan sereh dimasukkan.",
+      "Kangkung, ubi, bajam, ditjutji, di-potong². Djagung diiris dari tongkolnja.",
+      "Bila butir² beras telah hantjur, sajuran dimasukkan menurut tingkat kerasnja.",
+      "Dibiarkan sebentar sampai sajuran lunak, baru diangkat.",
+      "Dihidangkan dalam basi tertutup setelah ditaburi daun kemangi."
+    ]
+  }
+]

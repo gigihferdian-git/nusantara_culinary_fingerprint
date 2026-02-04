@@ -1,0 +1,167 @@
+[
+  {
+    "recipe_id": "MR_1080_0",
+    "title_original": "RONDO ROJAL",
+    "title_normalized": "Rondo Rojal",
+    "region": null,
+    "page_number": 1072,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tape ¼ kg.",
+            "item_original": "tape",
+            "item_normalized": "tapai",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras/",
+            "item_original": "tepung beras/",
+            "item_normalized": "tepung beras/",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "terigu 1 ons",
+            "item_original": "terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili ½ bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "bungkus"
+          }
+        ]
+      },
+      {
+        "group_name": "tambahan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "santan jang kental ½ gelas (dari kelapa)",
+            "item_original": "santan",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Serat tape dihilangkan, dihaluskan.",
+      "Kelapa diparut, diambil santannja jang kental ½ gelas.",
+      "Tape, tepung, santan, gula, garam, panili diaduk rata.",
+      "Digoreng sesendok demi sesendok dalam minjak panas, kalau sudah masak berbentuk bulat."
+    ]
+  },
+  {
+    "recipe_id": "MR_1080_1",
+    "title_original": "ROTI DJAGUNG",
+    "title_normalized": "Roti Jagung",
+    "region": null,
+    "page_number": 1072,
+    "category": "Roti",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir ¼ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam ¾ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.75,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "susu 1 tjkr.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 1 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bakpoeder 1 sdm.",
+            "item_original": "bakpoeder",
+            "item_normalized": "baking powder",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 5 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung terigu, tepung djagung, garam, gula, bakpoeder ditjampur mendjadi satu, lalu diajak.",
+      "Taruh didalam baskom.",
+      "Telur jang telah dikotjok ditjampur dengan susu dan margarine, diaduk lalu ditjampurkan pada bahan² tepung dan lain²nja jang telah dimasak.",
+      "Diaduk sampai rata, lalu dituang dilojang tjeper jang telah diulas mentega.",
+      "Panggang dioven jang telah dipanaskan dengan api besar.",
+      "Setelah 20 menit roti sudah masak.",
+      "Di-potong² lalu segera disadjikan."
+    ]
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "recipe_id": "MR_355_1",
+    "title_original": "SOTO KEDU",
+    "title_normalized": "Soto Kedu",
+    "region": "Kedu",
+    "page_number": 355,
+    "category": "Soto",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kol ¼ btr.",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 0.25,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daging ½ kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tauge ¼ kg.",
+            "item_original": "tauge",
+            "item_normalized": "tauge",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tempe bosok 1 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "tomat 1 ons",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ketumbar ½ sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada putih ½ sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "djae 1 rsd.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging direbus sampai masak lalu dipotong.",
+      "Kol diiris.",
+      "Taoge dibersihkan.",
+      "Bumbu dihaluskan ketjuali salam, laos, djae, tempe bosok dipotong.",
+      "Dimasak dengan air kaldu, sampai mendidih.",
+      "Sajuran dimasukkan, direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_355_2",
+    "title_original": "SOTO MADURA",
+    "title_normalized": "Soto Madura",
+    "region": "Madura",
+    "page_number": 355,
+    "category": "Soto",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging ajam ¼ kg.",
+            "item_original": "daging ajam",
+            "item_normalized": "daging ayam",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 5 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kentang ¼ kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "soun ½ ons",
+            "item_original": "soun",
+            "item_normalized": "soun",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "keripik kentang ½ ons",
+            "item_original": "keripik kentang",
+            "item_normalized": "keripik kentang",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 5 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "djae 1 rsd.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "seledri 5 tangkai",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 5.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun bawang 5 tangkai",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 5.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "djeruk nipis 1 btr.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ajam direbus, di-tjabik² (di-suwir²) tipis.",
+      "Kentang, telur direbus, di-iris²."
+    ]
+  }
+]

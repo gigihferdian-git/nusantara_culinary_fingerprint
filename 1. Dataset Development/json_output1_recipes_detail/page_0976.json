@@ -1,0 +1,140 @@
+[
+  {
+    "recipe_id": "MR_976_1",
+    "title_original": "KUE MANDALA",
+    "title_normalized": "Kue Mandala",
+    "region": "Purwokerto",
+    "page_number": 968,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 gls.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "pisang radja 5 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kuning telur ajam 1 btr.",
+            "item_original": "kuning telur ajam",
+            "item_normalized": "kuning telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.0,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, dikukus, diberi garam, ditumbuk halus.",
+      "Santan didjerangkan mendjadi kanil.",
+      "Pisang radja direbus sampai masak.",
+      "Singkong halus ditjamput rata dengan kanil. Digiling pada papan setebal 3/4 cm, dipotong memandjang seperti pita.",
+      "Pisang dibelah dua, masing² dililit dengan adonan singkong tadi.",
+      "Dilumuri dengan kuning telur.",
+      "Dibakar dalam oven sampai warna tjoklat kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_976_2",
+    "title_original": "KUE MANGKOK",
+    "title_normalized": "Kue Mangkok",
+    "region": "Cianjur",
+    "page_number": 968,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 6 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 6.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air kelapa 1 btr.",
+            "item_original": "air kelapa",
+            "item_normalized": "air kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 3 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "soda kue 2 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam halus 1 sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Perbandingan tepung dengan tjairan (air gula dan air kelapa) harus 2:1. 6 gelas tepung berbanding dengan 3 gelas tjairan.",
+      "Tepung beras ditjamput dengan air kelapa dan ditambah 2 sendok teh soda kue.",
+      "Adonan ini diaduk sampai rata.",
+      "Dibiarkan beberapa djam, sampai adonan itu berkembang, terdjadi lubang² hawa (± 2 djam).",
+      "Tjairan gula dibuat dan didjerangkan bersama daun pandan."
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "recipe_id": "MR_916_0",
+    "title_original": "KELESONG",
+    "title_normalized": "Kelesong",
+    "region": "Timor",
+    "page_number": 916,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1 lt.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kelapa tua 1 bh.",
+            "item_original": "kelapa tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja:",
+      "1. Beras dibersihkan dari kotoran, ditjutji.",
+      "2. Dikukus setengah masak.",
+      "3. Di aru dengan santan kental jang diperoleh dari kelapa tua.",
+      "4. Setelah dingin dibungkusi, dan diikat dengan tali.",
+      "5. Direbus dalam air mendidih sampai masak.",
+      "Keterangan: Sebagai bungkus dipakai daun kelapa jang muda, jang didjemur dahulu sampai sedikit laju. Lidinja dibuang, lipatan seperti membuat lepet."
+    ]
+  },
+  {
+    "recipe_id": "MR_916_1",
+    "title_original": "KELENTJI SI UPIK",
+    "title_normalized": "Kelinci Si Upik",
+    "region": null,
+    "page_number": 916,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "menir djagung ½ tjkr.",
+            "item_original": "menir djagung",
+            "item_normalized": "menir jagung",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air 1½ tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "vetsin 1 sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada halus setjukupnja",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun seledri setjukupnja",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daging giling 1 ons",
+            "item_original": "daging giling",
+            "item_normalized": "daging giling",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lombok merah 1 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja:",
+      "1. Beras djagung dibersihkan, ditjutji, dibuang jang terapung, ulanglah mentjutjinja beberapa kali sampai hampir semua jang terapung hanjut.",
+      "2. Dimasak seperti bubur dengan air dan garam sampai kalis.",
+      "3. Untuk isi: daging dimasak sampai masak dengan garam lada dan sedikit air sampai kering.",
+      "4. Kalau bubur telah masak masukkanlah kedalam tjetakan puding jang berupa kelintji, setengah terisi, terus masukkan"
+    ]
+  }
+]

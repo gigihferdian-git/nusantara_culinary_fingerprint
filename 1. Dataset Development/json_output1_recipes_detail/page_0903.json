@@ -1,0 +1,135 @@
+[
+  {
+    "recipe_id": "MR_903_895_1",
+    "title_original": "GETUK GULING",
+    "title_normalized": "Getuk Guling",
+    "region": null,
+    "page_number": 895,
+    "category": "Jajanan Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1/2 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 1/2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tjoklat 2 sdt.",
+            "item_original": "tjoklat",
+            "item_normalized": "cokelat",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, ditjutji, dipotong-potong, dikukus.",
+      "Dalam keadaan panas ditumbuk atau digiling. Ditjampur dengan gula, panili, garam (dapat diberi air 1/2-1 sdm supaja agak pekat).",
+      "Sesudah adonan rata betul, dibagi dua, sebagian diaduk rata dengan tjoklat.",
+      "Kemudian disusun dan digulung. Baru di-potong² setebal 1 cm melintang.",
+      "Dihidangkan dengan parutan kelapa."
+    ]
+  },
+  {
+    "recipe_id": "MR_903_895_2",
+    "title_original": "GETUK LINDRI",
+    "title_normalized": "Getuk Lindri",
+    "region": null,
+    "page_number": 895,
+    "category": "Jajanan Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi kaju 2 pt.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 2.0,
+            "unit": "bagian"
+          },
+          {
+            "original_text": "kelapa muda 1/4 bagian",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.25,
+            "unit": "bagian"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir setjukupnja",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah sedikit",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi dibersihkan, di-potong², lalu dikukus.",
+      "Gula merah dimasak dengan air sedikit.",
+      "Didjaga agar tidak entjer, lalu disaring.",
+      "Sesudah itu ditumbuk ubi jang ditjampur dengan kelapa muda diparut.",
+      "Dibubuhi garam sedikit.",
+      "Kemudian dimasukkan gula hingga semuanja bertjampur benar.",
+      "Adonan ini diratakan dalam sebuah piring atau tjetakan.",
+      "Kemudian di-potong².",
+      "Dihidangkan dengan kelapa parut jang sudah dibubuhi garam sedikit."
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "recipe_id": "MR_621_613_1",
+    "title_original": "TJILI DJAGUNG",
+    "title_normalized": "Cili Jagung",
+    "region": null,
+    "page_number": 613,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging giling 1 tjkr.",
+            "item_original": "daging giling",
+            "item_normalized": "daging giling",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bawang putih giling 4 bh.",
+            "item_original": "bawang putih giling",
+            "item_normalized": "bawang putih giling",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tjengkeh 6 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "gula pasir 1 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bawang merah 1/2 tjkr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "lombok merah 6 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 6 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "saus tomat 2 tjkr.",
+            "item_original": "saus tomat",
+            "item_normalized": "saus tomat",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "djagung pipilan 1 tjkr.",
+            "item_original": "djagung pipilan",
+            "item_normalized": "jagung pipilan",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ditumis bersama : daging giling, bawang merah iris, bawang putih halus, irisan lombok, tjengkeh, garam dan gula putih dengan api ketjil sampai lembut; djagung pipilan dan saus tomat, dimasak sampai merupakan masakan jang kental.",
+      "Selagi menunggu masaknja daging ini, dibuatkan buburnja dengan tjara jang sama dengan membuat mush (bubur) tjili diatas, sebelum ditaroh dilojang.",
+      "Daging dan bumbu dimasak, bubur dimasukkan dan diaduk hingga rata.",
+      "Kalau hendak dihidangkan dibakar (ada keraknja) maka ambillah lonjang atau piring batu, dan bakarlah kira² 30 menit."
+    ]
+  },
+  {
+    "recipe_id": "MR_621_613_2",
+    "title_original": "TJOAN TJOAN",
+    "title_normalized": "Coan Coan",
+    "region": "Cianjur",
+    "page_number": 613,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan emas 1 kg.",
+            "item_original": "ikan emas",
+            "item_normalized": "ikan mas",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tautjo 1 ons",
+            "item_original": "tautjo",
+            "item_normalized": "tauco",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 15 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

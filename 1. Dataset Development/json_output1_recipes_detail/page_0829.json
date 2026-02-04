@@ -1,0 +1,140 @@
+[
+  {
+    "recipe_id": "MR_821_1",
+    "title_original": "BOLA BOLA TAHU",
+    "title_normalized": "Bola Bola Tahu",
+    "region": "Malang",
+    "page_number": 821,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu putih 10 bh.",
+            "item_original": "tahu putih",
+            "item_normalized": "tahu putih",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "udang basah 1 ons",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tomat 2 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak 1/2 gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung kandji 1 sdm.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Udang dibersihkan, direbus dengan arang, dikupas, ditjintjang halus.",
+      "Tahu ditjintjang halus, ditjampur dengan udang tjintjang, diberi telur, garam dan lada.",
+      "Adonan dibentuk bulat² sebesar kelereng digoreng sampai berwarna tjoklat.",
+      "Dihidangkan dengan saos tomat. Bawang merah, bawang putih diiris tipis, ditumis. Tomat dimasukkan, diberi air 2 dl, ditambah garam, ketjap dan tepung jang telah dientjerkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_821_2",
+    "title_original": "BOLANG BALING",
+    "title_normalized": "Bolang Baling",
+    "region": null,
+    "page_number": 821,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "atji singkong 6 kg.",
+            "item_original": "atji singkong",
+            "item_normalized": "aci singkong",
+            "quantity": 6.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula djawa 2 1/2 kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 2.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Atji singkong ditjampr dengan air panas, diberi gula djawa jang sudah ditjairkan (djuruh), diberi garam setjukupnja, diulet sampai liat."
+    ]
+  }
+]

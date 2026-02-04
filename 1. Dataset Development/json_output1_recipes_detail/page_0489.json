@@ -1,0 +1,111 @@
+[
+  {
+    "recipe_id": "MR_481_0",
+    "title_original": "LAWAR MERAH",
+    "title_normalized": "Lawar Merah",
+    "region": "Bali",
+    "page_number": 481,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sapi/babi + kulitnja daging ajam/babi 1/4 kg.",
+            "item_original": "sapi/babi + kulitnja daging ajam/babi",
+            "item_normalized": "sapi/babi + kulitnya daging ayam/babi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "darah ajam 1 mgk.",
+            "item_original": "darah ajam",
+            "item_normalized": "darah ayam",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 ons",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 6 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lada hitam 1/2 sdt.",
+            "item_original": "lada hitam",
+            "item_normalized": "lada hitam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djeruk sambal 1 bh.",
+            "item_original": "djeruk sambal",
+            "item_normalized": "jeruk sambal",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut.",
+      "Kulit babi dihilangkan bulunja lalu direbus.",
+      "Daging ditjintjang halus.",
+      "Bawang merah digoreng.",
+      "Garam, terasi, lada halus ditjampur mendjadi satu, ditambah lombok rawit jang di-potong² lalu ditumis. Bawang putih, kentjur, lombok + sedikit terasi, diulek halus lalu ditumis.",
+      "Kulit jang telah direbus di-iris² tipis.",
+      "Kelapa ditjamput darah, diaduk sampai rata hingga warnanja merah, baru ditjamput dengan daging tjintjang, bawang goreng dan bumbu² jang telah digoreng (diremas didjadikan satu)",
+      "Air djeruk sambal diteteskan sedikit demi sedikit kedalam adonan kelapa dan daging tadi."
+    ]
+  }
+]

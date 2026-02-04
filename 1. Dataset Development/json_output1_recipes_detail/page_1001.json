@@ -1,0 +1,173 @@
+[
+  {
+    "recipe_id": "MR_993_1",
+    "title_original": "RECIPE CONTINUATION (Ubi Djalar base)",
+    "title_normalized": "Recipe Continuation (Ubi Jalar base)",
+    "region": null,
+    "page_number": 993,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala ¼ sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 1 ikt.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun bawang 1 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar direbus, dikupas, dihaluskan.",
+      "Tepung terigu ditjampurkan sampai rata.",
+      "Seledri, daun bawang diiris halus, bumbu dihaluskan.",
+      "Telur dikotjok.",
+      "Daun bawang dan seledri ditjampur dengan adonan, ditjampur rata.",
+      "Dibentuk bulat pandjang seperti telur ajam.",
+      "Digoreng dalam minjak jang panas, sampai warnanja kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_993_2",
+    "title_original": "KUE TELUR GABUS",
+    "title_normalized": "Kue Telur Gabus",
+    "region": null,
+    "page_number": 993,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 4 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak kelapa 2 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikotjok sampai mengembang.",
+      "Tepung dan garam dimasukkan, di-remas² sampai mendjadi adonan liat.",
+      "Digiling pandjang, diiris serong sepandjang 3 cm.",
+      "Digoreng dengan mula² dimasukkan minjak dingin, sampai warnanja agak kuning.",
+      "Gula pasir direbus dengan sedikit air dalam wadjan, dibiarkan merambut.",
+      "Gorengan² tadi dimasukkan dan diaduk rata."
+    ]
+  },
+  {
+    "recipe_id": "MR_993_3",
+    "title_original": "KUE TEPUNG TAPIOKA",
+    "title_normalized": "Kue Tepung Tapioka",
+    "region": null,
+    "page_number": 993,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung tapioka 1 kg.",
+            "item_original": "tepung tapioka",
+            "item_normalized": "tepung tapioka",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "soda kue ½ sdm.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bumbu spekkoek 1 bks.",
+            "item_original": "bumbu spekkoek",
+            "item_normalized": "bumbu spekkoek",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

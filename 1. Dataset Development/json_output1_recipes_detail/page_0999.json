@@ -1,0 +1,122 @@
+[
+  {
+    "recipe_id": "MR_991_0",
+    "title_original": "KUE TALAM UBI DJALAR",
+    "title_normalized": "Kue Talam Ubi Jalar",
+    "region": null,
+    "page_number": 991,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar 1 kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa tua ½ btr.",
+            "item_original": "kelapa tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung kandji 1 sdm.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar dikupas, dihaluskan.",
+      "Kelapa diparut, dibuat santan kental ½ gelas dan santan entjer.",
+      "Ubi jang telah halus ditjampur dengan santan entjer, diaduk rata, dimasukkan dalam lojang.",
+      "Gula dilarutkan dalam santan kental, dituangkan diatas ubi.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_991_1",
+    "title_original": "KUE TAR",
+    "title_normalized": "Kue Tar",
+    "region": "Sumatera Barat",
+    "page_number": 991,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 10 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "susu segar 2 gls.",
+            "item_original": "susu segar",
+            "item_normalized": "susu segar",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 10 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 10.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine 4 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung terigu 6 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kismis 10 bdj.",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 10.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kuning telur dipisahkan dari putihnja, dikotjok bersama gula pasir, dimasukkan margarine dan tepung terigu, diaduk hingga rata, dimasukkan santan sambil diaduk",
+      "Dimasukkan dalam tjetakan dangkal (dapat digunakan"
+    ]
+  }
+]

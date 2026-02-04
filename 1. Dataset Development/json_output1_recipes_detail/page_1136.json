@@ -1,0 +1,101 @@
+[
+  {
+    "recipe_id": "MR_1136_1",
+    "title_original": "TJINGKIANG",
+    "title_normalized": "Cingkiang",
+    "region": null,
+    "page_number": 1128,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pati singkong 1 kg",
+            "item_original": "pati singkong",
+            "item_normalized": "pati singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur 5 btr",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1/2 kg",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus 1/2 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dibuat santan.",
+      "Pati singkong ditjampar gula.",
+      "Telur dikotjok ditjampar tepung, santan dan pala halus.",
+      "Dimasukkan dalam tjetakan.",
+      "Dipan (oven)."
+    ]
+  },
+  {
+    "recipe_id": "MR_1136_2",
+    "title_original": "TJOTOT",
+    "title_normalized": "Cotot",
+    "region": null,
+    "page_number": 1128,
+    "category": "Jajanan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "getuk ketela pohon 1 kg.",
+            "item_original": "getuk ketela pohon",
+            "item_normalized": "getuk ketela pohon",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1/2 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Getuk dikepali londjong, didalamnja diisi gula pasir ± 1/2 sendok makan atau irisan bentuk persegi jang didalamnja diberi gula pasir.",
+      "Kemudian digoreng sampai masak"
+    ]
+  }
+]

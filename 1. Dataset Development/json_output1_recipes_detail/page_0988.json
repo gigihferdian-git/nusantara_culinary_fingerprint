@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_980_0",
+    "title_original": "KUE SADU",
+    "title_normalized": "Kue Sadu",
+    "region": null,
+    "page_number": 980,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 2 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok takar"
+          },
+          {
+            "original_text": "gula tumbuk setjukupnja",
+            "item_original": "gula tumbuk",
+            "item_normalized": "gula halus",
+            "quantity": 0.0,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "bubuk tjoklat 3 sdm.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk cokelat",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "amandel ½ tjkr.",
+            "item_original": "amandel",
+            "item_normalized": "almon",
+            "quantity": 0.5,
+            "unit": "sendok takar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula diputar hingga ½ naik, kemudian telur dimasukkan beserta amandel jang telah diirisi tipis² dan penghabisan sekali dimasukkan tepungnja.",
+      "Diaduk semua hingga tjamput betul.",
+      "Adonan dibagi 2, jang satu dibubuhi tjoklat, jang lain dibiarkan begitu sadja.",
+      "Masing² bagian didatarkan diatas papan setebal uang gobang, terus dilipat tiga kali sehingga merupakan 3 lapisan kuning dan 3 lapisan tjokalt di-sela² lempitan.",
+      "Kalau sudah siap, terus dipotong tipis² dan dibakar dengan api jang sedang."
+    ]
+  },
+  {
+    "recipe_id": "MR_980_1",
+    "title_original": "KUE SAPANJANA",
+    "title_normalized": "Kue Sapanjana",
+    "region": null,
+    "page_number": 980,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tape ½ kg.",
+            "item_original": "tape",
+            "item_normalized": "tapai",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok takar"
+          },
+          {
+            "original_text": "kelapa 1/3 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "warna kue merah/hidjau",
+            "item_original": "warna kue merah/hidjau",
+            "item_normalized": "pewarna makanan merah/hijau",
+            "quantity": 0.0,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut.",
+      "Kelapa diparut, ditjamput dengan singkong dan garam halus.",
+      "Tape diambil seratnja, kemudian dihaluskan, diaduk djadi satu dengan singkong dan kelapa parut, dibiarkan 10 menit.",
+      "½ bagian ditjamput dengan warna kue, ½ bagian jang lain dibiarkan putih."
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "recipe_id": "MR_1006_0",
+    "title_original": "KUE WINA KERAS",
+    "title_normalized": "Kue Wina Keras",
+    "region": null,
+    "page_number": 998,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 2½ ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula halus 1½ ons",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "terigu 3½ ons",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 3.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur 2–3 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "soda kue ½ sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili ½ sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula diputar sebentar bersama mentega dan kuning telur.",
+      "Sesudah itu dimasukkan tepung, soda dan panili.",
+      "Diaduk per-lahan² hingga sedang kerasnja.",
+      "Ditjetak dengan tjetakan ketjil² be-rigi², sebesar kelereng.",
+      "Supaja tjepat sediakan ini kira² 50 buah.",
+      "Adonan di-bundar²kan sebesar kelereng.",
+      "Dimasukkan tjetakan jang sudah disemir dengan mentega.",
+      "Dibakar dalam pembakaran dengan api atas dan bawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_1006_1",
+    "title_original": "KUE WOKU WOKU",
+    "title_normalized": "Kue Woku Woku",
+    "region": null,
+    "page_number": 998,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sagu ambon 3 bdj.",
+            "item_original": "sagu ambon",
+            "item_normalized": "sagu ambon",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1 bdj.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kenari 1 gls.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula merah ditjairkan.",
+      "Kenari ditjintjang kasar.",
+      "Sagu direndam dengan sedikit air.",
+      "Kalau sudah remuk, santan, gula merah dan kenari dimasukkan."
+    ]
+  }
+]

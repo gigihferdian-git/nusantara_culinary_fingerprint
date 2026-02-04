@@ -1,0 +1,86 @@
+[
+  {
+    "recipe_id": "MR_861_1",
+    "title_original": "[Kue isi Enten]",
+    "title_normalized": "Kue Isi Enten",
+    "region": null,
+    "page_number": 853,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan enten",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kelapa setengah tua ½ btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ½ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "warna",
+            "item_original": "warna",
+            "item_normalized": "pewarna",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut.",
+      "Gula direbus, kelapa dimasukkan, ditambah garam dan panili, direbus sampai lemas hingga mendjadi enten².",
+      "Singkong dibersihkan, diparut, dibuang airnja, di-bagi² menurut djumlah warna jang ada, ditambah ber-matjam² warna kue.",
+      "Adonan dimasukkan pantji jang berisi air mendidih lalu direbus sampai masak.",
+      "Dadar diisi enten², dilipat sampai berbentuk empat persegi pandjang."
+    ]
+  },
+  {
+    "recipe_id": "MR_861_2",
+    "title_original": "DADIAH",
+    "title_normalized": "Dadih",
+    "region": "Sumatera Barat",
+    "page_number": 853,
+    "category": "Fermented Milk / Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu kerbau 1 lt.",
+            "item_original": "susu kerbau",
+            "item_normalized": "susu kerbau",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "bambu 2 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 2.0,
+            "unit": "ruas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bambu dipotong antara dua ruas, jaitu dasarnja tertutup dan udjungnja terbuka, dibersihkan dan diisi dengan susu kerbau sampai 3 cm dari udjung. Ditutup dengan daun 2 lapis jang dikaitkan pada udjungnja, dibiarkan selama 2-3 malam."
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "recipe_id": "MR_979_0",
+    "title_original": "KUE ROKOK ROKOK",
+    "title_normalized": "Kue Rokok Rokok",
+    "region": "Bandjarmasin",
+    "page_number": 979,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/2 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 5 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 5.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula pasir 1/4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikatjau dengan gula, setelah gula hantjur dimasukkan santan, tepung, garam dan air kapur.",
+      "Diaduk sampai adonan mendjadi rata.",
+      "Adonan ini dimasukkan dalam tjetakan sesendok demi sesendok, dan dibakar sampai masak.",
+      "Setelah masak, panas² digulung satu persatu sebesar rokok."
+    ]
+  },
+  {
+    "recipe_id": "MR_979_1",
+    "title_original": "KUE RODANGI",
+    "title_normalized": "Kue Rodangi",
+    "region": null,
+    "page_number": 979,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 2 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir setjukupnja",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "tepung terigu 17 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 17.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung maizena 3 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tepung susu 2 sdm.",
+            "item_original": "tepung susu",
+            "item_normalized": "tepung susu",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 3 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dan mentega dikotjok sampai mengembang.",
+      "Sesudah itu, dimasukkan terigu, maizena, soda, tepung susu dan panili.",
+      "Adonan diaduk rata."
+    ]
+  }
+]

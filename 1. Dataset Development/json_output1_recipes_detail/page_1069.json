@@ -1,0 +1,133 @@
+[
+  {
+    "recipe_id": "MR_1061_0",
+    "title_original": "POTONGAN PANTASI",
+    "title_normalized": "Potongan Fantasi",
+    "region": null,
+    "page_number": 1061,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 3 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 1 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 3½ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 3½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "maizena 2 tjkr.",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bubuk tjoklat 2 sdm.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk cokelat",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok sampai mengembang lalu dikotjok pula menteganja tersendiri.",
+      "Sesudah itu dimasukkan gula dan telur jang telah dikotjok tadi kedalam mentega tersebut dengan terus dikotjok.",
+      "Maizena, terigu, soda dan panili dimasukkan.",
+      "Sesudah itu semuanja diaduk rata, kemudian dibagi 3. Dua bagian kuning, satu bagian tjoklat.",
+      "Lalu diambil selembar kertas minjak jang disapu dengan mentega sedikit.",
+      "Sudah itu diambil adonan jang kuning dan diletakkan diatas kertas minjak, digiling tipis.",
+      "Ambil adonan jang tjoklat, digiling seperti halnja dengan jang kuning",
+      "Sesudah itu jang tjoklat diletakkan diatas jang kuning.",
+      "Hendaknja kedua adonan ini sama pandjang, sama lebar dan sama tebalnja.",
+      "Adonan itu di-potong² dalam beberapa potongan.",
+      "Sudah itu disusun sehingga jang kuning menimpa jang tjoklat dan jang tjoklat letaknja diatas jang kuning.",
+      "Baru dipotong tipis² untuk dibakar dalam oven dengan api diatas dan dibawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_1061_1",
+    "title_original": "POTU NJILLEM",
+    "title_normalized": "Potu Njillem",
+    "region": "Madura",
+    "page_number": 1061,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan ½ kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa muda ½ btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

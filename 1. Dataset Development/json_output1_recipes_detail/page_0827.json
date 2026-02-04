@@ -1,0 +1,134 @@
+[
+  {
+    "recipe_id": "MR_827_1",
+    "title_original": "BOLA ANGET",
+    "title_normalized": "Bola Anget",
+    "region": "Madura",
+    "page_number": 819,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/2 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1/2 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "tjengkeh 10 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "manis djangan 2 djr.",
+            "item_original": "manis djangan",
+            "item_normalized": "kayu manis",
+            "quantity": 2.0,
+            "unit": "jari"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djae diparut.",
+      "Manis djangan dan tjengkeh disangan, dihantjurkan.",
+      "Gula dipanaskan dengan 2 gelas air, dimasukkan bumbu diatas, dibiarkan sampai mendidih.",
+      "Dimasukkan tepung, diaduk sampai kental.",
+      "Setelah masak diangkat, ditaruh diatas tampah jang dialas daun pisang.",
+      "Ditutup lagi dengan daun pisang, di-tekan² sampai sedang tipisnja.",
+      "Diiris menurut bentuk jang diingini."
+    ]
+  },
+  {
+    "recipe_id": "MR_827_2",
+    "title_original": "BOLA BOLA",
+    "title_normalized": "Bola Bola",
+    "region": "Makassar",
+    "page_number": 819,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sagu 1/4 kg.",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, ditjampur dengan sagu dan garam.",
+      "Disangan dalam kuali diatas api.",
+      "Dipertjiki air sedikit demi sedikit, diaduk sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_827_3",
+    "title_original": "BOLA BOLA BANDENG",
+    "title_normalized": "Bola Bola Bandeng",
+    "region": null,
+    "page_number": 819,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bandeng jang besar 1 ekor",
+            "item_original": "bandeng jang besar",
+            "item_normalized": "bandeng besar",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

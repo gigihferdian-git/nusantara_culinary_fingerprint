@@ -1,0 +1,165 @@
+[
+  {
+    "recipe_id": "MR_1148_0",
+    "title_original": "FOSCO",
+    "title_normalized": "Fosco",
+    "region": null,
+    "page_number": 1148,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tjoklat 40 g.",
+            "item_original": "tjoklat",
+            "item_normalized": "coklat",
+            "quantity": 40.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "gula 16 g.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 16.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "air 2 dl.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "desiliter"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air dipanaskan, ditambah dengan panili.",
+      "Tepung tjoklat ditjampur dengan gula tanpa air dulu.",
+      "Kalau air sudah mendidih, ditjampuran tjoklat tadi dimasukkan sampai merupakan sirop jang kental; diaduk terus-menerus selama 10 menit.",
+      "Kemudian didinginkan.",
+      "Fosco ini dapat disimpan dalam botol selama beberapa minggu, sebelum ditjampur dengan air, susu atau air soda.",
+      "Tjara menghidangkannja : Fosco dimasukkan dalam gelas, ditjairkan dengan susu dingin, air soda atau air es."
+    ]
+  },
+  {
+    "recipe_id": "MR_1148_1",
+    "title_original": "PANGALUMI",
+    "title_normalized": "Pangalumi",
+    "region": "Batak",
+    "page_number": 1148,
+    "category": "Ayam",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan : daging ajam",
+        "ingredients": [
+          {
+            "original_text": "daging ajam 1 kg.",
+            "item_original": "daging ajam",
+            "item_normalized": "daging ayam",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada 10 bdj.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "tjengkeh 3 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "pala 3 iris",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 3.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "bawang merah jang dibakar dahulu 3 bdj.",
+            "item_original": "bawang merah jang dibakar dahulu",
+            "item_normalized": "bawang merah (bakar)",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kemiri dibakar 15 bdj.",
+            "item_original": "kemiri dibakar",
+            "item_normalized": "kemiri (bakar)",
+            "quantity": 15.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 5 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 5.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "andaliman 2 untai ketjil",
+            "item_original": "andaliman",
+            "item_normalized": "andaliman",
+            "quantity": 2.0,
+            "unit": "untai kecil"
+          },
+          {
+            "original_text": "garam 5 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bawang putih 2 bdj.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djeruk sundai (sitrun) 5 bdj.",
+            "item_original": "djeruk sundai (sitrun)",
+            "item_normalized": "jeruk sundai (sitrun)",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "air 7 btr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 7.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu digiling sampai halus.",
+      "Daging ajam ditjintjang sampai halus.",
+      "Bumbu ditjampur dengan daging, ditumbuk sampai lumat betul."
+    ]
+  }
+]

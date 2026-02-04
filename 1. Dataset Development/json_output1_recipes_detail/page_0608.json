@@ -1,0 +1,165 @@
+[
+  {
+    "recipe_id": "MR_600_0",
+    "title_original": "TERANTJAM TERONG",
+    "title_normalized": "Terancam Terong",
+    "region": "Rembang",
+    "page_number": 600,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terong besar 1 bh.",
+            "item_original": "terong besar",
+            "item_normalized": "terong besar",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kentjur 2 iris",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, diambil santannja 1 gelas.",
+      "Bumbu² dihaluskan.",
+      "Terong di-potong² ketjil.",
+      "Bumbu dimasukkan kedalam santan, ditambah terong, dimasak sampai matang."
+    ]
+  },
+  {
+    "recipe_id": "MR_600_1",
+    "title_original": "TERI RIMBANG",
+    "title_normalized": "Teri Rimbang",
+    "region": "Tapanuli",
+    "page_number": 600,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun singkong 2 ikat",
+            "item_original": "daun singkong",
+            "item_normalized": "daun singkong",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "rimbang (tabokak) 1 mgk.",
+            "item_original": "rimbang (tabokak)",
+            "item_normalized": "rimbang (takokak)",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "kelapa 1 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "teri kering 1 ons",
+            "item_original": "teri kering",
+            "item_normalized": "teri kering",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 10 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

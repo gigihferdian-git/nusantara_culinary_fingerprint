@@ -1,0 +1,112 @@
+[
+  {
+    "recipe_id": "MR_911_0",
+    "title_original": "IWEL",
+    "title_normalized": "Iwel",
+    "region": "Bali",
+    "page_number": 903,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan putih/hitam 1/2 kg.",
+            "item_original": "ketan putih/hitam",
+            "item_normalized": "ketan putih/hitam",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan ditjutji bersih lalu disangrai sampai warnanja sedikit ke-merah²an.",
+      "Ditumbuk dan diajak.",
+      "Kelapa dibelah lalu dibakar dengan tempurungnja kemudian dibersihkan diparut.",
+      "Ketan jang ditumbuk tadi, ditjampur dengan kelapa parut, gula merah, garam diaduk terus sampai tjampuran rata betul.",
+      "Dibungkus dengan pelepah pinang (upih) sebesar botol bir, kalau tidak ada upih dapat dipakai daun pisang beberapa lapis lalu dipanggang sampai agak kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_911_1",
+    "title_original": "IWEL IWEL",
+    "title_normalized": "Iwel Iwel",
+    "region": "Madiun",
+    "page_number": 903,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung gaplek 1/2 kg.",
+            "item_original": "tepung gaplek",
+            "item_normalized": "tepung gaplek",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kandji 1 ons",
+            "item_original": "kandji",
+            "item_normalized": "kanji",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "recipe_id": "MR_852_0",
+    "title_original": "DADAR DJAGUNG",
+    "title_normalized": "Dadar Jagung",
+    "region": null,
+    "page_number": 852,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "santan 2¹/₂ tjkr.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "daun sudji 1 ggm.",
+            "item_original": "daun sudji",
+            "item_normalized": "daun suji",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tepung kandji 1 tjkr.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pandan 1 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "helai"
+          }
+        ]
+      },
+      {
+        "group_name": "enten",
+        "original_header": "Untuk enten :",
+        "ingredients": [
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air ¹/₄ gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula djawa 1¹/₂ gls.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Keterangan : Bisa diwarnai dengan daun sudji. Daun sudji ditumbuk, diberi air sedikit, disaring airnja, diberi kapur sirih sedikit, dikotjok hingga berbuih. Air daun sudji memberi rasa gurih dan sedap.",
+      "1. Santan dimasak dengan daun pandan sampai mendidih, sambil di-aduk².",
+      "2. Didinginkan setelah mana dimasukkan tjampuran tepung djagung dan tepung kandji jang telah dimasak bersama garam.",
+      "3. Diaduk sampai rata.",
+      "4. Telur ajam dikotjok sampai kembang dan dimasukkan dalam adonan.",
+      "5. Ditjampurkan adonan sampai rata betul.",
+      "6. Diambil kuali dadar, dipanaskan, diberi sedikit minjak goreng.",
+      "7. Kalau sudah berasap, karena panas dimulai memasak dadar satu per satu.",
+      "8. Membuat enten²nja: kelapa parut dan gula dimasak dengan air sampai kental betul. Dimasukkan enten² ini kedalam kue dadar jang telah masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_852_1",
+    "title_original": "DADAR SINGKONG",
+    "title_normalized": "Dadar Singkong",
+    "region": null,
+    "page_number": 852,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

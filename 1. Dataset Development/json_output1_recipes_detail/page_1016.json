@@ -1,0 +1,88 @@
+[
+  {
+    "recipe_id": "MR_1008_0",
+    "title_original": "LEMPER ARON",
+    "title_normalized": "Lemper Aron",
+    "region": null,
+    "page_number": 1008,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "aron 75 g.",
+            "item_original": "aron",
+            "item_normalized": "aron",
+            "quantity": 75.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "tepung singkong 25 g.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 25.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "santan kental 75 cc. atau 60 g. kelapa",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 75.0,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "group_name": "isi",
+        "original_header": "Isi",
+        "ingredients": [
+          {
+            "original_text": "peda 1 ekor (30 g.)",
+            "item_original": "peda",
+            "item_normalized": "peda",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu isi",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "brambang bawang 20 g.",
+            "item_original": "brambang bawang",
+            "item_normalized": "bawang merah dan bawang putih",
+            "quantity": 20.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "minjak kelapa 15 cc.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 15.0,
+            "unit": "ml"
+          },
+          {
+            "original_text": "lombok merah 15 g.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 15.0,
+            "unit": "gram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Aron direndam dengan santan dan garam kurang lebih 10 menit, dicampur dengan tepung singkong.",
+      "Dikukus di atas piring yang dialas dengan daun pisang kurang lebih 1/4 jam (setengah masak).",
+      "Peda dicuci, dikeringkan dan dibakar, diambil dagingnya.",
+      "Bawang merah, bawang putih, cabai merah, gula, garam, dihaluskan dan ditumis. Dapat juga ditambah sedikit air atau santan.",
+      "Aron yang sudah setengah masak diangkat.",
+      "Mengambilnya sebagian (seperti pada arem-arem). Diisi dengan isinya, dikukus kurang lebih 3/4 jam, kemudian dipanggang.",
+      "Dapat juga tidak dikukus lagi, sebelum diisi aronnya. Dikukus sampai masak. Tetapi tidak tahan lama."
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "recipe_id": "MR_220_1",
+    "title_original": "GANGAN TUNGKUL",
+    "title_normalized": "Gangan Tungkul",
+    "region": "Bandjarmasin",
+    "page_number": 220,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tungkul 1 bh.",
+            "item_original": "tungkul",
+            "item_normalized": "jantung pisang",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ubi kaju 1 bh.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kangkung 2 ikt.",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "ikan gabus 1 ekor",
+            "item_original": "ikan gabus",
+            "item_normalized": "ikan gabus",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 6 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan gabus dibersihkan di-potong².",
+      "Bumbu² dihaluskan, ditjamput dengan ikan.",
+      "Sajuran, ubi kaju dibersihkan, di-potong².",
+      "Sajuran direbus dengan air ½ pantji.",
+      "Djika sudah mendidih dimasukkan bumbu² dan ikan.",
+      "Direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_220_2",
+    "title_original": "GANGAN WALUH",
+    "title_normalized": "Gangan Waluh",
+    "region": "Bandjarmasin",
+    "page_number": 220,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "labu kuning ¼ bh.",
+            "item_original": "labu kuning",
+            "item_normalized": "labu kuning",
+            "quantity": 0.25,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ½ sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

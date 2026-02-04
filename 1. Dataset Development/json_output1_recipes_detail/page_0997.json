@@ -1,0 +1,143 @@
+[
+  {
+    "recipe_id": "MR_997_0",
+    "title_original": "KUE TALAM DJAGUNG",
+    "title_normalized": "Kue Talam Jagung",
+    "region": null,
+    "page_number": 989,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 gls.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air atau santan tjair 2¹/₂ gls.",
+            "item_original": "air atau santan tjair",
+            "item_normalized": "air atau santan cair",
+            "quantity": 2.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1 gls.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung pati djagung 1¹/₂ sdm.",
+            "item_original": "tepung pati djagung",
+            "item_normalized": "tepung pati jagung",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan kental 1¹/₂ gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "pelengkap",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 1 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam ¹/₄ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "I 1. Gula dan air atau santan entjer direbus sampai mendidih, kemudian disaring.",
+      "2. Tepung ditjairkan dengan air gula sampai tertjampur rata.",
+      "3. Didjerangkan diatas api sampai mengental dan masak sambil diaduk.",
+      "4. Dituangkan dalam tjetakan ketjil², tiga perempat penuh.",
+      "II 1. Santan kental dan garam direbus sampai mendidih.",
+      "2. Pati djagung ditjairkan.",
+      "3. Tjairan pati djagung dimasukkan dalam santan, sambil diaduk.",
+      "4. Setelah mendidih dituangkan diatas adonan no. I.",
+      "5. Dikukus selama ¹/₂ djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_997_1",
+    "title_original": "KUE TALAM KENTANG",
+    "title_normalized": "Kue Talam Kentang",
+    "region": null,
+    "page_number": 989,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 1 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ¹/₄ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 2¹/₂ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

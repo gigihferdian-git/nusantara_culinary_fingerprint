@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_885_0",
+    "title_original": "(INFERRED) GAPLEK",
+    "title_normalized": "Gaplek",
+    "region": null,
+    "page_number": 885,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [],
+    "instructions": [
+      "Gaplek direndam.",
+      "Diirisi tipis², dikukus sampai masak.",
+      "Kelapa dibersihkan, diparut memandjang, diberi garam.",
+      "Gaplek jang telah masak, dimakan dengan kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_885_1",
+    "title_original": "GATOT GADUNG",
+    "title_normalized": "Gatot Gadung",
+    "region": "Jogjakarta",
+    "page_number": 885,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gadung 1 kg.",
+            "item_original": "gadung",
+            "item_normalized": "gadung",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gadung jang sudah ditawar (dihilangi ratjunnja) didjemur setengah kering",
+      "Disimpan didalam tempat jang tertutup rapat, selama 3 hari 3 malam.",
+      "Didjemur lagi sampai kering.",
+      "Direndam didalam air sampai gadung lunak atau lemas.",
+      "Dikukus sampai masak.",
+      "Diparut kelapa setjukupnja dan diberi garam.",
+      "Ditjampur parutan kelapa dengan gadung jang sudah masak lalu dimakan."
+    ]
+  },
+  {
+    "recipe_id": "MR_885_2",
+    "title_original": "GEBLEK",
+    "title_normalized": "Geblek",
+    "region": "Wonosobo",
+    "page_number": 885,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 2 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air setjukupnja",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung kandji di-kepal² kemudian dimasukkan air mendidih."
+    ]
+  }
+]

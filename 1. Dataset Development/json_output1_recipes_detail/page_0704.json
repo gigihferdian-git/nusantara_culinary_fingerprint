@@ -1,0 +1,170 @@
+[
+  {
+    "recipe_id": "MR_704_0",
+    "title_original": "TAHU GOLING",
+    "title_normalized": "Tahu Goling",
+    "region": "Tegal",
+    "page_number": 696,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 10 pt.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "seledri 1 ikt.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 1/2 gls.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu dipotong-potong, digoreng.",
+      "Bawang merah di-iris², dipotong.",
+      "Ketjambah direndam dalam air mendidih sampai masak.",
+      "Seledri diiris halus.",
+      "Bawang putih dan lombok, garam, gula dihaluskan, ditambah air matang 1 gelas, tjuka dan ketjap.",
+      "Dihidangkan dalam piring ketjil, ber-turut² ditaruhi tahu, ketjambah, seledri dan bawang goreng disiram dengan saos."
+    ]
+  },
+  {
+    "recipe_id": "MR_704_1",
+    "title_original": "TAHU GORENG",
+    "title_normalized": "Tahu Goreng",
+    "region": "Wonosobo",
+    "page_number": 696,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu putih 10 pt.",
+            "item_original": "tahu putih",
+            "item_normalized": "tahu putih",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu, gula merah, garam, direbus hingga habis airnja.",
+      "Tahu rebus dipotong dua, digoreng dengan minjak jang panas sampai kulitnja kering."
+    ]
+  }
+]

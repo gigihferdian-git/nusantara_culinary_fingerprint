@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_843_0",
+    "title_original": "BUBUR KATJANG HIDJAU",
+    "title_normalized": "Bubur Kacang Hijau",
+    "region": null,
+    "page_number": 835,
+    "category": "Bubur Manis (Sweet Porridge)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "katjang hidjau 1 ons",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "santan 2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 5 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 5.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "pandan 1 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang hidjau setelah direndam 1 malam, direbus dengan air sampai lunak.",
+      "Gula merah diiris, dimasukkan kedalamnja.",
+      "Gula larut, santan dimasukkan, ditambah pandan dan garam.",
+      "Dibiarkan sampai mendidih dan diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_843_1",
+    "title_original": "BUBUR KATJANG HIDJAU (Samarinda)",
+    "title_normalized": "Bubur Kacang Hijau (Samarinda)",
+    "region": "Samarinda",
+    "page_number": 835,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "katjang hidjau 1/2 kg.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tomat 2 ons",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "tjengkeh 2 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kapulaga 4 bdj.",
+            "item_original": "kapulaga",
+            "item_normalized": "kapulaga",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kaju manis 1 pt.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djinten putih 1/4 sdt.",
+            "item_original": "djinten putih",
+            "item_normalized": "jintan putih",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djinten manis 1/2 sdt.",
+            "item_original": "djinten manis",
+            "item_normalized": "jintan manis",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "margarine 2 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang direndam di air kapur selama 15 menit.",
+      "Kemudian ditjutji, lalu direbus."
+    ]
+  }
+]

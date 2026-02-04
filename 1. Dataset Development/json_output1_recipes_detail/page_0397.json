@@ -1,0 +1,170 @@
+[
+  {
+    "recipe_id": "MR_389_1",
+    "title_original": "BAKUT MASAK SAJUR ASIN",
+    "title_normalized": "Bakut Masak Sayur Asin",
+    "region": null,
+    "page_number": 389,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tulang iga babi (bakut) 1 kg.",
+            "item_original": "tulang iga babi (bakut)",
+            "item_normalized": "tulang iga babi (bakut)",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "sajur asin 10 ikt.",
+            "item_original": "sajur asin",
+            "item_normalized": "sayur asin",
+            "quantity": 10.0,
+            "unit": "ikat"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 15 siung",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 15.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak babi 3 sdm.",
+            "item_original": "minjak babi",
+            "item_normalized": "minyak babi",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 6 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tulang iga babi ditjutji, di-potong.",
+      "Direbus sampai empuk betul.",
+      "Sajur asin diradjang kasar.",
+      "Bawang putih di-iris.",
+      "Djae dimemarkan.",
+      "Bawang putih dan djae ditumis dengan minjak babi.",
+      "Djika sudah kuning, dimasukkan dalam rebusan tulang iga, ditambah lada, garam dan sajur asin.",
+      "Dimakan dengan ketjap dan lombok rawit."
+    ]
+  },
+  {
+    "recipe_id": "MR_389_2",
+    "title_original": "BAU DIANDJOROI",
+    "title_normalized": "Bau Diandjoroi",
+    "region": "Mandar",
+    "page_number": 389,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan ketjil² 1 tjuji tangan",
+            "item_original": "ikan ketjil²",
+            "item_normalized": "ikan kecil",
+            "quantity": 1.0,
+            "unit": "tjuji tangan"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "lengkuas seiris",
+            "item_original": "lengkuas",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "asam setjukupnja",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa parut 1 tjuji tangan",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "tjuji tangan"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "lombokrawit 10 bh.",
+            "item_original": "lombokrawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kunjit tepung 1/3 sdm.",
+            "item_original": "kunjit tepung",
+            "item_normalized": "kunyit bubuk",
+            "quantity": 0.33,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

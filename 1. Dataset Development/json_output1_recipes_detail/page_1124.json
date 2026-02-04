@@ -1,0 +1,105 @@
+[
+  {
+    "recipe_id": "MR_1124_0",
+    "title_original": "TENGTENG KATJANG",
+    "title_normalized": "Tengteng Kacang",
+    "region": "Purwokerto",
+    "page_number": 1116,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1/4 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1/2 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kertas minjak 1 lbr.",
+            "item_original": "kertas minjak",
+            "item_normalized": "kertas minyak",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang disangan, dikupas kulit arinja dan ditumbuk kasar.",
+      "Gula dimasak diatas api ketjil (tanpa air), sesudah mendidih baru katjang dimasukkan, di-aduk² sampai rata.",
+      "Diangkat, dituang ditempat papan jang rata jang didasari daun pisang sambil diratakan dengan daun pisang djuga.",
+      "Diiris persegi bila masih panas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1124_1",
+    "title_original": "TETEL",
+    "title_normalized": "Tetel",
+    "region": null,
+    "page_number": 1116,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan 1 kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pisang 2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak 1/2 btl.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan direndam kira² 1 djam.",
+      "Kelapa diparut, dibuat santan kira² 1/2 liter.",
+      "Ketan dibuat bubur dengan air biasa.",
+      "Kalau ketan sudah agak hantjur baru dimasukkan santan, di-aduk² terus hingga mendjadi bubur jang tidak begitu kental.",
+      "Bubur ini dituang sedikit² diatas daun, lalu diratakan supaja tipis dan rata, lalu didjemur.",
+      "Setelah kering ketan dilepaskan dari daun, di-potong² sesuka hati, didjemur hingga kering betul.",
+      "Djadjan digoreng."
+    ]
+  }
+]

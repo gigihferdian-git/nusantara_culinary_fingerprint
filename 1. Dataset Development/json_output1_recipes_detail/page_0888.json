@@ -1,0 +1,161 @@
+[
+  {
+    "recipe_id": "MR_880_1",
+    "title_original": "GABLOK",
+    "title_normalized": "Gablok",
+    "region": "Wonosobo",
+    "page_number": 880,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 2 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air setjukupnja",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung kandji di-kepal², dimasukkan air mendidih.",
+      "¼ masak diangkat, dihantjurkan sambil diuli ditambah dengan kelapa parut dan garam setjukupnja.",
+      "Diuli dengan air panas setjukupnja sampai dapat dibentuk.",
+      "Adonan dibentuk memandjang sebesar djari.",
+      "Digoreng dalam minjak panas sampai berwarna kekuningan."
+    ]
+  },
+  {
+    "recipe_id": "MR_880_2",
+    "title_original": "GADO GADO",
+    "title_normalized": "Gado Gado",
+    "region": null,
+    "page_number": 880,
+    "category": "Lauk Pauk / Salad",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kol 3 hl.",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 3.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "buntjis 1 tjkr.",
+            "item_original": "buntjis",
+            "item_normalized": "buncis",
+            "quantity": 1.0,
+            "unit": "tacikur"
+          },
+          {
+            "original_text": "daun selada 5 hl.",
+            "item_original": "daun selada",
+            "item_normalized": "daun selada",
+            "quantity": 5.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "tahu 2 bdj.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "krupuk 3 kpg.",
+            "item_original": "krupuk",
+            "item_normalized": "kerupuk",
+            "quantity": 3.0,
+            "unit": "keping"
+          },
+          {
+            "original_text": "kentang 3 btr.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "katjang pandjang 3 bh.",
+            "item_original": "katjang pandjang",
+            "item_normalized": "kacang panjang",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "taoge 1 tjkr.",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "tacikur"
+          },
+          {
+            "original_text": "ketimun 1 bh.",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tempe 2 iris",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "emping 1 tjkr.",
+            "item_original": "emping",
+            "item_normalized": "emping",
+            "quantity": 1.0,
+            "unit": "tacikur"
+          },
+          {
+            "original_text": "telur bebek 1 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "recipe_id": "MR_1028_1",
+    "title_original": "NABINOLGANG (NABIBI)",
+    "title_normalized": "Nabinolgang (Nabibi)",
+    "region": "Batak",
+    "page_number": 1028,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "Padi sisa jang ketinggalan diladang (belum tua benar, berbutir, belum menguning) 1 kg.",
+            "item_original": "Padi sisa jang ketinggalan diladang",
+            "item_normalized": "Padi muda (gabah)",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "pemanis",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "gula aren 2 ons",
+            "item_original": "gula aren",
+            "item_normalized": "gula aren",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Butir² padi direbus ½ djam lamanja.",
+      "Didjemur sampai kering.",
+      "Dilepaskan dari butiran, kemudian ditumbuk dan ditampi.",
+      "Beras jang hidjau dan lembab ini dimakan bersama gula aren jang di-iris² terlebih dahulu."
+    ]
+  },
+  {
+    "recipe_id": "MR_1028_2",
+    "title_original": "NAGASARI",
+    "title_normalized": "Nagasari",
+    "region": null,
+    "page_number": 1028,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ¼ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "pisang radja 6 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir ½ gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 4 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "perisa",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 1 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "helai"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "2 gelas santan ditjampur dengan tepung beras."
+    ]
+  }
+]

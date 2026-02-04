@@ -1,0 +1,79 @@
+[
+  {
+    "recipe_id": "MR_922_0",
+    "title_original": "KELATAK",
+    "title_normalized": "Kelatak",
+    "region": null,
+    "page_number": 914,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "buah melindjo 1 kg.",
+            "item_original": "buah melindjo",
+            "item_normalized": "buah melinjo",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buah melindjo dikuliti lalu digoreng sangan sampai kulit kerasnja akan gosong (tetapi djangan sampai gosong).",
+      "Keterangan: Buah melinjo yang dibikin klatak harus yang sudah tua betul."
+    ]
+  },
+  {
+    "recipe_id": "MR_922_1",
+    "title_original": "KELEPON",
+    "title_normalized": "Klepon",
+    "region": "Madura",
+    "page_number": 914,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/4 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa setengah tua 1/4 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air hangat 1 gls.",
+            "item_original": "air hangat",
+            "item_normalized": "air hangat",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung ketan diuli dengan air hangat sampai jadi adonan yang dapat dibentuk.",
+      "Adonan dibentuk bulat sebesar kelereng besar, dalamnya diisi gula merah.",
+      "Rebus air, setelah mendidih, dimasukkan bulatan kelereng, kalau sudah timbul sudah masak.",
+      "Di-gulingkan kedalam kelapa parut."
+    ]
+  }
+]

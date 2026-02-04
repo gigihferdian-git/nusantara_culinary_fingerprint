@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_561_1",
+    "title_original": "PETJEL",
+    "title_normalized": "Pecel",
+    "region": null,
+    "page_number": 561,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 1 ikat",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "bajem 1 ikat",
+            "item_original": "bajem",
+            "item_normalized": "bayam",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "katjang tanah ¼ kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng ¼ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 6 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kuntji 1 ikat",
+            "item_original": "kuntji",
+            "item_normalized": "kunci",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula 2 sdm.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sajuran jang sudah ditjutji direbus.",
+      "Setelah masak dipotong-potong, diletakkan dalam basi atau piring tjeper.",
+      "Lombok, bawang merah, bawang putih dan kentjur digoreng dengan minjak kelapa.",
+      "Katjang tanah disangrai, ditumbuk.",
+      "Tjampuran bumbu² ditumbuk.",
+      "Untuk menghidangkannja, bumbu jang sudah halus diberi air masak.",
+      "Kemudian saos ini disiramkan diatas sajuran jang sudah disiapkan diatas pinggan tjeper."
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_853_1",
+    "title_original": "BUSTANA DJAGUNG",
+    "title_normalized": "Bustana Jagung",
+    "region": "Madura",
+    "page_number": 845,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung kering 1/4 kg.",
+            "item_original": "djagung kering",
+            "item_normalized": "jagung kering",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air 2 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula siwalan 1/4 kg.",
+            "item_original": "gula siwalan",
+            "item_normalized": "gula siwalan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung disangrai sampai masak.",
+      "Gula dan air direbus.",
+      "Djagung dimasukkan tjairan gula sampai lengket."
+    ]
+  },
+  {
+    "recipe_id": "MR_853_2",
+    "title_original": "CAKE",
+    "title_normalized": "Cake",
+    "region": null,
+    "page_number": 845,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 3 ons.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula halus 2 ons.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "terigu 2 ons.",
+            "item_original": "terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur ajam 8 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 8.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili atau rhum 1 sdm.",
+            "item_original": "panili atau rhum",
+            "item_normalized": "vanili atau rum",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "sukade 1 ons",
+            "item_original": "sukade",
+            "item_normalized": "sukade",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kismis 1 ons",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ber-matjam² manisan 1 ons",
+            "item_original": "ber-matjam² manisan",
+            "item_normalized": "bermacam-macam manisan",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan mentega diputar sampai mengembang.",
+      "Dimasukkan kuningnja telur satu per satu jang kemudian diikuti oleh tepung. Sesudah itu semua diputar sampai mengembang.",
+      "Putihnja telur dipisahkan memutarnja dan terus dimasukkan kedalam adonan.",
+      "Dimasukkan sukade, kismis, panili dan diaduk per-lahan² sampai rata semuanja.",
+      "Boleh djuga ditambah dengan 3 sendok makan air supaja ia mendjadi agak lunak.",
+      "Kemudian dimasukkan dalam tjetakan lapis jang besar jang sudah dialas dengan kertas dan disemir mentega terlebih dahulu. Dibakar dalam oven dengan api jang besar."
+    ]
+  }
+]

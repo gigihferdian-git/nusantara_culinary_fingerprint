@@ -1,0 +1,157 @@
+[
+  {
+    "recipe_id": "MR_1017_1",
+    "title_original": "LONDO LONDO",
+    "title_normalized": "Londo Londo",
+    "region": "Jogjakarta",
+    "page_number": 1017,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ketela pohon 1 kg.",
+            "item_original": "ketela pohon",
+            "item_normalized": "ketela pohon",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketela pohon dikupas, dicuci bersih, diparut, lalu digiling supaya halus.",
+      "Diberi garam secukupnya, kemudian dikukus.",
+      "Setelah dingin, diulet dan dicetak (digelintir, dibentuk melingkar).",
+      "Kemudian dijemur sampai kering lalu digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_1017_2",
+    "title_original": "LONON",
+    "title_normalized": "Lonon",
+    "region": null,
+    "page_number": 1017,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ½ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula djawa ¼ kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "abu merang 2 sdm.",
+            "item_original": "abu merang",
+            "item_normalized": "abu merang",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dan abu merang dan air diaduk yang rata.",
+      "Dibungkus daun, dikukus sampai matang."
+    ]
+  },
+  {
+    "recipe_id": "MR_1017_3",
+    "title_original": "LOPIS",
+    "title_normalized": "Lopis",
+    "region": "Madura",
+    "page_number": 1017,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan ½ kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula siwalan 1 ons",
+            "item_original": "gula siwalan",
+            "item_normalized": "gula siwalan",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pisang 1 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 1.0,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

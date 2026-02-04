@@ -1,0 +1,113 @@
+[
+  {
+    "recipe_id": "MR_1141_1",
+    "title_original": "ULIN ULIN",
+    "title_normalized": "Ulin Ulin",
+    "region": "Bandjarmasin",
+    "page_number": 1133,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 4 gls.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ½ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dimasak dengan gula dan garam sampai masak dan kental.",
+      "Tepung ketan dimasukkan, diaduk sampai rata.",
+      "Dibentuk sebesar ibu djari, dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1141_2",
+    "title_original": "UNTI ARON",
+    "title_normalized": "Unti Aron",
+    "region": null,
+    "page_number": 1133,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "aron 1 sdm.",
+            "item_original": "aron",
+            "item_normalized": "aron",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung singkong 2 sdm.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "pisang 3 bh.",
+            "item_original": "pisang",
+            "item_normalized": "pisang",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 50 g.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 50.0,
+            "unit": "gram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut diambil santannja kurang lebih 75 cc.",
+      "Aron dan tepung singkong direndam dengan santan kental.",
+      "Pisang dikupas dan di-potong², ditjampur dengan gula, aron."
+    ]
+  }
+]

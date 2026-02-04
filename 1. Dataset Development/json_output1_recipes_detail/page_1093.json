@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_1093_1",
+    "title_original": "SAWUT",
+    "title_normalized": "Sawut",
+    "region": "Madura",
+    "page_number": 1085,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¹/₂ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut kasar, dicampur gula merah yang telah diiris halus dan garam.",
+      "Dikukus sampai matang.",
+      "Kelapa diparut.",
+      "Dimakan dengan kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_1093_2",
+    "title_original": "SEMAR MENDEM",
+    "title_normalized": "Semar Mendem",
+    "region": "Jawa Tengah - Jawa Timur",
+    "page_number": 1085,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan ¹/₂ kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur itik 2 btr.",
+            "item_original": "telur itik",
+            "item_normalized": "telur itik",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "abon sapi/ajam ¹/₂ ons",
+            "item_original": "abon sapi/ajam",
+            "item_normalized": "abon sapi/ayam",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "sagu 2 ons",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "salam 3 lbr.",
+            "item_original": "salam",
+            "item_normalized": "salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "pandan 2 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan dikukus ¹/₂ masak. Lalu dikaru dengan santan encer,"
+    ]
+  }
+]

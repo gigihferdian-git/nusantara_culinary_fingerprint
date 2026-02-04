@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_707_001",
+    "title_original": "TAHU LENGKO",
+    "title_normalized": "Tahu Lengko",
+    "region": "Tegal",
+    "page_number": 699,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 4 pt.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 4.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "taoge 1/2 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ketimun (ketjil) 2 bh.",
+            "item_original": "ketimun (ketjil)",
+            "item_normalized": "ketimun (kecil)",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tempe 2 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 2.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "seledri 1 ikat ketjil",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "ikat kecil"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula pasir 1 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 5 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu digoreng, diiris bentuk dadu.",
+      "Bawang merah diiris, digoreng.",
+      "Taoge dimasukkan kedalam air panas, diangkat.",
+      "Ketimun dikupas, dipotong tipis, seledri ditjintjang.",
+      "Tempe di-potong² persegi, digoreng.",
+      "Bumbu² dihaluskan ditjampur dengan ketjap dan tjuka.",
+      "Tjara menghidangkan: Tahu ditaruh dalam piring, kemudian ber-turut² ditaruh diatasnja: taoge, ketimun, tempe, seledri, bawang goreng, lalu disiram saos ketjap."
+    ]
+  },
+  {
+    "recipe_id": "MR_707_002",
+    "title_original": "TAHU MASAK BAWANG",
+    "title_normalized": "Tahu Masak Bawang",
+    "region": "Rembang",
+    "page_number": 699,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 10 pt.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "udang 1 ons",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "taoge 1/2 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kutsjai 1 ikat",
+            "item_original": "kutsjai",
+            "item_normalized": "kucai",
+            "quantity": 1.0,
+            "unit": "ikat"
+          }
+        ]
+      }
+    ],
+    "instructions": null
+  }
+]

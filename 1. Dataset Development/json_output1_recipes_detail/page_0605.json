@@ -1,0 +1,198 @@
+[
+  {
+    "recipe_id": "MR_605_001",
+    "title_original": "TERANTJAM BUNGA PISANG",
+    "title_normalized": "Terancam Bunga Pisang",
+    "region": "Rembang",
+    "page_number": 597,
+    "category": "Salad",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "bunga pisang klutuk 1 bh.",
+            "item_original": "bunga pisang klutuk",
+            "item_normalized": "bunga pisang klutuk",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/3 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.33,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula meah 1 sdt.",
+            "item_original": "gula meah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bunga pisang dibakar sampai masak, bagian luar dikupas.",
+      "Bumbu dihaluskan, kelapa diparut, dibuat santan 1 gelas.",
+      "Bunga pisang dihancurkan, dicampur dengan santan dan bumbu."
+    ]
+  },
+  {
+    "recipe_id": "MR_605_002",
+    "title_original": "TERANTJAM IKAN PANGGANG",
+    "title_normalized": "Terancam Ikan Panggang",
+    "region": "Rembang",
+    "page_number": 597,
+    "category": "Side Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan panggang 1/2 kg.",
+            "item_original": "ikan panggang",
+            "item_normalized": "ikan panggang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa setengah tua 1 bh.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "wortel 2 bh.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketimun 1 bh.",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketjambah 1/2 ons",
+            "item_original": "ketjambah",
+            "item_normalized": "tauge",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 2 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Timun, wortel diiris halus, tauge dibersihkan.",
+      "Kelapa diparut memanjang.",
+      "Bumbu dihaluskan, dicampur dengan kelapa parut dan sayuran.",
+      "Ikan dicuci, dipanggang atau dikukus.",
+      "Terakhir semua bahan dicampur menjadi satu ditumbuk dengan sendok sampai bumbunya meresap."
+    ]
+  }
+]

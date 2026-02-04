@@ -1,0 +1,195 @@
+[
+  {
+    "recipe_id": "MR_240_0",
+    "title_original": "GULAI KORMA",
+    "title_normalized": "Gulai Korma",
+    "region": "Padang",
+    "page_number": 232,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging kambing 1/2 kg.",
+            "item_original": "daging kambing",
+            "item_normalized": "daging kambing",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minyak goreng 1 sdm.",
+            "item_original": "minyak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar 1 sdm.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djintan 1/2 sdt.",
+            "item_original": "djintan",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kapulaga 1 bh.",
+            "item_original": "kapulaga",
+            "item_normalized": "kapulaga",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "adas seudjung sdt.",
+            "item_original": "adas",
+            "item_normalized": "adas",
+            "quantity": null,
+            "unit": "ujung sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lada 5 bdj.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "pala seudjung sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": null,
+            "unit": "ujung sendok teh"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "tjengkeh 4 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kaju manis 2 rdj.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging kambing dibersihkan dan di-potong².",
+      "Sebagian dari bawang merah dan bawang putih diiris, selebihnja digiling halus bersama ketumbar, djintan jang telah disangan, lada, djae, laos dan garam.",
+      "Kelapa diparut, sebagian disangan dan digiling halus (1/2 gelas), sebagian lagi dikeluarkan santannja sebanjak 4 gelas.",
+      "Bawang merah dan bawang putih jang diiris ditumis hingga kuning, dimasukkan bumbu lainnja, dimasukkan daging kambing dan ditutup. Kemudian dimasukkan kelapa sangan.",
+      "Bila telah kering, dimasukkan santan ; dimasak hingga daging empuk dan santan berminjak. Terachir dimasukkan asam."
+    ]
+  },
+  {
+    "recipe_id": "MR_240_1",
+    "title_original": "GULAI KORMA KAMBING",
+    "title_normalized": "Gulai Korma Kambing",
+    "region": "Medan",
+    "page_number": 232,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging kambing 1 kg.",
+            "item_original": "daging kambing",
+            "item_normalized": "daging kambing",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 7 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 7.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kentang 2 bh.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

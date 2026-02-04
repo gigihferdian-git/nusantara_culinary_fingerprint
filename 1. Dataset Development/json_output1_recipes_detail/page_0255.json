@@ -1,0 +1,153 @@
+[
+  {
+    "recipe_id": "MR_247_1",
+    "title_original": "GULAI REBUNG TERI BASAH",
+    "title_normalized": "Gulai Rebung Teri Basah",
+    "region": "Padang",
+    "page_number": 247,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "rebung 1/2 kg.",
+            "item_original": "rebung",
+            "item_normalized": "rebung",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "teri basah 1/2 ons",
+            "item_original": "teri basah",
+            "item_normalized": "teri basah",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 15 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun kunjit 1 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 3 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Rebung diiris tipis², direbus sampai empuk.",
+      "Kelapa diparut, diambil santannja ± 5 gelas.",
+      "Bumbu² dihaluskan ketjuali sereh, daun kunjit.",
+      "Santan, bumbu² dididihkan.",
+      "Dimasukkan rebungnja bersama ikan teri.",
+      "Kalau sudah berminjak diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_247_2",
+    "title_original": "GULAI RIDIAK",
+    "title_normalized": "Gulai Ridiak",
+    "region": "Padang",
+    "page_number": 247,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sup 1/4 kg.",
+            "item_original": "daging sup",
+            "item_normalized": "daging sapi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang buntjis kering 1/2 gls.",
+            "item_original": "katjang buntjis kering",
+            "item_normalized": "kacang buncis kering",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

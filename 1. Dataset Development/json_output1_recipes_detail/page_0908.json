@@ -1,0 +1,81 @@
+[
+  {
+    "recipe_id": "MR_900_1",
+    "title_original": "GULAMPO",
+    "title_normalized": "Gulampo",
+    "region": null,
+    "page_number": 900,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan hitam/putih 1 lt.",
+            "item_original": "ketan hitam/putih",
+            "item_normalized": "ketan hitam/putih",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "ragi 1/2 btr.",
+            "item_original": "ragi",
+            "item_normalized": "ragi",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun djambu air 3 ikt. besar",
+            "item_original": "daun djambu air",
+            "item_normalized": "daun jambu air",
+            "quantity": 3.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan dikukus sampai masak.",
+      "Didinginkan dan diberi ragi. Dimasukkan kedalam stoples. Dibiarkan 3–4 hari, ditempat jang gelap.",
+      "Setelah mendjadi tape, dibungkus daun djambu sesendok demi sesendok disemat.",
+      "Dikukus ± 1/2 djam, sampai daun djambunja laju dan berbau wangi."
+    ]
+  },
+  {
+    "recipe_id": "MR_900_2",
+    "title_original": "HAGAU",
+    "title_normalized": "Hagau",
+    "region": "Irian Barat",
+    "page_number": 900,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "sagu basah jang telah disaring 1 kg.",
+            "item_original": "sagu basah jang telah disaring",
+            "item_normalized": "sagu basah yang telah disaring",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Memasak air dalam pantji sampai mendidih.",
+      "Sambil di-aduk², sagu basah sedikit demi sedikit dimasukkan kedalam air mendidih.",
+      "Sagu terus dimasukkan sampai terasa berat mengaduknja.",
+      "Setelah diangkat dari api, hagau telah siap dihidangkan."
+    ]
+  }
+]

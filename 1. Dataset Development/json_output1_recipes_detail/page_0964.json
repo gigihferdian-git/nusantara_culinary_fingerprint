@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_964_0",
+    "title_original": "KUE KATJAMATA",
+    "title_normalized": "Kue Kacamata",
+    "region": null,
+    "page_number": 956,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 2 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun sudji 2 lbr.",
+            "item_original": "daun sudji",
+            "item_normalized": "daun suji",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "pisang nangka/tanduk 2 ssr.",
+            "item_original": "pisang nangka/tanduk",
+            "item_normalized": "pisang nangka/tanduk",
+            "quantity": 2.0,
+            "unit": "sisir"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut, diperas airnya.",
+      "Daun suji ditumbuk, diberi air beberapa sendok makan, disaring.",
+      "Singkong, air daun suji, gula dan garam diaduk rata, dijadikan satu adonan.",
+      "Pisang dikupas, kemudian dibungkus dengan adonan itu.",
+      "Dibungkus dengan daun seperti lontong, dikukus sampai masak, didinginkan.",
+      "Menghidangkannya: bungkusan dikupas, diiris-iris bulat. Taruh diatas piring."
+    ]
+  },
+  {
+    "recipe_id": "MR_964_1",
+    "title_original": "KUE KEKOK",
+    "title_normalized": "Kue Kekok",
+    "region": "Palembang",
+    "page_number": 956,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sagu 2 gls.",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 2 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1 1/2 gls.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut dan diberi garam halus.",
+      "Sagu dicampur dengan air dan gula merah yang telah diirisi, kemudian diberi garam.",
+      "Adonan dimasak sampai cukup kental."
+    ]
+  }
+]

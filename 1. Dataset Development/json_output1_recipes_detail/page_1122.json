@@ -1,0 +1,132 @@
+[
+  {
+    "recipe_id": "MR_1114_001",
+    "title_original": "TATTABUN",
+    "title_normalized": "Tattabun",
+    "region": null,
+    "page_number": 1114,
+    "category": "Kue/Jajanan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong/gaplek 1 kg.",
+            "item_original": "singkong/gaplek",
+            "item_normalized": "singkong atau gaplek",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "katjang²an 1 1/2 ons",
+            "item_original": "katjang²an",
+            "item_normalized": "kacang-kacangan",
+            "quantity": 1.5,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gaplek/singkong diparut.",
+      "Kacang-kacangan direbus sampai masak, dicampurkan dengan singkong parut atau gaplek, gula, dan garam.",
+      "Dikukus dan ditumbuk.",
+      "Menghidangkan dengan diiris-iris dan ditaburi kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_1114_002",
+    "title_original": "TAWONAN DJAGUNG",
+    "title_normalized": "Tawonan Jagung",
+    "region": null,
+    "page_number": 1114,
+    "category": "Kue/Jajanan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 kg.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula djawa/kelapa 1/2 kg.",
+            "item_original": "gula djawa/kelapa",
+            "item_normalized": "gula jawa atau kelapa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung jagung dikukus sampai masak.",
+      "Dikarui dengan legen (juruh gula kelapa/gula merah cair) dan diberi garam secukupnya.",
+      "Dikukus lagi sampai masak kemudian diletakkan di atas tampah, setelah dingin diiris-iris. Legen atau juruh dibuat dari gula jawa dengan santan menurut kehendak, asal jangan terlalu encer atau terlalu kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_1114_003",
+    "title_original": "TEGELTE",
+    "title_normalized": "Tegelte",
+    "region": null,
+    "page_number": 1114,
+    "category": "Kue/Jajanan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

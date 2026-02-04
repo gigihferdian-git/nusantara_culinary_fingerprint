@@ -1,0 +1,149 @@
+[
+  {
+    "recipe_id": "MR_1130_0",
+    "title_original": "TOLI TOLI",
+    "title_normalized": "Toli Toli",
+    "region": "Sulawesi Selatan",
+    "page_number": 1130,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan ¹/₂ kg.",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¹/₄ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng ¹/₂ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula direbus agak kental sampai masak.",
+      "Didinginkan, ditjampur dengan tepung ketan, sampai dapat dibentuk.",
+      "Adonan dibentuk seperti angka 8. Mula² dibuat bulatan² sebesar kelereng, dibuat pandjang² 15 cm, dibentuk angka 8.",
+      "Digoreng dengan minjak jang tak begitu panas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1130_1",
+    "title_original": "TOPENG MANAUNG",
+    "title_normalized": "Topeng Manaung",
+    "region": "Sumbawa",
+    "page_number": 1130,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tape ketan 2 gls.",
+            "item_original": "tape ketan",
+            "item_normalized": "tapai ketan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 3 ¹/₂ ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 3.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "essence 1 sdt.",
+            "item_original": "essence",
+            "item_normalized": "esens",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, didjadikan santan 4 gelas.",
+      "Gula merah ditjairkan, disaring.",
+      "Santan direbus sampai keluar minjaknja, gula dimasukkan.",
+      "Kalau gula sudah ber-benang², tape dimasukkan.",
+      "Di-aduk² sampai rata dan kental (tak melekat dipegang).",
+      "Didinginkan, dibentuk lalu dibungkus dengan kertas minjak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1130_2",
+    "title_original": "TOWOK",
+    "title_normalized": "Towok",
+    "region": "Tegal",
+    "page_number": 1130,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¹/₄ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng setjukupnja",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

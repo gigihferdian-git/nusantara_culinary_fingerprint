@@ -1,0 +1,126 @@
+[
+  {
+    "recipe_id": "MR_1152_1",
+    "title_original": "TJAO",
+    "title_normalized": "Cao",
+    "region": null,
+    "page_number": 1152,
+    "category": "Minuman/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung maizena 1 mgk.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "air mentah 6 mgk.",
+            "item_original": "air mentah",
+            "item_normalized": "air mentah",
+            "quantity": 6.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "air pandan 1/2 mgk.",
+            "item_original": "air pandan",
+            "item_normalized": "air pandan",
+            "quantity": 0.5,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "gintju merah sedikit",
+            "item_original": "gintju merah",
+            "item_normalized": "gincu merah",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "sirop panili 1 mgk.",
+            "item_original": "sirop panili",
+            "item_normalized": "sirup vanili",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "es parut setjukupnja",
+            "item_original": "es parut",
+            "item_normalized": "es parut",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung maizena dimasak dengan air sampai matang.",
+      "Separuh dihidjaukan dengan daun pandan dan separuh pula dimerahkan dengan gintju.",
+      "Kalau telah dingin dipotong ketjil², dimasukkan kedalam gelas, dimakan dengan sirop vanili dan es parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_1152_2",
+    "title_original": "TJENDOL DJAGUNG",
+    "title_normalized": "Cendol Jagung",
+    "region": null,
+    "page_number": 1152,
+    "category": "Minuman/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 8 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun pandan 1/2 lembar",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 0.5,
+            "unit": "lembar"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diiris dari tongkolnja, direbus dalam pantji dengan 2 gelas air hingga 3/4 matang.",
+      "Kelapa diparut, dikeluarkan santan sebanjak 2 gelas, dimasukkan kedalam djagung bersama gula merah, garam, dan daun pandan. Dimasak hingga djagung empuk."
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "recipe_id": "MR_960_1",
+    "title_original": "KUE KERING DJAGUNG",
+    "title_normalized": "Kue Kering Jagung",
+    "region": null,
+    "page_number": 960,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung ½ tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air ¾ tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.75,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "soda kue ½ sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "mentega 2 sdt.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun seledri setjukupnja",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung, garam dan soda diaduk dengan air didih sampai rata, diberi mentega. Adonan ini kemudian ditaruh dalam lojang jang telah dilumuri mentega.",
+      "Dibakar sampai kuning dalam oven."
+    ]
+  },
+  {
+    "recipe_id": "MR_960_2",
+    "title_original": "KUE KU KETELA",
+    "title_normalized": "Kue Ku Ketela",
+    "region": null,
+    "page_number": 960,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar 1 kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kandji ¼ kg.",
+            "item_original": "kandji",
+            "item_normalized": "kanji",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar direbus, dibuang kulitnja, dilumatkan.",
+      "Ditjampur rata dengan kandji dan garam, ditambah warna merah."
+    ]
+  }
+]

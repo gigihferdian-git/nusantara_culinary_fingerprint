@@ -1,0 +1,59 @@
+[
+  {
+    "recipe_id": "MR_1164_0",
+    "title_original": "Tjara membuatnja (Lanjutan)",
+    "title_normalized": "Cara membuatnya (Lanjutan)",
+    "region": null,
+    "page_number": 1156,
+    "category": "Dessert/Snack (Inferred)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan (Inferred from preparation steps)",
+        "ingredients": [
+          {
+            "original_text": "Kelapa (dibuat santan tjair 3 gelas dan kental 1 gelas)",
+            "item_original": "Kelapa",
+            "item_normalized": "Kelapa",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "santan tjair 3 gelas",
+            "item_original": "santan tjair",
+            "item_normalized": "santan cair",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 1 gelas",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "Kelapa muda",
+            "item_original": "Kelapa muda",
+            "item_normalized": "Kelapa muda",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "gula",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dibuat santan cair 3 gelas dan kental 1 gelas.",
+      "Kelapa muda diiris halus.",
+      "Santan cair direbus bersama kelapa muda dan gula.",
+      "Setelah masak, santan kental dimasukkan, diaduk sampai mendidih."
+    ]
+  }
+]

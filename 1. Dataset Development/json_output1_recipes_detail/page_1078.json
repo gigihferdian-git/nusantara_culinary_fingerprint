@@ -1,0 +1,166 @@
+[
+  {
+    "recipe_id": "MR_1070_0",
+    "title_original": "RINGGING",
+    "title_normalized": "Ringging",
+    "region": null,
+    "page_number": 1070,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula djawa 1 kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang digoreng sangan sampai kuning.",
+      "Dikuliti.",
+      "Gula djawa dimasak dengan air sedikit sampai kental.",
+      "Djika sudah kental, katjang dimasukkan sambil diaduk.",
+      "Diangkat, kemudian ditjetak bundar², didiamkan sampai dingin baru disimpan."
+    ]
+  },
+  {
+    "recipe_id": "MR_1070_1",
+    "title_original": "RISOLLES",
+    "title_normalized": "Risolles",
+    "region": null,
+    "page_number": 1070,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 1 kg.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging 1/2 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 10 bh.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "paneermeel setjukupnja",
+            "item_original": "paneermeel",
+            "item_normalized": "tepung panir",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "minjak Barco 1/2 btl.",
+            "item_original": "minjak Barco",
+            "item_normalized": "minyak Barco",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "wortel 1 ons",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kapri 1 ons",
+            "item_original": "kapri",
+            "item_normalized": "kacang kapri",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "brambang 10 bh.",
+            "item_original": "brambang",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang 6 siung",
+            "item_original": "bawang",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung terigu dan telur ajam dibikin dadar tipis² lalu diisi dengan ragout dari daging, wortel, telur, brambang dan bawang.",
+      "Kemudian dipaneer dengan paneermeel, terus digoreng dengan minjak Barco."
+    ]
+  },
+  {
+    "recipe_id": "MR_1070_2",
+    "title_original": "RISOLES DJAGUNG",
+    "title_normalized": "Risolles Jagung",
+    "region": null,
+    "page_number": 1070,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging giling 1 ons",
+            "item_original": "daging giling",
+            "item_normalized": "daging giling",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

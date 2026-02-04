@@ -1,0 +1,238 @@
+[
+  {
+    "recipe_id": "MR_271_0",
+    "title_original": "OPOR AJAM",
+    "title_normalized": "Opor Ayam",
+    "region": "Bogor",
+    "page_number": 271,
+    "category": "Opor",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 5 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ketumbar 1½ sdm.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djinten ½ sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula merah ½ sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajām dibersihkan, dikeluarkan isinja, di-potong².",
+      "Kelapa diparut, dibuat santan kental dan tjair.",
+      "Bumbu² dihaluskan, dimasukkan dalam santan kental, direbus sampai mendidih.",
+      "Dimasukkan daging ajam, dituangkan santan tjair, direbus terus sampai empuk dagingnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_271_1",
+    "title_original": "OPOR BEBEK",
+    "title_normalized": "Opor Bebek",
+    "region": null,
+    "page_number": 271,
+    "category": "Opor",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bebek 1 ekor",
+            "item_original": "bebek",
+            "item_normalized": "bebek",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 10 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "sereh 2 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "laos 2 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "asam 6 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 6.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "ketumbar 3 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun djeruk purut 4 hl.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 4.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "gula merah 3 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bebek jang sudah dipersiapkan di-potong² seperlunja.",
+      "Kelapa dikupas, diambil santannja 1 liter kental dan ½ liter tjair."
+    ]
+  }
+]

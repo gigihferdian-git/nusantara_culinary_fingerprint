@@ -1,0 +1,105 @@
+[
+  {
+    "recipe_id": "MR_192_0",
+    "title_original": "KENTANG ONGKLOK",
+    "title_normalized": "Kentang Ongklok",
+    "region": null,
+    "page_number": 184,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "kentang 1 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kentang ditjutji, dikupas.",
+      "Direbus dalam air mendidih, ditambah garam.",
+      "Diongklok dalam pantji terbuka supaja uapnja keluar, kentang akan mendjadi agak kering dan masir."
+    ]
+  },
+  {
+    "recipe_id": "MR_192_1",
+    "title_original": "KENTANG PURI",
+    "title_normalized": "Kentang Puri",
+    "region": null,
+    "page_number": 184,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 1/2 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "susu 1 1/2 gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 1.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "pala halus 1/2 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala bubuk",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kentang direbus, dikupas, dihaluskan.",
+      "Susu dididihkan, kentang dimasukkan, didjerangkan diatas api ketjil, di-aduk² dengan sendok kaju.",
+      "Setelah kental ditambah mentega, pala halus dan garam."
+    ]
+  }
+]

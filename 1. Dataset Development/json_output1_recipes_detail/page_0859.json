@@ -1,0 +1,111 @@
+[
+  {
+    "recipe_id": "MR_851_0",
+    "title_original": "[Tidak ada judul - Lanjutan]",
+    "title_normalized": "[Continuation of Previous Recipe: Tortilla/Gorengan]",
+    "region": null,
+    "page_number": 851,
+    "category": "Makanan Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "tambahan",
+        "original_header": "[Lanjutan Bahan]",
+        "ingredients": [
+          {
+            "original_text": "daun seledri setjukupnja",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gadjih babi 1/4 kg.",
+            "item_original": "gadjih babi",
+            "item_normalized": "gajih babi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "radijs setjukupnja",
+            "item_original": "radijs",
+            "item_normalized": "radis",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tortilla di-potong², digoreng dengan minjak babi dengan hati² djangan sampai terlalu tjoklat, kemudian diangkat.",
+      "Tomat di-potong² halus dan di tjamput dengan lombok, daun salam, seledri, sebutir bawang dan kemudian digoreng dengan satu sendok gadjih babi.",
+      "Setengah dari jumlah tortilla jang telah digoreng dimasukkan kedalam sebuah pantji besar jang telah diulas dengan gadjih babi, kemudian ditaburi kedju halus, garam dan achirnja ditambahkan sisa dari tortilla.",
+      "Dibubuhkan garam dan kaldu kedalam panjti dan dimasak diatas api jang kecil hingga tortilla mendjadi lunak.",
+      "Achirnja ditaburkan kedju halus, daun seledri dan bawang jang telah dipotong udjungnja dan dihias dengan irisan² telur dan radijs."
+    ]
+  },
+  {
+    "recipe_id": "MR_851_1",
+    "title_original": "DADAR BERAS KETAN",
+    "title_normalized": "Dadar Beras Ketan",
+    "region": null,
+    "page_number": 851,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung ketan 2 gls.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir/merah 1 gls.",
+            "item_original": "gula pasir/merah",
+            "item_normalized": "gula pasir/merah",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "warna/daun sudji",
+            "item_original": "warna/daun sudji",
+            "item_normalized": "pewarna/daun suji",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras dan tepung ketan ditjampur, kemudian diaduk sambil diberi air sedikit hingga lemas. Dimasukkan daun warna sudji dan garam.",
+      "Adonan diatas diberi air (dientjerkan dengan air sedikit) sambil diaduk supaja rata dan dibuat lebih entjer dari adonan dadar terigu.",
+      "Adonan dibuat dadar.",
+      "Kelapa dikupas, diparut, ditjampur dengan gula, daun pandan dan garam seperlunja mendjadi enten².",
+      "Letakkan inti diatas djadjan, kemudian digulung dan disadjikan dalam piring tjeper."
+    ]
+  }
+]

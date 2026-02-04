@@ -1,0 +1,161 @@
+[
+  {
+    "recipe_id": "MR_1100_1",
+    "title_original": "SUSU SINGKONG",
+    "title_normalized": "Susu Singkong",
+    "region": null,
+    "page_number": 1100,
+    "category": "Savory Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 2 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daging 2 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "margarine 1/2 gls.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "susu 1/2 gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "lada 15 btr.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 15.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun bawang 1 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, dikukus, ditumbuk halus, margarine dimasukkan, diaduk sampai rata.",
+      "Daging dibersihkan, ditjitntjang.",
+      "Bumbu² dihaluskan, daun bawang bagian putih diiris halus.",
+      "Daging, bumbu jang halus dan bawang ditjampur.",
+      "Ditumis dengan margarine sampai masak.",
+      "Adonan singkong dibentuk bulat² kemudian diisi dengan daging tadi.",
+      "Dibakar dalam pan pembakaran/oven dengan api atas dan bawah sampai kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_1100_2",
+    "title_original": "TAART AMANDEL",
+    "title_normalized": "Tart Amandel",
+    "region": null,
+    "page_number": 1100,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kenari 3 tjkr.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula tumbuk 8 sdm.",
+            "item_original": "gula tumbuk",
+            "item_normalized": "gula tumbuk",
+            "quantity": 8.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kuning telur ajam 10 btr.",
+            "item_original": "kuning telur ajam",
+            "item_normalized": "kuning telur ayam",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur ajam 5 btr.",
+            "item_original": "putih telur ajam",
+            "item_normalized": "putih telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung roti 8 sdm.",
+            "item_original": "tepung roti",
+            "item_normalized": "tepung roti",
+            "quantity": 8.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "citroen essence 1 sdt.",
+            "item_original": "citroen essence",
+            "item_normalized": "citroen essence",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kenari ditjelup dengan air panas supaja kulit arinja lepas, ditjintjang hingga halus.",
+      "Gula dan telur diputar hingga kembang, dimasukkan putih telur jang telah diputar lebih dahulu.",
+      "Dimasukkan kenari citroen essence dan penghabisan tepungnja.",
+      "Diaduk per-lahan² hingga tertjampur betul.",
+      "Tjetakan taart disapu dengan mentega, dialas kertas minjak, diseraki tepung terigu sedikit."
+    ]
+  }
+]

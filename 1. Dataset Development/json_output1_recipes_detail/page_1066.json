@@ -1,0 +1,52 @@
+[
+  {
+    "recipe_id": "MR_1066_0",
+    "title_original": "POLENTA",
+    "title_normalized": "Polenta",
+    "region": "Italia Utara (Serving Suggestion)",
+    "page_number": 1058,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "air 1½ lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tepung djagung ½ kg.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air dimasak dengan garam sedikit hingga mendidih.",
+      "Tepung jagung dimasukkan dalam air masak (masih di atas api) sedikit demi sedikit, sambil diaduk selama kurang 3/4 jam.",
+      "Bilamana polenta ini diaduk dan adonannya dapat lepas dari panci (bahasa Jawa: 'kalis'), maka ini berarti polenta sudah masak.",
+      "Setelah diangkat dari api, didinginkan sebentar kemudian dituangkan di atas alas dari kayu (supaya airnya meresap kepada alas kayu).",
+      "Bentuk polenta ini seakan-akan dicetak oleh panci.",
+      "Setelah dingin, polenta dipotong-potong dengan seutas tali sebesar potongan roti.",
+      "Pilihan Hidangan 1: Polenta dihidangkan dengan telur mata sapi di atasnya (sangat disukai di Italia Utara). Dapat pula diberi rebusan asperges (asparagus).",
+      "Pilihan Hidangan 2: Polenta digoreng dan dimakan dengan taburan gula pasir di atasnya.",
+      "Pilihan Hidangan 3: Polenta dimakan dengan gula jawa yang telah dicairkan (juruh).",
+      "Pilihan Hidangan 4: Polenta digoreng dengan mentega dan dimakan dengan taburan keju parut.",
+      "Pilihan Hidangan 5 (untuk anak-anak): Polenta dimasukkan dalam semangkuk susu dingin."
+    ]
+  }
+]

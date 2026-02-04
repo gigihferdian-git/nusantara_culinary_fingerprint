@@ -1,0 +1,225 @@
+[
+  {
+    "recipe_id": "MR_420_1",
+    "title_original": "BUMBU DJUKUT DAUN BELIMBING",
+    "title_normalized": "Bumbu Jukut Daun Belimbing",
+    "region": "Bali",
+    "page_number": 420,
+    "category": "Bumbu Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "daun belimbing ½ tua 3 pantji.",
+            "item_original": "daun belimbing ½ tua",
+            "item_normalized": "daun belimbing setengah tua",
+            "quantity": 3.0,
+            "unit": "pantji"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 25 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 25.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 10 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 10.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 75 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 75.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 1 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketumbar ½ sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun belimbing ditjutji bersih.",
+      "Direbus sampai matang, dan diperas.",
+      "Bumbu² dihaluskan.",
+      "Lada dan ketumbar ditumbuk halus.",
+      "Bumbu ditjamput dengan daun belimbing terus diaduk hingga rata, dibubuhi lada, ketumbar dan garam.",
+      "Dibubuhi bawang merah dan lombok di-potong² (lombok 25 bidji, bawang merah 10 butir)."
+    ]
+  },
+  {
+    "recipe_id": "MR_420_2",
+    "title_original": "BUMBU LAWAR",
+    "title_normalized": "Bumbu Lawar",
+    "region": "Bali",
+    "page_number": 420,
+    "category": "Bumbu",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kulit sapi 1 kg.",
+            "item_original": "kulit sapi",
+            "item_normalized": "kulit sapi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "darah sapi 1 tjkr.",
+            "item_original": "darah sapi",
+            "item_normalized": "darah sapi",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa 1½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 20 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 20.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 10 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 10.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 75 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 75.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kemiri 1 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lada hitam ¼ sdt.",
+            "item_original": "lada hitam",
+            "item_normalized": "lada hitam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1½ sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur 8 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 8.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging jang sudah disiapkan ditjintjang halus."
+    ]
+  }
+]

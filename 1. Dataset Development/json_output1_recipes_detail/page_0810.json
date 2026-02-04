@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_810_1",
+    "title_original": "ARERUT TJEPOT",
+    "title_normalized": "Arerut Cepot",
+    "region": null,
+    "page_number": 802,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 2 ons",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 200.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula merah dibuat sirop jang kental.",
+      "Kelapa diparut, dibuat santan kental, dipanaskan, diberi pandan dan sedikit garam.",
+      "Tepung kandji diremas dengan air dingin sampai merupakan adonan jang dapat dibentuk.",
+      "Adonan dibentuk bulat² ketjil dimasukkan satu persatu kedalam air mendidih. Kalau sudah mengapung diangkat dan ditiriskan.",
+      "Dihidangkan dengan sirop gula. Santan kental dituangkan terachir."
+    ]
+  },
+  {
+    "recipe_id": "MR_810_2",
+    "title_original": "ARIA KUSUMA",
+    "title_normalized": "Aria Kusuma",
+    "region": "Banjarmasin",
+    "page_number": 802,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa (santan kental) 1 btr./ 2 gls.",
+            "item_original": "kelapa (santan kental)",
+            "item_normalized": "kelapa (santan kental)",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 200.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "air daun pandan 1/2 gls.",
+            "item_original": "air daun pandan",
+            "item_normalized": "air daun pandan",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung diberi air panas, sedikit air kapur dan garam setjukupnja; dibuat adonan jang tjair.",
+      "Adonan ini dibagi mendjadi 3 bagian, diberi warna putih, hidjau dan merah untuk lapisan pertama, kedua dan ketiga. Lapisan keempat santan kental (kumil).",
+      "Dikukus selapis demi selapis sampai masak.",
+      "Lapisan jang keempat dibuat dari santan kental 2 1/2 gls. ditjampur 2 1/2 sendok makan tepung dan garam setjukupnja, dikukus sampai masak."
+    ]
+  }
+]

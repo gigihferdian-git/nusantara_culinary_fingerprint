@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_869_1",
+    "title_original": "DODOL PISANG",
+    "title_normalized": "Dodol Pisang",
+    "region": null,
+    "page_number": 869,
+    "category": "Dodol / Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pisang ¹/₂ kg.",
+            "item_original": "pisang",
+            "item_normalized": "pisang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula djawa ¹/₂ kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pandan 1 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam ¹/₂ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buah pisang jang telah masak, kulitnja dikupas, dihaluskan.",
+      "Kelapa ¹/₂ butir diparut, disangrai sampai masak.",
+      "Kelapa jang ¹/₂ lagi diparut, dibuat santan kental.",
+      "Pisang jang telah halus bersama santan, gula, pandan dan garam direbus, kelapa sangrai dimasukkan diaduk sampai tjampur betul.",
+      "Diangkat dan didinginkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_869_2",
+    "title_original": "DODOL TAPE",
+    "title_normalized": "Dodol Tape",
+    "region": null,
+    "page_number": 869,
+    "category": "Dodol / Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung singkong 1 kg.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung ketan ¹/₂ ons",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "warna kue 1 sdt.",
+            "item_original": "warna kue",
+            "item_normalized": "pewarna makanan",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kertas minjak 1 lbr.",
+            "item_original": "kertas minjak",
+            "item_normalized": "kertas minyak",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan disangan, ditumbuk, diajak, dibuat tepung.",
+      "Kelapa dibuat santan kental 1 gelas, direbus, ditambah gula dan warna, direbus hingga kental.",
+      "Tape dihaluskan dan seratnja dibuang."
+    ]
+  }
+]

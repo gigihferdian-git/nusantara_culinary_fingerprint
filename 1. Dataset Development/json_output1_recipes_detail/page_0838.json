@@ -1,0 +1,60 @@
+[
+  {
+    "recipe_id": "MR_830_1",
+    "title_original": "BOTERLETTER",
+    "title_normalized": "Boterletter",
+    "region": null,
+    "page_number": 830,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terigu 2½ ons",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gemuk sapi 2½ ons",
+            "item_original": "gemuk sapi",
+            "item_normalized": "lemak sapi",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "mentega 1 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung ditumbuk diatas papan jang datar.",
+      "Ditengah tumpukan diletakkan mentega, garam dan separuhnja dari gemuk.",
+      "Dimasukkan air sedikit.",
+      "Diaduk semuanja dengan tangan hingga rata dan sedang kerasnja.",
+      "Kelebihan gemuk dimasukkan pula.",
+      "Dibanting-banting dan digiling dengan kaju penggiling sampai halus dan rata.",
+      "Kemudian dilipat empat dan digiling sekali lagi.",
+      "Kerdjakan ini sampai empat atau lima kali.",
+      "Sesudah itu ratakan diatas papan setebal ½ cm.",
+      "Ditaruh selai basah diatasnja, lalu digulung sebesar ibu djari dan dipotong-potong seberapa perlu untuk pembuat huruf A, B, C, dan lain-lainnja atau boleh djuga dipotong-potong sadja, kira-kira 4 cm pandjanganja.",
+      "Bila telah selesai disusun dalam kaleng pembakaran, disemir diatasnja dengan kuning telur jang sudah diputar dengan air sedikit.",
+      "Kemudian dibakar dengan api jang sedang."
+    ]
+  }
+]

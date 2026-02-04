@@ -1,0 +1,64 @@
+[
+  {
+    "recipe_id": "MR_936_1",
+    "title_original": "KUE APAM SAILAN",
+    "title_normalized": "Kue Apam Sailan",
+    "region": null,
+    "page_number": 936,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 kati",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "kati"
+          },
+          {
+            "original_text": "kembang roti setjukupnja",
+            "item_original": "kembang roti",
+            "item_normalized": "ragi roti",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "air dingin 2 tjutji tangan",
+            "item_original": "air dingin",
+            "item_normalized": "air dingin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun pandan (ditumbuk) setjukupnja",
+            "item_original": "daun pandan (ditumbuk)",
+            "item_normalized": "daun pandan (ditumbuk)",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kunjit sedikit",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras diaduk dengan kembang roti, hingga bertjampur betul.",
+      "Satu tjutji tangan air dingin dimasak dengan air daun pandan.",
+      "Diletakkan kunjit sedikit, sampai mendidih.",
+      "Air ini dimasukkan kedalam tjampuran tepung beras lalu dimasukkan pula gula pasir sampai tjukup manis.",
+      "Adonan dibikin seperti adonan panekoek.",
+      "Adonan itu dibiarkan semalam lamanja, esoknja dimasak atau dikukus.",
+      "Memasaknja pakai talam jang telah diletakkan didalam sebuah kukusan.",
+      "Dan ada djuga jang diletakkan dalam mangkuk ketjil².",
+      "Bila sudah mendidih betul air kukusan, baru dimasak kue ini."
+    ]
+  }
+]

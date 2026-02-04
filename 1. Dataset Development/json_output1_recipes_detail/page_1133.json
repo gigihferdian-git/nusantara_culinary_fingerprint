@@ -1,0 +1,186 @@
+[
+  {
+    "recipe_id": "MR_1125_1",
+    "title_original": "TJELEMPUNGAN",
+    "title_normalized": "Celemplungan",
+    "region": "Palembang",
+    "page_number": 1125,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan gabus halus ½ kg.",
+            "item_original": "ikan gabus halus",
+            "item_normalized": "ikan gabus halus",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minyak goreng ½ gls.",
+            "item_original": "minyak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung kandji ½ kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 6 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ketumbar 2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djinten 1 sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit ½ rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djae 1 pt.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dikupas, dibuang tulangnja, dihaluskan.",
+      "Ikan halus ditjampur dengan tepung kandji dan 3 sdm air garam.",
+      "Diaduk sampai rata dan dapat dibentuk bulat².",
+      "Direbus dalam air mendidih sampai masak, ditiriskan.",
+      "Membuat saos :",
+      "Bawang merah, bawang putih, kunjit, ketumbar, djinten, kemiri dihaluskan, laos, djae dimemarkan sadja.",
+      "Kelapa diparut, dibuat santan 2 gelas sadja.",
+      "Semua bumbu ditumis dengan minjak goreng, dimasukkan santan, dimasak sampai kental.",
+      "Tjelempungan dimasukkan, sesudah bertjampur rata baru diangkat.",
+      "Dihidangkan dengan ditaburi bawang goreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_1125_2",
+    "title_original": "TJEMPLON",
+    "title_normalized": "Cemplon",
+    "region": "Purworedjo",
+    "page_number": 1125,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong ½ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak 1 gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

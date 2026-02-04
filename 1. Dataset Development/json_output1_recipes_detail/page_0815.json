@@ -1,0 +1,174 @@
+[
+  {
+    "recipe_id": "MR_815_1",
+    "title_original": "BAGEA (Lanjutan)",
+    "title_normalized": "Bagea (Lanjutan)",
+    "region": null,
+    "page_number": 807,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "gula pasir halus 8 ons",
+            "item_original": "gula pasir halus",
+            "item_normalized": "gula pasir halus",
+            "quantity": 8.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak kelapa 3 tjkr.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 3.0,
+            "unit": "takar"
+          },
+          {
+            "original_text": "soda kue 1-1½ sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dikatjau sampai kembang.",
+      "Soda kue dan kenari dimasukkan, lalu minjak djuga dimasukkan sedikit demi sedikit.",
+      "Ditjampur perlahan² hingga rata.",
+      "Achirnja tepung kandji dimasukkan. Adonan dibentuk bulat telur lalu dibakar dalam oven.",
+      "Bagea jang baik harus retak² dibagian atasnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_815_2",
+    "title_original": "BAKMI KALDU",
+    "title_normalized": "Bakmi Kaldu",
+    "region": null,
+    "page_number": 807,
+    "category": "Makanan Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "daging babi 1/4 kg.",
+            "item_original": "daging babi",
+            "item_normalized": "daging babi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "udang 1/2 kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "mi kering 2 bks.",
+            "item_original": "mi kering",
+            "item_normalized": "mi kering",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "rebung 2 ons",
+            "item_original": "rebung",
+            "item_normalized": "rebung",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "seledri 2 tk.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun bawang 2 ikat",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kutjai 1 ikat",
+            "item_original": "kutjai",
+            "item_normalized": "kucai",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "taoge 2 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 10 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 10.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 4 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak babi atau gadjih 4 sdm.",
+            "item_original": "minjak babi atau gadjih",
+            "item_normalized": "minyak babi atau gajih",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mi direndam dalam air dingin selama 15 menit.",
+      "Disuwiri dengan gadjih dan dikukus selama 5 menit.",
+      "Udang dihilangi kulitnja.",
+      "Daging babi diiris ketjil².",
+      "Bawang putih digoreng dengan gadjih sampai kuning, lalu dituangi kaldu.",
+      "Sajuran, udang, daging babi, ketjap, lada, garam, dan terachir mi dimasukkan."
+    ]
+  }
+]

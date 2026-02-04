@@ -1,0 +1,167 @@
+[
+  {
+    "recipe_id": "MR_930_1",
+    "title_original": "KROKET DJAGUNG",
+    "title_normalized": "Kroket Jagung",
+    "region": "Djakarta",
+    "page_number": 930,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 10 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daging tjintjang ½ ons",
+            "item_original": "daging tjintjang",
+            "item_normalized": "daging cincang",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung maizena 2 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung panir ½ gls",
+            "item_original": "tepung panir",
+            "item_normalized": "tepung panir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 1 btr",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 2 gls",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada halus ¼ sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung muda diparut.",
+      "Bawang merah diiris ditumis kemudian daging tjintjang dimasukkan ditambah lada dan garam.",
+      "Bila daging hampir masak, djagung muda dimasukkan.",
+      "Untuk mengentalkan ditambah maizena jang telah ditjairkan dengan air sedikit, diaduk sampai rata dan tertjampur benar.",
+      "Adonan ini dibentuk dengan sendok bulat pandjang, dipanir dengan tepung panir dan telur.",
+      "Digoreng dalam minjak banjak dan panas, sampai merah ketjoklatan dan rata."
+    ]
+  },
+  {
+    "recipe_id": "MR_930_2",
+    "title_original": "KROKET TEMPE",
+    "title_normalized": "Kroket Tempe",
+    "region": null,
+    "page_number": 930,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tempe 10 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "telur 1 btr",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 1 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung panir 3 sdm.",
+            "item_original": "tepung panir",
+            "item_normalized": "tepung panir",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun bawang +",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": null
+  }
+]

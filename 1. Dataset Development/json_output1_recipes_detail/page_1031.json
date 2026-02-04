@@ -1,0 +1,151 @@
+[
+  {
+    "recipe_id": "MR_1031_0",
+    "title_original": "MASUBAH",
+    "title_normalized": "Masubah",
+    "region": "Bandjarmasin",
+    "page_number": 1023,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu ½ kg.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 8 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 8.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 8 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 8.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "djinten ½ sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjengkeh 10 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kaju manis 2 rdj.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 2.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "adas 1 sdt.",
+            "item_original": "adas",
+            "item_normalized": "adas",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dikotjok sampai kembang.",
+      "Dimasukkan tepung, diaduk sampai rata.",
+      "Bumbu² disangan, dihaluskan, dimasukkan kedalam adonan no. 2.",
+      "Adonan dimasukkan kedalam wadjan jang telah diolesi minjak goreng. Tebal adonan ± ½ cm, garis tengah 15 cm.",
+      "Dibolak-balik sampai kering.",
+      "Ditambahkan adonan lain seperti pertama, dibalik lagi sampai masak.",
+      "Ditambahkan lagi adonan jang lain, dikerjakan terus sampai tingginja 5 cm.",
+      "Bentuknja bulat dan ber-lapis²."
+    ]
+  },
+  {
+    "recipe_id": "MR_1031_1",
+    "title_original": "MASUPA",
+    "title_normalized": "Masupa",
+    "region": "Palembang",
+    "page_number": 1023,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ¾ gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.75,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "susu kental ¼ gls.",
+            "item_original": "susu kental",
+            "item_normalized": "susu kental",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "margarine ¼ gls.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "terigu 5 sdm.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dikotjok djangan sampai kembang.",
+      "Dimasukkan susu, mentega dan panili."
+    ]
+  }
+]

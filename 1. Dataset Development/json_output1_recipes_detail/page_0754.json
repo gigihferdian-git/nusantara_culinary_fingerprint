@@ -1,0 +1,75 @@
+[
+  {
+    "recipe_id": "MR_746_1",
+    "title_original": "SATÉ LILIT",
+    "title_normalized": "Sate Lilit",
+    "region": "Bali",
+    "page_number": 746,
+    "category": "Sate",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan laut segar ½ kg.",
+            "item_original": "ikan laut segar",
+            "item_normalized": "ikan laut segar",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "djeruk sambal 1 bh.",
+            "item_original": "djeruk sambal",
+            "item_normalized": "jeruk sambal",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dikeluarkan tulangnya lalu ditumbuk sampai halus.",
+      "Bawang merah, bawang putih diiris, digoreng.",
+      "Kelapa dibuat santan kental.",
+      "Bawang merah, bawang putih yang telah digoreng dan garam ditumbuk jadi satu dengan ikannya.",
+      "Ditambah santan.",
+      "Dalam waskom diuli dengan jeruk sambal yang dibiarkan utuh. Mengulinya dengan telapak tangan.",
+      "Setelah campuran melekat baik, dibentuk pada sujen sambil dililitkan, dibakar sampai masak."
+    ]
+  }
+]

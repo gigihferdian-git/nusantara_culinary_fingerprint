@@ -1,0 +1,126 @@
+[
+  {
+    "recipe_id": "MR_549_1",
+    "title_original": "PEPES DAUN MANGKOKAN",
+    "title_normalized": "Pepes Daun Mangkokan",
+    "region": "Jawa Tengah",
+    "page_number": 549,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun mangkokan 10 lbr.",
+            "item_original": "daun mangkokan",
+            "item_normalized": "daun mangkokan",
+            "quantity": 10.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "ikan teri 1/2 ons",
+            "item_original": "ikan teri",
+            "item_normalized": "ikan teri",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa setengah tua 1/4 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang 1/2 pelepah",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 0.5,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun salam 5 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Semua bahan dicuci.",
+      "Daun mangkokan diiris halus.",
+      "Kelapa diparut.",
+      "Bumbu ditumbuk halus kecuali salam, lengkuas; cabai rawit diiris halus.",
+      "Bahan dan bumbu dicampur, dibungkus daun pisang, tiap bungkus diberi irisan lengkuas dan daun salam.",
+      "Periuk dan tanah dialas daun pisang dan diisi dengan bungkusan.",
+      "Ditutup daun pisang, kemudian ditindih dengan benda yang berat.",
+      "Dimasak di atas api dibolak balik sampai daun pembungkusannya gosong.",
+      "Keterangan: Dihidangkan dengan pembungkus dibuang dan bagian yang gosong dibuang pula."
+    ]
+  }
+]

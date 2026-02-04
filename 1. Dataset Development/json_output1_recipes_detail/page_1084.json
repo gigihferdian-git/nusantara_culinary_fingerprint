@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_1084_0",
+    "title_original": "ROTI PISANG",
+    "title_normalized": "Roti Pisang",
+    "region": "Malang",
+    "page_number": 1076,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ½ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pisang radja 5 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir ¼ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dibuat santan 3 gelas, dipanaskan, dimasukkan tepung dibuat adonan.",
+      "Pisang diiris ketjil², dimasukkan, ditambah gula dan garam, di-aduk².",
+      "Adonan ditjetak pada tjetakan kue/lojang, dipanggang sampai kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_1084_1",
+    "title_original": "ROTI SULTANA",
+    "title_normalized": "Roti Sultana",
+    "region": null,
+    "page_number": 1076,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 10 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur (diambil dari lain telur) 2 btr.",
+            "item_original": "putih telur (diambil dari lain telur)",
+            "item_normalized": "putih telur (diambil dari lain telur)",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega ½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 1 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kismis 2 tjkr.",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung susu 3 sdm.",
+            "item_original": "tepung susu",
+            "item_normalized": "tepung susu",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "susu manis 1 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu manis",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur ajam 10 butir, gula dan mentega dikotjok sampai mengembang, lalu dimasukkan tepung terigu, tepung susu dan panili.",
+      "Sudah itu adonan ini diaduk sampai rata, kismis ditjintjang sampai halus, dimasukkan susu manis ditaburi putih telur dan diaduk rata.",
+      "Adonan kue digiling persegi empat.",
+      "Kemudian disapukan kismis jang telah diaduk dengan susu manis diatasnja.",
+      "Adonan dilapis hingga kismis djatuh didalam lipatan, adonan di-potong².",
+      "Diatas kue disapu kuningnja telur ditusuki dengan lidi terlebih dahulu.",
+      "Dibakar dalam oven dengan api diatas dan dibawah."
+    ]
+  }
+]

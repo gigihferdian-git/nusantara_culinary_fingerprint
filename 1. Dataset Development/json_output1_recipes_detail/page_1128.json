@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_1120_0",
+    "title_original": "TJAKRA",
+    "title_normalized": "Cakra",
+    "region": "Madura",
+    "page_number": 1120,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1/2 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 20 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 20.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak kelapa 2 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, diambil santannja 8 gelas.",
+      "Telur, gula dikotjok sampai kembang.",
+      "Tepung beras, santan, garam ditjampur, dimasukkan dan dikotjok, diaduk sampai rata.",
+      "Tjetakan dimasukkan kedalam minjak jang panas ditjelupkan pada adonan, dimasukkan diminjak panas sampai lepas.",
+      "Digoreng sampai kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_1120_1",
+    "title_original": "TJALA ISI",
+    "title_normalized": "Jala Isi",
+    "region": null,
+    "page_number": 1120,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terigu 1 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 1.0,
+            "unit": "cup"
+          },
+          {
+            "original_text": "gula 2 sdm.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telor 1 bdj.",
+            "item_original": "telor",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "santan 2 tjkr.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "cup"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula telor dikotjok."
+    ]
+  }
+]

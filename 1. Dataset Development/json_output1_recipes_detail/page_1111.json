@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_1103_0",
+    "title_original": "[UNNAMED RECIPE - Continued]",
+    "title_normalized": "Kue Biskuit Marie",
+    "region": null,
+    "page_number": 1103,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "mentega 3½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula halus 3 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "susu entjer 1 klg.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.0,
+            "unit": "kaleng"
+          },
+          {
+            "original_text": "bischuit mari 15 bdj.",
+            "item_original": "bischuit mari",
+            "item_normalized": "biskuit marie",
+            "quantity": 15.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur dikotjok dengan gula sampai mengembang.",
+      "Lalu dimasukkan mentega dan dikotjok sampai putih.",
+      "Kemudian dimasukkan terigu.",
+      "Dimasukkan putihnja telur jang telah dikotjok tersendiri itu.",
+      "Bischuit mari direndam dalam susu, kelapa muda dikerok dagingnja.",
+      "Sesudah itu bischuit mari jang telah direndam dan kelapa muda jang telah dikerok dimasukkan kedalam adonan.",
+      "Mula² api ditaruh dibawah, kalau kue sudah naik apinja dipindahkan disebelah atas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1103_1",
+    "title_original": "TAART KELAPA MUDA",
+    "title_normalized": "Taart Kelapa Muda",
+    "region": null,
+    "page_number": 1103,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa muda 1 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung terigu ¼ kg.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "margarine ½ sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam halus ⅓ sdm.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 0.33,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa muda dikikis dari tempurungnja.",
+      "Telur dan gula dikotjok sampai putih.",
+      "Kelapa muda dimasukkan, kemudian tepung dan bumbu sedikit demi sedikit, diaduk sampai rata.",
+      "Adonan dimasukkan kedalam lojang jang telah disemir dengan margarine, kemudian dipan dalam oven jang dipanaskan lebih dahulu, sampai adonan mendjadi kuning ke-tjoklat²an.",
+      "Tanda taart sudah masak, apabila ditusuk dengan lidi, lidi tak berbekas adonan lagi.",
+      "Taart diangkat dan dilepaskan dari tjetakan dan dibiarkan sampai dingin.",
+      "Taart di-potong² dan dihidangkan diatas piring kue jang dialas kertas."
+    ]
+  }
+]

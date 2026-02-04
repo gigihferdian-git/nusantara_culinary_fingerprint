@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_565_0",
+    "title_original": "PETJEL TUMPANG",
+    "title_normalized": "Pecel Tumpang",
+    "region": null,
+    "page_number": 565,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 1 ikat",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "bajam 1 ikat",
+            "item_original": "bajam",
+            "item_normalized": "bayam",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "lobak 1 ikat",
+            "item_original": "lobak",
+            "item_normalized": "lobak",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "taoege ¼ kg.",
+            "item_original": "taoege",
+            "item_normalized": "tauge",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tempe bosok 1 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sajuran dipotong-potong dan direbus.",
+      "Kemiri digoreng.",
+      "Tempe dibakar.",
+      "Kelapa diambil santannja.",
+      "Bumbu², kemiri dan tempe diiris halus.",
+      "Santan bersama bumbu direbus sampai masak.",
+      "Dihidangkan diatas piring tjeper, disiram bumbu."
+    ]
+  }
+]

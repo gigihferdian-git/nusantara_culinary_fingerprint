@@ -1,0 +1,125 @@
+[
+  {
+    "recipe_id": "MR_1101_0",
+    "title_original": "TAART BESCHUIT",
+    "title_normalized": "Taart Beschuit",
+    "region": null,
+    "page_number": 1101,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 12 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 12.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "susu entjer 1½ tjkr.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung beschuit 1½ tjkr.",
+            "item_original": "tepung beschuit",
+            "item_normalized": "tepung beschuit",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula tumbuk 1½ tjkr.",
+            "item_original": "gula tumbuk",
+            "item_normalized": "gula tumbuk",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 4 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vanili ½ sdt.",
+            "item_original": "vanili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula diputar hingga naik, mentega dimasukkan terus diputar, beschuit dimasukkan susu, vanili dan penghabisan tepung beschuit.",
+      "Diaduk per-lahan² hingga bertjampur betul.",
+      "Diambil sebuah piring batu (vuurvaste schaal) disapu dengan mentega, baru adonan tadi dimasukkan kedalam dan dibakar sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1101_1",
+    "title_original": "TAART BUAH",
+    "title_normalized": "Taart Buah",
+    "region": null,
+    "page_number": 1101,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 2½ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega ½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "terigu 4 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "nenas, kismis, sukade setjukupnja",
+            "item_original": "nenas, kismis, sukade",
+            "item_normalized": "nanas, kismis, sukade",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula dikotjok sampai mengembang.",
+      "Lalu dimasukkan telur satu persatu sambil dikotjok sampai putih.",
+      "Sesudah itu dimasukkan terigu.",
+      "Dan dibakar dengan api dibawah dahulu.",
+      "Sesudah agak² kering kelihatannja dimasukkan buah²an tjintjang sedikit.",
+      "Ketika mau kering dimasukkan lagi sedikit buah²an tjintjang.",
+      "Sesudah kelihatan kering semuanja api dipindahkan disebelah atas."
+    ]
+  }
+]

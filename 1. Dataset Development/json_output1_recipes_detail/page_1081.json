@@ -1,0 +1,127 @@
+[
+  {
+    "recipe_id": "MR_1073_0",
+    "title_original": "ROTI KUKUS DARI BEKATUL",
+    "title_normalized": "Roti Kukus dari Bekatul",
+    "region": null,
+    "page_number": 1073,
+    "category": "Roti / Kue Kukus",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bekatul djagung 1 tjkr.",
+            "item_original": "bekatul djagung",
+            "item_normalized": "bekatul jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air soda atau air kelapa ½ tjkr.",
+            "item_original": "air soda atau air kelapa",
+            "item_normalized": "air soda atau air kelapa",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok sampai kembang sekali.",
+      "Dimasukkan air kelapa/soda kedalam adonan itu.",
+      "Bekatul dan panili dimasukkan pelan² sambil diaduk pelan².",
+      "Kalau mau diberi warna, dibubuhi warna kue, tjetakan dialas dengan kertas roti.",
+      "Adonan dimasukkan sampai 2/3 tjetakan dan dikukus (dari semula) dalam kukusan jang telah mendidih airnja.",
+      "Djangan dibuka sampai masak ± 1 djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_1073_1",
+    "title_original": "ROTI MANIHOT",
+    "title_normalized": "Roti Manihot",
+    "region": "Banjumas",
+    "page_number": 1073,
+    "category": "Roti / Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1½ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "nanas 1 bh.",
+            "item_original": "nanas",
+            "item_normalized": "nanas",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah ½ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa setengah tua 1 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, dikukus dan dihaluskan.",
+      "Kelapa dibersihkan, diparut, ditjampur rata dengan singkong dan garam.",
+      "Nanas dibersihkan, ditjutji, diparut, ditjampur gula, dimasak seperti selai.",
+      "Merah telur dikatjau.",
+      "Adonan singkong dibentuk gepeng, tengahnja diberi selai nanas. Bulatan ditelungkupkan hingga menjerupai setengah lingkaran. Bagian atas disemir dengan telur.",
+      "Dibakar dalam oven."
+    ]
+  }
+]

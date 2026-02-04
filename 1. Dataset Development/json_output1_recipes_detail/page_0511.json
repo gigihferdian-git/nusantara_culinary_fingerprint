@@ -1,0 +1,140 @@
+[
+  {
+    "recipe_id": "MR_511_1",
+    "title_original": "NASU LIKKU",
+    "title_normalized": "Nasu Likku",
+    "region": "Makassar",
+    "page_number": 503,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 4 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 ons",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit halus 1 sdt.",
+            "item_original": "kunjit halus",
+            "item_normalized": "kunyit halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potongan"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam 1 mt.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan, dipotong-potong ketjil.",
+      "Bawang merah, lada, kunjit, laos, sereh, ditumbuk halus.",
+      "Bumbu halus ditjampur dengan potongan-potongan ajam lalu ditumis.",
+      "Kelapa diparut, dibagi dua. Separo disangan sampai kuning dan ditumbuk halus. Jang separo lagi didjadikan santan kental.",
+      "Djika ajamnja sudah setengah masak, kelapa tumbuk dimasukkan beserta air asam dan garam.",
+      "Santan kental dimasukkan dan dibiarkan sebentar sampai mendidih, lalu diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_511_2",
+    "title_original": "NASU TJEMBA",
+    "title_normalized": "Nasu Cemba",
+    "region": "Toraja",
+    "page_number": 503,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "daging sapi atau kambing 1 kg.",
+            "item_original": "daging sapi atau kambing",
+            "item_normalized": "daging sapi atau kambing",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "air 2 lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "liter"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

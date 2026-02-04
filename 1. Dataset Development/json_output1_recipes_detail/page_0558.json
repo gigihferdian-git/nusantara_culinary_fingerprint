@@ -1,0 +1,164 @@
+[
+  {
+    "recipe_id": "MR_558_1",
+    "title_original": "PEPES DJAGUNG MUDA",
+    "title_normalized": "Pepes Jagung Muda",
+    "region": null,
+    "page_number": 550,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 6 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "udang basah 6 ekor.",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 6.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lobok merah 2 bh.",
+            "item_original": "lobok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun salam 3 helai.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "helai"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diparut.",
+      "Udang basah dikupas, dipisahkan kaki dan kepalanja, dagingnja udang di-iris² ketjil².",
+      "Satu lombok diiris, bumbu² lain seperti: 1 lombok, bawang putih, bawang merah, garam, kaki dan kepala udang digiling halus.",
+      "Setelah itu semua ditjampur mendjadi satu dengan djagung, potongan² daging udang dan telur, prei dan lombok jang telah diiris.",
+      "Daun salam di-potong².",
+      "Dibungkusi daun pisang, diberi daun salam.",
+      "Dikukus hingga masak benar.",
+      "Dihidangkan dengan saos tomat."
+    ]
+  },
+  {
+    "recipe_id": "MR_558_2",
+    "title_original": "PEPES DJAGUNG",
+    "title_normalized": "Pepes Jagung",
+    "region": "Madura",
+    "page_number": 550,
+    "category": "Pepes",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 2 gelas",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah atau gula pasir 4 sdm.",
+            "item_original": "gula merah atau gula pasir",
+            "item_normalized": "gula merah atau gula pasir",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa jang muda 1/3 btr.",
+            "item_original": "kelapa jang muda",
+            "item_normalized": "kelapa yang muda",
+            "quantity": 0.33,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kapur sirih 1 sdt.",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, ditjampur dalam tepung djagung."
+    ]
+  }
+]

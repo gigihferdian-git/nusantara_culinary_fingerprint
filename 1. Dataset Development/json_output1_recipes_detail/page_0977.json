@@ -1,0 +1,150 @@
+[
+  {
+    "recipe_id": "MR_969_1",
+    "title_original": "KUE MARHAEN",
+    "title_normalized": "Kue Marhaen",
+    "region": null,
+    "page_number": 969,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ¼ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung kandji 4 sdm.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur ajam 10 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "katjang tanah 3 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 10 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 10.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak goreng 1 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Gula dihaluskan.",
+      "2. Telur, gula halus dikatjau sampai kembang.",
+      "3. Tepung beras didjemur hingga kering.",
+      "4. Katjang ditjutji, dibelah dua.",
+      "5. Kotjokan telur ditjamput dengan tepung beras sedikit kemudian diaduk terus.",
+      "6. Sambil diaduk tepung kandji dimasukkan.",
+      "7. Tjetakan diolesi minjak kelapa, adonan dimasukkan, katjang ditaruh ber-djadjar² diatasnja.",
+      "8. Kemudian dipan, apinja atas bawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_969_2",
+    "title_original": "KUE MATA RODA",
+    "title_normalized": "Kue Mata Roda",
+    "region": "Malang",
+    "page_number": 969,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "pisang radja 5 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 3 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "warna merah hidjau ½ sdt.",
+            "item_original": "warna merah hidjau",
+            "item_normalized": "pewarna merah hijau",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "biting",
+            "item_original": "biting",
+            "item_normalized": "lidi",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

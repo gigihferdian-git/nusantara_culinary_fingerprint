@@ -1,0 +1,95 @@
+[
+  {
+    "recipe_id": "MR_1074_0",
+    "title_original": "ROTI MANIS",
+    "title_normalized": "Roti Manis",
+    "region": null,
+    "page_number": 1074,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 1½ ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula halus ½ ons",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "terigu 2 ons",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "maizena ½ ons",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kuning telur 1 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "adonan roti ½ ons",
+            "item_original": "adonan roti",
+            "item_normalized": "adonan roti",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "soda 1 sdt.",
+            "item_original": "soda",
+            "item_normalized": "soda",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "CARA MEMBUAT ROTI MANIS (Tjara membuatnja):",
+      "1. Mentega, gula, adonan roti dan kuning telur diaduk sampai rata benar.",
+      "2. Lalu dimasukkan soda dan garam.",
+      "3. Kemudian dimasukkan pula tepung maizena, diaduk sampai rata, sehingga sedang kerasnya.",
+      "4. Diratakan tipis di atas papan, kira-kira setengah cm tebalnya.",
+      "5. Dicetak dengan cetakan marie yang persegi empat dan panjang.",
+      "6. Kemudian disusun berjejer di atas kaleng pembakar yang telah disemir dengan mentega.",
+      "7. Dibakar dengan api yang sedang panasnya.",
+      "8. Apabila kue ini sudah kuning kelihatannya, diangkat dan disemir tipis di atas kue dengan gula hias yang dicampur sedikit dengan kopi ekstrak.",
+      "9. Dibakar dengan api yang sedang panasnya.",
+      "CATATAN TAMBAHAN:",
+      "Perhatikan membuat adonan roti:",
+      "1. Terigu, soda dan air diaduk dengan tangan dalam sebuah panci.",
+      "2. Sesudah itu dibanting kira-kira 1 jam lamanya di atas sebuah papan atau di atas marmer.",
+      "3. Adonan boleh dipakai bila sudah dibiarkan paling kurang dua atau tiga jam lamanya.",
+      "4. Jika adonan kurang kembang atau tidak sempurna mekarnya, maka kue-kue yang dibuat dengan ini akan menjadi keras.",
+      "5. Biasanya adonan ini dapat juga dibeli di pabrik roti.",
+      "Membuat gula hias:",
+      "1. Gula dicampur dengan putih telur dan terus diaduk dengan sendok kayu, dikerjakan ini kira-kira 15 menit, hingga menjadi halus dan kental."
+    ]
+  }
+]

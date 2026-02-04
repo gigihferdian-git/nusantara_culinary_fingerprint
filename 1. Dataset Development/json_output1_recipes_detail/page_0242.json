@@ -1,0 +1,153 @@
+[
+  {
+    "recipe_id": "MR_242_1",
+    "title_original": "GULAI LEMAK KUAH SEMAK",
+    "title_normalized": "Gulai Lemak Kuah Semak",
+    "region": "Atjeh",
+    "page_number": 234,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun melindjo 1 ggm.",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "ggm"
+          },
+          {
+            "original_text": "buah melindjo 1 ggm.",
+            "item_original": "buah melindjo",
+            "item_normalized": "buah melinjo",
+            "quantity": 1.0,
+            "unit": "ggm"
+          },
+          {
+            "original_text": "nangka muda 1 pt.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kelapa 1/2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 1 sdt.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "asam sunti 2 bh.",
+            "item_original": "asam sunti",
+            "item_normalized": "asam sunti",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bahan dibersihkan dan direbus hingga setengah matang.",
+      "Kelapa diparut dan diambil santannja sebanjak 4 gelas.",
+      "Bawang merah diradjang halus, lombok rawit, asam sunti dan garam digiling halus.",
+      "Santan dan bumbu dimasak hingga keluar minjaknja. Dimasukkan bahan jang direbus setengah matang dan masak hingga empuk."
+    ]
+  },
+  {
+    "recipe_id": "MR_242_2",
+    "title_original": "GULAI LEMAK TELUR ITIK",
+    "title_normalized": "Gulai Lemak Telur Bebek",
+    "region": "Bandjarmasin",
+    "page_number": 234,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur itik 3 btr.",
+            "item_original": "telur itik",
+            "item_normalized": "telur bebek",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "lombok hidjau 3 bdj.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kunjit dibakar, dikuliti, diparut; kelapa diparut diperas bersama²."
+    ]
+  }
+]

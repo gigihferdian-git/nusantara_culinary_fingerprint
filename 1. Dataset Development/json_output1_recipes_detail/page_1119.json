@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_1119_0",
+    "title_original": "Continued Recipe (Tahu & Taoge)",
+    "title_normalized": "Tahu Tauge Goreng",
+    "region": null,
+    "page_number": 44,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan tambahan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 3 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Cara membuatnya:",
+      "1. Tahu dipotong kecil-kecil segi empat, digoreng sampai kering.",
+      "2. Bawang merah dan bawang putih, cabai diiris tipis-tipis lalu digoreng sampai kering.",
+      "3. Cabai rawit dipotong-potong, dicampur dengan terasi terus digoreng sebentar dan diberi kecap.",
+      "4. Tauge yang telah dibersihkan dimasukkan ke dalamnya berikut dengan bawang goreng sebagian.",
+      "5. Jika tauge sudah agak lunak, baru tahu dimasukkan.",
+      "6. Sisa bawang goreng ditaburkan di atasnya."
+    ]
+  },
+  {
+    "recipe_id": "MR_1119_1",
+    "title_original": "TAHU GEDJROT (Tjirebon)",
+    "title_normalized": "Tahu Gejrot",
+    "region": "Cirebon",
+    "page_number": 44,
+    "category": "Lauk Pauk / Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu sedang 3 bh.",
+            "item_original": "tahu sedang",
+            "item_normalized": "tahu sedang",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak 3 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit 20 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 20.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang merah 10 btg.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "ketjap ½ btl.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Cara membuatnya:",
+      "Saus: 1/2 botol kecap enak dicampur dengan 3 botol air diberi garam dan gula, direbus sampai mendidih, dimasukkan lagi ke dalam botol.",
+      "Membuat tahu:",
+      "1. Tahu digoreng sampai kering, kulitnya seolah-olah terpisah dari isinya dan elastis (tahunya ini harus tahu yang spesifik, asli dari Cirebon).",
+      "2. Cara memasaknya: tahu diiris-iris jadi 4 kecil-kecil dari tanah. Di dalamnya telah dihaluskan bawang merah dan cabai rawit.",
+      "3. Kecap tadi digejrotkan/dimasukkan ke cobek tanah tadi, baru dimakan."
+    ]
+  }
+]

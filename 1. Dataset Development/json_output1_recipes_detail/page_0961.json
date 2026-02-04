@@ -1,0 +1,93 @@
+[
+  {
+    "recipe_id": "MR_953_1",
+    "title_original": "KUE INANG GRONDOL (Bubur Tjandil)",
+    "title_normalized": "Kue Inang Grondol (Bubur Cendil)",
+    "region": null,
+    "page_number": 953,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan 1/2 gls.",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1/2 gls.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pandan setjukupnja",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dengan air dan garam diaduk hingga sedang kentalnja.",
+      "Sesudah itu, dibundarkan sebesar kelereng.",
+      "Kemudian dimasak gula merah dengan 3 gelas air beserta daun pandan dan garam.",
+      "Air gula merah disaring, kemudian dididihkn kembali.",
+      "Setelah mendidih adonan jang telah di-bundar²kan tadi dimasukkan kedalamnja.",
+      "Dimasak sampai berapung semuanja, jang menandakan makanan sudah masak.",
+      "Kalau hendak dimakan, diberi santan kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_953_2",
+    "title_original": "KUE IRIAN",
+    "title_normalized": "Kue Irian",
+    "region": "Tegal",
+    "page_number": 953,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1/2 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung kandji 2 sdm.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

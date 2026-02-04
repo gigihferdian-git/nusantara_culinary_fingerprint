@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_852_0",
+    "title_original": "BUNGKUL",
+    "title_normalized": "Bungkul",
+    "region": "Madura",
+    "page_number": 844,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gaplek ½ kg.",
+            "item_original": "gaplek",
+            "item_normalized": "gaplek",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang²an 1½ ons",
+            "item_original": "katjang²an",
+            "item_normalized": "kacang-kacangan",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula merah 2½ ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gaplek ditumbuk, diuli dengan air mentah dan garam.",
+      "Dikukus sampai masak.",
+      "Djika memakai katjang²an, direbus dulu ½ masak baru ditjampur tepung jang telah diuli.",
+      "Djika memakai gula, tepung jang sudah diuli disiram gula baru dikukus.",
+      "Dimakan dengan kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_852_1",
+    "title_original": "BURANGASA",
+    "title_normalized": "Burangasa",
+    "region": "Makasar",
+    "page_number": 844,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang hidjau 1 lt.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "tepung beras 1 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula ¼ kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 1 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang hidjau ditjutji, direndam 3 djam, dimasak dengan air sampai terendam hingga masak, dihaluskan, ditjampur dengan gula.",
+      "Dimasak lagi hingga katjang tadi djadi kental dan kering.",
+      "Diangkat dan dibuat bulatan seperti perkedel.",
+      "Tepung beras diberi air, diaduk sampai rata.",
+      "Bulatan katjang hidjau ditjelupkan dalam tjairan tepung lalu digoreng."
+    ]
+  }
+]

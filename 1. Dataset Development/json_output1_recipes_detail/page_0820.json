@@ -1,0 +1,46 @@
+[
+  {
+    "recipe_id": "MR_820_1",
+    "title_original": "BEGINE",
+    "title_normalized": "Begine",
+    "region": "Bali",
+    "page_number": 812,
+    "category": "Kue Kering / Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "tsp"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan direndam selama 1–3 djam.",
+      "Ditiriskan airnja kemudian dikukus sampai 1/2 matang.",
+      "Dikaru dengan larutan air garam, sehingga butir-butir ketan terpisah.",
+      "Dikukus hingga matang, dibentuk dengan djalan membeberkan sambil di-tekan² sedikit dengan udjung djari. Tebal dan bentuk menurut kesenangan, biasanja segitiga, bundar dan segi 4. Alas tempat mentjetak serta tjetakannja terlebih dahulu dilumari air panas dan minjak kelapa. Djika alasnja daun pisang tidak usah diberi air kelapa. Ketan jang akan ditjetak djangan sampai mendjadi dingin.",
+      "Didjemur hingga kering betul, baru disimpan, masakan ini tahan disimpan lama.",
+      "Djika hendak digoreng, panaskan terlebih dahulu minjaknja."
+    ]
+  }
+]

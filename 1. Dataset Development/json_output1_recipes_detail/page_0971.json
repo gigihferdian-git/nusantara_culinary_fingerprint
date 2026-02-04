@@ -1,0 +1,115 @@
+[
+  {
+    "recipe_id": "MR_971_963_1",
+    "title_original": "KUE LAMPU",
+    "title_normalized": "Kue Lampu",
+    "region": "Manado",
+    "page_number": 963,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 3 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pandan 2 ikt.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung, santan, garam ditjampur.",
+      "Daun pandan dibuat bentuk perahu.",
+      "Gula merah diiris halus, dimasukkan dalam daun pandan.",
+      "Adonan dituang dalam tjetakan daun pandan.",
+      "Dikukus."
+    ]
+  },
+  {
+    "recipe_id": "MR_971_963_2",
+    "title_original": "KUE LAPIS",
+    "title_normalized": "Kue Lapis",
+    "region": "Madiun",
+    "page_number": 963,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung katjang hidjau 1/4 kg.",
+            "item_original": "tepung katjang hidjau",
+            "item_normalized": "tepung kacang hijau",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "warna makanan 1 sdt.",
+            "item_original": "warna makanan",
+            "item_normalized": "pewarna makanan",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut dibuat santan.",
+      "Tepung katjang hidjau, gula, panili ditjampur dan ditambah santan untuk dibuat adonan."
+    ]
+  }
+]

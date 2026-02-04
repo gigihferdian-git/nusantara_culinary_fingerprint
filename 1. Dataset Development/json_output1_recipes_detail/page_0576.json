@@ -1,0 +1,187 @@
+[
+  {
+    "recipe_id": "MR_568_0",
+    "title_original": "PINDANG BANDENG",
+    "title_normalized": "Pindang Bandeng",
+    "region": "Banyumas",
+    "page_number": 568,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bandeng 1/2 kg.",
+            "item_original": "bandeng",
+            "item_normalized": "bandeng",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "merang 1/2 ikt.",
+            "item_original": "merang",
+            "item_normalized": "merang",
+            "quantity": 0.5,
+            "unit": "ikat"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 siung",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bandeng tidak usah dihilangi sisiknja, hanja dibuangi isi perutnja, ditjutji bersih.",
+      "Bumbu dihaluskan.",
+      "Pantji dialas merang ± 2 cm tebalnja.",
+      "Bandeng diletakkan tersusun didalamnja.",
+      "Diatasnja diberi bumbu, dituangi air 2 gelas dan ditutup rapat.",
+      "Direbus sampai airnja habis."
+    ]
+  },
+  {
+    "recipe_id": "MR_568_1",
+    "title_original": "PINDANG IKAN TANDJAN",
+    "title_normalized": "Pindang Ikan Tandan",
+    "region": null,
+    "page_number": 568,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan tandjan 10 ekor",
+            "item_original": "ikan tandjan",
+            "item_normalized": "ikan tandan",
+            "quantity": 10.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "air 1/2 ltr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "merang 2 ikat",
+            "item_original": "merang",
+            "item_normalized": "merang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun pisang 2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 3 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 6 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun salam 3 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunir 1 rdj.",
+            "item_original": "kunir",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dibuang sisik dan isi perutnja.",
+      "Bumbu dihaluskan ketjuali salam dan laos, lalu ditjampurkan pada ikan dan dibiarkan sampai bumbunja meresap.",
+      "Periuk dialas dengan merang jang bersih kemudian diatasnja diletakkan daun pisang.",
+      "Ikan disusun rapi daam periuk, ditutup daun pisang; diatas tutup diletakkan batu atau benda jang berat, supaja ikan tidak rusak karena gerak. Sebelum ditutup, dimasukkan air.",
+      "Periuk didjerangkan hingga tulang² empuk dan bumbunja lebih meresap; harus selalu ditambah."
+    ]
+  }
+]

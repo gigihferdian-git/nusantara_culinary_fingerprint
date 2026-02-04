@@ -1,0 +1,99 @@
+[
+  {
+    "recipe_id": "MR_737_1",
+    "title_original": "PIONG DUKU BAI",
+    "title_normalized": "Piong Duku Bai",
+    "region": "Toraja",
+    "page_number": 737,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging babi 1 kg.",
+            "item_original": "daging babi",
+            "item_normalized": "daging babi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "darah babi (kalau ada) 1 tjkr.",
+            "item_original": "darah babi (kalau ada)",
+            "item_normalized": "darah babi (kalau ada)",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bambu 2 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 2.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "daun majana 8 ggm.",
+            "item_original": "daun majana",
+            "item_normalized": "daun mayana",
+            "quantity": 8.0,
+            "unit": "gram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun prei 2 btg.",
+            "item_original": "daun prei",
+            "item_normalized": "daun prei",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun kutjai 5 btg.",
+            "item_original": "daun kutjai",
+            "item_normalized": "daun kucai",
+            "quantity": 5.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "tomat besar 2 bh.",
+            "item_original": "tomat besar",
+            "item_normalized": "tomat besar",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 2 sdm.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan, di-potong², ditjampur dengan darahnja, daun majana dan daun lombok.",
+      "Tomat, bawang merah, daun prei dan daun kutjai di-iris², ditjampur pada daging, diberi garam.",
+      "Dimasukkan dalam bambu lalu dibakar diapi jang sedang."
+    ]
+  }
+]

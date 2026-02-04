@@ -1,0 +1,170 @@
+[
+  {
+    "recipe_id": "MR_1154_0",
+    "title_original": "WEDANG GAUL",
+    "title_normalized": "Wedang Gaul",
+    "region": "Rembang",
+    "page_number": 1154,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "asem 4 mata",
+            "item_original": "asem",
+            "item_normalized": "asam",
+            "quantity": 4.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula pasir ½ sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang tanah direndam dalam air mendidih, dibuang kulit arinja, direbus sampai masak.",
+      "Asem, gula dan garam dimasak dengan air 1 ½ gelas.",
+      "Sesudah mendidih disaring, katjang dimasukkan.",
+      "Panas² dihidangkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_1154_1",
+    "title_original": "WEDANG RONDE",
+    "title_normalized": "Wedang Ronde",
+    "region": null,
+    "page_number": 1154,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan ¼ kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang goreng 1 ons",
+            "item_original": "katjang goreng",
+            "item_normalized": "kacang goreng",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "sereh 2 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "djae ½ ons",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tjengkeh 5 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "air 1 lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "liter"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan bumbu direbus dahulu.",
+      "Sementara itu tepung ketan diuleni air panas sehingga kental supaja dapat digelintiri ketjil² (boleh djuga diberi warna).",
+      "Kemudian gelintiran ini direbus dalam air.",
+      "Djika sudah agak masak, gelintiran ini timbul dipermukaan air.",
+      "Sesudah direbus baru dimasukkan kedalam gula.",
+      "Dihidangkan dalam gelas atau mangkuk, diatasnja ditaburi goreng katjang."
+    ]
+  },
+  {
+    "recipe_id": "MR_1154_2",
+    "title_original": "WEDANG SEREH",
+    "title_normalized": "Wedang Serai",
+    "region": "Rembang",
+    "page_number": 1154,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun sereh 2 btg.",
+            "item_original": "daun sereh",
+            "item_normalized": "daun serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "air masak 4 gls.",
+            "item_original": "air masak",
+            "item_normalized": "air matang",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 8 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 8.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

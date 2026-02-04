@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_948_1",
+    "title_original": "KUE BATANG POHON",
+    "title_normalized": "Kue Batang Pohon",
+    "region": null,
+    "page_number": 940,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 2/3 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.67,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2½ tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tjoklat dan kismis setjukupnja",
+            "item_original": "tjoklat dan kismis",
+            "item_normalized": "cokelat dan kismis",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok sampai mengembang, lalu dimasukkan terigu sedikit² disertai kismis.",
+      "Sesudah itu dibakar dalam tjetakan jang berbentuk batang pohon.",
+      "Setelah masak, diangkat dan dikeluarkan dari tjetakan.",
+      "Apabila telah dingin, disemprot dengan cream jang dibubuhi tjoklat untuk batang pohon dan cream putih untuk bunganja.",
+      "Sebagai pemanis dapat pula diletakkan buah pala ketjil jang berbentuk sarang burung."
+    ]
+  },
+  {
+    "recipe_id": "MR_948_2",
+    "title_original": "KUE BAWANG",
+    "title_normalized": "Kue Bawang",
+    "region": null,
+    "page_number": 940,
+    "category": "Kue/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 4 gls. santan",
+            "item_original": "kelapa (santan)",
+            "item_normalized": "santan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur 3 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "terigu 1½ gls.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "bawang merah 1 prg.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "prongkol"
+          },
+          {
+            "original_text": "lada dan garam sedikit",
+            "item_original": "lada dan garam",
+            "item_normalized": "lada dan garam",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "mentega 3 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak kelapa 1½ btl.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.5,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung kandji dan tepung terigu diaduk dengan santan jang telah didihkan, kemudian diberi mentega, lada dan garam.",
+      "Adonan ini di-banting² dan digiling, lalu dimasukkan bawang merah jang di-iris². Makin banjak bawangnja makin enak rasanja."
+    ]
+  }
+]

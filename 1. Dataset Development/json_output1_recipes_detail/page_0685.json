@@ -1,0 +1,178 @@
+[
+  {
+    "recipe_id": "MR_685_1",
+    "title_original": "PERKEDEL KIMPUL",
+    "title_normalized": "Perkedel Kimpul",
+    "region": null,
+    "page_number": 677,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "kimpul 5 kg.",
+            "item_original": "kimpul",
+            "item_normalized": "kimpul",
+            "quantity": 5.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "ketumbar 1/2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "brambang 5 bidji",
+            "item_original": "brambang",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "gula djawa 1/4 ons",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 25.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kimpul dibikin getuk.",
+      "Ditjamput dengan adonan diatas",
+      "Dikepali berbentuk bulat dan gepeng.",
+      "Digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_685_2",
+    "title_original": "PERKEDEL LOMBOK MERAH TOMAT",
+    "title_normalized": "Perkedel Cabai Merah Tomat",
+    "region": null,
+    "page_number": 677,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "lombok merah/",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "tomat 1/2 kg.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang 1/2 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1/4 lt.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "liter"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus 1 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lombok merah/tomat dihilangkan bidjinja.",
+      "Kentang dikupas, dipotong-potong, digoreng kemudian ditumbuk halus.",
+      "Bawang merah diiris-iris di goreng sampai kuning.",
+      "Bawang putih dihaluskan, lada dan pala ditjampur dengan kentang jang telah ditumbuk halus dan telur dikotjok, dituangkan pada kentang jang halus, diaduk sampai rata, ditambah dengan bawang merah jang sudah digoreng.",
+      "Lombok/tomat jang tinggal kulitnja diisi dengan bahan pergedel diatas kemudian digoreng."
+    ]
+  }
+]

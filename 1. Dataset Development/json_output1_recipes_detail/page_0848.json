@@ -1,0 +1,181 @@
+[
+  {
+    "recipe_id": "MR_848_0",
+    "title_original": "BUBUR SEHAT",
+    "title_normalized": "Bubur Sehat",
+    "region": null,
+    "page_number": 840,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air kaldu 3 tjkr.",
+            "item_original": "air kaldu",
+            "item_normalized": "air kaldu",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat merah 1 bh.",
+            "item_original": "tomat merah",
+            "item_normalized": "tomat merah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "dauh seledri 2 hl.",
+            "item_original": "dauh seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "lada setjukupnja",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "daun prei 2 pohon",
+            "item_original": "daun prei",
+            "item_normalized": "daun prei",
+            "quantity": 2.0,
+            "unit": "pohon"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung djagung dibubur dengan air kaldu sampai masak.",
+      "Dimasukkan tomat, prei, seledri, jang telah ditumis dengan bumbu² (lada, bawang putih dan bawang merah)",
+      "Diaduk sampai rata dan masak sajurnja.",
+      "Dapat dihidangkan begitu sadja.",
+      "Bila disuka, bubur dimasukkan kedalam lojang dan dibakar dalam oven."
+    ]
+  },
+  {
+    "recipe_id": "MR_848_1",
+    "title_original": "BUBUR TEPUNG DJAGUNG",
+    "title_normalized": "Bubur Tepung Jagung",
+    "region": null,
+    "page_number": 840,
+    "category": "Bubur Manis",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 gls.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan tjair 5 gls.",
+            "item_original": "santan tjair",
+            "item_normalized": "santan cair",
+            "quantity": 5.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1 gls.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan tjair, gula dan tepung diaduk sampai rata, dimasak sampai masak.",
+      "Santan kental diberi garam direbus sambil dikatjau.",
+      "Bubur dihidangkan dipiring dan diatasnja disiram dengan santan kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_848_2",
+    "title_original": "BUBUR TJANDIL (Djawa Barat)",
+    "title_normalized": "Bubur Candil",
+    "region": "Jawa Barat",
+    "page_number": 840,
+    "category": "Bubur Manis",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

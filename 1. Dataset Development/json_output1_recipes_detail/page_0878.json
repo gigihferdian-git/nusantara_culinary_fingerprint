@@ -1,0 +1,102 @@
+[
+  {
+    "recipe_id": "MR_870_1",
+    "title_original": "DODOL TJEREME",
+    "title_normalized": "Dodol Cereme",
+    "region": null,
+    "page_number": 870,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "buah tjereme 1/2 kg.",
+            "item_original": "buah tjereme",
+            "item_normalized": "buah cereme",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buah cereme direbus sampai masak, diperas airnya dan bijinya dibuang.",
+      "Kelapa 1/2 butir diparut, disangrai sampai masak.",
+      "Kelapa yang 1/2 butir lagi diparut, dibuat santan kental.",
+      "Gula, santan dan cereme, sedikit garam direbus sampai 1/2 sendok teh, dimasukkan kelapa sangrai, dikacau sampai campur benar.",
+      "Diangkat dan didinginkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_870_2",
+    "title_original": "DODORO DALE",
+    "title_normalized": "Dodoro Dale",
+    "region": "Toraja",
+    "page_number": 870,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 10 tongkol",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "tongkol"
+          },
+          {
+            "original_text": "kelapa 1/4 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air 6 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 6.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Jagung dibuangi tongkolnya, ditumbuk halus, diberi air 2 gelas, diperas. Ampasnya ditumbuk 2 kali, tiap memeras diberi air 2 gelas, sampai diperoleh 6 gelas air jagung.",
+      "Kelapa diparut, dibuat santan 2 gelas, dicampur air jagung diberi gula.",
+      "Dijerangkan, diaduk sampai kental, ditaruh dibaki, didinginkan, dipotong-potong."
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "recipe_id": "MR_841_1",
+    "title_original": "BUBUR DJAGUNG MUDA",
+    "title_normalized": "Bubur Jagung Muda",
+    "region": null,
+    "page_number": 833,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 5 tongkol",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 5.0,
+            "unit": "tongkol"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kaju manis 1 rdj.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diiris tipis².",
+      "Kelapa dikupas, diparut, dibuat santan kira kira 1½–2 gelas.",
+      "Santan dimasak bersama kaju manis, gula dan garam.",
+      "Setelah tjampuran santan mendidih, dimasukkan djagung jang telah diiris, diaduk sampai merata."
+    ]
+  },
+  {
+    "recipe_id": "MR_841_2",
+    "title_original": "BUBUR GAMPANG ENAK",
+    "title_normalized": "Bubur Gampang Enak",
+    "region": "Solo",
+    "page_number": 833,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung singkong 2 gls.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "singkong ½ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ⅓ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air 6 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 6.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 2 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, di-potong² dadu ketjil, direbus sampai masak.",
+      "Gula dan daun pandan dimasukkan.",
+      "Tepung singkong ditjairkan dengan air sedikit.",
+      "Dimasukkan kedalam singkong rebus, apabila gula telah hantjur diaduk sampai masak.",
+      "Kelapa dibuat santan kental 2 gls. Diberi garam, dididihkan, djangan sampai petjah.",
+      "Dihidangkan dengan santan, disiramkan diatas bubur."
+    ]
+  }
+]

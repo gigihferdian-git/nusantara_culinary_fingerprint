@@ -1,0 +1,112 @@
+[
+  {
+    "recipe_id": "MR_1131_00",
+    "title_original": "TUK BENTUL",
+    "title_normalized": "Tuk Bentul",
+    "region": null,
+    "page_number": 1131,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung gaplek 1 kg.",
+            "item_original": "tepung gaplek",
+            "item_normalized": "tepung gaplek",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang tolo ¼ kg.",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung gaplek dikorek seperti membuat tiwul lalu diberi katjang tolo jang sudah dibersihkan.",
+      "Kemudian dikukus sampai masak.",
+      "Tiwul jang sudah masak itu di-letrek² diatas tampah dan sesudah dingin di-iris²."
+    ]
+  },
+  {
+    "recipe_id": "MR_1131_01",
+    "title_original": "TULBAND",
+    "title_normalized": "Tulband",
+    "region": null,
+    "page_number": 1131,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 7 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 7.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 7 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 7.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 1½ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2½ tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kismis ½ tjkr.",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu manis 4 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili ½ sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur dan gula dikotjok sampai mengembang, lalu dimasukkan mentega dan dikotjok sampai rata."
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_951_0",
+    "title_original": "KUE BUNGA MAI",
+    "title_normalized": "Kue Bunga Mai",
+    "region": "Jawa Barat",
+    "page_number": 943,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 1 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kuning telur ajam ½ btr.",
+            "item_original": "kuning telur ajam",
+            "item_normalized": "kuning telur ayam",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kapur sirih sedikit",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung disangrai hingga kuning telur dikotjok.",
+      "Air didihkan bersama garam dan kapur sirih. Tepung dimasukkan sedikit demi sedikit sambil diaduk, terachir dimasukkan telur dan diaduk hingga djadi adonan kental jang rata.",
+      "Adonan ditjetak dengan tjetakan jang dibikin dari batok kelapa hingga berupa kembang. Digoreng dalam minjak panas hingga kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_951_1",
+    "title_original": "KUE CHASIDAH",
+    "title_normalized": "Kue Chasidah",
+    "region": null,
+    "page_number": 943,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 2 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir 1½ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega ½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

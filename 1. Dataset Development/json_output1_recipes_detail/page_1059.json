@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_1051_0",
+    "title_original": "PLENGGONG",
+    "title_normalized": "Plenggong",
+    "region": "Jawa",
+    "page_number": 1051,
+    "category": "Kue / Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng ½ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "garam 1 ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, diparut kasar, taburi garam halus dikukus sampai masak.",
+      "Kelapa diparut, ditjampur dengan singkong jang masak, ditumbuk sampai halus.",
+      "Diratakan setebal 1 ½ cm, dipotong segi tiga, digoreng sampai kuning dalam minjak panas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1051_1",
+    "title_original": "PLENTUNG",
+    "title_normalized": "Plentung",
+    "region": "Palembang",
+    "page_number": 1051,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "kangkung 6 ikt.",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 6.0,
+            "unit": "ikat"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit 10 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djeruk limo 2 bh.",
+            "item_original": "djeruk limo",
+            "item_normalized": "jeruk limau",
+            "quantity": 2.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kangkung direbus, waktu merebus diberi garam supaja hidjau kelihatannja waktu masak, kalau kangkung telah masak diangkat dan ditjelupkan kedalam air dingin.",
+      "Kangkung lalu disobek menurut sobekan daunnja.",
+      "Bumbu² dihaluskan, ditambahkan dengan tjuka."
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "recipe_id": "MR_835_1",
+    "title_original": "BONGKO",
+    "title_normalized": "Bongko",
+    "region": "Malang",
+    "page_number": 827,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tolo ½ kg.",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa agak muda ½ btr.",
+            "item_original": "kelapa agak muda",
+            "item_normalized": "kelapa agak muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang 2 tk.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "tk"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar 2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 5 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang direndam, direbus sampai lunak, lalu dipetjah-petjah.",
+      "Kelapa diparut.",
+      "Bumbu² dihaluskan, ketjuali salam.",
+      "Katjang, kelapa dan bumbu² ketjuali salam, ditjampur djadi satu.",
+      "Kemudian dibungkus daun pisang, dialas daun salam.",
+      "Sesudah dibungkus, dikukus sampai masak."
+    ],
+    "notes": [
+      "Keterangan: Waktu menghidangkan, biting dilepaskan."
+    ]
+  },
+  {
+    "recipe_id": "MR_835_2",
+    "title_original": "BONGKO GUDE",
+    "title_normalized": "Bongko Gude",
+    "region": "Banjumas",
+    "page_number": 827,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bidji gude muda ½ kg.",
+            "item_original": "bidji gude muda",
+            "item_normalized": "biji gude muda",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa setengah tua 1 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang 5 lbr.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "ketumbar 2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 2 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 20 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 20.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

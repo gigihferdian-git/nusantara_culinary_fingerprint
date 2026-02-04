@@ -1,0 +1,155 @@
+[
+  {
+    "recipe_id": "MR_971_1",
+    "title_original": "[Resep Lanjutan - Kue Bidji Mote]",
+    "title_normalized": "Kue Bidji Mote",
+    "region": null,
+    "page_number": 971,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan (lanjutan)",
+        "ingredients": [
+          {
+            "original_text": "kelapa sudah tua 1 btr.",
+            "item_original": "kelapa sudah tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1/4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bidji mote direndam air hangat ± 1/4 djam, lalu ditiriskan.",
+      "Kelapa diparut, ditjam-pur dengan gula pasir dan garam; ditjam-pur dengan bidji mote.",
+      "Dibung-kusi daun pisang tiap bungkus diisi dengan adonan sebanjak satu sendok makan; dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_971_2",
+    "title_original": "KUE NANAS",
+    "title_normalized": "Kue Nanas",
+    "region": null,
+    "page_number": 971,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 5 bh.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "mentega 2½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "terigu 10 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 10.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu manis 1 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu manis",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "nenas diparut 1 tjkr.",
+            "item_original": "nenas diparut",
+            "item_normalized": "nanas diparut",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili 4 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 4.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Parutan nenas dimasak dengan gula serta panili sampai kuning.",
+      "Telur, mentega dan gula dikotjok sampai mengembang.",
+      "Lalu dimasukkan terigu dan susu manis, diaduk sampai rata.",
+      "Adonan ini diambil sedikit², diisikan nenas jang sudah dimasak kedalamnja lalu diberi bentuk seperti buah²an.",
+      "Sebagai tangkainja dieratkan tjengkeh jang ditjelupkan dalam putihnja telur, seluruhnja disapu dengan kuningnja telur.",
+      "Dibakar dalam oven dengan api atas dan bawah"
+    ]
+  },
+  {
+    "recipe_id": "MR_971_3",
+    "title_original": "KUE OJONG",
+    "title_normalized": "Kue Ocong",
+    "region": "Purwokerto",
+    "page_number": 971,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ojong 10 bdj.",
+            "item_original": "ojong",
+            "item_normalized": "ocong",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

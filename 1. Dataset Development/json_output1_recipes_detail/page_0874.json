@@ -1,0 +1,97 @@
+[
+  {
+    "recipe_id": "MR_874_1",
+    "title_original": "DODOL DURIAN (Palembang)",
+    "title_normalized": "Dodol Durian",
+    "region": "Palembang",
+    "page_number": 866,
+    "category": "Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "durian 1 kg.",
+            "item_original": "durian",
+            "item_normalized": "durian",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Durian jang sudah masak dikupas, diambil dagingnja.",
+      "Daging buah dimasukkan kedalam kuwali kemudian didjerangkan diatas api sambil di-aduk² supaja djangan berkerak.",
+      "Diaduk terus sampai warnanja ke-kuning²an.",
+      "Dimasukkan gula, terus dikatjau sampai warnanja tjoklat ke-hitam²an dan kering.",
+      "Diangkat, didinginkan sampai dingin."
+    ]
+  },
+  {
+    "recipe_id": "MR_874_2",
+    "title_original": "DODOL KATJANG IDJO",
+    "title_normalized": "Dodol Kacang Hijau",
+    "region": null,
+    "page_number": 866,
+    "category": "Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang idjo ½ kg.",
+            "item_original": "katjang idjo",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pandan 1 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang idjo direbus sampai masak, dihaluskan.",
+      "Kelapa diparut dibuat santan kental.",
+      "Gula pasir ditjampur dengan santan diberi daun pandan dan garam, direbus sampai gula larut.",
+      "Katjang idjo jang telah lembut dimasukkan dalam larutan gula, direbus sampai kental dan masak.",
+      "Setelah masak diangkat, dibungkusi klobot djagung berbentuk bulat pandjang ± 5 cm, isinja 1–2 sendok teh."
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_1040_0",
+    "title_original": "PAH TAPAH",
+    "title_normalized": "Pah Tapah",
+    "region": "Madura",
+    "page_number": 1040,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "katjang hidjau ¼ kg.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut, ditambah garam, dikukus sampai matang.",
+      "Kelapa diparut.",
+      "Katjang hidjau disangan.",
+      "Singkong jang telah dikukus ditaruh diatas tampah jang dialasi daun pisang, diratakan.",
+      "Diatasnja ditaburi dengan katjang hidjau.",
+      "Dimakan dengan kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_1040_1",
+    "title_original": "PAK TEPAK",
+    "title_normalized": "Pak Tepak",
+    "region": "Madura",
+    "page_number": 1040,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong ½ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/3 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "merang 1 ikt.",
+            "item_original": "merang",
+            "item_normalized": "merang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, diparut, diuli, diperas, diambil patinja, diberi garam, dikukus.",
+      "Adonan jang telah dikukus dibentuk pada tampah jang telah dialas dengan daun pisang.",
+      "Pak-tepak ada 2 matjam jang satu putih jang lain hitam.",
+      "Menghidangkannja diiris tipis², dimakan dengan kelapa parut."
+    ]
+  }
+]

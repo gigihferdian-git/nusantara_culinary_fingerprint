@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_1068_1",
+    "title_original": "PUTU MAJANG",
+    "title_normalized": "Putu Mayang",
+    "region": "Banjarmasin",
+    "page_number": 1068,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "air hangat 1½ gls.",
+            "item_original": "air hangat",
+            "item_normalized": "air hangat",
+            "quantity": 1.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dikukus, ditjampur dengan air hangat hingga mendjadi adonan jang kental.",
+      "Adonan dimasukkan ketjetakan, didorong keatas hingga terdapat bentuk seperti putu majang.",
+      "Dikukus hingga masak.",
+      "Kelapa diparut, diambil santan 4 gelas.",
+      "Santan, gula merah,garam direbus sampai mendidih.",
+      "Putu dihidangkan dalam piring tjekung, disiram dengan santan bergula."
+    ]
+  },
+  {
+    "recipe_id": "MR_1068_2",
+    "title_original": "RANGIN",
+    "title_normalized": "Rangin",
+    "region": "Tegal",
+    "page_number": 1068,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan ½ kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "air kapur sirih 1 sdm.",
+            "item_original": "air kapur sirih",
+            "item_normalized": "air kapur sirih",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air ½ gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, tepung ditjampur dengan kelapa, diberi air kapur, garam dan air sedikit diaduk sampai rata.",
+      "Gula merah di-iris².",
+      "Adonan dimasukkan kedalam tjetakan rangin sebagian.",
+      "Diatsnja diberi gula merah, ditutup dengan adonan lagi, dibakar sampai masak dalam tjetakan rangin."
+    ]
+  }
+]

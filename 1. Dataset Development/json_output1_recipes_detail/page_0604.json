@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_604_1",
+    "title_original": "TERANTJAM",
+    "title_normalized": "Terancam",
+    "region": "Banyumas",
+    "page_number": 596,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang pandang 1 ikt.",
+            "item_original": "katjang pandang",
+            "item_normalized": "kacang panjang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "ketimun 1 bh.",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tempe 1 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "taoge pendek 1/2 ons",
+            "item_original": "taoge pendek",
+            "item_normalized": "tauge pendek",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "petai tjina 1/4 ons",
+            "item_original": "petai tjina",
+            "item_normalized": "petai cina",
+            "quantity": 0.25,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa muda 1/4 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kulit djeruk purut 1 iris",
+            "item_original": "kulit djeruk purut",
+            "item_normalized": "kulit jeruk purut",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "kunir 1/2 rdj.",
+            "item_original": "kunir",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "asam 1 pt.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tempe dibakar, dipotong ketjil².",
+      "Katjang pandjang diiris halus.",
+      "Ketimun dikupas, ditjutji, diradjang halus.",
+      "Bumbu dihaluskan, kelapa diparut, ditjampur dengan bumbu.",
+      "Semua bahan diaduk mendjadi satu dengan bumbu sampai rata."
+    ]
+  }
+]

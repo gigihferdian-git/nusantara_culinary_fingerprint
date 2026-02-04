@@ -1,0 +1,141 @@
+[
+  {
+    "recipe_id": "MR_912_1",
+    "title_original": "JANHAGEL",
+    "title_normalized": "Janhagel",
+    "region": null,
+    "page_number": 904,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 1 ons",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "tambahan",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 25 g.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 25.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "putih telur 1 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "mentega 75 g.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 75.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "garam halus ½ sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula dikatjau sampai berwarna putih.",
+      "Putih telur dikatjau sampai membuih.",
+      "Tepung terigu diajak diatas adonan mentega dan gula tadi, putih telur jang telah membuih dimasukkan, diaduk perlahan².",
+      "Adonan diletakkan dalam lojang jang disemir dengan mentega, diratakan tebalnja kira² ½ cm.",
+      "Diatasnja dilumari dengan mentega dan putih telur.",
+      "Katjang tanah dikupas dan ditjintjang, ditjampur dengan gula pasir, ditaburkan diatas adonan.",
+      "Dibakar dalam oven selama 20 menit kemudian diangkat dan lekas di-iris dengan ukuran kira² 4×8 cm."
+    ]
+  },
+  {
+    "recipe_id": "MR_912_2",
+    "title_original": "KAASTAART",
+    "title_normalized": "Kaastaart",
+    "region": null,
+    "page_number": 904,
+    "category": "Kue / Cake",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 15 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 15.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 5 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu kental 4 sdm.",
+            "item_original": "susu kental",
+            "item_normalized": "susu kental",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung terigu setjukupnja",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.0,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kedju diparut atau ditjintjang 2 sdm.",
+            "item_original": "kedju diparut atau ditjintjang",
+            "item_normalized": "keju parut atau dicincang",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

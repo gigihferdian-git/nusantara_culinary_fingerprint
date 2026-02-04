@@ -1,0 +1,50 @@
+[
+  {
+    "recipe_id": "MR_635_1",
+    "title_original": "WARVA AU",
+    "title_normalized": "Warva Au",
+    "region": "Irian Barat",
+    "page_number": 635,
+    "category": "Kudapan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar djang telah dikupas 1 kg.",
+            "item_original": "ubi djalar djang telah dikupas",
+            "item_normalized": "ubi jalar yang telah dikupas",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa parut jang tua 1/2 btr.",
+            "item_original": "kelapa parut jang tua",
+            "item_normalized": "kelapa parut yang tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi mentah dikerok dengan kepala bia.",
+      "Kerokan ubi ini ditjampur dengan parutan kelapa dan diberi garam halus sedikit.",
+      "Tjampuran tersebut dibungkus dengan daun pisang atau daun keladi dan kemudian dikukus sampai masak."
+    ]
+  }
+]

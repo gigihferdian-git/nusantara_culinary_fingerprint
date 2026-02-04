@@ -1,0 +1,121 @@
+[
+  {
+    "recipe_id": "MR_891_0",
+    "title_original": "GEPLAK MRAMBUS",
+    "title_normalized": "Geplak Mrambus",
+    "region": "Jogjakarta",
+    "page_number": 891,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa ½ tua 5 btr.",
+            "item_original": "kelapa ½ tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung beras setjukupnja",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "essence framboos 10 cc.",
+            "item_original": "essence framboos",
+            "item_normalized": "esens frambos",
+            "quantity": 10.0,
+            "unit": "milliliter"
+          },
+          {
+            "original_text": "kelapa muda 5 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 4.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa ½ tua dan kelapa muda diparut lalu ditjamputr.",
+      "Dimasak dengan gula pasir sampai masak dan asat.",
+      "Setelah akan diturunkan diberi essence dan diaduk sampai tjamputr.",
+      "Kemudian ditjetak dan dibentuk (dikepali).",
+      "Tepung beras digoreng sangan dan geplak ditaruh diatas tepung."
+    ]
+  },
+  {
+    "recipe_id": "MR_891_1",
+    "title_original": "GEPLAK NANGKA",
+    "title_normalized": "Geplak Nangka",
+    "region": "Jogjakarta",
+    "page_number": 891,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa ½ tua 5 btr.",
+            "item_original": "kelapa ½ tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "nangka 10 bdj.",
+            "item_original": "nangka",
+            "item_normalized": "nangka",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "gula kelapa ½ kg.",
+            "item_original": "gula kelapa",
+            "item_normalized": "gula kelapa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa muda 5 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 4.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras setjukupnja",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Metode pembuatan sama seperti Geplak Mrambus, dengan menggunakan nangka dan gula kelapa sesuai daftar bahan."
+    ]
+  }
+]

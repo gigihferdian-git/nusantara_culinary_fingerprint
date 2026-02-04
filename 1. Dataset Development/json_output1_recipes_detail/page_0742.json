@@ -1,0 +1,262 @@
+[
+  {
+    "recipe_id": "MR_734_0",
+    "title_original": "[Continuation]",
+    "title_normalized": "Ikan Belanak Bumbu Santan",
+    "region": null,
+    "page_number": 734,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok tjamput 1 ons",
+            "item_original": "lombok tjamput",
+            "item_normalized": "cabai campur",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "ketumbar 1/2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 1/2 ons",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 3 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula pasir 1 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "ikan belanak",
+            "item_original": "ikan belanak",
+            "item_normalized": "ikan belanak",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "Kelapa diparut diambil santannja 1 liter.",
+            "item_original": "santan kelapa",
+            "item_normalized": "santan kelapa",
+            "quantity": 1.0,
+            "unit": "liter"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dipanggang (diatas bara).",
+      "Kelapa diparut diambil santannja 1 liter.",
+      "Bawang merah diiris-iris halus, ditumis, diangkat.",
+      "Semua bumbu² dihaluskan, ketjuali salam, laos, sereh dan ditumis.",
+      "Ikan belanak dan bawang merah dimasukkan.",
+      "Terachir santan dimasukkan, ditutup rapat, dibiarkan, sampai agak kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_734_1",
+    "title_original": "PANGGANG KALAK",
+    "title_normalized": "Panggang Kalak",
+    "region": "Bandjarmasin",
+    "page_number": 734,
+    "category": "Ikan Panggang",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "ikan gabus 1 kg.",
+            "item_original": "ikan gabus",
+            "item_normalized": "ikan gabus",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 6 bdj",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lada putih 2 sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketumbar 2 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 btg",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "asam 1 sdm.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1/2 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan gabus diiris dari ekor sampai kekepala; isi perut dikeluarkan.",
+      "Bumbu² dihaluskan, ditumis, dimasukkan kedalam perut, diikat dengan tali dari ekor sampai kekepala.",
+      "Ikan dibengokokkan sehingga kepala dan ekor bertemu,diikat dengan tali lalu dipanggang."
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "recipe_id": "MR_859_1",
+    "title_original": "[Kue Daun Sudji - Continuation]",
+    "title_normalized": "Kue Daun Suji",
+    "region": null,
+    "page_number": 859,
+    "category": "Kue / Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun sudji 2 ikat",
+            "item_original": "daun sudji",
+            "item_normalized": "daun suji",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "air kapur setjukupnja",
+            "item_original": "air kapur",
+            "item_normalized": "air kapur",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pisang batu 2 pelepah",
+            "item_original": "daun pisang batu",
+            "item_normalized": "daun pisang batu",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras dengan air kapur diuleni air daun sudji.",
+      "Disiram dengan air mendidih sambil di-aduk² sampai kental.",
+      "Sesudah itu diberi tjairan sagu.",
+      "Daun jang telah dibikin takir, diberi irisan gula merah. Adonan dimasak sesendok demi sesendok dan diratakan atasnja terus dikukus sampai matang.",
+      "Kalau sudah matang, atasnja diberi tjairan sagu, tepung beras santan kental dan garam kemudian dimasak lagi."
+    ]
+  },
+  {
+    "recipe_id": "MR_859_2",
+    "title_original": "DJENANG",
+    "title_normalized": "Jenang",
+    "region": "Madiun",
+    "page_number": 859,
+    "category": "Jenang / Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 5 tjkr.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 5.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung ditjairkan dengan air sampai entjer.",
+      "Gula dan santan dimasak sampai 1/2 kental.",
+      "Tepung dimasukkan terus di-aduk².",
+      "Djika sudah tidak melekat pada dinding pantji berarti sudah masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_859_3",
+    "title_original": "DJENANG DJAGUNG",
+    "title_normalized": "Jenang Jagung",
+    "region": "Malang",
+    "page_number": 859,
+    "category": "Jenang / Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "djagung muda 10 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diparut, diberi air sedikit, di-remas², disaring.",
+      "Gula merah diiris, ditjampur garam, santan kental dan pati djagung."
+    ]
+  }
+]

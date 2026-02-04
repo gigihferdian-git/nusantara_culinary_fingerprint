@@ -1,0 +1,112 @@
+[
+  {
+    "recipe_id": "MR_1005_1",
+    "title_original": "KUE TUMBEG",
+    "title_normalized": "Kue Tumbeg",
+    "region": "Bali",
+    "page_number": 997,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1/2 kg.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 btr.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ditepung dan diayak.",
+      "Kelapa dikupas dan diparut.",
+      "Gula merah diiris.",
+      "Tepung dicampur dengan kelapa parut dan garam. Kalau sudah tercampur baik diberi air panas yang sedang mendidih lalu diaduk sampai rata. Adonan yang tidak begitu kental dapat dibungkus.",
+      "Dibungkus daun kelapa muda dengan bentuk panjang seperti telunjuk, di tengahnya diberi gula merah lalu diikat yang baik.",
+      "Selesai dibungkus, ditaruh dalam dandang, diberi air secukupnya, lalu direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1005_2",
+    "title_original": "KUE ULAR",
+    "title_normalized": "Kue Ular",
+    "region": null,
+    "page_number": 997,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1/2 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "recipe_id": "MR_406_1",
+    "title_original": "BISTIK KETIMUN",
+    "title_normalized": "Bistik Ketimun",
+    "region": null,
+    "page_number": 406,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketimun muda 3 bh.",
+            "item_original": "ketimun muda",
+            "item_normalized": "ketimun muda",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus ½ sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala ¼ sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketimun ditjutji, dipotong udjung²nja, di-tusuk² dengan garpu perlahan² ; ditjampur dengan garam (djangan sampai keluar isinja atau patah).",
+      "Dikupas perlahan² sampai airnja keluar, ditiriskan, digoreng sampai kuning.",
+      "Bawang merah di-iris², digoreng.",
+      "Bumbu² dihaluskan, ditumis dengan minjak goreng, ditambah air, ketjap, tjuka, direbus sampai mendidih.",
+      "Ketimun dimasukkan sebentar, diangkat, dimasukkan basi londjong diatasnja ditaburi bawang merah goreng. Dihidangkan dan dimakan panas-panas."
+    ]
+  }
+]

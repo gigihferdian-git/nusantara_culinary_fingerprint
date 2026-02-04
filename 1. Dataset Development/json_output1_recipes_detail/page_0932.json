@@ -1,0 +1,158 @@
+[
+  {
+    "recipe_id": "MR_924_0",
+    "title_original": "Ubi Olahan (Lanjutan)",
+    "title_normalized": "Ubi Goreng Adonan",
+    "region": null,
+    "page_number": 924,
+    "category": "Kue/Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "minjak goreng ½ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "kapur sirih sedikit",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi dikupas, diparut lalu diperas, kemudian ditjamper dengan atji.",
+      "Sedikit air kapur sirih ditjampurkan bersama gula setjukupnja.",
+      "Lalu dibuat butiran² sebesar telur penju.",
+      "Digoreng didalam minjak jang panas."
+    ]
+  },
+  {
+    "recipe_id": "MR_924_1",
+    "title_original": "KLETJI",
+    "title_normalized": "Kletji",
+    "region": null,
+    "page_number": 924,
+    "category": "Kue/Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut.",
+      "Kelapa diparut.",
+      "Gula dan garam ditjamper dengan singkong parut.",
+      "Dibentuk dan dikukus.",
+      "Dimakan dengan kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_924_2",
+    "title_original": "KLURING",
+    "title_normalized": "Kluring",
+    "region": null,
+    "page_number": 924,
+    "category": "Kue/Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong ½ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air 3 sdm.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut.",
+      "Bawang putih, garam dihaluskan, lalu ditjamper dengan singkong tadi, diaduk rata.",
+      "Adonan tersebut diratakan pada tutup pantji (dibuat dadar),"
+    ]
+  }
+]

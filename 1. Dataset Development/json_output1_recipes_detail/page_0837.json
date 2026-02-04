@@ -1,0 +1,145 @@
+[
+  {
+    "recipe_id": "MR_829_0",
+    "title_original": "BONGKO PISANG",
+    "title_normalized": "Bongko Pisang",
+    "region": "Rembang",
+    "page_number": 829,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/2 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "pisang 10 bh.",
+            "item_original": "pisang",
+            "item_normalized": "pisang",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1 1/2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 4 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan, gula pasir, garam, daun pandan direbus sampai mendidih.",
+      "Tepung dimasukkan kedalam santan mendidih, diaduk hingga rata.",
+      "Pisang diiris tipis² bulat, ditjampurkan kedalam adonan.",
+      "Adonan dibungkusi daun pisang ± 4 sendok makan sebungkus.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_829_1",
+    "title_original": "BONGKO TJUNDUK",
+    "title_normalized": "Bongko Cunduk",
+    "region": null,
+    "page_number": 829,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 4 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

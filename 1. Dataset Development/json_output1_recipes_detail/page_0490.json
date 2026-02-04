@@ -1,0 +1,244 @@
+[
+  {
+    "recipe_id": "MR_490_1",
+    "title_original": "LAWAR PUTIH",
+    "title_normalized": "Lawar Putih",
+    "region": "Bali",
+    "page_number": 482,
+    "category": "Lawar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging babi jang berlemak ¼ kg.",
+            "item_original": "daging babi jang berlemak",
+            "item_normalized": "daging babi yang berlemak",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa setengah tua ½ btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak kelapa ⅓ btl.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 0.33,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 4 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lada hitam 5 btr.",
+            "item_original": "lada hitam",
+            "item_normalized": "lada hitam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "terasi ½ sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djeruk sambal 1 btr.",
+            "item_original": "djeruk sambal",
+            "item_normalized": "jeruk sambal",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging babi dibersihkan, dipotong besar², lalu digoreng sampai setengah kering.",
+      "Semua bumbu dibersihkan.",
+      "Sebagian dari bawang merah, bawang putih, kentjur, terasi, garam, lombok, lada, dihaluskan; lalu digoreng sampai masak. Sebagian lagi dari bawang merah dan bawang putih di-iris² lalu digoreng sampai kuning.",
+      "Kelapa dibakar lalu diparut.",
+      "Daging babi jang sudah digoreng tadi ditjintjang.",
+      "Semua bahan dan bumbu ditjampur djadi satu; terachir diberi djeruk sambal."
+    ]
+  },
+  {
+    "recipe_id": "MR_490_2",
+    "title_original": "LAWAR SAJURAN",
+    "title_normalized": "Lawar Sayuran",
+    "region": "Bali",
+    "page_number": 482,
+    "category": "Lawar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "keluwih muda 1 bh.",
+            "item_original": "keluwih muda",
+            "item_normalized": "keluwih muda",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "nangka muda 1 pt.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daging 1 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kulit daging ½ gls.",
+            "item_original": "kulit daging",
+            "item_normalized": "kulit daging",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "darah ajam 1 ons",
+            "item_original": "darah ajam",
+            "item_normalized": "darah ayam",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng ¼ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 ons",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "bawang putih 10 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 10.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos ¼ pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.25,
+            "unit": "potong"
+          },
+          {
+            "original_text": "djae ½ rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit ½ rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djeruk sambal 1 bh.",
+            "item_original": "djeruk sambal",
+            "item_normalized": "jeruk sambal",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

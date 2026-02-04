@@ -1,0 +1,164 @@
+[
+  {
+    "recipe_id": "MR_385_0",
+    "title_original": "ATJAR BAWANG",
+    "title_normalized": "Acar Bawang",
+    "region": null,
+    "page_number": 377,
+    "category": "Acar",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 1 kg.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "kg"
+          },
+          {
+            "original_text": "air 2 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "tjuka larutan 1/4 gls",
+            "item_original": "tjuka larutan",
+            "item_normalized": "cuka larutan",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1/2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bawang putih dikupas, dimasukkan kedalam stoples.",
+      "Dimasukkan air tjuka, garam, gula pasir, ditutup rapat.",
+      "Dibiarkan 4 hari, baru dimakan."
+    ]
+  },
+  {
+    "recipe_id": "MR_385_1",
+    "title_original": "ATJAR BAWANG MERAH",
+    "title_normalized": "Acar Bawang Merah",
+    "region": null,
+    "page_number": 377,
+    "category": "Acar",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1/4 kg.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 0.25,
+            "unit": "kg"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 sdm.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tjuka 5 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjuka dan garam direbus dalam air 2 gelas sampai mendidih.",
+      "Dibiarkan sampai dingin.",
+      "Bawang merah dikuliti dan ditjutji.",
+      "Dimasukkan dalam air tjuka sampai terendam betul."
+    ]
+  },
+  {
+    "recipe_id": "MR_385_2",
+    "title_original": "ATJAR BUNTJIS",
+    "title_normalized": "Acar Buncis",
+    "region": "Wonosobo",
+    "page_number": 377,
+    "category": "Acar",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "buntjis 1/4 kg.",
+            "item_original": "buntjis",
+            "item_normalized": "buncis",
+            "quantity": 0.25,
+            "unit": "kg"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 pt.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

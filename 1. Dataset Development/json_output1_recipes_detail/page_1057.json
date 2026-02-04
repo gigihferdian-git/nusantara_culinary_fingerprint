@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_1057_1049_1",
+    "title_original": "PIONG BARA PULU",
+    "title_normalized": "Piong Bara Pulu",
+    "region": null,
+    "page_number": 1049,
+    "category": "Dessert/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 2 lt.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 2.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "bambu 3 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 3.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "daun pisang tjukup untuk pengalas bambu",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa 1 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras direndam selama ± 3 djam.",
+      "Kelapa diparut, dibuat santan 3 liter, diberi garam.",
+      "Bambu dialas daun pisang, diisi beras sampai ± 5 cm dari permukaan bambu jang masih kosong, diberi air santan sampai penuh."
+    ]
+  },
+  {
+    "recipe_id": "MR_1057_1049_2",
+    "title_original": "PISANG GORENG",
+    "title_normalized": "Pisang Goreng",
+    "region": "Purwokerto",
+    "page_number": 1049,
+    "category": "Snack/Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pisang radja 15 bdj.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 15.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "tepung terigu 1 gls.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur ajam, gula dikotjok sampai gula hantjur.",
+      "Tepung ditjampurkan, diberi air sedikit demi sedikit, diaduk hingga rata.",
+      "Pisang dibelah dua, lalu dipotong dua lagi.",
+      "Pisang dimasukkan kedalam adonan tepung.",
+      "Kemudian digoreng dalam minjak jang telah dipanaskan sampai merah ke-kuning²an."
+    ]
+  }
+]

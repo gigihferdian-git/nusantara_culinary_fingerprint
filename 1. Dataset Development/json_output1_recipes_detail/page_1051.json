@@ -1,0 +1,62 @@
+[
+  {
+    "recipe_id": "MR_1043_1",
+    "title_original": "(Continuation of Recipe)",
+    "title_normalized": "Kue Tegel Cokelat Berlapis",
+    "region": null,
+    "page_number": 1043,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "tambahan",
+        "original_header": "Bahan Lanjutan",
+        "ingredients": [
+          {
+            "original_text": "atau terigu 3 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu entjer 1/2 gls.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "bubuk tjoklat 1 sdm.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk cokelat",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1/2 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula diputar hingga kembang, sudah itu masukkan telur satu persatu kedalamnja, berikut putihnja, diaduk terus.",
+      "Susu, panili dimasukkan dan terachir tepungnja diaduk perlahan² hingga bertjampur betul.",
+      "Adonan dibagi 2, separuh diberi tjoklat dan separuh lagi dibiarkan begitu sadja.",
+      "Ambillah sebuah tjetakan jang terbagi dari 3 lapis dan tiap² lapis ini dibagi pula oleh 2 bundaran jang boleh di-angkat².",
+      "Lalu diambil 1 lapis dari tjetakan bundaran jang dapat di-angkat² itu.",
+      "Sekarang mulai dimasukkan adonan jang tidak pakai tjoklat didalam lingkaran jang pertama, sudah itu dimasukkan pula adonan jang pakai tjoklat dilingkaran jang kedua, dan penghabisan sekali adonan jang pakai tjoklat pula lingkaran jang ketiga.",
+      "Lalu bundaran jang dapat di-angkat² itu dikeluarkan dari tjetakan tersebut dan kue ini terus dibakar sampai masak.",
+      "Lalu diambil pula satu tjetakan lagi, tjetakan ini diisi pula seperti semula, hanja lainnja sekarang ialah adonan jang memakai tjoklat harus didahulukan.",
+      "Begitulah diperbuat sampai habis ketiga lapis tjetakan tersebut, dengan memasukkan adonannja ber-lain² satu sama lain.",
+      "Djika telah masak ketiga lapisnja, maka kalau kue tersebut telah dingin, hendaklah tiap² lapis itu dikikis sebelah atasnja, buangkan bak kulit sebelah atasnja.",
+      "Gunannja diperbuat demikian ialah mendjaga supaja tiap² lapis tersebut bila sudah dipertindis duakan dengan vla, maka lapis pertama dan kedua akan bersatu.",
+      "Sekarang kita ambil tiap² lapis kue tersebut dan masing²nja disapu dengan vla.",
+      "Lalu kita pertindis satu dan lainnja.",
+      "Dan kalau kue ini nanti telah di-potong² maka akan kelihatan seperti batu tegel. Dari itu boleh djuga kue ini dinamai tegel cake."
+    ]
+  }
+]

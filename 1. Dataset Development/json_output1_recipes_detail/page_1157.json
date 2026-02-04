@@ -1,0 +1,125 @@
+[
+  {
+    "recipe_id": "MR_1157_1149_0",
+    "title_original": "POKAK SARIPU",
+    "title_normalized": "Pokak Saripu",
+    "region": "Sumenep",
+    "page_number": 1149,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada putih 1/2 sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus 1/4 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "manis djangan 2 rdj.",
+            "item_original": "manis djangan",
+            "item_normalized": "kayu manis",
+            "quantity": 2.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "tjengkeh 3 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "air 4 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 4.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Manis djangan dibakar setengah masak, ditumbuk kasar.",
+      "Lada, pala, tjengkeh, djae ditumbuk sampai halus.",
+      "Air direbus sampai mendidih, gula dimasukkan sambil di-aduk².",
+      "Bumbu² dimasukkan kedalam larutan air gula, dibiarkan sampai mendidih.",
+      "Didinginkan sedikit lalu disaring."
+    ]
+  },
+  {
+    "recipe_id": "MR_1157_1149_1",
+    "title_original": "SERBAT KUWENI",
+    "title_normalized": "Serbat Kuweni",
+    "region": "Madiun",
+    "page_number": 1149,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mangga kuweni 3 bh.",
+            "item_original": "mangga kuweni",
+            "item_normalized": "mangga kuweni",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "air masak 3 gls.",
+            "item_original": "air masak",
+            "item_normalized": "air masak",
+            "quantity": 3.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

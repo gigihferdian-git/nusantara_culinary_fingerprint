@@ -1,0 +1,147 @@
+[
+  {
+    "recipe_id": "MR_957_1",
+    "title_original": "KUE KELAPA",
+    "title_normalized": "Kue Kelapa",
+    "region": null,
+    "page_number": 957,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1½ tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa diparut 1½ tjkr.",
+            "item_original": "kelapa diparut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air ½ tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "parutan kulit djeruk purut 2 sdt.",
+            "item_original": "parutan kulit djeruk purut",
+            "item_normalized": "parutan kulit jeruk purut",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan air dimasak djadi siropri disaring dan suam² kuku dimasuki telur ajam satu demi satu sambil dikotjok.",
+      "Dikotjok terus sampai kembang betul.",
+      "Kelapa disangrai, ditjampur tepung dan parutan djeruk purut, dimasukkan kedalam adonan telur.",
+      "Diratakan bersama soda kue.",
+      "Adonan dibiarkan menginap 12 djam, dibakar dalam oven."
+    ]
+  },
+  {
+    "recipe_id": "MR_957_2",
+    "title_original": "KUE KELAPA PARUT",
+    "title_normalized": "Kue Kelapa Parut",
+    "region": null,
+    "page_number": 957,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terigu 3 ons",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "maizena ½ ons",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa parut 4 tjkr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 2½ ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula halus 2½ ons",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kaju manis 2½ sdt.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 2.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Parutan kelapa didjemur sampai kering betul.",
+      "Atau boleh djuga gongseng dengan api ketjil.",
+      "Sesudah itu diputar mentega dan telur, sampai kembang.",
+      "Kemudian dimasukkan soda, kaju manis halus per-lahan², sehingga mendjadi adonan jang lunak.",
+      "Diratakan diatas papan, kira² setengah cm tebalnja dan ditjetak dengan tjetakan kue kering.",
+      "Untuk mudah diangkat waktu mentjetaknja, papan ditaburi tepung sedikit."
+    ]
+  }
+]

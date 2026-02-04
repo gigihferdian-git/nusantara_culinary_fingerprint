@@ -1,0 +1,117 @@
+[
+  {
+    "recipe_id": "MR_1091_0",
+    "title_original": "SERIPING SINGKONG",
+    "title_normalized": "Seriping Singkong",
+    "region": null,
+    "page_number": 1091,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diiris tipis² bulat.",
+      "Direndam dalam air garam dan bawang putih halus, ditiriskan.",
+      "Digoreng dalam minjak panas sampai ke-kuning²an.",
+      "Disimpan dalam stoples."
+    ]
+  },
+  {
+    "recipe_id": "MR_1091_1",
+    "title_original": "SETUP DJAMBU BIDJI",
+    "title_normalized": "Setup Jambu Biji",
+    "region": "Purwokerto",
+    "page_number": 1091,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djambu bidji 10 bh.",
+            "item_original": "djambu bidji",
+            "item_normalized": "jambu biji",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "air 5 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 5.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kaju manis 3 rdj.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 3.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "tjengkeh 5 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

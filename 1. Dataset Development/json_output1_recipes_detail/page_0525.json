@@ -1,0 +1,116 @@
+[
+  {
+    "recipe_id": "MR_517_0",
+    "title_original": "Untitled Recipe (Continuation)",
+    "title_normalized": "Untitled Recipe (Continuation)",
+    "region": null,
+    "page_number": 517,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [],
+    "instructions": [
+      "Bawang merah, bawang putih, lombok, diiris halus.",
+      "Bawang merah dan bawang putih digoreng agak kering, lombok dimasukkan, digoreng sampai masak.",
+      "Dimasukkan air ½ tjangkir, berikut bumbu² lainnja.",
+      "Terachir ikan asin dimasukkan, diaduk-aduk sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_517_1",
+    "title_original": "OSENG OSENG KANGKUNG",
+    "title_normalized": "Oseng Oseng Kangkung",
+    "region": null,
+    "page_number": 517,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 4 ikt.",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 4.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak goreng 3 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah/hidjau 5 bh.",
+            "item_original": "lombok merah/hidjau",
+            "item_normalized": "cabai merah/hijau",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 2 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kangkung ditjutji, dipotong-potong.",
+      "Tempe dipotong-potong ketjil.",
+      "Bawang merah, bawang putih dan lombok diiris tipis².",
+      "Bumbu ditumis dengan minjak sampai setengah matang, kemudian tempe dan kangkung ditjampurkan, terus diaduk dan ditutup.",
+      "Daun salam, laos, garam dan gula dimasukkan djuga sambil diaduk dan terus ditutup sampai matang."
+    ]
+  }
+]

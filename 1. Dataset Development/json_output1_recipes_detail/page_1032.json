@@ -1,0 +1,130 @@
+[
+  {
+    "recipe_id": "MR_1024_0",
+    "title_original": "MATA SAPI",
+    "title_normalized": "Mata Sapi",
+    "region": null,
+    "page_number": 1024,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "pisang radja masak tua",
+            "item_original": "pisang radja masak tua",
+            "item_normalized": "pisang raja masak tua",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu dan Pelengkap",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir 1/2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "santan kental 3 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan, gula pasir, garam digodog bersama hingga mendidih, tepung beras ditjampurkan, setelah 1/2 masak diangkat.",
+      "Djladren setengah masak diglintiri bersama dengan pisang dalam daun pisang dan dikukus hingga masak.",
+      "Sebelum dihidangkan, diiris melintang dan dimakan dengan parutan kelapa."
+    ]
+  },
+  {
+    "recipe_id": "MR_1024_1",
+    "title_original": "MENDUT SINGKONG",
+    "title_normalized": "Mendut Singkong",
+    "region": "Wonosobo",
+    "page_number": 1024,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

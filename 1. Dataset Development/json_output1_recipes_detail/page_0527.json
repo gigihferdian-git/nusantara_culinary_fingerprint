@@ -1,0 +1,193 @@
+[
+  {
+    "recipe_id": "MR_527_0",
+    "title_original": "OSENG OSENG LABU SIAM",
+    "title_normalized": "Oseng Oseng Labu Siam",
+    "region": "Wonosobo",
+    "page_number": 519,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "labu siam 2 bh.",
+            "item_original": "labu siam",
+            "item_normalized": "labu siam",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tempe 2 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 2.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kentjur ¼ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "salam 1 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 4 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Labu siam di-iris² halus, diremas dengan garam sampai lemas.",
+      "Bumbu² di-iris² ketjuali salam, kemudian ditumis.",
+      "Labu siam dan tempe jang sudah di-potong² dimasukkan, ditutup.",
+      "Sesudah masak diberi ketjap."
+    ]
+  },
+  {
+    "recipe_id": "MR_527_1",
+    "title_original": "OSENG OSENG LOMBOK HIDJAU",
+    "title_normalized": "Oseng Oseng Lombok Hijau",
+    "region": "Banyumas",
+    "page_number": 519,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "lombok hidjau 1 kg.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "udang basah 1 ons",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tempe 6 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 6.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "petai 2 btg.",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "minjak goreng 4 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "daun salam 3 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 2 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

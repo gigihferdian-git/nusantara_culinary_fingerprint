@@ -1,0 +1,196 @@
+[
+  {
+    "recipe_id": "MR_850_1",
+    "title_original": "Roomnja (lanjutan)",
+    "title_normalized": "Rompudding (Continuation)",
+    "region": null,
+    "page_number": 850,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Roomnja",
+        "ingredients": [
+          {
+            "original_text": "merah telur 4 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1½ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kismis 2 tjkr.",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu entjer 1 klg.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu cair",
+            "quantity": 1.0,
+            "unit": "kaleng"
+          },
+          {
+            "original_text": "air ½ gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Penghabisan sekali masukkan putihnja telur jang telah dikotjok tersendiri.",
+      "Adonan dibagi 3 dan dimasak ber-lapis².",
+      "Lapisan ini diletakkan diatas medja.",
+      "Telur, gula, mentega, susu, tepung dan kismis dikatjau sampai putih, lalu dimasak kental diatas api jang sedang sambil diaduk.",
+      "Room disiram diatas tiga lapisan."
+    ]
+  },
+  {
+    "recipe_id": "MR_850_2",
+    "title_original": "CHAMPURADO",
+    "title_normalized": "Champurado",
+    "region": null,
+    "page_number": 850,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 gls.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "air 1½ lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "tjoklat 4 sdm.",
+            "item_original": "tjoklat",
+            "item_normalized": "cokelat",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung djagung ditjampur dengan air, setelah ditaroh diatas api dan terus diaduk dengan sendok kaju sampai mendjadi masak betul dan kental.",
+      "Lalu dimasukkan gula merah dan tjoklat, diaduk sedemikian rupa sampai gula dan tjoklat bertjampur betul dengan adonan djagung tadi.",
+      "Dipanaskan sebentar, sesudah itu siap untuk dimakan."
+    ]
+  },
+  {
+    "recipe_id": "MR_850_3",
+    "title_original": "CHILAQUILES",
+    "title_normalized": "Chilaquiles",
+    "region": null,
+    "page_number": 850,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tortilla *) 25 gr.",
+            "item_original": "tortilla *)",
+            "item_normalized": "tortilla",
+            "quantity": 25.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "kedju 140 gr.",
+            "item_original": "kedju",
+            "item_normalized": "keju",
+            "quantity": 140.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun salam 2 hl.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "tomat 450 gr.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 450.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "kaldu ajam 1 tjkr.",
+            "item_original": "kaldu ajam",
+            "item_normalized": "kaldu ayam",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bawang merah 2 siung",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

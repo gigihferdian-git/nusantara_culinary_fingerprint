@@ -1,0 +1,147 @@
+[
+  {
+    "recipe_id": "MR_845_1",
+    "title_original": "BUBUR PROTJOT",
+    "title_normalized": "Bubur Protjot",
+    "region": "Solo",
+    "page_number": 837,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ½ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "santan 6 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 6.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "pisang radja 10 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 10.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "3 gelas santan, garam, gula direbus.",
+      "Pisang dikukus dan dikupas.",
+      "Tepung beras dicairkan dengan santan 2 gelas.",
+      "Tepung cair dimasukkan ke dalam santan yang telah mendidih, diaduk sampai masak.",
+      "Bila akan diangkat, pisang dimasukkan utuh."
+    ]
+  },
+  {
+    "recipe_id": "MR_845_2",
+    "title_original": "BUBUR SAGU",
+    "title_normalized": "Bubur Sagu",
+    "region": "Ambon",
+    "page_number": 837,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "sagu lempeng 5 pt.",
+            "item_original": "sagu lempeng",
+            "item_normalized": "sagu lempeng",
+            "quantity": 5.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula djawa 5 ons",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 5.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kenari ½ ons",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "kaju manis 1 pt.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sagu direndam air dingin kira-kira 30 menit."
+    ]
+  }
+]

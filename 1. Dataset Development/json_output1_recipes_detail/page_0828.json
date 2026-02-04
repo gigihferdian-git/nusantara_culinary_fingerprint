@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_820_00",
+    "title_original": "(Sambungan Resep Bandeng)",
+    "title_normalized": "Bandeng Gulung Goreng (Lanjutan)",
+    "region": null,
+    "page_number": 820,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "roti tawar tak pakai kulit 2–3 pt.",
+            "item_original": "roti tawar tak pakai kulit",
+            "item_normalized": "roti tawar tanpa kulit",
+            "quantity": 2.5,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "susu 1/2 tjkr.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "minjak goreng 1 tjkr.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 20 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "pala halus 1/4 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada halus 1/2 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bandeng diambil daginja dan dibuangi durinja.",
+      "Bawang merah di-iris², digoreng sampai kuning.",
+      "Roti direndam susu, sampai susunja terserap semua.",
+      "Semua bahan ditjampur mendjadi satu, diaduk rata, lalu digulung bulat-bulat.",
+      "Digoreng sampai kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_820_01",
+    "title_original": "BOLA BOLA NENAS",
+    "title_normalized": "Bola Bola Nanas",
+    "region": null,
+    "page_number": 820,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 2½ ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung gula ½ ons",
+            "item_original": "tepung gula",
+            "item_normalized": "gula halus",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung 3½ ons",
+            "item_original": "tepung",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "susu manis 2 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur 3 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "selai nanas sebesar telur",
+            "item_original": "selai nanas",
+            "item_normalized": "selai nanas",
+            "quantity": null,
+            "unit": "ukuran telur"
+          },
+          {
+            "original_text": "bibit roti sepiring",
+            "item_original": "bibit roti",
+            "item_normalized": "ragi roti",
+            "quantity": null,
+            "unit": "piring"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bibit roti diremas dengan mentega, gula dan susu sehingga rata.",
+      "Sesudah itu ditjampurkan dua buah telur kedalam adonan ini.",
+      "Kemudian dimasukkan tepung.",
+      "Adonan ini diaduk agak lama sedikit supaja bagus kembangnja.",
+      "Dimasukkan kedalam sebuah pantji lalu ditutup dengan sebuah serbet lembab.",
+      "Agar adonan djangan kering, ditaruh dalam kamar mandi kira kira dua djam lamanja.",
+      "Gulungan dipotong-potong sebesar jang kita sukai.",
+      "Potongan dibundarkan seperti bola, lalu dipitjakkan, kemudian dibundarkan lagi."
+    ]
+  }
+]

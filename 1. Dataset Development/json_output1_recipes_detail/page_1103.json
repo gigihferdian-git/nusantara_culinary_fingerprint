@@ -1,0 +1,141 @@
+[
+  {
+    "recipe_id": "MR_1095_1",
+    "title_original": "SOKKO KAKKALA",
+    "title_normalized": "Sokko Kakkala",
+    "region": "Sulawesi Selatan",
+    "page_number": 1095,
+    "category": "Makanan Pokok Alternatif",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kakkala (gaplek) ½ kg.",
+            "item_original": "kakkala (gaplek)",
+            "item_normalized": "kakkala (gaplek)",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kakkala ditumbuk halus.",
+      "Kemudian dikukus, diangkat sesudah masak.",
+      "Kelapa diparut, diberi garam, dicampurkan.",
+      "Diaduk sampai rata."
+    ]
+  },
+  {
+    "recipe_id": "MR_1095_2",
+    "title_original": "SORPOT",
+    "title_normalized": "Sorpot",
+    "region": null,
+    "page_number": 1095,
+    "category": "Kue Kukus",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sagu/gaplek ¼ kg.",
+            "item_original": "sagu/gaplek",
+            "item_normalized": "sagu/gaplek",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ¼ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus ¼ sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikocok dengan gula.",
+      "Dicampur pala dan tepung gaplek/sagu.",
+      "Dimasukkan ke dalam lengser, dikukus."
+    ]
+  },
+  {
+    "recipe_id": "MR_1095_3",
+    "title_original": "SPEKKOEK SINGKONG",
+    "title_normalized": "Spekkoek Singkong",
+    "region": null,
+    "page_number": 1095,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong ½ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "selai nenas 1 btl.",
+            "item_original": "selai nenas",
+            "item_normalized": "selai nanas",
+            "quantity": 1.0,
+            "unit": "botol"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Instruksi berlanjut di halaman berikutnya."
+    ]
+  }
+]

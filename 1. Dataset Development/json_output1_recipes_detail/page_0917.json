@@ -1,0 +1,149 @@
+[
+  {
+    "recipe_id": "MR_917_0",
+    "title_original": "KAMPALO",
+    "title_normalized": "Kampalo",
+    "region": "Makassar",
+    "page_number": 909,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1/2 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun kelapa muda 1 plp.",
+            "item_original": "daun kelapa muda",
+            "item_normalized": "daun kelapa muda",
+            "quantity": 1.0,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut dibuat santan kental 1 gelas.",
+      "Santan didjerangkan dengan garam hingga mendidih.",
+      "Ketan ditjutji bersih, ditiriskan dan dimasukkan kedalam santan jang mendidih. Dimasak sampai setengah masak.",
+      "Diangkat dari api dan dibungkus dengan daun kelapa muda. Lebih pandjang sedikit daripada nagasari.",
+      "Diikat dan direbus lagi sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_917_1",
+    "title_original": "KAPURUNG",
+    "title_normalized": "Kapurung",
+    "region": "Makassar",
+    "page_number": 909,
+    "category": "Sayur dan Olahan Sagu",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sagu 1 gls.",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air setjukupnja",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "udang basah 10 ekor",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 10.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "daun paku 1 ikt. sedang",
+            "item_original": "daun paku",
+            "item_normalized": "daun paku",
+            "quantity": 1.0,
+            "unit": "ikat sedang"
+          },
+          {
+            "original_text": "kangkung 1 ikt. sedang",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 1.0,
+            "unit": "ikat sedang"
+          },
+          {
+            "original_text": "daun kemangi 1 ikt. ketjil",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 1.0,
+            "unit": "ikat kecil"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djeruk nipis 1 bdj.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sagu dan air ditjamurkan, dimasukkan kedalam kuwali, dimasak sambil di-aduk². Bila sudah tjukup kental diangkat dari api dan dibiarkan hingga dingin.",
+      "Dibentuk bulat² seperti kelereng."
+    ]
+  }
+]

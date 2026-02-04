@@ -1,0 +1,101 @@
+[
+  {
+    "recipe_id": "MR_889_1",
+    "title_original": "GETUK UBI DJALAR (Inferred Title)",
+    "title_normalized": "Getuk Ubi Jalar",
+    "region": null,
+    "page_number": 889,
+    "category": "Kue / Jajanan",
+    "ingredient_groups": [],
+    "instructions": [
+      "Ubi djalar dibersihkan, direbus sampai masak, kemudian dikupas, ditumbuk halus, ditambahi gula dan garam, ditumbuk terus sampai terdjamur betul.",
+      "Diratakan diatas tampah.",
+      "Di-potong2 serong."
+    ]
+  },
+  {
+    "recipe_id": "MR_889_2",
+    "title_original": "GEMBLONG IRENG",
+    "title_normalized": "Gemblong Ireng",
+    "region": "Cirebon",
+    "page_number": 889,
+    "category": "Kue / Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "merang ½ ikt.",
+            "item_original": "merang",
+            "item_normalized": "merang",
+            "quantity": 0.5,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut, merang ditjutji bersih, didjemur.",
+      "Sesudah kering, merang dibakar sampai hitam, dibuat tepung, disaring dengan kalo sampai halus betul.",
+      "Singkong parut ditjampur dengan tepung merang, diaduk sampai rata, dikukus, sesudah matang ditumbuk halus.",
+      "Adonan ditaruh diatas tempat jang datar jang diberi alas daun pisang, diulasi minjak kelapa, diratakan dengan botol, di-potong².",
+      "Kelapa diparut, diberi garam untuk dimakan bersama gemblongnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_889_3",
+    "title_original": "GENDAR",
+    "title_normalized": "Gendar",
+    "region": "Solo",
+    "page_number": 889,
+    "category": "Kue / Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan/djawa 1 kg.",
+            "item_original": "tepung beras ketan/djawa",
+            "item_normalized": "tepung beras ketan/jawa",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "londo merang 1 kobokan",
+            "item_original": "londo merang",
+            "item_normalized": "londo merang",
+            "quantity": 1.0,
+            "unit": "kobokan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Londo merang direbus sampai mendidih, dimasukkan tepung beras, diaduk sampai kental.",
+      "Kemudian diturunkan dari kuwali dan didinginkan."
+    ]
+  }
+]

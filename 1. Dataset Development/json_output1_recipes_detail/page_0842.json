@@ -1,0 +1,135 @@
+[
+  {
+    "recipe_id": "MR_842_1",
+    "title_original": "BUBUR GRENDUL",
+    "title_normalized": "Bubur Grendul",
+    "region": "Solo",
+    "page_number": 834,
+    "category": "Porridge",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung gaplek 2 kg.",
+            "item_original": "tepung gaplek",
+            "item_normalized": "tepung gaplek",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "nangka 1 ptg.",
+            "item_original": "nangka",
+            "item_normalized": "nangka",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 3 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "kaju manis 1 ptg.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung gaplek diaduk dengan air panas sedikit hingga mendjadi adonan jang dapat dibentuk sebesar kelereng.",
+      "Kelapa diparut, dibuat santan kental, dididihkan sebentar, didjaga djangan sampai petjah.",
+      "Nangka diiris halus, gula merah, pandan direbus dengan air sebanjak 8 gelas.",
+      "Djika gula larut, bulatan² dimasukkan, dimasak sampai masak.",
+      "Dihidangkan dengan santan kental jang telah diberi garam."
+    ]
+  },
+  {
+    "recipe_id": "MR_842_2",
+    "title_original": "BUBUR GURIH",
+    "title_normalized": "Bubur Gurih",
+    "region": "Solo",
+    "page_number": 834,
+    "category": "Porridge",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "menir djagung 1 tjkr.",
+            "item_original": "menir djagung",
+            "item_normalized": "menir jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula djawa 1 ons",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pandan",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "santan 3-4 tjkr.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam setjkupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Setelah beras menir ditjutji sampai bersih, dimasak menir dengan santan, garam dan daun pandan sampai merupakan bubur.",
+      "Kalau sudah masak dihidangkan dengan djuruh (gula djawa dimasak dengan air, disaring)."
+    ]
+  }
+]

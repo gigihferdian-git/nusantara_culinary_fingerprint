@@ -1,0 +1,96 @@
+[
+  {
+    "recipe_id": "MR_1033_1",
+    "title_original": "NOGA",
+    "title_normalized": "Noga",
+    "region": "Malang",
+    "page_number": 1033,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1/2 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "mentega/margarine 3 ons",
+            "item_original": "mentega/margarine",
+            "item_normalized": "mentega/margarin",
+            "quantity": 3.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang disangan, lalu kulit dihilangkan dan dibelah mendjadi dua.",
+      "Gula pasir ditambah air 4 gelas, direbus sampai kental.",
+      "Kemudian katjang dimasukkan, diaduk sampai rata.",
+      "Ambil kertas minjak jang telah diolesi mentega/margarine. Tjampuran katjang diratakan diatas kertas. Panas² di-potong² segi empat."
+    ]
+  },
+  {
+    "recipe_id": "MR_1033_2",
+    "title_original": "NOGA KATJANG",
+    "title_normalized": "Noga Kacang",
+    "region": null,
+    "page_number": 1033,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1/4 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kertas minjak 1 lbr.",
+            "item_original": "kertas minjak",
+            "item_normalized": "kertas minyak",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula pasir 1 1/4 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "air djeruk 1 sdt.",
+            "item_original": "air djeruk",
+            "item_normalized": "air jeruk",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

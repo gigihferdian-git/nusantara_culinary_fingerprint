@@ -1,0 +1,100 @@
+[
+  {
+    "recipe_id": "MR_855_0",
+    "title_original": "CAKE MARMER",
+    "title_normalized": "Cake Marmer",
+    "region": null,
+    "page_number": 847,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "lihat resep cake",
+            "item_original": "resep cake",
+            "item_normalized": "resep cake",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "bubuk tjoklat 3 sdm.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk cokelat",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sama dengan cake biasa. Hanja setelah adonan siap diambil sebagian dari adonan dan ditjampur dengan bubuk tjoklat. Kalau kering ditjampur dengan sesendok susu entjer lagi.",
+      "Dikala memasukkan kedalam kaleng bakar dimasukkan dahulu adonan biasa, setelah itu adonan jang diberi tjoklat, dan setelah itu adonan biasa lagi.",
+      "Sebelum dibakar ditarik lingkaran dahulu didalam adonan supaja gambar marmernja nanti lebih bagus."
+    ]
+  },
+  {
+    "recipe_id": "MR_855_1",
+    "title_original": "CAKE NENAS",
+    "title_normalized": "Cake Nanas",
+    "region": null,
+    "page_number": 847,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir halus 1 tjkr.",
+            "item_original": "gula pasir halus",
+            "item_normalized": "gula pasir halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 1 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bakpoeder 1 sdt.",
+            "item_original": "bakpoeder",
+            "item_normalized": "baking powder",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "mentega 1/4 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.25,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 1/2 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan mentega diputar sampai kembang, sesudah itu dimasukkan telur satu persatu kedalamnja, diaduk terus sampai teraduk betul.",
+      "Dimasukkan tepung serta panili.",
+      "(Membakarnja): Ambil sebuah tjetakan bundar kira² 12 cm dan kue tersebut dimasak beberapa lapis kira² setebal 1 cm sampai kuning. Biarkan semuanja itu dingin dulu. Ambil pula nanas dalam kaleng, keringkan airnja dalam saringan."
+    ]
+  }
+]

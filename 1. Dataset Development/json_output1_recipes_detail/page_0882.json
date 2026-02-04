@@ -1,0 +1,109 @@
+[
+  {
+    "recipe_id": "MR_882_1",
+    "title_original": "EMPĒK EMPĒK DOS",
+    "title_normalized": "Empek Empek Dos",
+    "region": "Palembang",
+    "page_number": 874,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1/2 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "udang kering 1/2 ons",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak 1/2 btl.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dituangsi air mendidih, ditjampr garam halus.",
+      "Menuangnja sedikit demi sedikit.",
+      "Sehingga merupakan adonan jang keras.",
+      "Sesudah itu di-remat² dengan tangan hingga tidak ber-bidji² dan merupakan gumpalan besar.",
+      "Diambil sedikit², dibulatkan dengan kedua belah telapak tangan.",
+      "Udang kering ditumbuk halus sesudah direndam.",
+      "Kedalam bulatan jang diberi lubang dengan ibu djari dimasukkan udang kering sedikit² kemudian dibulatkan lagi.",
+      "Setelah selesai lalu digoreng.",
+      "Menggorengnja harus hati², karena kalau apinja terlalu besar suka meledak.",
+      "Makannja ditjotjol sambal tjuka."
+    ]
+  },
+  {
+    "recipe_id": "MR_882_2",
+    "title_original": "EMPĒK EMPĒK LENGGANG",
+    "title_normalized": "Empek Empek Lenggang",
+    "region": "Palembang",
+    "page_number": 874,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "ikan gabus/belida jang telah dihaluskan 1 gls.",
+            "item_original": "ikan gabus/belida jang telah dihaluskan",
+            "item_normalized": "ikan gabus/belida yang telah dihaluskan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur 4 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air garam 4 sdm.",
+            "item_original": "air garam",
+            "item_normalized": "air garam",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "sagu 1 gls.",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

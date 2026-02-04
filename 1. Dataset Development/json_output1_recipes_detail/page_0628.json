@@ -1,0 +1,180 @@
+[
+  {
+    "recipe_id": "MR_628_1",
+    "title_original": "TUMIS KANGKUNG",
+    "title_normalized": "Tumis Kangkung",
+    "region": null,
+    "page_number": 620,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun kangkung 3-4 ikat",
+            "item_original": "daun kangkung",
+            "item_normalized": "daun kangkung",
+            "quantity": 3.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "tomat 1/4 kg.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 6 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 5 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 3 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kangkung di-potong² ketjil.",
+      "Bawang merah, bawang putih, lombok hidjau dan lombok rawit diiris, kemudian digoreng bersama-sama sereh, terasi dan djae.",
+      "Kalau sudah kelihatan laju, ditambah air setjukupnja.",
+      "Ketjap dan garam dimasukkan, bersama daun kangkung; direbus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_628_2",
+    "title_original": "TUMIS KATJANG PUTIH",
+    "title_normalized": "Tumis Kacang Putih",
+    "region": "Bandjarmasin",
+    "page_number": 620,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang putih 1/2 kg.",
+            "item_original": "katjang putih",
+            "item_normalized": "kacang putih",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang pandjang 1 1/2 ikat",
+            "item_original": "katjang pandjang",
+            "item_normalized": "kacang panjang",
+            "quantity": 1.5,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daging 1/4 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "rebung 1 ons",
+            "item_original": "rebung",
+            "item_normalized": "rebung",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kacang putih direndam 7–8 jam.",
+      "Direbus dengan air sampai lunak.",
+      "Kelapa diparut diambil santannya.",
+      "Bumbu dihaluskan kecuali serai, lengkuas, jahe, cabai merah diiris.",
+      "Kacang panjang, rebung, daging dipotong-potong, dibersihkan.",
+      "Bumbu ditumis, dimasukkan rebusan kacang, daging, setelah masak dimasukkan sayurannya.",
+      "Setelah sayuran setengah masak dimasukkan santannya.",
+      "Dijerangkan sampai sayuran masak."
+    ],
+    "notes": [
+      "Daging boleh diganti dengan udang.",
+      "Cabai merah dapat diganti dengan cabai hijau.",
+      "Dalam sayuran dapat dimasukkan kentang, biji nangka direbus dibelah 4 atau dipotong-potong."
+    ]
+  }
+]

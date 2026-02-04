@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_555_0",
+    "title_original": "PENTJOK IKAN LELE",
+    "title_normalized": "Pentok Ikan Lele",
+    "region": "Banyumas",
+    "page_number": 547,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan lele 1 ekor",
+            "item_original": "ikan lele",
+            "item_normalized": "ikan lele",
+            "quantity": 1.0,
+            "unit": "piece"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "clove"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "lombok rawit 2 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 2.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "air djeruk nipis 1/2 sdm.",
+            "item_original": "air djeruk nipis",
+            "item_normalized": "air jeruk nipis",
+            "quantity": 0.5,
+            "unit": "tablespoon"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "teaspoon"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "teaspoon"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "tablespoon"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "teaspoon"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan lele dibersihkan, dibakar sampai masak.",
+      "Bumbu dihaluskan, ketjap dimasukkan.",
+      "Bumbu ketjap disiramkan pada ikan sambil ditumbuk-tumbuk pelan².",
+      "Keterangan: Kadang² pada bumbu dimasukkan santan kental (dari kelapa 1/4 butir), kemiri 2 btr dan kentjur 1 rdj."
+    ]
+  },
+  {
+    "recipe_id": "MR_555_1",
+    "title_original": "PENTJOK IKAN PANGGANG",
+    "title_normalized": "Pentok Ikan Panggang",
+    "region": "Rembang",
+    "page_number": 547,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan panggang 1/2 kg. (10 pt.)",
+            "item_original": "ikan panggang",
+            "item_normalized": "ikan panggang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "djeruk nipis 1 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "piece"
+          },
+          {
+            "original_text": "ketjap 1/4 tj.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 0.25,
+            "unit": "teaspoon"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "teaspoon"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan panggang digoreng atau dikukus.",
+      "Bumbu² dihaluskan, ketjap, air djeruk, ditjampur dengan bumbu².",
+      "Ikan disiram dengan bumbu², sambil dipukul-pukul supaja bumbunja meresap."
+    ]
+  }
+]

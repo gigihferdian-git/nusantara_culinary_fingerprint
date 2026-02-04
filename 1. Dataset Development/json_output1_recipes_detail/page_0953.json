@@ -1,0 +1,148 @@
+[
+  {
+    "recipe_id": "MR_953_1",
+    "title_original": "KUE DAUN DAUN",
+    "title_normalized": "Kue Daun Daun",
+    "region": null,
+    "page_number": 945,
+    "category": "Kue (Cake/Snack)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 3 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 1 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 1 kg.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "bubuk tjoklat 1 sdm.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk coklat",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terigu 10 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 10.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung singkong 3 tjkr.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "(mentega, implied from step 1)",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "panili 3 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 3.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "soda kue 1/2 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dan mentega dikotjok sampai mengembang.",
+      "Sesudah itu dimasukkan terigu, tepung singkong dan panili serta soda.",
+      "Diaduk sampai rata dan dibagi dua.",
+      "Jang sebagian diberi warna kuning dan sebagian lagi dimasuki bubuk tjoklat.",
+      "Semuanja di-bulat²kan sebesar kelereng.",
+      "Sesudah itu ditipiskan dan diberi bentuk daun.",
+      "Dibakar dalam oven dan diberi api atas bawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_953_2",
+    "title_original": "KUE DELAPAN DJAM",
+    "title_normalized": "Kue Delapan Jam",
+    "region": null,
+    "page_number": 945,
+    "category": "Kue (Cake/Snack)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 1 gls.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1/4 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "susu 1/4 gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "margarine/minjak samin 1/4 gls.",
+            "item_original": "margarine/minjak samin",
+            "item_normalized": "margarin/minyak samin",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula ditjampur, dikotjok sekedar untuk menghantjurkan gulanja sadja.",
+      "Dimasukkan susu dan minjak samin, dikatjau sampai rata.",
+      "Adonan dimasukkan tjetakan dan dikukus selama delapan djam.",
+      "Setelah masak, diangkat dan kemudian dibakar dalam oven.",
+      "Mula² dengan api bawah sampai kering.",
+      "Setelah itu dengan api atas sampai warna mendjadi agak merah."
+    ]
+  }
+]

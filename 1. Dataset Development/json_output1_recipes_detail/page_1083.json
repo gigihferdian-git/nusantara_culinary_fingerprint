@@ -1,0 +1,93 @@
+[
+  {
+    "recipe_id": "MR_1075_0",
+    "title_original": "Membuat kopi extract",
+    "title_normalized": "Membuat Kopi Ekstrak",
+    "region": null,
+    "page_number": 1075,
+    "category": "Preparation/Beverage Component",
+    "ingredient_groups": [],
+    "instructions": [
+      "Gula dimasak dengan tidak memakai air di dalam panci.",
+      "Gula itu diaduk sampai menjadi kuning tua warnanya.",
+      "Sudah itu dimasukkan kopi, diaduk terus.",
+      "Kemudian dimasukkan air, vanili dan garam, dengan api yang dikecilkan.",
+      "Jikalau sudah mendidih, diangkat dan didinginkan sebentar.",
+      "Dan disaring dengan saringan halus.",
+      "Kebaikan kopi ini ialah dapat disimpan lama."
+    ]
+  },
+  {
+    "recipe_id": "MR_1075_1",
+    "title_original": "ROTI NANAS DARI SINGKONG (Tegal)",
+    "title_normalized": "Roti Nanas dari Singkong",
+    "region": "Tegal",
+    "page_number": 1075,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "panili bubuk 1 sdt.",
+            "item_original": "panili bubuk",
+            "item_normalized": "vanili bubuk",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa parut ¼ btr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "selai nanas 1 gls.",
+            "item_original": "selai nanas",
+            "item_normalized": "selai nanas",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula halus 1 ons",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam ⅓ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, dicuci, direbus sampai masak.",
+      "Kelapa diparut.",
+      "Singkong rebus, gula dan kelapa parut dicampur menjadi satu, digiling halus.",
+      "Telur dikocok, getuk tersebut dimasukkan, diaduk sampai rata.",
+      "Adonan tersebut digulung, di dalamnya diberi selai nanas.",
+      "Terakhir atasnya disemir dengan telur yang telah dikocok, dipanggang ± 1/2 jam."
+    ]
+  }
+]

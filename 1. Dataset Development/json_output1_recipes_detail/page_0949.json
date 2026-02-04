@@ -1,0 +1,113 @@
+[
+  {
+    "recipe_id": "MR_941_1",
+    "title_original": "KUE BIDJI BIDJI",
+    "title_normalized": "Kue Biji Biji",
+    "region": "Sulawesi Utara/Tengah",
+    "page_number": 941,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 2½ gls.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "santan 1/5 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 0.2,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "minjak goreng ½ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok sampai putih.",
+      "Terigu dan santan ditjampur dengan kotjokan telur tadi hingga rata.",
+      "Adonan dibentuk sebesar batang pensil lalu dipotong sebesar katjang.",
+      "Digoreng dalam minjak panas sampai mengembang dan berwarna ke-emas²an."
+    ]
+  },
+  {
+    "recipe_id": "MR_941_2",
+    "title_original": "KUE BIDJI NANGKA",
+    "title_normalized": "Kue Biji Nangka",
+    "region": "Sulawesi Selatan",
+    "page_number": 941,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 1 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kenari tjintjang 1½ gls.",
+            "item_original": "kenari tjintjang",
+            "item_normalized": "kenari cincang",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili ½ sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kentang direbus sampai masak, dikupas dan dihaluskan.",
+      "Gula pasir dan kenari ditjampurkan pada kentang, diaduk sampai rata.",
+      "Didjerangkan diatas api jang ketjil, di-aduk² sampai masak. Tanda masak apabila dipegang tidak melekat.",
+      "Putih telur dan kuning telur ajam dipisahkan.",
+      "Kuning telur dikotjok sampai putih.",
+      "Gula, putih telur, panili ditambah air 2 gelas, didjerangkan diatas api jang ketjil, diaduk sampai mendidih.",
+      "Ditapis, didjerangkan terus supaja agak kental seperti sirop.",
+      "Adonan dibentuk bidji nangka, di-guling²kan dalam kotjokan"
+    ]
+  }
+]

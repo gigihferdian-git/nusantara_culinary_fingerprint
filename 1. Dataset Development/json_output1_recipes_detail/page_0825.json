@@ -1,0 +1,133 @@
+[
+  {
+    "recipe_id": "MR_825_1",
+    "title_original": "BIKA PUTIH",
+    "title_normalized": "Bika Putih",
+    "region": null,
+    "page_number": 817,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung beras (tepung ketan) 2 gls.",
+            "item_original": "tepung beras (tepung ketan)",
+            "item_normalized": "tepung beras (tepung ketan)",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula 1/2 gls.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 3 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa parut 1 gls.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam setjukupnja.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Dimasak air lebih dahulu sampai mendidih.",
+      "Lalu dituangkan kedalam tjampuran tepung dan gula.",
+      "Kemudian disusulkan kelapa parut dan garam.",
+      "Diaduk tjepat² hingga adonan kelihatan setengah masak.",
+      "Membakarnja didalam wadjan jang dialasi terlebih dahulu dengan daun pisang.",
+      "Kalau jang disebelah bahwanja sudah masak, tjoba dibalikkan.",
+      "Sedapat²-nja api sedang sadja panasnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_825_2",
+    "title_original": "BILULUHE",
+    "title_normalized": "Biluluhe",
+    "region": "Gorontalo",
+    "page_number": 817,
+    "category": "Makanan Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 3 buah",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan 2 sendok",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "sendok"
+          },
+          {
+            "original_text": "daun pisang tjukup untuk dua bungkus",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "cukup untuk dua bungkus"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "djae 1 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "bawang putih 1 belah",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "belah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

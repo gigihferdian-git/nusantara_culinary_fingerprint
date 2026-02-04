@@ -1,0 +1,80 @@
+[
+  {
+    "recipe_id": "MR_1057_01",
+    "title_original": "POFFERTJES",
+    "title_normalized": "Poffertjes",
+    "region": null,
+    "page_number": 1057,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung 6 ons",
+            "item_original": "tepung",
+            "item_normalized": "tepung",
+            "quantity": 6.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "susu 4 gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur 4 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "soda kue setjukupnja",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "mentega setjukupnja",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tepung gula setjukupnja",
+            "item_original": "tepung gula",
+            "item_normalized": "tepung gula",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kaju manis setjukupnja",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikotjok setengah kembang, diberi dua gelas susu.",
+      "Sementara itu susu dua gelas lagi dipetjahkan dengan tepung.",
+      "Kemudian dimasukkan kedalamnja: telur, soda, garam, mentega entjer sedikit.",
+      "Adonan itu diletakkan ditempat jang agak panas kira² dua djam lamanja."
+    ]
+  }
+]

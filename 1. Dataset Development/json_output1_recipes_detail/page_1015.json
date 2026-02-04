@@ -1,0 +1,133 @@
+[
+  {
+    "recipe_id": "MR_1007_1",
+    "title_original": "LEMPER",
+    "title_normalized": "Lemper",
+    "region": null,
+    "page_number": 1007,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Kulit/Bahan Dasar",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 5 ons",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 5.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Isian",
+        "original_header": "Bahan untuk isinja :",
+        "ingredients": [
+          {
+            "original_text": "daging ¹/₂ pon",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "pon"
+          },
+          {
+            "original_text": "ketumbar sedikit",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "djinten giling sedikit",
+            "item_original": "djinten giling",
+            "item_normalized": "jintan giling",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "bawang merah 5 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang putih 3 bdj.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "daun salam setjukupnja",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "lengkuas setjukupnja",
+            "item_original": "lengkuas",
+            "item_normalized": "lengkuas",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "seledri setjukupnja",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 0.0,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Rendamlah beras pulut terlebih dahulu.",
+      "Kemudian dikukus sampai setengah masak.",
+      "Sementara itu dididihkan santan dan garam, lalu tuangkan sedikit demi sedikit kedalam ketan tadi.",
+      "Adúklah sampai rata dan kukus kembali.",
+      "Kalau ketan sudah masak, angkatlah.",
+      "Bundarkanlah sebesar telur dan diisi dengan sesendok daging.",
+      "Sudah itu digulung dengan daun pisang kira² 7 cm pandjangnja, disemat dikedua udjungnja dengan lidi.",
+      "Lemper ini hendaklah dibakar kembali diatas arang (api) jang ketjil dengan mem-balik²annja.",
+      "Kemudian lumari kulitnja dengan sedikit minjak."
+    ]
+  }
+]

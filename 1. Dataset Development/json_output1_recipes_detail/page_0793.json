@@ -1,0 +1,191 @@
+[
+  {
+    "recipe_id": "MR_793_1",
+    "title_original": "SAMBAL TEMPOJAK",
+    "title_normalized": "Sambal Tempoyak",
+    "region": "Palembang",
+    "page_number": 785,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tempojak 1 gls.",
+            "item_original": "tempojak",
+            "item_normalized": "tempoyak",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "udang basah ¼ kg.",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "petai 1 papan",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 1.0,
+            "unit": "papan"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah giling 4 sdm.",
+            "item_original": "lombok merah giling",
+            "item_normalized": "cabai merah giling",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lengkuas 1 iris",
+            "item_original": "lengkuas",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun salam 1 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula pasir 1 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bidji petai dibelah dua, udang dibersihkan, bawang merah diiris halus. Petai direbus dalam 1 gelas air, berturut-turut dimasukkan bawang, udang, bumbu² lain dan tempojak. Terachir dimasukkan santan.",
+      "Dimasak dengan api ketjil sambil diaduk hingga kental seperti sambal."
+    ]
+  },
+  {
+    "recipe_id": "MR_793_2",
+    "title_original": "SAMBAL TEPUNG",
+    "title_normalized": "Sambal Tepung",
+    "region": "Rembang",
+    "page_number": 785,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tempe bosok 10 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "santan 2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kerupuk kulit ½ ons",
+            "item_original": "kerupuk kulit",
+            "item_normalized": "kerupuk kulit",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun djeruk purut 5 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula 1 sdm.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

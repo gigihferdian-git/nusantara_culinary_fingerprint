@@ -1,0 +1,143 @@
+[
+  {
+    "recipe_id": "MR_857_1",
+    "title_original": "(Kue Singkong/Tapioka)",
+    "title_normalized": "Kue Singkong",
+    "region": null,
+    "page_number": 849,
+    "category": "Kue",
+    "ingredient_groups": [],
+    "instructions": [
+      "Singkong dibersihkan, diparut, diberi air hangat 2–3 gajung, diperas dan disaring melalui saringan bambu jang berlubang kasar. Tjairan jang keluar didiamkan selama ± 5 menit. Endapan dipisahkan untuk membuat kue.",
+      "Telur dan gula dikatjau sampai putih, diberi garam dan panili dan tjoklat setelah itu diaduk rata dengan endapan singkong.",
+      "Dituangkan kedalam lojang jang telah dilumuri minjak.",
+      "Dipan sampai warna ke-kuning²an."
+    ]
+  },
+  {
+    "recipe_id": "MR_857_2",
+    "title_original": "CARAMEL VLA",
+    "title_normalized": "Karamel Vla",
+    "region": null,
+    "page_number": 849,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu ½ lt.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "merah telur 2 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "maizena 1½ sdm.",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Susu dan panili didjerangkan, djangan sampai petjah.",
+      "Gula pasir digosongkan, ditjairkan dipan dadar, diberi air sedikit, diaduk.",
+      "Merah telur dan maizena diaduk, ditjairkan dengan susu kemudian dimasukkan, terus dikatjau sampai mendjadi vla.",
+      "Warna vla harus kuning ke-tjoklat²an."
+    ]
+  },
+  {
+    "recipe_id": "MR_857_3",
+    "title_original": "CHATEAU DE SUMATERA",
+    "title_normalized": "Kue Chateau De Sumatera",
+    "region": "Sumatra",
+    "page_number": 849,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 12 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 12.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 8 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 8.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 2 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu manis 2 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "bubuk tjoklat 2 sdm.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk cokelat",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur dikotjok dengan gula sampai mengembang lalu dimasukkan mentega dan dikotjok terus sampai putih.",
+      "Sesudah itu dimasukkan tjoklat, terigu, susu dan panili."
+    ]
+  }
+]

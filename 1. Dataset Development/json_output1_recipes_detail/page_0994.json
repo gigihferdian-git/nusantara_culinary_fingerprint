@@ -1,0 +1,68 @@
+[
+  {
+    "recipe_id": "MR_994_0",
+    "title_original": "KUE SURI",
+    "title_normalized": "Kue Suri",
+    "region": "Palembang",
+    "page_number": 986,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terigu 1 mgk.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "gula pasir 1/4 mgk.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "telur ajam 10 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "susu 1/2 mgk.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.5,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "biang roti 10 g.",
+            "item_original": "biang roti",
+            "item_normalized": "ragi",
+            "quantity": 10.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "margarine 1/4 mgk.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 0.25,
+            "unit": "mangkok"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Biang roti ditjairkan dengan air.",
+      "Dibuat adonan dengan tepung terigu.",
+      "Setelah mengembang, dimasukkan telur, gula, susu, margarine, dikotjok untuk menghantjurkan gula sadja, sehingga didapat adonan jang agak entjer.",
+      "Tjetakan sekeliling diberi alas kertas, kemudian dilumari margarine.",
+      "Adonan dimasukkan dalam tjetakan sampai ¾-nja dan dibiarkan 2 djam.",
+      "Dibakar mulai dengan api bawah jang sedang. Kalau adonan sudah naik dan pinggiran kue sudah agak merah, api ditaruh diatas jang dibikin sedang, dibakar terus sampai merah."
+    ]
+  }
+]

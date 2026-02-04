@@ -1,0 +1,140 @@
+[
+  {
+    "recipe_id": "MR_693_0",
+    "title_original": "Rendang Daging (Tjara membuatnja)",
+    "title_normalized": "Rendang Daging (Cara membuatnya)",
+    "region": null,
+    "page_number": 685,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": []
+      }
+    ],
+    "instructions": [
+      "Daging ditjutji, dipotong persegi ± 3 cm.",
+      "Bumbu digiling halus ketjuali laos, daun kunir dan sereh.",
+      "Kelapa diparut dan dikeluarkan santan sebanjak 12 gelas.",
+      "Santan dan bumbu didihkan didalam wadjan, dimasukkan daging.",
+      "Dimasak dengan api sedang, sambil diaduk-aduk hingga kering air. Api diketjilkan, diaduk terus menerus dengan sodet, diangkat bila kering dan warna tjoklat kehitaman.",
+      "Keterangan 1: Bumbu² dapat ditambahkan dengan 2 hl. daun djeruk purut dan 6 bidji lada. Dapat pula sama sekali tidak menggunakan bawang merah, tetapi bawang putih ditambahkan. Supaja rendang hitam sekali, tidak digunakan kunir.",
+      "Keterangan 2: Rendang dapat dibuat dari ajam, bebek, hati, limpa, otak, paru, telur, kentang, katjang kering, nangka atau pakis. Sering pula dimasak sebagai tjamouran daging dan kentang atau daging dan katjang kering. Menurut tjepat empuknja baru dimasukkan kedalam santan bila telah kental dan berminjak (ajam, otak, telur, pakis). Rendang daging biasanja tahan beberapa hari oleh karena itu sebaiknja dimasak sehingga dalam djumlah banjak. Masakan ini dinamakan \"kalio\" bila tidak dikeringkan, tetapi diangkat bila santan kental dan berminjak."
+    ]
+  },
+  {
+    "recipe_id": "MR_693_1",
+    "title_original": "RENDANG DAUN SINGKONG",
+    "title_normalized": "Rendang Daun Singkong",
+    "region": null,
+    "page_number": 685,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun singkong 2 ikt.",
+            "item_original": "daun singkong",
+            "item_normalized": "daun singkong",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daging 1/4 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 6 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 2 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

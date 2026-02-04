@@ -1,0 +1,179 @@
+[
+  {
+    "recipe_id": "MR_1009_0",
+    "title_original": "LEMPER DJAGUNG MUDA",
+    "title_normalized": "Lemper Jagung Muda",
+    "region": "Wonosobo",
+    "page_number": 1009,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 20 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir ¼ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa muda ½ btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Jagung muda disisir, ditumbuk halus.",
+      "Kelapa diparut, dicampur dengan jagung dan gula, diaduk-aduk sampai rata.",
+      "Dibungkus dengan klobot jagung muda, diikat.",
+      "Dikukus sampai masak kira 0.5 jam."
+    ]
+  },
+  {
+    "recipe_id": "MR_1009_1",
+    "title_original": "LEMPER MENADO",
+    "title_normalized": "Lemper Manado",
+    "region": "Manado",
+    "page_number": 1009,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 lt.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "tongkol 1 kg.",
+            "item_original": "tongkol",
+            "item_normalized": "tongkol",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tomat 3 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun selasi 1 ikt",
+            "item_original": "daun selasi",
+            "item_normalized": "daun selasih",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun kemangi 1 ikt",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun vinkel 2 lbr.",
+            "item_original": "daun vinkel",
+            "item_normalized": "daun adas",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun kutjai 1 ikt",
+            "item_original": "daun kutjai",
+            "item_normalized": "daun kucai",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh 1 pohon",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "pohon"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan dibersihkan, dicuci bersih dan direndam 1 malam.",
+      "Kelapa yang satu diparut, dibuat santan yang kental.",
+      "Beras ketan dikaron dengan santan dan diberi air garam sedikit.",
+      "Jika sudah habis santannya, baru dikukus sampai matang.",
+      "Ikan tongkol dihilangkan durinya."
+    ]
+  }
+]

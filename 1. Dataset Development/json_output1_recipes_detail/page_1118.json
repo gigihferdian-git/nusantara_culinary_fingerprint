@@ -1,0 +1,137 @@
+[
+  {
+    "recipe_id": "MR_1110_0",
+    "title_original": "TAART WALUH DJIPANG",
+    "title_normalized": "Taart Labu Siam",
+    "region": "Purwokerto",
+    "page_number": 1110,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "waluh djipang besar",
+            "item_original": "waluh djipang",
+            "item_normalized": "labu siam",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan kental",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung terigu",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Labu djipang dikupas, dipotong ketjil², direbus sampai masak, dihaluskan dan ditiriskan dikalo.",
+      "Telur, gula dikotjok sampai berbuih, dimasukkan ber-turut²: tepung terigu, waluh djipang, mentega dan santan.",
+      "Dipanggang dalam lojang jang dilumuri margarine sampai kuning dan masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1110_1",
+    "title_original": "TAHU BUMBU KETJAP",
+    "title_normalized": "Tahu Bumbu Kecap",
+    "region": null,
+    "page_number": 1110,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 4.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "taoge",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "terasi",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "recipe_id": "MR_958_1",
+    "title_original": "KUE KEMBANG GOJANG",
+    "title_normalized": "Kue Kembang Goyang",
+    "region": "Malang",
+    "page_number": 958,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu/ beras 1 gls.",
+            "item_original": "tepung terigu/ beras",
+            "item_normalized": "tepung terigu/beras",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak 1/3 btl.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.33,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dan garam ditjampur, kemudian diaduk dengan kotjokan gula dan telur.",
+      "Kelapa diparut, dibuat santan ± 1 gelas.",
+      "Tjampuran di-aduk² dan ditambah santan sedikit demi sedikit sambil dikatjau.",
+      "Lalu dimasukkan tjetakan jang telah dibasahi dengan minjak panas.",
+      "Kemudian digoreng dalam minjak panas sambil di-gojang²kan hingga terlepas dan digoreng sampai kuning dan kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_958_2",
+    "title_original": "KUE KENARI",
+    "title_normalized": "Kue Kenari",
+    "region": null,
+    "page_number": 958,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 2½ ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula halus 2 ons",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "terigu 3½ ons",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 3.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kuning telur 4 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "amandel ½ ons",
+            "item_original": "amandel",
+            "item_normalized": "almond",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak sitrun 2 tetes",
+            "item_original": "minjak sitrun",
+            "item_normalized": "minyak sitrun",
+            "quantity": 2.0,
+            "unit": "tetes"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula diputar sebentar.",
+      "Dimasukkan mentega sedikit demi sedikit.",
+      "Achirnja mendjadi adonan jang lunak."
+    ]
+  }
+]

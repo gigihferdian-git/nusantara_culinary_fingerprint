@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_1129_0",
+    "title_original": "TJUKOK",
+    "title_normalized": "Cukok",
+    "region": null,
+    "page_number": 1129,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah/pasir ¼ kg.",
+            "item_original": "gula merah/pasir",
+            "item_normalized": "gula merah/pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan 3 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 3.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong direbus, ditumbuk halus, dibentuk bulat².",
+      "Gula dan santan direbus sampai mendidih, bulatan dimasukkan. Setelah mendidih lagi, diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_1129_1",
+    "title_original": "TJUTJUR LOKA",
+    "title_normalized": "Cucur Loka",
+    "region": null,
+    "page_number": 1129,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "pisang kepok masak benar 1 ssr.",
+            "item_original": "pisang kepok masak benar",
+            "item_normalized": "pisang kepok matang",
+            "quantity": 1.0,
+            "unit": "sisir"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pandan setjukupnja",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "djeruk nipis 1 bdj.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tepung terigu setjukupnja",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang dikupas, dihilangkan hatinja, dikotjok dengan telur, diberi air djeruk sedikit.",
+      "Daun pisang di-potong² lebar 2½ cm.",
+      "Kedua udjungnja dipertemukan dengan memakai lidi penusuk untuk penahannja, ditaruh diatas talam pisang tadi dimasukkan kedalamnja dan dikukus. Dapat djuga langsung dikukus diatas talam tanpa memakai daun pisang dan sesudah masak di-potong² besarnja menurut keinginan masing².",
+      "Dihidangkan: pisang jang telah dikukus tadi ditaruh diatas piring dan disiram dengan saos.",
+      "Saos :",
+      "Gula pasir dan air ditjairkan dengan djalan dimasak, disaring.",
+      "Tepung terigu ditjairkan dengan air daun pandan dan dimasukkan kedalam air gula tadi jang sedang mendidih, diaduk terus sampai kental sesudah diberi pandan, diangkat."
+    ]
+  }
+]

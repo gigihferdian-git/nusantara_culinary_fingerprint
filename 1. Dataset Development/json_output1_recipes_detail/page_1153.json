@@ -1,0 +1,177 @@
+[
+  {
+    "recipe_id": "MR_1145_1",
+    "title_original": "ES SIRSAK (Inferred)",
+    "title_normalized": "Es Sirsak",
+    "region": null,
+    "page_number": 1145,
+    "category": "Es / Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "air zuursak 1 mgk.",
+            "item_original": "air zuursak",
+            "item_normalized": "air sirsak",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "susu entjer 6 mgk.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 6.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "gula pasir 1 mgk.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "buah²an kaleng 1 mgk.",
+            "item_original": "buah²an kaleng",
+            "item_normalized": "buah-buahan kaleng",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "panili 3 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 3.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung maizena diaduk dengan kuning telur ajam.",
+      "Susu dan air zuursak dimasak sampai mendidih.",
+      "Dimasukkan tepung maizena dan dimasak sampai kental.",
+      "Dimasukkan pula buah²an dan diputar didalam putaran es."
+    ]
+  },
+  {
+    "recipe_id": "MR_1145_2",
+    "title_original": "ES KELAPA MUDA",
+    "title_normalized": "Es Kelapa Muda",
+    "region": null,
+    "page_number": 1145,
+    "category": "Es / Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "santan 3 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daging kelapa muda 1 prg.",
+            "item_original": "daging kelapa muda",
+            "item_normalized": "daging kelapa muda",
+            "quantity": 1.0,
+            "unit": "piring"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "gula 2/3 gls.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.67,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "maizena 1/2 gls.",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan, gula dan panili dimasak sampai mendidih.",
+      "Sesudah itu ditjampurkan maizena dengan daging kelapa, dituangkan santan sedikit² kedalamnja dan kemudian terus dimasak sampai kental.",
+      "Apabila sudah dingin, dimasukkan kedalam putaran es serta diputar sampai keras."
+    ]
+  },
+  {
+    "recipe_id": "MR_1145_3",
+    "title_original": "ES KRIM TJOKLAT",
+    "title_normalized": "Es Krim Cokelat",
+    "region": null,
+    "page_number": 1145,
+    "category": "Es / Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu 2 gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula 1½ ons",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung tjoklat 2 sdm.",
+            "item_original": "tepung tjoklat",
+            "item_normalized": "tepung cokelat",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung maizena 2 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Susu, gula dan panili dimasak sampai mendidih.",
+      "Didalam waktu menunggu itu, diputar telur sampai kembang, ditjampurkan tepung maizena dan tepung tjoklat dan sambil diaduk dituangkan susu jang sudah dimasak tadi sedikit² sampai habis."
+    ]
+  }
+]

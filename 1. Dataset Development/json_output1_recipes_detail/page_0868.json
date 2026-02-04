@@ -1,0 +1,122 @@
+[
+  {
+    "recipe_id": "MR_868_1",
+    "title_original": "DJENANG DJAGUNG",
+    "title_normalized": "Jenang Jagung",
+    "region": "Palembang",
+    "page_number": 860,
+    "category": "Kue/Jenang",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 10 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diparut, diberi air panas 2 gelas, diperas, disaring, diambil patinja.",
+      "Kelapa diparut diambil santannja 2 gelas.",
+      "Air djagung, santan, gula merah, garam ditjampar rata, direbus sampai mendjadi bubur.",
+      "Diratakan diatas lojang jang diberi alas daun pisang.",
+      "Djika sudah dingin di-potong²."
+    ]
+  },
+  {
+    "recipe_id": "MR_868_2",
+    "title_original": "DJENANG GAPLEK",
+    "title_normalized": "Jenang Gaplek",
+    "region": "Madiun",
+    "page_number": 860,
+    "category": "Kue/Jenang",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung gaplek 1/4 kg.",
+            "item_original": "tepung gaplek",
+            "item_normalized": "tepung gaplek",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung kandji 1 ons",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 100.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "panili 1 btg.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, diberi santan 1 liter bersama gula, garam, panili direbus sampai kental.",
+      "Tepung gaplek dan kandji ditjairkan dengan air ± 1 1/4 gelas.",
+      "Adonan dimasukkan kedalam santan, diaduk sampai berminjak."
+    ]
+  }
+]

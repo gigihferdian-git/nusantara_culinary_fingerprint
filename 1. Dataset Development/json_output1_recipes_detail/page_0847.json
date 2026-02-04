@@ -1,0 +1,155 @@
+[
+  {
+    "recipe_id": "MR_839_0",
+    "title_original": "BUMBU LAUK PENDAMPING (Continuation)",
+    "title_normalized": "Bumbu Lauk Pendamping (Sambal/Filling)",
+    "region": null,
+    "page_number": 839,
+    "category": "Bumbu / Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok hidjau 10 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "djinten 1/3 sdt.",
+            "item_original": "djinten",
+            "item_normalized": "jintan",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut dibuat santan.",
+      "Tepung, santan dan garam dibuat bubur.",
+      "Bumbu ditumbuk halus.",
+      "Udang ditjintjang.",
+      "Bumbu ditumis, udang dimasukkan, santan kental ditambahkan dan dimasak.",
+      "Bumbu ini dimakan dengan bubur tsb. dalam no. 2."
+    ]
+  },
+  {
+    "recipe_id": "MR_839_1",
+    "title_original": "BUBUR SAREN",
+    "title_normalized": "Bubur Saren",
+    "region": null,
+    "page_number": 839,
+    "category": "Bubur / Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "merang setjukupnja",
+            "item_original": "merang",
+            "item_normalized": "merang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "djae setjukupnja",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tjengkeh setjukupnja",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah 3 tangkep",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 3.0,
+            "unit": "tangkap"
+          },
+          {
+            "original_text": "santan kental 1 pinggan",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "pinggan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merang dibakar, abunja diremas-remas dengan air.",
+      "Air abu disaring dengan kain hingga djernih dan dipanaskan diatas api hingga mendidih dengan ditjampuri gula merah.",
+      "Tepung dientjerkan dalam air sedikit, dituangkan dalam air abu mendidih, demikian djuga djae, tjengkeh dan lada jang sebelumnja digerus bersama.",
+      "Diaduk terus sambil dipanaskan, agar tidak melekat pada pantji.",
+      "Santan kental dipanaskan diatas api, diaduk terus agar tidak petjah (tetap kental), diberi daun pandan sedikit.",
+      "Bubur hitam tersebut setelah masak dituangkan dalam lojang hingga mengental. Setelah itu diiris memandjang ketjil.",
+      "Dihidangkan bersama santan kental."
+    ]
+  }
+]

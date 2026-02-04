@@ -1,0 +1,152 @@
+[
+  {
+    "recipe_id": "MR_846_1",
+    "title_original": "CAKE DJAHE",
+    "title_normalized": "Cake Jahe",
+    "region": null,
+    "page_number": 846,
+    "category": "Kue/Cake",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 1 ons",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "mentega 2 ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula 2 ons",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur 6 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak citroen 2 tetes",
+            "item_original": "minjak citroen",
+            "item_normalized": "minyak sitrun",
+            "quantity": 2.0,
+            "unit": "tetes"
+          },
+          {
+            "original_text": "manisan djae 1 ons",
+            "item_original": "manisan djae",
+            "item_normalized": "manisan jahe",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega dan gula dikotjok sampai mengembang.",
+      "Sesudah itu dimasukkan kuningnja telur satu per satu dan diaduk rata.",
+      "Kemudian tepung, soda, minjak citroen dan putihnja telur ditjampurkan.",
+      "Penghabisan manisan djae jang telah dipotong ketjil² djuga ditjampurkan.",
+      "Setelah selesai semuanja dimasukkan kedalam tjetakan cake jang bundar atau persegi dan dibakar sampai keras disebelah bawah dahulu.",
+      "Apabila sekeliling pinggirnja sudah mulai kuning kelihatannja, diberi api disebelah atasnja.",
+      "Djika manisan djae tidak ada, boleh diganti dengan manisan buah-buahan jang lain.",
+      "Begitu djuga minjak citroen boleh diganti dengan kulit djeruk sitrun."
+    ]
+  },
+  {
+    "recipe_id": "MR_846_2",
+    "title_original": "CAKE DJAGUNG",
+    "title_normalized": "Cake Jagung",
+    "region": null,
+    "page_number": 846,
+    "category": "Kue/Cake",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1/4 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 0.25,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula 1/2 tjkr.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam 3/4 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.75,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung terigu 1 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bakpoeder 3 sdt.",
+            "item_original": "bakpoeder",
+            "item_normalized": "baking powder",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "susu 1 tjkr.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "margarine 2 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kedua matjam tepung, bakpoeder, gula dan garam ditjampur djadi satu, lalu diajak, ditjampur susu, telur dan margarine, diaduk sampai rata, lalu dituang dilojang jang telah dilumuri minjak."
+    ]
+  }
+]

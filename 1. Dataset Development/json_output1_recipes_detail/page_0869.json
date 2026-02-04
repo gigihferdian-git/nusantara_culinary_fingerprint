@@ -1,0 +1,119 @@
+[
+  {
+    "recipe_id": "MR_869_1",
+    "title_original": "DJENANG KATJANG HIDJAU",
+    "title_normalized": "Jenang Kacang Hijau",
+    "region": "Madiun",
+    "page_number": 861,
+    "category": "Kue Basah / Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung katjang hidjau 1 ons",
+            "item_original": "tepung katjang hidjau",
+            "item_normalized": "tepung kacang hijau",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 1/2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut dibuat santan.",
+      "Santan direbus diberi gula, garam, panili.",
+      "Tepung dicairkan dengan air, dituangkan ke dalam santan yang mendidih diaduk sampai merata.",
+      "Adonan dituang dalam loyang, dan dipotong setelah dingin."
+    ]
+  },
+  {
+    "recipe_id": "MR_869_2",
+    "title_original": "DJENANG PELOK",
+    "title_normalized": "Jenang Pelok",
+    "region": "Rembang",
+    "page_number": 861,
+    "category": "Kue Basah / Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pelok 1 bkl.",
+            "item_original": "pelok",
+            "item_normalized": "pelok",
+            "quantity": 1.0,
+            "unit": "bakul"
+          },
+          {
+            "original_text": "gula djawa 1 kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan wangi 2 hl.",
+            "item_original": "daun pandan wangi",
+            "item_normalized": "daun pandan wangi",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pelok dikupas, dibersihkan, lalu diparut.",
+      "Diperas diambil patinya.",
+      "Petai pelok direndam dengan air.",
+      "Setelah mengendap, air dibuang dan diganti dengan yang bersih. Ini dilakukan berulang kali hingga patinya kelihatan bersih.",
+      "Pati tersebut dijenang dengan gula, daun pandan dan air.",
+      "Sesudah tidak lekat ditangan tanda kalau sudah masak.",
+      "Diangkat, ditaruh di dalam.",
+      "Kalau sudah dingin diiris."
+    ]
+  }
+]

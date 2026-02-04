@@ -1,0 +1,154 @@
+[
+  {
+    "recipe_id": "MR_882_1",
+    "title_original": "Gado Gado Mentah (Karedok)",
+    "title_normalized": "Gado Gado Mentah (Karedok)",
+    "region": null,
+    "page_number": 882,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama (sambungan)",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "ketimun 1 ons",
+            "item_original": "ketimun",
+            "item_normalized": "ketimun",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang pandjang diirisi ketjil².",
+      "Ketimun dikupas, diirisi tipis².",
+      "Taoge dibersihkan, disiram air panas.",
+      "Irisan sajuran dan taoge ditjampur djadi satu.",
+      "Bawang merah diiris halus, digoreng sampai kuning.",
+      "Katjang tanah digoreng.",
+      "Bawang putih, lombok, kentjur, gula dan garam dihaluskan.",
+      "Djika bumbu sudah halus, katjang tanah dihaluskan djuga dan ditjampur dengan bumbu.",
+      "Bumbu diberi air matang sebanjak ¾ gelas.",
+      "Katjang pandjang, ketimun, taoge ditaruh diatas piring pandjang.",
+      "Bumbu disiram diatas sajuran ditaburi bawang goreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_882_2",
+    "title_original": "GAGADOH TIWADAK",
+    "title_normalized": "Gagadoh Tiwadak",
+    "region": "Bandjarmasin",
+    "page_number": 882,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "nangka masak 1 bh.",
+            "item_original": "nangka masak",
+            "item_normalized": "nangka masak",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tepung terigu ¼ kg.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ½ ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 1¼ gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bidji nangka dikeluarkan.",
+      "Tepung terigu, gula pasir dan garam diberi air sedikit, lalu diaduk jang rata dan kental."
+    ]
+  }
+]

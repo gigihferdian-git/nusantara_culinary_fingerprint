@@ -1,0 +1,140 @@
+[
+  {
+    "recipe_id": "MR_805_1",
+    "title_original": "(CONTINUATION)",
+    "title_normalized": "Ampian Dadih (Inferred)",
+    "region": null,
+    "page_number": 797,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "ampiang 2 gls.",
+            "item_original": "ampiang",
+            "item_normalized": "ampiang",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ampian ditjutji dan ditiriskan.",
+      "Kelapa parut diberi garam.",
+      "Makanan dihidangkan dalam piring² kue tjekung jaitu dengan menjusun ber-turut² ampiang, kelapa parut, dadih dan sirop gula djawa."
+    ]
+  },
+  {
+    "recipe_id": "MR_805_2",
+    "title_original": "AMPRUT",
+    "title_normalized": "Amprut",
+    "region": "Tegal",
+    "page_number": 797,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung 1 kg.",
+            "item_original": "djagung",
+            "item_normalized": "jagung",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung disangan (disangrai) sampai matang.",
+      "Ditumbuk halus serta diajak.",
+      "Kelapa dibakar, kemudian diparut.",
+      "Gula merah di-iris².",
+      "Semuanja ditjampur mendjadi satu diberi garam setjukupnja.",
+      "Disangan atau didjemur sampai kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_805_3",
+    "title_original": "ANGLENG",
+    "title_normalized": "Angleng",
+    "region": "Brebes",
+    "page_number": 797,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1/2 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1/2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

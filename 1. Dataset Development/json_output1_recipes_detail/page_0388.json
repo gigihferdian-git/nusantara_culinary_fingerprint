@@ -1,0 +1,178 @@
+[
+  {
+    "recipe_id": "MR_380_1",
+    "title_original": "ATJAR IKAN",
+    "title_normalized": "Acar Ikan",
+    "region": null,
+    "page_number": 380,
+    "category": "Lauk Pauk (Fish/Acar)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "ikan belanak 4 ekor",
+            "item_original": "ikan belanak",
+            "item_normalized": "ikan belanak",
+            "quantity": 4.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, ditjutji, digoreng.",
+      "Lombok diiris pandjang, bawang putih, laos diiris halus, kunjit, kemiri, garam dihaluskan.",
+      "Semua bumbu ditumis, diberi air 1 tjangkir sampai mendidih.",
+      "Ikan dimasukkan, diberi tjuka.",
+      "Diangkat setelah masak, ikan djangan sampai hantjur."
+    ]
+  },
+  {
+    "recipe_id": "MR_380_2",
+    "title_original": "ATJAR IKAN BANDENG",
+    "title_normalized": "Acar Ikan Bandeng",
+    "region": "Rembang",
+    "page_number": 380,
+    "category": "Lauk Pauk (Fish/Acar)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "ikan bandeng 3 ekor",
+            "item_original": "ikan bandeng",
+            "item_normalized": "ikan bandeng",
+            "quantity": 3.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 1/2 ons",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kunjit 1/2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, digoreng.",
+      "Lombok rawit dibelah dua.",
+      "Semua bumbu dihaluskan, ditumis, sesudah masak diberi air ± 1 tjangkir, tjuka dimasukkan.",
+      "Terachir ikan goreng dimasukkan di-aduk² sampai rata, segera diangkat setelah mendidih."
+    ]
+  }
+]

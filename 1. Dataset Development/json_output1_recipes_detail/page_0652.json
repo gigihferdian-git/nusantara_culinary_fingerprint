@@ -1,0 +1,171 @@
+[
+  {
+    "recipe_id": "MR_652_01",
+    "title_original": "BILITANGO",
+    "title_normalized": "Bilitango",
+    "region": "Gorontalo",
+    "page_number": 644,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ikan gabus 1 ekor",
+            "item_original": "ikan gabus",
+            "item_normalized": "ikan gabus",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok besar 1 buah",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang merah 2 buah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 2 buah",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 iris ketjil",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "iris kecil"
+          },
+          {
+            "original_text": "tomat 2 buah",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "minjak kelapa 3 sendok",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan disisik, dibelah (dibuka) dari belakang, dikeluarkan isi perutnja, ditjutji.",
+      "Bumbu² ditjutji, diuleg halus.",
+      "Bumbu² tsb dihaluskan pada belahan ikan.",
+      "Digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_652_02",
+    "title_original": "DADAR ISI",
+    "title_normalized": "Dadar Isi",
+    "region": null,
+    "page_number": 644,
+    "category": "Telur",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur bebek 5 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daging sapi 1/2 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kemiri 4 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng 4 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, diambil santannja.",
+      "Daging ditjintjang.",
+      "Telur dikotjok sampai membuih.",
+      "Bumbu² dihaluskan, ditumis, daging dimasukkan, ditambah santan, direbus sampai kental.",
+      "Adonan telur dibuat dadar, dalamnja diisi dengan lada, daging, digulung."
+    ]
+  }
+]

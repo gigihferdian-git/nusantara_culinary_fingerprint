@@ -1,0 +1,184 @@
+[
+  {
+    "recipe_id": "MR_204_1",
+    "title_original": "(Continued Recipe)",
+    "title_normalized": "Nasi Kuning (Continuation)",
+    "region": null,
+    "page_number": 196,
+    "category": "Bumbu/Nasi",
+    "ingredient_groups": [
+      {
+        "group_name": "Bumbu Lanjut",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djeruk purut sedikit",
+            "item_original": "djeruk purut",
+            "item_normalized": "jeruk purut",
+            "quantity": 0.0,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bawang merah, bawang putih diiris, digoreng.",
+      "Kunjit dihaluskan, diberi air, ditjampurkan dengan beras.",
+      "Beras dikukus sampai masak.",
+      "Laos, kentjur, terasi, garam, djeruk purut dihaluskan.",
+      "Kelapa diparut, diambil santannja 1 gelas.",
+      "Tongkol, santan, bumbu² direbus sampai mendidih.",
+      "Katjang tunggak direndam air panas, dihaluskan bersama terasi dan lombok."
+    ]
+  },
+  {
+    "recipe_id": "MR_204_2",
+    "title_original": "NASI LIWET",
+    "title_normalized": "Nasi Liwet",
+    "region": null,
+    "page_number": 196,
+    "category": "Nasi/Rice Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 200 g.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 200.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "air 3–4 dl",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 3.5,
+            "unit": "desiliter"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air didjerangkan dalam pantji sampai mendidih.",
+      "Beras jang sudah dipilih dan ditjutji dimasukkan.",
+      "Diaduk, ditutup dan dimasak sampai airnja kering.",
+      "Api diketjilkan dan dibiarkan sampai nasinja masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_204_3",
+    "title_original": "NASI PUNAR",
+    "title_normalized": "Nasi Punar",
+    "region": null,
+    "page_number": 196,
+    "category": "Nasi/Rice Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras putih 1 pinggan",
+            "item_original": "beras putih",
+            "item_normalized": "beras putih",
+            "quantity": 1.0,
+            "unit": "serving"
+          },
+          {
+            "original_text": "santan kental 2 pinggan",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "serving"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan setjukupnja",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 0.0,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kunjit 3 bdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "daun salam 4 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.0,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

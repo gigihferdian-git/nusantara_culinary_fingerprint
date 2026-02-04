@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_926_0",
+    "title_original": "KOLAK",
+    "title_normalized": "Kolak",
+    "region": "Purwokerto",
+    "page_number": 926,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong ¹/₂ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "pisang nangka 4 bh.",
+            "item_original": "pisang nangka",
+            "item_normalized": "pisang nangka",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pandan 1 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dan pisang dibersihkan, di-potong² persegi, direbus sampai masak.",
+      "Kelapa dibersihkan, diparut, ditambah dengan garam.",
+      "Gula merah dan pandan direbus, disaring.",
+      "Dihidangkan dengan ditaburi kelapa parut dan disiram sirop gula merah."
+    ]
+  },
+  {
+    "recipe_id": "MR_926_1",
+    "title_original": "KOLAK KOLANG KALING",
+    "title_normalized": "Kolak Kolang Kaling",
+    "region": "Purwokerto",
+    "page_number": 926,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kolang-kaling 2 tjkr. ketjil",
+            "item_original": "kolang-kaling",
+            "item_normalized": "kolang kaling",
+            "quantity": 2.0,
+            "unit": "cangkir kecil"
+          },
+          {
+            "original_text": "kelapa ¹/₄ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diambil santannja 2 gelas.",
+      "Kolang-kaling direbus sampai masak.",
+      "Gula, santan, garam dimasukkan.",
+      "Dimasak sambil di-aduk² supaja santan djangan petjah."
+    ]
+  }
+]

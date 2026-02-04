@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_1047_0",
+    "title_original": "PANTJUA",
+    "title_normalized": "Pancua",
+    "region": "Poso",
+    "page_number": 1047,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging 1 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "bambu 1 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 1.0,
+            "unit": "ruas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun asam 1 tk.",
+            "item_original": "daun asam",
+            "item_normalized": "daun asam",
+            "quantity": 1.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "lombok ketjil setjukupnja",
+            "item_original": "lombok ketjil",
+            "item_normalized": "cabai kecil",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "daun arago 5 putjuk",
+            "item_original": "daun arago",
+            "item_normalized": "daun arago",
+            "quantity": 5.0,
+            "unit": "pucuk"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan, di-potong².",
+      "Daun asam dibuang tangkainja, daun arago di-iris², lombok dan garam dihaluskan, semuanja ditjampur dengan daging.",
+      "Dimasukkan kedalam bambu, dibakar diapi jang sedang."
+    ]
+  },
+  {
+    "recipe_id": "MR_1047_1",
+    "title_original": "PEHULA",
+    "title_normalized": "Pehula",
+    "region": "Batak",
+    "page_number": 1047,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula aren 1 bdj.",
+            "item_original": "gula aren",
+            "item_normalized": "gula aren",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 60 sdm.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 60.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut ditjampur gula.",
+      "Tepung ditjampur parutan kelapa.",
+      "Di-kepal² dengan tangan.",
+      "Dikukus atau ditaruh diatas nasi jang sedang direbus jang airnja sudah dibuang, hingga nasinja masak benar."
+    ]
+  }
+]

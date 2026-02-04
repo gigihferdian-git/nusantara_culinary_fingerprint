@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_881_0",
+    "title_original": "[Recipe continuation: Unknown Sweet Snack]",
+    "title_normalized": "Kue Kering Tradisional (Lanjutan)",
+    "region": null,
+    "page_number": 873,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng ½ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu:",
+        "ingredients": [
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan direndam ½ djam, ditiriskan, ditumbuk, ditapis, didjemur sampai kering lalu ditapis kembali.",
+      "Telur dikatjau sampai mengembang.",
+      "Soda kue ditjampurkan.",
+      "Tepung dimasukkan, diuli sampai mendjadi adonan jang dapat dibentuk.",
+      "Dibentuk menjerupai angka 8.",
+      "Minjak dididihkan, wadjan diangkat sebentar dari api, sampai minjak dingin.",
+      "Adonan jang sudah dibentuk dimasukkan, wadjan didjerangkan kembali diatas api jang sedang, kue dibalik.",
+      "Bila sudah agak keras diangkat, ditiriskan, didjemur.",
+      "Gula dimasak dengan sedikit air sampai putih, lalu kue² dimasukkan, diaduk sampai kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_881_1",
+    "title_original": "EKOR KUNING DALAM KOLAM",
+    "title_normalized": "Ekor Kuning Dalam Kolam",
+    "region": null,
+    "page_number": 873,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "menir dijagung ½ tjkr.",
+            "item_original": "menir dijagung",
+            "item_normalized": "menir jagung",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan 1 tjkr.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir ½ gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tape 1 ons",
+            "item_original": "tape",
+            "item_normalized": "tapai",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "warna setjukupnja",
+            "item_original": "warna",
+            "item_normalized": "pewarna",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Menir djagung ditjutji, dirambang, bagian² jang terapung (putih²) dibuangi.",
+      "Dijutji beberapa kali, sampai jang putih² itu hampir bersih.",
+      "Dimasak seperti memasak bubur, terus didinginkan dalam tji²takan puding jang berupa ikan²an.",
+      "Untuk saos: tape dihaluskan, kalau perlu disaring dengan kalo.",
+      "Dimasak tape ini dengan santan dan gula sampai kental.",
+      "Diberi warna biru laut dengan warna kue."
+    ]
+  }
+]

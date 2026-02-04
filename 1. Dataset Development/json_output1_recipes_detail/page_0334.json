@@ -1,0 +1,208 @@
+[
+  {
+    "recipe_id": "MR_334_0",
+    "title_original": "BUMBU DAN TJARA MEMBUATNJA (Sayur Pepaja Muda dan Kikil)",
+    "title_normalized": "Sayur Pepaya Muda dan Kikil (Bumbu dan Cara Membuatnya)",
+    "region": null,
+    "page_number": 326,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "salam 1 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pepaja muda dikupas, ditjutji, di-potong² setebal 1/2 cm, selebar 1 cm.",
+      "Bumbu dihaluskan ketjuali salam dan laos",
+      "Kikil dipotong-potong, petai diiris ketjil.",
+      "Kelapa diparut, dibuat santan.",
+      "Bumbu ditumis, kikil dimasukkan, sesudah lunak baru pepaja muda, ditambah bumbu dan bahan² lainnja.",
+      "Dibiarkan sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_334_1",
+    "title_original": "SAMBAL GORENG PERENTIL",
+    "title_normalized": "Sambal Goreng Perentil",
+    "region": "Pasarminggu",
+    "page_number": 326,
+    "category": "Sambal Goreng",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging 1/2 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang 1 ons",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kapri 1/2 ons.",
+            "item_original": "kapri",
+            "item_normalized": "kapri",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "petai 1/2 btr.",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak 1 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 iris.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "asam 2 mata.",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "daun salam 1 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dijtintjang, diberi garam, kemudian dibentuk bulat² seperti kelereng.",
+      "Kentang dibersihkan dan di-potong² seperti dadu, kapri dibersihkan, di-iris².",
+      "Kelapa diparut, dibuat santan kental.",
+      "Bumbu² dihaluskan, ketjuali laos, salam; asam diberi air diambil santannja."
+    ]
+  }
+]

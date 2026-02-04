@@ -1,0 +1,174 @@
+[
+  {
+    "recipe_id": "MR_550_1",
+    "title_original": "[RECIPE CONTINUATION: UDANG/KELAPA]",
+    "title_normalized": "[Inferred: Pepes Udang Kelapa]",
+    "region": null,
+    "page_number": 542,
+    "category": "Seafood/Grilling",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "temu kuntji 1/2 rdj.",
+            "item_original": "temu kuntji",
+            "item_normalized": "temu kunci",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "gula pasir 1 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa dibersihkan, diparut.",
+      "Udang dibersihkan, kemudian dihaluskan bersama bumbu.",
+      "Ditjampur rata bersama kelapa parut, sesudah itu dibungkusi memandjang dengan daun pisang.",
+      "Dipanggang diatas api arang."
+    ]
+  },
+  {
+    "recipe_id": "MR_550_2",
+    "title_original": "PELETJING KANGKUNG",
+    "title_normalized": "Pelecing Kangkung",
+    "region": "Lombok",
+    "page_number": 542,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 5 ikat",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 5.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "minjak goreng 1 tjkr.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "asam 2 sdt.",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djeruk limau 1 bh.",
+            "item_original": "djeruk limau",
+            "item_normalized": "jeruk limau",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kangkung ditjutji, dipotong-potong.",
+      "Air dimasak sampai mendidih, kangkung dimasukkan.",
+      "Setelah masak diangkat, segera ditiriskan. Warnanja harus tetap hidjau.",
+      "Lombok, terasi dibakar, dihaluskan dengan kemiri.",
+      "Setelah halus ditjampur dengan minjak, garam dan djeruk limau.",
+      "Kangkung jang telah direbus, ditjampur dengan sambalnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_550_3",
+    "title_original": "PELETJING AJAM",
+    "title_normalized": "Pelecing Ayam",
+    "region": "Lombok",
+    "page_number": 542,
+    "category": "Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam sedang 1 ekor",
+            "item_original": "ajam sedang",
+            "item_normalized": "ayam sedang",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": null,
+        "ingredients": []
+      }
+    ],
+    "instructions": []
+  }
+]

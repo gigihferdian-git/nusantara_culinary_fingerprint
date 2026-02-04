@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_1030_1",
+    "title_original": "NANITIPA",
+    "title_normalized": "Nanitipa",
+    "region": "Batak",
+    "page_number": 1030,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "gabah padi jang belum tua 1 kg.",
+            "item_original": "gabah padi jang belum tua",
+            "item_normalized": "gabah padi yang belum tua",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir atau gula aren 1/5 kg.",
+            "item_original": "gula pasir atau gula aren",
+            "item_normalized": "gula pasir atau gula aren",
+            "quantity": 0.2,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 bdj.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gabah digoreng tanpa minyak sampai setengah kering.",
+      "Ditumbuk panas-panas secara cepat, juga sampai dingin.",
+      "Ditampi.",
+      "Kelapa dikukur dan dicampuri gula dan garam.",
+      "Butiran padi yang berbentuk tipis dan lebar dicampuri gula dan kelapa."
+    ]
+  },
+  {
+    "recipe_id": "MR_1030_2",
+    "title_original": "NASI DJABA",
+    "title_normalized": "Nasi Jaba",
+    "region": "Menado",
+    "page_number": 1030,
+    "category": "Rice Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 4 gls.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "bambu 2 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 2.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "daun pisang 2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan dicuci.",
+      "Kelapa diparut, dibuat santan 4 gelas.",
+      "Jahe dimemarkan, dicampur santan.",
+      "Bambu dilapis daun pisang, ketan dan daun pandan dimasukkan."
+    ]
+  }
+]

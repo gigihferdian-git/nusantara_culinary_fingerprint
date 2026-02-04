@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_739_1",
+    "title_original": "NATINOMBUR",
+    "title_normalized": "Natinombur",
+    "region": "Batak",
+    "page_number": 731,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "Ikan (lele, mas, tawes) 1 kg.",
+            "item_original": "Ikan (lele, mas, tawes)",
+            "item_normalized": "Ikan (lele, mas, tawes)",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kemiri 10 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djeruk sundai (sitroen) 3 bdj.",
+            "item_original": "djeruk sundai (sitroen)",
+            "item_normalized": "jeruk sundai (sitrun)",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 4 iris",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 4.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "lombok rawit setjukupnja",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "air 1 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "lada 5 bdj.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "djae 5 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 5.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu digiling bersama air dan djeruk sundai jang diperas.",
+      "Ikan dipanggang diatas bara."
+    ]
+  },
+  {
+    "recipe_id": "MR_739_2",
+    "title_original": "PALAI BADAR BASAH",
+    "title_normalized": "Palai Badar Basah",
+    "region": "Padang",
+    "page_number": 731,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan teri basah ¼ kg.",
+            "item_original": "ikan teri basah",
+            "item_normalized": "ikan teri basah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

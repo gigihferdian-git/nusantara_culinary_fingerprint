@@ -1,0 +1,136 @@
+[
+  {
+    "recipe_id": "MR_1003_0",
+    "title_original": "LAPIS SUSU",
+    "title_normalized": "Lapis Susu",
+    "region": null,
+    "page_number": 1003,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 3/4 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.75,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "susu 1/4 gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "margarine 1/4 gls.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "terigu 5 sdm.",
+            "item_original": "terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1/4 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok, djangan sampai kembang.",
+      "Dimasukkan terigu, diaduk sampai rata.",
+      "Lojang diolesi mentega, dialas kertas diolesi lagi dengan mentega, kemudian ditaburi tepung.",
+      "Dimasukkan adonan 1 gelas, ditutup, diberi api atas, dibiarkan sampai kuning, ditekan sampai rata.",
+      "Dimasukkan lagi adonan 1 gelas, dipanggang sampai warna kuning, dibiarkan lagi.",
+      "Demikian dikerdjakan ber-turut² sampai adonan habis."
+    ]
+  },
+  {
+    "recipe_id": "MR_1003_1",
+    "title_original": "LAS ELAS",
+    "title_normalized": "Las Elas",
+    "region": "Madura",
+    "page_number": 1003,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pisang",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dan kelapa diparut, dicampur, ditambah garam.",
+      "Dibungkus daun pisang, dalamnya diberi gula, dikukus."
+    ]
+  }
+]

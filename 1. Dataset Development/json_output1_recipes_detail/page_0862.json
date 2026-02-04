@@ -1,0 +1,158 @@
+[
+  {
+    "recipe_id": "MR_862_1",
+    "title_original": "DEMBARAN",
+    "title_normalized": "Dembaran",
+    "region": "Kalimantan",
+    "page_number": 854,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kalkun 1 ekor",
+            "item_original": "kalkun",
+            "item_normalized": "kalkun",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng ¼ gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 8 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 8.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 5 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kalkun dibersihkan, di-potong².",
+      "Bumbu dihaluskan, digoreng.",
+      "Dimasukkan daging kalkun, digoreng sampai meresap bumbunja.",
+      "Santan dan sereh dimasukkan.",
+      "Didjerangkan sampai lunak."
+    ]
+  },
+  {
+    "recipe_id": "MR_862_2",
+    "title_original": "DEMPLO DJAGUNG",
+    "title_normalized": "Demplo Jagung",
+    "region": "Jogjakarta",
+    "page_number": 854,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 kg.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/3 butir",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kalkun dibersihkan, di-potong².",
+      "Gula merah direbus dengan 2 gelas air.",
+      "Air gula disaring, ditambah garam.",
+      "Kelapa dan tepung ditjampur rata.",
+      "Air gula dimasukkan sedikit², kemudian diaduk sampai kental."
+    ]
+  }
+]

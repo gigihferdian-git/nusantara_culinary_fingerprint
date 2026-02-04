@@ -1,0 +1,109 @@
+[
+  {
+    "recipe_id": "MR_1134_1",
+    "title_original": "UTRI DJAGUNG",
+    "title_normalized": "Utri Jagung",
+    "region": null,
+    "page_number": 1134,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 20 bdj.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diparut, diambil patinja.",
+      "Kelapa diparut, diambil santannja 1 gelas.",
+      "Gula merah direbus dengan santan, diberi garam dan dibiarkan sampai mendidih.",
+      "Pati djagung dimasukkan, di-aduk² sampai masak,",
+      "Dibungkus dengan daun pisang.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1134_2",
+    "title_original": "VANEI",
+    "title_normalized": "Vanei",
+    "region": null,
+    "page_number": 1134,
+    "category": "Kue/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung sagu (kering) 1 kg.",
+            "item_original": "tepung sagu (kering)",
+            "item_normalized": "tepung sagu (kering)",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, kemudian ditjampur dengan tepung sagu kering.",
+      "Di-ulet² dan dibentuk lempengan setebal ½ cm.",
+      "Setelah dibungkus dengan daun pisang kemudian dibakar atau dipanggang dengan api sampai masak."
+    ]
+  }
+]

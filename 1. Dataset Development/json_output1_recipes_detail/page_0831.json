@@ -1,0 +1,128 @@
+[
+  {
+    "recipe_id": "MR_823_1",
+    "title_original": "BOLU BRAI",
+    "title_normalized": "Bolu Brai",
+    "region": "Sumbawa",
+    "page_number": 823,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1¼ gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung beras ¾ gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.75,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "margarine 2 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung digongseng (disangan).",
+      "Telur dikotjok dengan sebagian gula sampai berbuih.",
+      "Tepung dimasukkan, diaduk sampai rata.",
+      "Adonan dimasukkan dalam lojang jang telah diolesi margarine, lalu dikukus.",
+      "Setelah masak di-potong² persegi.",
+      "Sisa gula didjerangkan dengan air sampai agak kental.",
+      "Potongan kue dimasukkan sedikit demi sedikit, setelah gula agak meresap baru diangkat.",
+      "Bila perlu dapat dibungkus kertas minjak."
+    ]
+  },
+  {
+    "recipe_id": "MR_823_2",
+    "title_original": "BOLU GULUNG",
+    "title_normalized": "Bolu Gulung",
+    "region": null,
+    "page_number": 823,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 6 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 3 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 1 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 1½ tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu manis 2 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "jam 1 sdt.",
+            "item_original": "jam",
+            "item_normalized": "selai",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kuningja telur di kotjok sampai mengembang.",
+      "Lalu dimasukkan mentega dan dikotjok sampai rata.",
+      "Sesudah itu dimasukkan tepung terigu, susu dan panili lalu diaduk hingga rata.",
+      "Dibakar dalam lojang jang berbentuk persegi.",
+      "Apabila telah masak, diangkat dan dikeluarkan, disapu dengan jam dan panas² digulungi."
+    ]
+  }
+]

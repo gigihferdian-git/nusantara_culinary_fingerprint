@@ -1,0 +1,104 @@
+[
+  {
+    "recipe_id": "MR_1015_1",
+    "title_original": "Continuation of Previous Recipe",
+    "title_normalized": "Kue Djari Gula",
+    "region": null,
+    "page_number": 1015,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "gula",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "gula pasir 1/2 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikotjok sampai putih dan kembang.",
+      "Tepung dimasukkan kedalamnja, diberi panili, diaduk hingga rata benar.",
+      "Dibentuk bulat pandjang sebesar djari, dan dibuat seperti angka 8.",
+      "Kue jang telah dibentuk digoreng hingga kuning.",
+      "Gula ditjairkan dengan air sedikit. Kalau sudah mulai berbenang, kue jang sudah digoreng dimasukkan, di-aduk² sampai kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_1015_2",
+    "title_original": "LINGKARAN BUNGA",
+    "title_normalized": "Lingkaran Bunga",
+    "region": null,
+    "page_number": 1015,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula tumbuk 1 tjkr.",
+            "item_original": "gula tumbuk",
+            "item_normalized": "gula tumbuk",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 1 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 1/4 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.25,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kulit djeruk purut sedikit",
+            "item_original": "kulit djeruk purut",
+            "item_normalized": "kulit jeruk purut",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kuning telur diputar dengan gula hingga kuning.",
+      "Dimasukkan kulit djeruk purut lalu dikikis kedalamnja.",
+      "Putih telur diputar hingga naik.",
+      "Mentega dipanaskan diatas api jang ketjil hingga hantjur dan dimasukkan sedikit kedalam kuning telur jang telah diputar.",
+      "Berikut dimasukkan putih telur jang sudah diputar.",
+      "Tepung terigu jang sudah ditjampur dengan soda dimasukkan.",
+      "Semua diaduk rata hingga bertjampur betul.",
+      "Diambil tjetakan cake berlobang ditengahnja (ringvorm) lalu disapu sebelahnja dengan mentega sedikit serta ditebari tepung.",
+      "Dipanasi sebentar, lalu dimasukkan adonan tersebut kedalamnja dan dibakar dengan mula² api bawah.",
+      "Kalau kue agak naik kelihatan apinja dipindahkan separoh keatas dan dibakar terus sampai masak.",
+      "Kalau sudah masak diletakkan diatas piring katja jang bagus.",
+      "Tengah² cake jang berlubang diisi dengan selai nenas dan sebelah atasnja diberi berbunga dengan roomboter serta room-chocolade."
+    ]
+  }
+]

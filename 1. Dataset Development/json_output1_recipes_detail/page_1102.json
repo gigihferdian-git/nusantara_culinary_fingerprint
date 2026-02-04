@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_id": "MR_1094_01",
+    "title_original": "SLEI",
+    "title_normalized": "Selai",
+    "region": null,
+    "page_number": 1094,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "agar² 2 btg.",
+            "item_original": "agar²",
+            "item_normalized": "agar-agar",
+            "quantity": 2.0,
+            "unit": "batang"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "tjenkeh 1 bdj.",
+            "item_original": "tjenkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "sereh 1 pt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "manis djangan 1 bt.",
+            "item_original": "manis djangan",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula 1 tjkr.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "pandan wangi 1 lbr.",
+            "item_original": "pandan wangi",
+            "item_normalized": "pandan wangi",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "santan 1 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Adonan bumbu² direbus dan setelah mendidih ± ½ djam lamanja agar² dimasukkan.",
+      "Setelah agar² bertjampur betul bersama bumbu², disaring, ditempatkan dalam baskom.",
+      "Warna dengan teres diberikan pada waktu akan disaring."
+    ]
+  },
+  {
+    "recipe_id": "MR_1094_02",
+    "title_original": "SLONDOK",
+    "title_normalized": "Slondok",
+    "region": null,
+    "page_number": 1094,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "getuk dari ketela pohon 1 kg.",
+            "item_original": "getuk dari ketela pohon",
+            "item_normalized": "getuk (adonan) dari singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Getuk diglintiri sebesar pendil lalu dibuat seperti glintiri geblek (garis tengah ± 2 cm).",
+      "Sesudah diglintiri bulat, didjemur sampai kering.",
+      "Digoreng."
+    ]
+  }
+]

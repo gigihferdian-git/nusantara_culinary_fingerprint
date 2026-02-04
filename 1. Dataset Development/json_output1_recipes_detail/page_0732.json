@@ -1,0 +1,143 @@
+[
+  {
+    "recipe_id": "MR_732_1",
+    "title_original": "IKAN BUNGKUS",
+    "title_normalized": "Ikan Bungkus",
+    "region": "Irian Barat",
+    "page_number": 724,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ikan laut/tawar 1 kg.",
+            "item_original": "ikan laut/tawar",
+            "item_normalized": "ikan laut/tawar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun talas setjukupnja",
+            "item_original": "daun talas",
+            "item_normalized": "daun talas",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan dan dimasukkan kedalam daun talas dan ditutup.",
+      "Kemudian dibakar diatas api ketjil hingga masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_732_2",
+    "title_original": "IKAN MAS DALAM BAMBU",
+    "title_normalized": "Ikan Mas Dalam Bambu",
+    "region": "Toradja",
+    "page_number": 724,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ikan mas 1 ekor",
+            "item_original": "ikan mas",
+            "item_normalized": "ikan mas",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa ½ bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kol ½ bh.",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bambu 2 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 2.0,
+            "unit": "ruas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok besar 2 bh.",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kunjit 3 iris",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 3.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "daun prei 1 btg.",
+            "item_original": "daun prei",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun kutjai 5 btg.",
+            "item_original": "daun kutjai",
+            "item_normalized": "daun kucai",
+            "quantity": 5.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "djae 3 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 3.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "tomat besar 2 bh.",
+            "item_original": "tomat besar",
+            "item_normalized": "tomat besar",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "recipe_id": "MR_190_1",
+    "title_original": "NASI DJAGUNG GAPLEK",
+    "title_normalized": "Nasi Jagung Gaplek",
+    "region": "Madura",
+    "page_number": 190,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung bidji setengah tua 1 kg.",
+            "item_original": "djagung bidji setengah tua",
+            "item_normalized": "jagung biji setengah tua",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gaplek 1 kg.",
+            "item_original": "gaplek",
+            "item_normalized": "gaplek",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "air 1 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Jagung ditumbuk kasar menjadi beras.",
+      "Gaplek ditumbuk kasar menjadi beras.",
+      "Beras jagung dan beras gaplek dicampur.",
+      "Campuran dikukus setengah masak.",
+      "Dikeru dengan air yang diberi garam, sampai merata.",
+      "Dikukus lagi sampai masak."
+    ]
+  }
+]

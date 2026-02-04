@@ -1,0 +1,114 @@
+[
+  {
+    "recipe_id": "MR_899_1",
+    "title_original": "GROWOL",
+    "title_normalized": "Growol",
+    "region": null,
+    "page_number": 899,
+    "category": "Makanan Pokok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, ditjutji bersih. Direndam dalam air 2-3 hari, tidak usah diganti airnja perendam.",
+      "Setelah 3 hari, singkong diangkat dan ditiriskan, ditumbuk sampai halus.",
+      "Dikukus sampai masak.",
+      "Ditaruh dalam bakul, ditekan sampai padat.",
+      "Keterangan: Dimakan ter-potong² dengan kelapa parut. Dapat dipakai sebagai pengganti beras. Dihidangkan dengan lauk pauk."
+    ]
+  },
+  {
+    "recipe_id": "MR_899_2",
+    "title_original": "GUDIR",
+    "title_normalized": "Gudir",
+    "region": "Yogyakarta",
+    "page_number": 899,
+    "category": "Kudapan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "rumput laut 1 kg.",
+            "item_original": "rumput laut",
+            "item_normalized": "rumput laut",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "tjenkeh 2 bdj.",
+            "item_original": "tjenkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "manis djangan 1 btg.",
+            "item_original": "manis djangan",
+            "item_normalized": "manis jangan",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula 2 ons",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "pandan wangi 1 lbr.",
+            "item_original": "pandan wangi",
+            "item_normalized": "pandan wangi",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "santan kelapa ½ btr.",
+            "item_original": "santan kelapa",
+            "item_normalized": "santan kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Rumput laut direbus dan disaring.",
+      "Bumbu² direbus dan setelah mendidih ½ djam, rumput jang..."
+    ]
+  }
+]

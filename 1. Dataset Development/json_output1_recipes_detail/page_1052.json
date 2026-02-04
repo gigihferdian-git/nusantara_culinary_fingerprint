@@ -1,0 +1,161 @@
+[
+  {
+    "recipe_id": "MR_1052_1",
+    "title_original": "Tjara membuat vla dan bahannja",
+    "title_normalized": "Vla (Custard Sauce)",
+    "region": null,
+    "page_number": 1044,
+    "category": "Saus",
+    "ingredient_groups": [
+      {
+        "group_name": "vla",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kuning telur ajam 4 btr.",
+            "item_original": "kuning telur ajam",
+            "item_normalized": "kuning telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula kasar 1 1/2 tjkr.",
+            "item_original": "gula kasar",
+            "item_normalized": "gula kasar",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "susu entjer 1 klg.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.0,
+            "unit": "kaleng"
+          },
+          {
+            "original_text": "air dingin 1/2 klg.",
+            "item_original": "air dingin",
+            "item_normalized": "air dingin",
+            "quantity": 0.5,
+            "unit": "kaleng"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mula² kuning telur, gula kasar, terigu, mentega, susu dan air dipetjah djadi satu.",
+      "Terlebih dahulu di-katjau² sampai terigu jang ber-bidji² itu ketika kena air petjah djadi satu dan rata dengan air susu dan telur tadi.",
+      "Sudah itu diletakkan diatas api (bara) dan dikatjau sampai kental dan masak.",
+      "Sudah itu bolehlah diangkat dan dipakai untuk segala matjam kue."
+    ]
+  },
+  {
+    "recipe_id": "MR_1052_2",
+    "title_original": "PASTEL BANDENG",
+    "title_normalized": "Pastel Bandeng",
+    "region": null,
+    "page_number": 1044,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 ons",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "margarine 1 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "susu 1 tjkr.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bahan ditjampur mendjadi satu sampai merupakan adonan jang dapat digulung.",
+      "Digilas tipis lalu ditjetak bulat² dengan gelas.",
+      "Diisi dengan ragout bandeng lalu ditjetak (dilipat mendjadi dua hingga merupakan bentuk 1/2 rembulan).",
+      "Pinggir² di-tekan² dengan garpu supaja bergurat.",
+      "Digoreng dengan minjak jang panas sampai kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_1052_3",
+    "title_original": "PASTEL GORENG (Palembang)",
+    "title_normalized": "Pastel Goreng (Palembang)",
+    "region": "Palembang",
+    "page_number": 1044,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "pepaja mentah 1 bh.",
+            "item_original": "pepaja mentah",
+            "item_normalized": "pepaya mentah",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak 1/3 btl.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.33,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

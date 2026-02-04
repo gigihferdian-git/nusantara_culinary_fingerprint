@@ -1,0 +1,166 @@
+[
+  {
+    "recipe_id": "MR_284_1",
+    "title_original": "SAJUR BENING NANGKA MUDA",
+    "title_normalized": "Sayur Bening Nangka Muda",
+    "region": null,
+    "page_number": 284,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "nangka muda 1/2 kg.",
+            "item_original": "nangka muda",
+            "item_normalized": "nangka muda",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "bajam 1 ikt.",
+            "item_original": "bajam",
+            "item_normalized": "bayam",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun tjikra-tjikri 1/2 ikt.",
+            "item_original": "daun tjikra-tjikri",
+            "item_normalized": "daun cikra-cikri",
+            "quantity": 0.5,
+            "unit": "ikat"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gram 1 sdm.",
+            "item_original": "gram",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Nangka muda di-potong² lalu ditjutji.",
+      "Bajam, tjakra-tjikri ditjutji, di-potong².",
+      "Bumbu² dihaluskan, ketjuali salam.",
+      "Bumbu² jang halus dimasukkan air mentah, direbus sampai mendidih",
+      "Nangka muda dimasukkan, direbus sampai empuk.",
+      "Bajam dan tjikra-tjikri menjusul.",
+      "Di-aduk², sampai tjukup masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_284_2",
+    "title_original": "SAJUR BENING TEMPE",
+    "title_normalized": "Sayur Bening Tempe",
+    "region": "Tegal",
+    "page_number": 284,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tempe 6 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 6.0,
+            "unit": "potong"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 2 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 1 sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tempe dipotong ketjil².",
+      "Lombok merah dipotong serong tipis.",
+      "Bawang merah diiris tipis.",
+      "Semua bumbu dan tempe direbus sampai masak."
+    ]
+  }
+]

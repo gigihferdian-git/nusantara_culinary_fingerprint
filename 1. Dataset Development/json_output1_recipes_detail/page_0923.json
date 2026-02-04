@@ -1,0 +1,112 @@
+[
+  {
+    "recipe_id": "MR_923_1",
+    "title_original": "KELEPON SINGKONG",
+    "title_normalized": "Klepon Singkong",
+    "region": "Wonosobo",
+    "page_number": 915,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung kandji disiram air mendidih, sedikit diuli sampai dapat dibentuk.",
+      "Bentuklah bulat sebesar kelereng, didalamnja diisi gula merah, direbus dalam air mendidih sampai masak merapung.",
+      "Kelapa diparut, diberi garam halus.",
+      "Kelepon jang telah masak di-gulung²kan kedalam kelapa itu."
+    ]
+  },
+  {
+    "recipe_id": "MR_923_2",
+    "title_original": "KELEPON UBI DJALAR",
+    "title_normalized": "Klepon Ubi Jalar",
+    "region": null,
+    "page_number": 915,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar 1 kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung kandji ¼ kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun pandan ditumbuk, diambil airnja (air sudji).",
+      "Gula dipotong ketjil².",
+      "Kelapa direbus, dikupas, dihaluskan, ditjampur rata dengan tepung kandji dan diberi air sudji djadi berwarna hidjau.",
+      "Dibulatkan sebesar ± ½ bola pingpong, dalamnja diberi gula.",
+      "Dimasukkan dalam air mendidih, setelah terapung diangkat, dimasukkan dalam air dingin sebentar, diangkat lagi, ditiriskan.",
+      "Kelapa diparut, ditjamput dengan garam.",
+      "Kelepon digulung¹kan kelapa parut. Dihidangkan pada piring tjeper."
+    ]
+  }
+]

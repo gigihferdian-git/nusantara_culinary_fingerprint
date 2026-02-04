@@ -1,0 +1,180 @@
+[
+  {
+    "recipe_id": "MR_928_1",
+    "title_original": "KOLAK TALAS",
+    "title_normalized": "Kolak Talas",
+    "region": null,
+    "page_number": 928,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "talas 1 kg.",
+            "item_original": "talas",
+            "item_normalized": "talas",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kaju manis 1/2 ptg.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 0.5,
+            "unit": "potong"
+          },
+          {
+            "original_text": "pandan atau panili 1 sdt.",
+            "item_original": "pandan atau panili",
+            "item_normalized": "pandan atau vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Talas dikupas, diiris persegi ketjil², dikukus.",
+      "Kelapa diparut diambil santannja 1/2 liter.",
+      "Direbus bersama gula, pandan, garam, kaju manis.",
+      "Djika telah mendidih, masukkan talas hingga santan tinggal setengahnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_928_2",
+    "title_original": "KOLAK UBI DJALAR",
+    "title_normalized": "Kolak Ubi Jalar",
+    "region": null,
+    "page_number": 928,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar 1 kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar dikupas, dipotong, direndam dalam air kapur 10 menit; ditiriskan, ditjutji dan direbus dengan sedikit air sampai 1/2 masak.",
+      "Kelapa diparut, diambil santannja.",
+      "Gula dimasukkan dalam rebusan tersebut, terachir santan. Diaduk per-lahan² supaja tidak petjah dan ubi tidak hantjur."
+    ]
+  },
+  {
+    "recipe_id": "MR_928_3",
+    "title_original": "KRAKELING BANDENG",
+    "title_normalized": "Krakeling Bandeng",
+    "region": null,
+    "page_number": 928,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daging ikan bandeng jang dibuang durinja 1/4 kg.",
+            "item_original": "daging ikan bandeng jang dibuang durinja",
+            "item_normalized": "daging ikan bandeng yang dibuang durinya",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "margarine 2 ons",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "merah telur 1 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "susu 1/4 tjkr.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.25,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

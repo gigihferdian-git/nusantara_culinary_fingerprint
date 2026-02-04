@@ -1,0 +1,115 @@
+[
+  {
+    "recipe_id": "MR_418_1",
+    "title_original": "BOTOK PUTREN",
+    "title_normalized": "Botok Putren",
+    "region": "Rembang",
+    "page_number": 418,
+    "category": "Lauk Pauk/Botok",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "putren 20 bh.",
+            "item_original": "putren",
+            "item_normalized": "putren (jagung muda)",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa ½ tua ½ btr.",
+            "item_original": "kelapa ½ tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ikan asin/peda ½ ons.",
+            "item_original": "ikan asin/peda",
+            "item_normalized": "ikan asin/peda",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pisang 3 pelepah",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 3.0,
+            "unit": "pelepah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 7 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 ptg.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "terasi ½ sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Putren diiris tipis² bulat.",
+      "Kelapa diparut, ikan asin ditjutji, dipotong mendjadi 3,",
+      "Durinja dibuang, kepalanja dibakar, dihaluskan, diberi air sedikit, disaring, ditjampur dengan kelapa dan putren.",
+      "Semua bumbu dihaluskan, ditjampur dengan adonan no. 3.",
+      "Tjamparan dibungkusi, dalamnja diisi dengan ikan asin sepotong, dikukus."
+    ]
+  }
+]

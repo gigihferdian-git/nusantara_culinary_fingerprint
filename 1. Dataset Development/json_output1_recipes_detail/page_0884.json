@@ -1,0 +1,175 @@
+[
+  {
+    "recipe_id": "MR_876_1",
+    "title_original": "(Lanjutan resep sebelumnya - Pempek Tahu)",
+    "title_normalized": "Continuation of previous recipe (Pempek Tahu)",
+    "region": null,
+    "page_number": 876,
+    "category": "Pempek",
+    "ingredient_groups": [
+      {
+        "group_name": "saos (bumbu halus)",
+        "original_header": "Membuat saos (Bahan ditumbuk)",
+        "ingredients": [
+          {
+            "original_text": "Lombok dan garam",
+            "item_original": "lombok dan garam",
+            "item_normalized": "cabai dan garam",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "bawang putih",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "gula merah",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "tongtjai",
+            "item_original": "tongtjai",
+            "item_normalized": "tongcai",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "saos (tambahan)",
+        "original_header": "Membuat saos (Tambahan)",
+        "ingredients": [
+          {
+            "original_text": "air panas 2 gelas",
+            "item_original": "air panas",
+            "item_normalized": "air panas",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tjuka",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "ketjap 2 sendok makan",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sagu dan ikan halus ditambah air garam, dicampur sampai merupakan adonan yang liat.",
+      "Tahu dipotong serong.",
+      "Dari adonan diambil sekepal, dipipihkan, tahu diletakkan di tengah adonan lalu dilipat hingga tahu tertutup, pinggiran dirapatkan.",
+      "Digoreng, dimakan dengan saos.",
+      "Membuat saos: Lombok dan garam, bawang putih, gula merah ditumbuk halus, tongtjai ditumbuk kasar.",
+      "Bumbu dimasukkan kedalam mangkok lalu disiram air panas 2 gelas kemudian diberi cuka.",
+      "Dapat diberi kecap 2 sendok makan."
+    ]
+  },
+  {
+    "recipe_id": "MR_876_2",
+    "title_original": "EMPEK EMPEK PANGGANG",
+    "title_normalized": "Empek Empek Panggang",
+    "region": "Palembang",
+    "page_number": 876,
+    "category": "Pempek",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan halus 1 mgk.",
+            "item_original": "ikan halus",
+            "item_normalized": "ikan halus",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "sagu 1 mgk.",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit ½ ons",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tongtjai 1 sdm.",
+            "item_original": "tongtjai",
+            "item_normalized": "tongcai",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air garam 3 sdm.",
+            "item_original": "air garam",
+            "item_normalized": "air garam",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dibuang tulangnya, dagingnya dihaluskan.",
+      "Ikan halus dicampur dengan sagu, air garam diaduk rata.",
+      "Dibuat adonan hingga dapat dibentuk bundar pipih dengan garis tengah ± 3 cm.",
+      "Dibungkus daun seperti lontong.",
+      "Dipanggang diatas bara, dibalik-balik supaya tidak hangus.",
+      "Keterangan: Sebagai ikan halus dapat dipakai ikan gabus atau tenggiri."
+    ]
+  }
+]

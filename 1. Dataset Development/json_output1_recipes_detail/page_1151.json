@@ -1,0 +1,143 @@
+[
+  {
+    "recipe_id": "MR_1151_0",
+    "title_original": "BADJIGUR",
+    "title_normalized": "Bajigur",
+    "region": "Jawa Barat",
+    "page_number": 1143,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kopi 5 sdt.",
+            "item_original": "kopi",
+            "item_normalized": "kopi",
+            "quantity": 5.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa ½ bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sirop gula merah ½ gls.",
+            "item_original": "sirop gula merah",
+            "item_normalized": "sirup gula merah",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kolang kaling 1 ons",
+            "item_original": "kolang kaling",
+            "item_normalized": "kolang kaling",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam ¼ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa dibuat santan kira² 5 tjangkir.",
+      "Kopi, garam, gula merah, dan santan ditjampur djadi satu (diaduk hingga rata), kemudian didjerangkan sambil di-aduk² sampai mendidih.",
+      "Setelah mendidih, ditambahkan panili.",
+      "Kolang-kaling ditjutji bersih, di-iris² tipis memandjang, dimasak.",
+      "Setelah masak, ditiriskan.",
+      "Dihidangkan panas² dalam mangkuk dan dialas dengan piring tjeper ketjil, disebelah kanannja diletakkan sendok teh."
+    ]
+  },
+  {
+    "recipe_id": "MR_1151_1",
+    "title_original": "BOWL BUAH²AN",
+    "title_normalized": "Fruit Bowl",
+    "region": null,
+    "page_number": 1143,
+    "category": "Minuman Dingin",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "anggu buah²an 1 btl.",
+            "item_original": "anggu buah²an",
+            "item_normalized": "anggur buah-buahan (sirup)",
+            "quantity": 1.0,
+            "unit": "botol"
+          },
+          {
+            "original_text": "air soda ½ btl.",
+            "item_original": "air soda",
+            "item_normalized": "air soda",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "buah atap 1 mgk.",
+            "item_original": "buah atap",
+            "item_normalized": "buah atap",
+            "quantity": 1.0,
+            "unit": "mangkuk"
+          },
+          {
+            "original_text": "ketimun suri 2 bh.",
+            "item_original": "ketimun suri",
+            "item_normalized": "ketimun suri",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "nenas 2 bh.",
+            "item_original": "nenas",
+            "item_normalized": "nanas",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "rambuata 2 ikt.",
+            "item_original": "rambuata",
+            "item_normalized": "rambutan",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "gula pasir 1 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buah²an tadi dikupas dan dipotong ketjil².",
+      "Diaduk dengan gula dan dibiarkan begitu sadja dahulu sebentar."
+    ]
+  }
+]

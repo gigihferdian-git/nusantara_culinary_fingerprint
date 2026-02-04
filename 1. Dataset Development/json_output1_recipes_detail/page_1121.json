@@ -1,0 +1,131 @@
+[
+  {
+    "recipe_id": "MR_1121_0",
+    "title_original": "TALAS MANIS",
+    "title_normalized": "Talas Manis",
+    "region": "Rembang",
+    "page_number": 1113,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "talas 1 kg.",
+            "item_original": "talas",
+            "item_normalized": "talas",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ¹/₂ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Talas direbus, dikupas, di-iris² sepandjang djari, didjemur sebentar.",
+      "Gula pasir direbus dengan ¹/₂ tjangkir air. Setelah larut talas dimasukkan diaduk sampai rata."
+    ]
+  },
+  {
+    "recipe_id": "MR_1121_1",
+    "title_original": "TAMI",
+    "title_normalized": "Tami",
+    "region": null,
+    "page_number": 1113,
+    "category": "Noodle Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mi 1 kg.",
+            "item_original": "mi",
+            "item_normalized": "mi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "sawi 4 ikt.",
+            "item_original": "sawi",
+            "item_normalized": "sawi",
+            "quantity": 4.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "minjak katjang setjukupnja",
+            "item_original": "minjak katjang",
+            "item_normalized": "minyak kacang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "daging ajam ¹/₂ kg.",
+            "item_original": "daging ajam",
+            "item_normalized": "daging ayam",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "vetsin 1 sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ajam direbus. Sesudah lunak dagingnja, diangkat dan di-tjubik².",
+      "Bawang merah diiris, digoreng.",
+      "Mi digoreng dengan minjak katjang.",
+      "Sawi di-potong².",
+      "Lada, bawang putih dan garam dihaluskan.",
+      "Sawi dimasukkan kedalam kaldu daging tersebut.",
+      "Sesudah sawi masak, bumbu dimasukkan.",
+      "Tjara menghidangkan : Gorengan mi ditaruh dipiring setjukupnja kemudian disiram dengan kuah sawi tersebut. Sesudah disiram, suwiran daging tersebut ditaburkan diatasnja. Dan paling achir ditaburkan bawang goreng."
+    ]
+  }
+]

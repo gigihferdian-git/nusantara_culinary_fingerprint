@@ -1,0 +1,171 @@
+[
+  {
+    "recipe_id": "MR_727_0",
+    "title_original": "INE AVAU' AU",
+    "title_normalized": "Ine Avau' Au",
+    "region": "Irian Barat",
+    "page_number": 727,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging babi ¹/₂ kg.",
+            "item_original": "daging babi",
+            "item_normalized": "daging babi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa parut 1 btr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung sagu 1 kg.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun sagu setjukupnja",
+            "item_original": "daun sagu",
+            "item_normalized": "daun sagu",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging babi dipotong ketjil² dan ditjampur dengan tepung sagu bersama parutan kelapa.",
+      "Tjapanuran tersebut diatas dibungkus dengan daun sagu jang dianjam kemudian dipanggang diatas api hingga masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_727_1",
+    "title_original": "ITUWU",
+    "title_normalized": "Ituwu",
+    "region": "Makasar",
+    "page_number": 727,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "batang pisang jang muda (pisang emas atau pisang kepok) 1 batang ketjil",
+            "item_original": "batang pisang jang muda (pisang emas atau pisang kepok)",
+            "item_normalized": "batang pisang yang muda (pisang emas atau pisang kepok)",
+            "quantity": 1.0,
+            "unit": "batang kecil"
+          },
+          {
+            "original_text": "kelapa 1 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun asam 1 tk.",
+            "item_original": "daun asam",
+            "item_normalized": "daun asam",
+            "quantity": 1.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun arago 5 putjuk",
+            "item_original": "daun arago",
+            "item_normalized": "daun arago",
+            "quantity": 5.0,
+            "unit": "pucuk"
+          },
+          {
+            "original_text": "lombok ketjil setjukupnja",
+            "item_original": "lombok ketjil",
+            "item_normalized": "cabai rawit",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan, dipotong-potong.",
+      "Batang pisang di-iris², kelapa diparut, daun arago di-iris², lombok dan garam dihaluskan, daun asam dibuang tangkainja.",
+      "Semuanja ditjampurkan, dimasukkan dalam bambu, ditutup dengan daun arago jang tua. Dibakar diapi jang sedang."
+    ]
+  },
+  {
+    "recipe_id": "MR_727_2",
+    "title_original": "JOK",
+    "title_normalized": "Jok",
+    "region": "Irian Barat",
+    "page_number": 727,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ular sawah 1 ekor",
+            "item_original": "ular sawah",
+            "item_normalized": "ular sawah",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "daun melindjo 1 ggm.",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "tepung sagu 1 kg.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun paku setjukupnja",
+            "item_original": "daun paku",
+            "item_normalized": "daun paku",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

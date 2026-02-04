@@ -1,0 +1,168 @@
+[
+  {
+    "recipe_id": "MR_1071_0",
+    "title_original": "Implied Risoles",
+    "title_normalized": "Risoles",
+    "region": null,
+    "page_number": 1071,
+    "category": "Kue Asin (Savory Snack)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "prei diiris 2 hl.",
+            "item_original": "prei diiris",
+            "item_normalized": "prei (diiris)",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "lada setjukupnja",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "tepung terigu 1 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tomat 2 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "bawang merah iris 2–3 bh.",
+            "item_original": "bawang merah iris",
+            "item_normalized": "bawang merah (iris)",
+            "quantity": 2.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "roti kering (pannermeel) 1 ons",
+            "item_original": "roti kering (pannermeel)",
+            "item_normalized": "remah roti (panir)",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buatlah kulitnja lebih dahulu, dari satu telur ajam, santan, garam dan tepung terigu buat kue dadar.",
+      "Untuk isi: tumiskanlah dengan bawang merah, daging, lada dan garam setjukupnja.",
+      "Tepung djagung dikukus sampai masak, masukkanlah setelah dilumatkan masuk tumisan daging. Adonan ini merupakan ragout.",
+      "Bungkuslah ragout ini dengan kue² dadar jang telah dibuat lebih dahulu.",
+      "Gulingkan dalam kotjokan telur dan kemudian dalam panneermeel, terus digoreng sampai kuning.",
+      "Sausnja: tomat dimasukkan air panas, terus disaring. Tumiskan dengan sedikit (sesendok bubur atau 2 sendok teh) margarine, gilingan bawang putih dengan sari tomat, dibubuhi ketjap."
+    ]
+  },
+  {
+    "recipe_id": "MR_1071_1",
+    "title_original": "RONDO KEMUL",
+    "title_normalized": "Rondo Kemul",
+    "region": "Purwokerto",
+    "page_number": 1071,
+    "category": "Kue Basah (Traditional Cake)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "daun pisang 4 tk.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 4.0,
+            "unit": "tangkai"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut, diperas.",
+      "Kelapa dibersihkan, diparut diambil santan kental 3 gelas, dimasak sampai mendjadi 1 gelas.",
+      "Gula diiris halus.",
+      "Semua bahan ditjampur dan diaduk mendjadi satu.",
+      "Dibungkus dengan daun pisang sesendok demi sesendok, dikukus."
+    ]
+  }
+]

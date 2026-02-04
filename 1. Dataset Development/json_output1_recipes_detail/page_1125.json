@@ -1,0 +1,156 @@
+[
+  {
+    "recipe_id": "MR_1117_0",
+    "title_original": "TIMHAN (LEPET)",
+    "title_normalized": "Timhan (Lepet)",
+    "region": "Atjeh",
+    "page_number": 1117,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 2 gls.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "pisang radja (siem) 10 bdj.",
+            "item_original": "pisang radja (siem)",
+            "item_normalized": "pisang raja (siam)",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun pisang 2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang dikuliti.",
+      "Tepung dan pisang di-remas² sampai lemas, seperti membuat adonan, ditambahkan garam halus.",
+      "Kelapa diparut memandjang.",
+      "Setelah diparut, ditjampur dengan gula merah jang telah disisir, lalu dimasak sampai kental.",
+      "Ambil daun pisang jang telah dipotong, lalu diulasi dengan minjak supaja djangan melekat.",
+      "Adonan diambil sebesar telur ajam, dan digepepngkan diatas daun tadi.",
+      "Djika sudah gepeng pandjang diisi dengan enten².",
+      "Dibungkus pandjang.",
+      "Dikukus sampai matang."
+    ]
+  },
+  {
+    "recipe_id": "MR_1117_1",
+    "title_original": "TIMUS",
+    "title_normalized": "Timus",
+    "region": null,
+    "page_number": 1117,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar 5 kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 5.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1/2 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "bawang merah 3 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar 5 btr.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa 1/2 btl.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

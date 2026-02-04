@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_530_1",
+    "title_original": "OSENG OSENG TAHU PEDAS",
+    "title_normalized": "Oseng Oseng Tahu Pedas",
+    "region": "Kedu",
+    "page_number": 522,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 5 bdj.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "buntjis 1 ons",
+            "item_original": "buntjis",
+            "item_normalized": "buncis",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "wortel 1 bdj.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kol 1 ons",
+            "item_original": "kol",
+            "item_normalized": "kol",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 2 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 1 hl.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "gula merah ½ sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buntjis, kol dan wortel dipotong-potong ketjil².",
+      "Bumbu² diiris tipis².",
+      "Semua bumbu ditumis.",
+      "Dimasukkan buntjis, wortel, garam, gula dan ketjap; ditambah air ½ gelas.",
+      "Tahu dan kol dimasukkan; setelah masak diangkat."
+    ]
+  }
+]

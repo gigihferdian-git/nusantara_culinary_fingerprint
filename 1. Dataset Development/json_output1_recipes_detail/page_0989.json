@@ -1,0 +1,108 @@
+[
+  {
+    "recipe_id": "MR_981_1",
+    "title_original": "KUE SAKURA",
+    "title_normalized": "Kue Sakura",
+    "region": null,
+    "page_number": 981,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "getuk mawur 1 kg.",
+            "item_original": "getuk mawur",
+            "item_normalized": "getuk mawur",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 3 ons",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa parut 1 ons",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikatjau sampai putih.",
+      "Getuk mawur dan kelapa parut, panili ditjampur sampai rata. Adonan dipipihkan setebal ½ cm.",
+      "Ditjetak dengan tjetakan bunga, diletakkan dalam lojang jang telah disemir margarine. Bagian atas dilumari dengan telur jang telah dikatjau.",
+      "Dipan dalam oven sampai warnanja kuning tua."
+    ]
+  },
+  {
+    "recipe_id": "MR_981_2",
+    "title_original": "KUE SANGKO",
+    "title_normalized": "Kue Sangko",
+    "region": null,
+    "page_number": 981,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan ½ lt.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "garam halus sedikit",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah halus 1 gls.",
+            "item_original": "gula merah halus",
+            "item_normalized": "gula merah halus",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan ditjutji, direndam ± 10 menit, disangrai hingga kuning dan ditumbuk halus.",
+      "Tepung ketan ditjampur dengan gula merah dan garam hingga rata. Dikukus dalam kukusan jang dialas dengan kain kasar.",
+      "Setelah masak diangkat dan di-potong² ketjil persegi."
+    ]
+  }
+]

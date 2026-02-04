@@ -1,0 +1,142 @@
+[
+  {
+    "recipe_id": "MR_1053_0",
+    "title_original": "Pastiles (Sambungan)",
+    "title_normalized": "Pastiles (Sago Pastry)",
+    "region": null,
+    "page_number": 1045,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "kulit",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "tepung sagu 1/2 kg.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu dan isian",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "udang kering 1/2 ons",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula 1 sdt.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "Pepaja",
+            "item_original": "Pepaja",
+            "item_normalized": "Pepaya",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung sagu diaduk seperti empek empek dos.",
+      "Lainnja setelah mendjadi satu gumpalan besar, kita ambil sebesar kepalan tangan, kemudian digiling diatas talenan dengan botol sampai tipis, lalu ditjetak bundar² (sebesar tutup kaleng) Pastiles.",
+      "Setelah selesai kita isi dengan tumisan pepaja.",
+      "Pepaja dikupas kulitnja dan dibuang bidjinja.",
+      "Kemudian diparut dengan kaleng jang dibuat lubang ketjil.",
+      "Lada, bawang merah, bawang putih, garam, gula dan udang kering ditumbuk.",
+      "Kemudian ditumis dan diberi air sedikit.",
+      "Sesudah masak baru dimasukkan sesendok² di-tengah² adonan jang sudah ditjetak tadi.",
+      "Lalu dilipat merupakan bulan sebelah.",
+      "Menambah baiknja, tepinja diberi ber-gerigi².",
+      "Kemudian digoreng dengan minjak panas.",
+      "Memakannja ditjotjol kedalam kuah tjuka jang disediakan dalam piring lain."
+    ]
+  },
+  {
+    "recipe_id": "MR_1053_1",
+    "title_original": "PASTEL SINGKONG",
+    "title_normalized": "Pastel Singkong",
+    "region": "Malang",
+    "page_number": 1045,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "abon 2 ons",
+            "item_original": "abon",
+            "item_normalized": "abon",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng 1/2 btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air dididihkan dalam pantji tertutup.",
+      "Singkong diparut, diperas agar airnja keluar, diberi garam."
+    ]
+  }
+]

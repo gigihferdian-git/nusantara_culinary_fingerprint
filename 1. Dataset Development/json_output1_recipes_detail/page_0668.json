@@ -1,0 +1,199 @@
+[
+  {
+    "recipe_id": "MR_660_0",
+    "title_original": "IKAN WOKU",
+    "title_normalized": "Ikan Woku",
+    "region": "Menado",
+    "page_number": 660,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan laut ½ kg.",
+            "item_original": "ikan laut",
+            "item_normalized": "ikan laut",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 3 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok hidjau 3 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 3 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 4 bdj",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit ½ rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "djae ½ rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "sereh 2 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun kemangi ½ ikat",
+            "item_original": "daun kemangi",
+            "item_normalized": "daun kemangi",
+            "quantity": 0.5,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun djeruk purut 3 hl.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 3.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 3 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, diasam garami, bumbu² diiris, ditjampur.",
+      "Dimasak dalam belanga diberi minjak goreng dengan api ketjil.",
+      "Menghidangkan : bumbu² kasar dikeluarkan."
+    ]
+  },
+  {
+    "recipe_id": "MR_660_1",
+    "title_original": "KAKAP GORENG",
+    "title_normalized": "Kakap Goreng",
+    "region": null,
+    "page_number": 660,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan kakap besar atau lainnja 1 ekor",
+            "item_original": "ikan kakap besar atau lainnja",
+            "item_normalized": "ikan kakap besar atau lainnya",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "ketimun 2 bdj",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kentang ½ kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "terigu 1 gls.",
+            "item_original": "terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djeruk sitrun/nipis sedikit",
+            "item_original": "djeruk sitrun/nipis",
+            "item_normalized": "jeruk sitrun/nipis",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "mentega 1 ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

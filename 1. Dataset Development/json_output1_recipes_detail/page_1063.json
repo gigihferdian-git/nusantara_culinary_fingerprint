@@ -1,0 +1,169 @@
+[
+  {
+    "recipe_id": "MR_1055_0",
+    "title_original": "[RECIPE CONTINUATION]",
+    "title_normalized": "Puding Pisang Roti",
+    "region": null,
+    "page_number": 1055,
+    "category": "Kue/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "margarine 1 sdt.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "(Roti tawar, implied from instructions)",
+            "item_original": "roti tawar",
+            "item_normalized": "roti tawar",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "(Pisang, implied from instructions)",
+            "item_original": "pisang",
+            "item_normalized": "pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut dibuat santan (1 mangkuk).",
+      "Roti tawar direndam dalam santan.",
+      "Pisang dikupas lalu dihaluskan.",
+      "Telur, gula pasir, garam, dikatjau.",
+      "Pisang, roti dan telur jang telah dikatjau ditjampur djadi satu sampai rata. Kemudian dimasukkan dalam lojang jang telah disemir dengan margarine.",
+      "Kemudian dipan sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1055_1",
+    "title_original": "PODING PUAN (KOPJOR)",
+    "title_normalized": "Puding Puan (Kopyor)",
+    "region": "Tegal",
+    "page_number": 1055,
+    "category": "Puding/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa kopjor 1 bh.",
+            "item_original": "kelapa kopjor",
+            "item_normalized": "kelapa kopyor",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "telur ajam 8 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 8.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "roti tawar 3 pt.",
+            "item_original": "roti tawar",
+            "item_normalized": "roti tawar",
+            "quantity": 3.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "gula pasir 150 g.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 150.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "terigu 7 1/2 sdm.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 7.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "susu segar 1/2 gls.",
+            "item_original": "susu segar",
+            "item_normalized": "susu segar",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "mentega/margarine 100 g.",
+            "item_original": "mentega/margarine",
+            "item_normalized": "mentega/margarin",
+            "quantity": 100.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mentega/margarine dikatjau sampai putih.",
+      "8 butir telur dikatjau bersama gula sampai ke-putih²an.",
+      "4 putih telur dikatjau tersendiri.",
+      "Roti direndam dalam susu, dihaluskan, ditambah garam dan panili.",
+      "Dimasukkan ber-turut²: kuning telur jang telah dikatjau, mentega, putih telur dan terachir kopjor.",
+      "Adonan dituangkan kedalam lojang jang telah diulas dengan margarine kemudian dipanggang dalam oven.",
+      "Lebih baik lagi djika diatas adonan ditaburkan sedikit tepung panir atau bubuk roti tawar sebelum dipanggang."
+    ]
+  }
+]

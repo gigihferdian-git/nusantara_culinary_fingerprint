@@ -1,0 +1,182 @@
+[
+  {
+    "recipe_id": "MR_1110_0",
+    "title_original": "TAART DJANTUNG HATI",
+    "title_normalized": "Tart Jantung Hati",
+    "region": null,
+    "page_number": 1102,
+    "category": "Kue/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "terigu 3 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "cream",
+        "original_header": "Creamnja",
+        "ingredients": [
+          {
+            "original_text": "1 butir merah telur",
+            "item_original": "merah telur",
+            "item_normalized": "merah telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "3 tjangkir mentega",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "2 1/2 tjangkir gula halus",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "3 sendok makan bubuk susu",
+            "item_original": "bubuk susu",
+            "item_normalized": "bubuk susu",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok sampai mengembang.",
+      "Sesudah itu dimasukkan terigu dan diaduk per-lahan².",
+      "Lalu dibakar dalam tjetakan jang mempunjai bentuk djantung hati.",
+      "Sesudah itu diberi bunga cream jang dibikin sebagai berikut:",
+      "Creamnja: 1 butir merah telur dikotjok dengan 3 tjangkir mentega.",
+      "Apabila sudah putih kelihatnannja dimasukkan 2 1/2 tjangkir gula halus dan 3 sendok makan bubuk susu. Lalu dikotjok sampai keras."
+    ]
+  },
+  {
+    "recipe_id": "MR_1110_1",
+    "title_original": "TAART GULUNG",
+    "title_normalized": "Tart Gulung",
+    "region": null,
+    "page_number": 1102,
+    "category": "Kue/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "essence panili 1 sdt.",
+            "item_original": "essence panili",
+            "item_normalized": "essence vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "selai nenas atau selai lain 1 tjkr.",
+            "item_original": "selai nenas atau selai lain",
+            "item_normalized": "selai nanas atau selai lain",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikotjok dengan gula sampai kembang sekali.",
+      "Dimasukkan setelahnja tepung sedikit demi sedikit kedalamnja, kalau telah rata dimasukkan essence dan dibakar dikaleng bakar tjeper ± 1 cm tebalnja.",
+      "Kalau sudah masak, dilumuri dengan selai dan digulung tjepat² selagi panas² itu."
+    ]
+  },
+  {
+    "recipe_id": "MR_1110_2",
+    "title_original": "TAART KELAPA",
+    "title_normalized": "Tart Kelapa",
+    "region": null,
+    "page_number": 1102,
+    "category": "Kue/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 10 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "merah telur",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 6 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung terigu 2 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa muda 2 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

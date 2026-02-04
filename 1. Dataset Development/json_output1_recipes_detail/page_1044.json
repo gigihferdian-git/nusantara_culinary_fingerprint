@@ -1,0 +1,134 @@
+[
+  {
+    "recipe_id": "MR_1036_000",
+    "title_original": "ONDE ONDE",
+    "title_normalized": "Onde Onde",
+    "region": "Malang",
+    "page_number": 1036,
+    "category": "Kue / Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan ¹/₂ kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang hidjau ¹/₄ kg.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ¹/₂ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "widjen ¹/₂ kg.",
+            "item_original": "widjen",
+            "item_normalized": "wijen",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air 1 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "minjak goreng ¹/₂ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan air dipanaskan.",
+      "Tepung ketan diuli dengan air gula hangat.",
+      "Katjang hidjau disangan (direbus), diletakkan ditampah dan di-tekan² hingga kulit terlepas, kemudian direndam, dikukus hingga lunak.",
+      "Kemudian dihantjurkan bersama gula pasir dan garam, serta panili, lalu didjerangkan.",
+      "Hantjuran katjang hidjau ini dibentuk bulat², diisikan pada adonan jang dibentuk bulat.",
+      "Digulingkan pada widjen.",
+      "Digoreng dengan api sedang."
+    ]
+  },
+  {
+    "recipe_id": "MR_1036_001",
+    "title_original": "ONGKLOK SINGKONG",
+    "title_normalized": "Ongklok Singkong",
+    "region": null,
+    "page_number": 1036,
+    "category": "Masakan Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1¹/₂ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging tetelan 2 ons",
+            "item_original": "daging tetelan",
+            "item_normalized": "daging tetelan",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 7 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun bawang 2 btg.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 2.0,
+            "unit": "batang"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

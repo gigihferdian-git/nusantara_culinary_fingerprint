@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_1021_0",
+    "title_original": "MARTABAK",
+    "title_normalized": "Martabak",
+    "region": null,
+    "page_number": 1021,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Isi",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging kambing 1/2 kg.",
+            "item_original": "daging kambing",
+            "item_normalized": "daging kambing",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung terigu 1 kg.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 5-10 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun kutjai 10 ikt.",
+            "item_original": "daun kutjai",
+            "item_normalized": "daun kucai",
+            "quantity": 10.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun bawang 2 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu Isi",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang bombay 2 bh.",
+            "item_original": "bawang bombay",
+            "item_normalized": "bawang bombay",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "bumbu arabia 1 sdt.",
+            "item_original": "bumbu arabia",
+            "item_normalized": "bumbu arabia",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak samin/margarine setjukupnja",
+            "item_original": "minjak samin/margarine",
+            "item_normalized": "minyak samin/margarin",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja :",
+      "1. Daging ditjintjang halus.",
+      "2. Ditumis dengan margarine (samin) sampai kuning.",
+      "3. Diberi bumbu arabia dan bawang besar jang sudah diiris seperti bidji delima.",
+      "4. Diaduk sampai rata betul dan kalau telah 1/2 matang, dimasukkan bawang dan kutjai jang sudah diiris kira-kira² 1/2 cm pandjangnja.",
+      "5. Djika sudah matang dan rata diangkat.",
+      "Kulit martabak :",
+      "1. (Siapkan) 1 kg tepung terigu, 1 gelas air garam jang tidak terlalu asin.",
+      "2. Diambil seperdua dari terigu dan diaduk dengan air garam tadi sedikit² supaja rata dan jangan berbidji.",
+      "3. Djika sudah rata terigu ditjampurkan lagi sampai kira² seperti adonan roti.",
+      "4. Adonan ini harus dibanting, lalu ditaruh diatas piring besar, bentuk² bundar.",
+      "5. Buat satu martabak besarnja seperti roti kismis.",
+      "6. Ditinggalkan kira² 3 djam, boleh djuga sampai setengah hari.",
+      "7. Djika adonan tadi sudah bangun, ambil talenan jang lebar jang seperti buat cake, kira² 30 x 40 cm."
+    ]
+  }
+]

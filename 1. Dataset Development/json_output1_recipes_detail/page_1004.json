@@ -1,0 +1,77 @@
+[
+  {
+    "recipe_id": "MR_0996_1",
+    "title_original": "KUE TOBUU",
+    "title_normalized": "Kue Tobuu",
+    "region": null,
+    "page_number": 996,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terigu 1 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur 1 bdj.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lidi 20 pt. @ 2 cm.",
+            "item_original": "lidi",
+            "item_normalized": "lidi",
+            "quantity": 20.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "gula 1 tjkr.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "santan 3¹/₂ tjkr.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "daun pandan besar 2 hl.",
+            "item_original": "daun pandan besar",
+            "item_normalized": "daun pandan besar",
+            "quantity": 2.0,
+            "unit": "helai"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok.",
+      "Terigu dimasukkan.",
+      "Santan jang kental dipisahkan 1 tjangkir dan diberi garam.",
+      "Santan jang entjer sebanjak 2¹/₂ tjangkir, dimasukkan dalam adonan diseling dengan terigu.",
+      "Diaduk sampai rata.",
+      "Daun pandan di-potong² sepandjang 10 cm, dibentuk seperti dulang (buu).",
+      "Dibawah kukusan diberi air, dipanaskan.",
+      "Djika air kukusan ini mendidih dan beruap, adonan dimasukkan dalam buu (dulang) sebanjak 3/4 tinggi dulang, dan tjepat² dikukus (seperti membuat kue lapis). Dulang diisi sebanjak dapat dimuat oleh kukusan."
+    ]
+  }
+]

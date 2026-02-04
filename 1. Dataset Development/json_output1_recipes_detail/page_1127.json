@@ -1,0 +1,161 @@
+[
+  {
+    "recipe_id": "MR_1127_0",
+    "title_original": "TIMUS PANGGANG",
+    "title_normalized": "Timus Panggang",
+    "region": "Madura",
+    "page_number": 1119,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 1/2 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung terigu 1 ons",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1/4 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kentang direbus sampai masak, dikupas dan dihaluskan, ditjam- pur dengan tepung terigu.",
+      "Kelapa diparut, dibuat santan.",
+      "Telur dikotjok sampai putih, ditjamput dengan terigu dan kentang, ditambah gula pasir halus, garam, panili.",
+      "Adonan dipan dengan api atas dan bawah, dilojang sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1127_1",
+    "title_original": "TIWUL TEPUNG DJAGUNG",
+    "title_normalized": "Tiwul Tepung Jagung",
+    "region": null,
+    "page_number": 1119,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 4 gls.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kapur sirih sebesar butiran djagung",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "air setjukupnja",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung djagung diletakkan diatas tampah.",
+      "Kapur sirih ditjairkan dengan air.",
+      "Kemudian tepung dipertjiki air kapur sedikit demi sedikit, sambil diaduk dengan telapak tangan sehingga terbentuk gumpalan² ketjil.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1127_2",
+    "title_original": "TJAKAR AJAM",
+    "title_normalized": "Cakar Ayam",
+    "region": null,
+    "page_number": 1119,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras/terigu 1 gls.",
+            "item_original": "tepung beras/terigu",
+            "item_normalized": "tepung beras/terigu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "ubi djalar 2 bh.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1/2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

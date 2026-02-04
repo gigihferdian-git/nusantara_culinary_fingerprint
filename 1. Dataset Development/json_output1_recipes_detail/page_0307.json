@@ -1,0 +1,146 @@
+[
+  {
+    "recipe_id": "MR_307_1",
+    "title_original": "SAJUR LEMENG",
+    "title_normalized": "Sayur Lemeng",
+    "region": "Solo",
+    "page_number": 399,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 ons",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "lombok rawit ½ ons",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "terasi 1 ons",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "asam 1 ons",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air 2 lt.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "bambu (potongan bambu) 6 btg.",
+            "item_original": "bambu (potongan bambu)",
+            "item_normalized": "bambu (potongan bambu)",
+            "quantity": 6.0,
+            "unit": "batang"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibuangi tulang dan selaputⁿja.",
+      "Di-potong² dan ditjutji bersih, dimasukkan dalam potongan² bambu, diberi salam, laos dan lombok rawit.",
+      "Bumbu dihaluskan, ditjampur air dan ditapis dengan kain.",
+      "Tapisan digantungkan, supaja air dapat menetes djadi tidak diperas.",
+      "Bila telah habis air jang ada dalam kain, kuah dibagikan dalam bumbung ± ¾ tinggi bumbungnja; disumbat rapat, dimasukkan dalam kaleng minjak tanah jang diberi air, dan dimasak 1 malam."
+    ]
+  },
+  {
+    "recipe_id": "MR_307_2",
+    "title_original": "SAJUR LIKLIK",
+    "title_normalized": "Sayur Liklik",
+    "region": "Bali",
+    "page_number": 399,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun kelor 15 tk.",
+            "item_original": "daun kelor",
+            "item_normalized": "daun kelor",
+            "quantity": 15.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "katjang merah 1 ons",
+            "item_original": "katjang merah",
+            "item_normalized": "kacang merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/6 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.166,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

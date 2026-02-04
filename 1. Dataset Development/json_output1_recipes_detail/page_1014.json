@@ -1,0 +1,122 @@
+[
+  {
+    "recipe_id": "MR_1006_0",
+    "title_original": "[Previous Recipe Continuation]",
+    "title_normalized": "Sweet Cake (Steamed in Banana Leaf, Ketimus Style)",
+    "region": null,
+    "page_number": 1006,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      },
+      {
+        "group_name": "bahan lain (diekstrak dari instruksi)",
+        "original_header": "Tjara membuatnja (bahan)",
+        "ingredients": [
+          {
+            "original_text": "Tepung djagung",
+            "item_original": "Tepung djagung",
+            "item_normalized": "Tepung jagung",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "parutan kelapa",
+            "item_original": "parutan kelapa",
+            "item_normalized": "parutan kelapa",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "gula merah",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "santan",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung djagung, parutan kelapa, gula merah, santan dan garam ditjampur rata.",
+      "Adonan dibungkus daun pisang seperti bungkusan kue ketimus.",
+      "Dikukus sampai selama ± 1 djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_1006_1",
+    "title_original": "LEMANG KETAN",
+    "title_normalized": "Lemang Ketan",
+    "region": "Sumatera Barat: Singkarak",
+    "page_number": 1006,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 2 lt.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 2.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "putjuk daun pisang 2 lbr.",
+            "item_original": "putjuk daun pisang",
+            "item_normalized": "pucuk daun pisang",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "bambu 2 ruas",
+            "item_original": "bambu",
+            "item_normalized": "bambu",
+            "quantity": 2.0,
+            "unit": "ruas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bambu di-potong², dibersihkan.",
+      "Ketan ditjutji dan ditiriskan.",
+      "Kelapa diparut dan dikeluarkan santan sebanjak 2 gelas dan diberi garam. Ketan ditjamur dengan 1 gelas santan.",
+      "Putjuk daun pisang diukur sepandjang bambu ditambah 10 cm, digulung dan dimasukkan kedalam bambu. Ketan dimasukkan kedalam bambu, dituangkan sisa santan, udjung putjuk pisang dilipatkan dan disematkan dengan lidi hingga bambu tertutup.",
+      "Lemang dibakar dengan njala kaju dan diputar hingga masak merata."
+    ]
+  }
+]

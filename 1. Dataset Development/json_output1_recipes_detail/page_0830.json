@@ -1,0 +1,46 @@
+[
+  {
+    "recipe_id": "MR_822_01",
+    "title_original": "BOLU",
+    "title_normalized": "Bolu",
+    "region": null,
+    "page_number": 822,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr. atau 2 ssm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 1 tjkr. atau 3 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur ajam (merah+putih) dikotjok dengan gula pasir sampai mengembang.",
+      "Sesudah itu baru dimasukkan terigu sedikit² sambil diaduk dengan sendok perlahan-lahan.",
+      "Setelah rata, telur dengan terigu dituangkan kedalam tjetakan dan dimasukkan kedalam pembakaran jang telah panas.",
+      "Apinja sedang.",
+      "Apabila bolu itu kelihatan naik dan sudah kering, api diletakkan disebelah atasnja."
+    ]
+  }
+]

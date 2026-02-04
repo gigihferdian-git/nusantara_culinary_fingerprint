@@ -1,0 +1,150 @@
+[
+  {
+    "recipe_id": "MR_875_1",
+    "title_original": "DODOL KATJANG MERAH",
+    "title_normalized": "Dodol Kacang Merah",
+    "region": null,
+    "page_number": 867,
+    "category": "Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang merah ½ kg.",
+            "item_original": "katjang merah",
+            "item_normalized": "kacang merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pandan 1 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang merah direbus sampai masak, dihaluskan.",
+      "Kelapa diparut dibuat santan kental.",
+      "Gula pasir ditjampur dengan santan, diberi pandan dan garam, direbus sampai gulanja larut.",
+      "Katjang merah jang telah lembut dimasukkan dalam larutan gula, direbus sampai kental dan masak.",
+      "Setelah masak diangkat, dibungkusi dengan klobot djagung berbentuk bulat pandjang ± 5 cm. Isinja kurang lebih 2 sendok teh."
+    ]
+  },
+  {
+    "recipe_id": "MR_875_2",
+    "title_original": "DODOL KENTANG",
+    "title_normalized": "Dodol Kentang",
+    "region": null,
+    "page_number": 867,
+    "category": "Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 1 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula 1 kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pandan 30 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "pandan",
+            "quantity": 30.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kentang diiris, didjemur, dibuat tepung.",
+      "Kelapa diparut, daun pandan ditumbuk.",
+      "Ditjampur dengan kelapa.",
+      "Diambil santannja.",
+      "Tepung kentang, gula dan santan ditjamput dalam kuali.",
+      "Dimasak sampai kental sambil diaduk."
+    ]
+  },
+  {
+    "recipe_id": "MR_875_3",
+    "title_original": "DODOL MANALIKA",
+    "title_normalized": "Dodol Manalika",
+    "region": null,
+    "page_number": 867,
+    "category": "Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "buah manalika besar 1 bh.",
+            "item_original": "buah manalika besar",
+            "item_normalized": "buah manalika besar",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

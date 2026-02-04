@@ -1,0 +1,157 @@
+[
+  {
+    "recipe_id": "MR_771_1",
+    "title_original": "SAMBAL BATJANG",
+    "title_normalized": "Sambal Bacang",
+    "region": "Palembang",
+    "page_number": 763,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "batjang 1/2 bh.",
+            "item_original": "batjang",
+            "item_normalized": "bacang",
+            "quantity": 0.5,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 12 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 12.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "terasi 2 sdm.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 3 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula djawa 2 sdm.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Batjang dikupas, ditjutji, ditjintjang.",
+      "Terasi dibakar.",
+      "Bumbu² dihaluskan, terachir dimasukkan gula djawa.",
+      "Setelah semua bumbu halus, baru dimasukkan tjintjangan batjang.",
+      "Diatas diberi ketjap.",
+      "Diaduk sampai rata."
+    ]
+  },
+  {
+    "recipe_id": "MR_771_2",
+    "title_original": "SAMBAL BELIMBING",
+    "title_normalized": "Sambal Belimbing",
+    "region": null,
+    "page_number": 763,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "belimbing wuluh 15 bh.",
+            "item_original": "belimbing wuluh",
+            "item_normalized": "belimbing wuluh",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Belimbing di-iris² halus, dengan sedikit garam diremas dan airnja dibuang.",
+      "Kelapa diparut dibuat santan.",
+      "Bumbu² dihaluskan, ditumis sampai kuning."
+    ]
+  }
+]

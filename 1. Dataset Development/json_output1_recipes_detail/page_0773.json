@@ -1,0 +1,209 @@
+[
+  {
+    "recipe_id": "MR_773_1",
+    "title_original": "SAMBAL BUBUK KEDELE",
+    "title_normalized": "Sambal Bubuk Kedelai",
+    "region": "Rembang",
+    "page_number": 765,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "kedele 1/4 kg.",
+            "item_original": "kedele",
+            "item_normalized": "kedelai",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 6 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "laos 1 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun djeruk purut 3 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 3 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 3.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kedele digoreng sangan, ditumbuk, dibuangi kulitnja.",
+      "Kedele jang sudah ditumbuk, ditumbuk lagi bersama bumbu² sampai halus."
+    ]
+  },
+  {
+    "recipe_id": "MR_773_2",
+    "title_original": "SAMBAL BUMBU MEGONO",
+    "title_normalized": "Sambal Bumbu Megono",
+    "region": "Purwokerto",
+    "page_number": 765,
+    "category": "Sambal",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa muda 1 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "teri 1 sdm.",
+            "item_original": "teri",
+            "item_normalized": "teri",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "petai 10 mata",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 10.0,
+            "unit": "mata"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok hidjau 2 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun djeruk purut 3 lbr.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun salam 1 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1/4 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 0.25,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tempe bosok 1 sdm.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa dibersihkan, diparut.",
+      "Petai dibersihkan dibelah dua, teri dibersihkan, Lombok di-iris².",
+      "Bumbu² lainnja dihaluskan."
+    ]
+  }
+]

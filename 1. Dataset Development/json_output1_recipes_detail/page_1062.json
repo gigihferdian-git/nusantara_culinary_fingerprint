@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_1054_1",
+    "title_original": "Puding Jagung (Lanjutan dari halaman sebelumnya)",
+    "title_normalized": "Puding Jagung (Lanjutan)",
+    "region": null,
+    "page_number": 1054,
+    "category": "Kue/Puding",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan (Lanjutan)",
+        "ingredients": [
+          {
+            "original_text": "gula pasir 2 sdt.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung diparut dengan pisau jang tadjam.",
+      "Dimasak dengan kuning telur, gula, garam dan mentega jang sudah diantjurkan, kalau djagung telah masak, adukkanlah kedalamnja putih telur jang telah dikotjok sampai kembang terlebih dahulu.",
+      "Adonan ini dibakar dalam lojang (piring batu) jang dilumuri mentega selama 15 menit dalam oven dengan panas 350°F sampai merah."
+    ]
+  },
+  {
+    "recipe_id": "MR_1054_2",
+    "title_original": "PODING PATI DJAGUNG",
+    "title_normalized": "Puding Pati Jagung",
+    "region": null,
+    "page_number": 1054,
+    "category": "Kue/Puding",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pati djagung 1 gls.",
+            "item_original": "pati djagung",
+            "item_normalized": "pati jagung",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 5 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 5.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula 1/2 gls.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan kental, garam dan panili ditjampur, didjerangkan.",
+      "Pati djagung ditjairkan dengan air sedikit.",
+      "Setelah santan mendidih, tjairan tepung dimasukkan sambil diaduk sampai masak.",
+      "Setelah kental (tjara memeriksa: djika waktu mengaduk, kelihatan dasarnja pantji, adonan sudah tjukup kental) adonan dituangkan dalam tjetakan.",
+      "Setelah dingin dapat di-potong²."
+    ]
+  },
+  {
+    "recipe_id": "MR_1054_3",
+    "title_original": "PODING PISANG (Djawa Barat)",
+    "title_normalized": "Puding Pisang (Jawa Barat)",
+    "region": "Jawa Barat",
+    "page_number": 1054,
+    "category": "Kue/Puding",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pisang radja 6 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "roti tawar 1 pt. besar",
+            "item_original": "roti tawar",
+            "item_normalized": "roti tawar",
+            "quantity": 1.0,
+            "unit": "potong besar"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "recipe_id": "MR_978_0",
+    "title_original": "KUE PUDAK",
+    "title_normalized": "Kue Pudak",
+    "region": null,
+    "page_number": 978,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa muda parut 1 1/4 tjkr.",
+            "item_original": "kelapa muda parut",
+            "item_normalized": "kelapa muda parut",
+            "quantity": 1.25,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili setjukupnja",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung, kelapa, gula, garam dan panili ditjampur djadi satu.",
+      "Tjampuran ini dibungkus kulit djagung muda kemudian dikukus selama 1 djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_978_1",
+    "title_original": "KUE PUTU",
+    "title_normalized": "Kue Putu",
+    "region": null,
+    "page_number": 978,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa jang diparut 4 gls.",
+            "item_original": "kelapa jang diparut",
+            "item_normalized": "kelapa yang diparut",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung beras ketan 1 gls.",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula 1/2 gls.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pandan setjukupnja",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa, tepung, gula dan garam ditjampur mendjadi satu.",
+      "Rasa dari garam dan gulanja harus seimbang.",
+      "Sesudah itu dimasukkan kedalam mangkuk ketjil, atau bumbung ketjil, diatasnja ditaburi daun pandan jang sudah dipotong ketjil².",
+      "Kemudian dimasak dalam kukusan jang ditutup."
+    ]
+  },
+  {
+    "recipe_id": "MR_978_2",
+    "title_original": "KUE RINTA",
+    "title_normalized": "Kue Rinta",
+    "region": null,
+    "page_number": 978,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung singkong 9 tjkr.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 9.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir 3 1/2 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 3 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 3 btr. diambil santannja",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "widjen setjukupnja",
+            "item_original": "widjen",
+            "item_normalized": "wijen",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan kental dan gula dimasak sampai kental lalu didinginkan."
+    ]
+  }
+]

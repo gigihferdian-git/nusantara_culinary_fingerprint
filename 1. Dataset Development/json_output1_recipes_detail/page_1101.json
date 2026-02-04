@@ -1,0 +1,108 @@
+[
+  {
+    "recipe_id": "MR_1101_1",
+    "title_original": "SIRI MANIS",
+    "title_normalized": "Siri Manis",
+    "region": null,
+    "page_number": 1093,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 tjutji tangan",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "tjutji tangan"
+          },
+          {
+            "original_text": "gula merah setjukupnja",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut dibuat santan kental.",
+      "Tepung dicairkan dengan santan, dimasak, diaduk terus sampai kental sekali dan dapat dibentuk.",
+      "Sesudah dibentuk bola-bola, dimasukkan dalam telur yang sudah dicairkan/dikocok, digoreng.",
+      "Gula merah dicairkan kental, disaring.",
+      "Gorengan tadi ditaruh dipiring dan disiram air gula tadi."
+    ]
+  },
+  {
+    "recipe_id": "MR_1101_2",
+    "title_original": "SIGIT",
+    "title_normalized": "Sigit",
+    "region": null,
+    "page_number": 1093,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 3/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.75,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1/2 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras dijemur, disangan.",
+      "Telur, gula dikocok sampai kembang.",
+      "Ambil 1 sendok makan tepung dan 1 sendok makan telur dan garam diaduk yang rata."
+    ]
+  }
+]

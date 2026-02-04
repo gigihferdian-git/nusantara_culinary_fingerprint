@@ -1,0 +1,213 @@
+[
+  {
+    "recipe_id": "MR_352_1",
+    "title_original": "SOP TOMAT ISI DAGING",
+    "title_normalized": "Sup Tomat Isi Daging",
+    "region": "Bogor",
+    "page_number": 352,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1 ons",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "margarine 2 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tomat 4 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tepung maizena 1 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus ¼ sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 1 btg.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun bawang 1 btg.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging tomat direbus dengan air 5 gelas, daging dipisahkan, tomat disaring.",
+      "Bawang merah, daun bawang, diiris halus, ditumis sampai kuning.",
+      "Sari tomat dituangkan, ditambah bumbu² lain.",
+      "Daging diiris persegi ketjil², dimasukkan kedalam sebagai isi sop.",
+      "Dikentalkan dengan tepung maizena jang telah ditjairkan.",
+      "Dihidangkan panas², ditaburi seledri jang ditjitjang."
+    ]
+  },
+  {
+    "recipe_id": "MR_352_2",
+    "title_original": "SOP TORTILLA",
+    "title_normalized": "Sup Tortilla",
+    "region": null,
+    "page_number": 352,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tortilla 2 gls.",
+            "item_original": "tortilla",
+            "item_normalized": "tortilla",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gadjih ½ ons",
+            "item_original": "gadjih",
+            "item_normalized": "gajih",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "air kaldu 2 lt.",
+            "item_original": "air kaldu",
+            "item_normalized": "air kaldu",
+            "quantity": 2.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kedju ½ ons",
+            "item_original": "kedju",
+            "item_normalized": "keju",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 siung",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada setjukupnja",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kuning isi telur 1 btr.",
+            "item_original": "kuning isi telur",
+            "item_normalized": "kuning telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "saos tomat 6 sdm.",
+            "item_original": "saos tomat",
+            "item_normalized": "saus tomat",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tortilla dihaluskan dalam susu.",
+      "Seterusnja diberi kedju, daun salam, bawang putih dan bawang merah, diaduk dengan telur, kuning telur dan garam.",
+      "Dari adonan ini dibuat bola ketjil dan digoreng bawang merah saus tomat ditumis dengan gadjih, seterusnja dibubuhi air"
+    ]
+  }
+]

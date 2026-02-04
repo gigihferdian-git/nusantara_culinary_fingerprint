@@ -1,0 +1,244 @@
+[
+  {
+    "recipe_id": "MR_273_2",
+    "title_original": "LODEH REBUNG",
+    "title_normalized": "Lodeh Rebung",
+    "region": null,
+    "page_number": 265,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "rebung 1½ kg.",
+            "item_original": "rebung",
+            "item_normalized": "rebung",
+            "quantity": 1.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun melindjo 1 ons",
+            "item_original": "daun melindjo",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "(Rebung, quantity assumed from instruction)",
+            "item_original": "Rebung",
+            "item_normalized": "rebung",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 2 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1/2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Rebung diiris tipis², ditjutji, direbus sampai lunak. Air perebus dibuang.",
+      "Lombok, bawang merah dan bawang putih dibakar sebentar.",
+      "Kelapa diparut diambil santannja ± 4 gelas.",
+      "Bumbu² dihaluskan ketjuali salam dan laos.",
+      "Santan direbus sampai mendidih, rebung rebus, daun melindjo dan bumbu² dimasukkan.",
+      "Direbus sampai matang."
+    ]
+  },
+  {
+    "recipe_id": "MR_266_1",
+    "title_original": "LODEH TERONG",
+    "title_normalized": "Lodeh Terong",
+    "region": null,
+    "page_number": 266,
+    "category": "Sayur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "terong 2 bh.",
+            "item_original": "terong",
+            "item_normalized": "terong",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun so 2 ggm.",
+            "item_original": "daun so",
+            "item_normalized": "daun melinjo",
+            "quantity": 2.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "udang kering 1 sdm.",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "petai 7 mata",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 7.0,
+            "unit": "mata"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 6 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, diambil santannja 3 gelas.",
+      "Lombok hidjau diiris besar.",
+      "Bawang merah, bawang putih, petai di-iris².",
+      "Bumbu² direbus dengan santan sampai mendidih.",
+      "Terong dibersihkan, di-potong².",
+      "Dimasukkan terong, daun so, tempe bosok, udang kering, di-aduk² sampai masak."
+    ]
+  }
+]

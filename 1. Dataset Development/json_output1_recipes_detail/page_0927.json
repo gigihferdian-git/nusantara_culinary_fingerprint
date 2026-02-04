@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_927_0",
+    "title_original": "KERIPIK SINGKONG",
+    "title_normalized": "Keripik Singkong",
+    "region": null,
+    "page_number": 919,
+    "category": "Camilan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut, dikeluarkan patinja, ditjampur garam.",
+      "Dibungkus dengan daun, dikukus.",
+      "Diiris tipis², didjemur.",
+      "Digoreng dengan minjak goreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_927_1",
+    "title_original": "KETAK",
+    "title_normalized": "Ketak",
+    "region": null,
+    "page_number": 919,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "blondo 1 baskom",
+            "item_original": "blondo",
+            "item_normalized": "blondo",
+            "quantity": 1.0,
+            "unit": "baskom"
+          },
+          {
+            "original_text": "ampas kelapa 1½ baskom",
+            "item_original": "ampas kelapa",
+            "item_normalized": "ampas kelapa",
+            "quantity": 1.5,
+            "unit": "baskom"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Blondo ditjampur dengan ampas kelapa, diaduk rata.",
+      "Adukan diperas sampai keras.",
+      "Perasan di-iris² persegi (± 10 cm²).",
+      "Dimasak didalam pantji besar dengan diberi bumbu²."
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_681_1",
+    "title_original": "PERKEDEL (Ambon)",
+    "title_normalized": "Perkedel Ambon",
+    "region": "Ambon",
+    "page_number": 673,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan kembung 2 ekor",
+            "item_original": "ikan kembung",
+            "item_normalized": "ikan kembung",
+            "quantity": 2.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "tepung djagung 4 sdm.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun bawang 1 btg.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun seledri 1 btg.",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "kelapa ¼ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "djeruk nipis ½ btr.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok besar 10 bdj.",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ketumbar ½ sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djintan ¼ sdt.",
+            "item_original": "djintan",
+            "item_normalized": "jintan",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak 1 tjkr.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dipanggang, dagingnya dicincang sampai halus.",
+      "Kelapa diparut.",
+      "Bumbu ditumbuk halus bersama kelapa parut, dicampurkan ke ikan.",
+      "Tepung jagung dimasukkan, daun bawang dan daun seledri ditambahkan, diaduk semua.",
+      "Cabai dibelah, dibuang semua isinya.",
+      "Daging ikan dimasukkan ke dalam cabai, dibubuhi tepung jagung, kemudian digoreng hingga kuning kemerah-merahan."
+    ]
+  }
+]

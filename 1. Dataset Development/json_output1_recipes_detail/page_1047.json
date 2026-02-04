@@ -1,0 +1,82 @@
+[
+  {
+    "recipe_id": "MR_1039_1",
+    "title_original": "OPAK OPAK",
+    "title_normalized": "Opak Opak",
+    "region": "Bali",
+    "page_number": 1039,
+    "category": "Snacks",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi kaju 1 kg.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi kaju dikupas ditjutji, dipotong.",
+      "Dikukus sampai masak, serat tengah dibuang.",
+      "Dihaluskan atau ditumbuk sampai lunak, diberi garam.",
+      "Ditaruh dalam lojang jang diolesi dengan minjak, ditekan-tekan supaja padat, diratakan.",
+      "Didinginkan sesudah kaku sisinja, dipotong tipis-tipis persegi 4, seperti kerupuk bentuknja.",
+      "Didjemur sampai kering",
+      "Sesudah kering digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_1039_2",
+    "title_original": "ORAN ORAN",
+    "title_normalized": "Oran Oran",
+    "region": null,
+    "page_number": 1039,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan direndam dalam air ± 5 djam lamanja dan ditjutji bersih, dikukus (ditjakel).",
+      "Ditjampur dengan parutan kelapa jang sudah digarami kemudian dikukus lagi sampai masak."
+    ]
+  }
+]

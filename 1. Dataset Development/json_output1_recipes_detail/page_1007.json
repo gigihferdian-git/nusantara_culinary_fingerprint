@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_1007_0",
+    "title_original": "KUMIS",
+    "title_normalized": "Kumis",
+    "region": "Malang",
+    "page_number": 999,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi kaju 1 kg.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ½ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng ½ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi kaju diiris pandjang² tipis lalu digoreng.",
+      "Gula merah dibuat sirop dengan ½ gelas air dan garam.",
+      "Kalau diaduk sudah seperti benang, ubi goreng dimasukkan.",
+      "Diangkat dari api dan diaduk rata.",
+      "Disediakan tampah atau talenan jang dibasahi dengan air, adonan dibentuk bulat² pipih diatas tampah, talenan."
+    ]
+  },
+  {
+    "recipe_id": "MR_1007_1",
+    "title_original": "KUPING GADJAH",
+    "title_normalized": "Kuping Gajah",
+    "region": "Brebes",
+    "page_number": 999,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji ½ kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung ketan 1 gls.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur bebek 5 btr.",
+            "item_original": "telur bebek",
+            "item_normalized": "telur bebek",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1½ gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikatjau sampai putih.",
+      "Tepung kandji dan ketan ditjampur rata, ditapis.",
+      "Dimasukkan dalam telur jang telah dikatjau, sambil ditapis, diaduk sampai mendjadi adonan liat.",
+      "Dipipihkan ¼ cm, diiris persegi 3 cm dan irisan dipotong melintang menjerupai segi tiga.",
+      "Salah satu sudut dilipat sedikit kedalam kemudian ditekan sedikit.",
+      "Digoreng dalam minjak dingin, setelah kembang di-katjau² sampai masak, diangkat.",
+      "Gula pasir dan air direbus."
+    ]
+  }
+]

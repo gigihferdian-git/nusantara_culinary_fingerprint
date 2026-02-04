@@ -1,0 +1,99 @@
+[
+  {
+    "recipe_id": "MR_353_2",
+    "title_original": "SOP JULIENNE",
+    "title_normalized": "Sup Julienne",
+    "region": null,
+    "page_number": 345,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "air kaldu 1/2 liter",
+            "item_original": "air kaldu",
+            "item_normalized": "air kaldu",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "wortel 2 btg.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "ertjis 1/2 ons",
+            "item_original": "ertjis",
+            "item_normalized": "ercis",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "bunga kol 1/4 bdj.",
+            "item_original": "bunga kol",
+            "item_normalized": "bunga kol",
+            "quantity": 0.25,
+            "unit": "buah"
+          },
+          {
+            "original_text": "buntjis 10 bdj",
+            "item_original": "buntjis",
+            "item_normalized": "buncis",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "seledri 2 btg.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "maizena 1 sdm.",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang bombay 1 bidji",
+            "item_original": "bawang bombay",
+            "item_normalized": "bawang bombay",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sajuran dibersihkan, ditjutji, kemudian di-potong² tipis sepandjang korek api.",
+      "Kaldu didjerangkan, kemudian sajuran dimasukkan sampai masak.",
+      "Sop dikentalkan dengan tepung maizena, warnanja harus kuning."
+    ]
+  }
+]

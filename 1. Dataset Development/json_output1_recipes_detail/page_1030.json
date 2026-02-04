@@ -1,0 +1,67 @@
+[
+  {
+    "recipe_id": "MR_1030_1",
+    "title_original": "MARTABAK DJAGUNG",
+    "title_normalized": "Martabak Jagung",
+    "region": null,
+    "page_number": 1022,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 4 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air 1 tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "santan kental/susu 4 tjkr.",
+            "item_original": "santan kental/susu",
+            "item_normalized": "santan kental atau susu",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng atau mentega setjukupnja",
+            "item_original": "minjak goreng atau mentega",
+            "item_normalized": "minyak goreng atau mentega",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung djagung ditjampur dengan air sedikit demi sedikit, sambil tepung itu di-remas², sampai mendjadi adonan jang rata.",
+      "Adonan didiamkan ¼ djam, ditutup dengan serbet basah agar adonan tidak mendjadi kering.",
+      "Santan, garam, lada dimasak sampai mendidih sambil diaduk agar djangan petjah santan.",
+      "Kalau sudah mendidih diangkat angat², ditjampurkan dengan adonan.",
+      "Wadjan ditaruh diapi, dioles dengan minjak goreng, dan dimasak setiap kali 3 sendok makan dari adonan. Serabi ini dihidangkan dengan lauk pauk atau dengan kintja."
+    ]
+  }
+]

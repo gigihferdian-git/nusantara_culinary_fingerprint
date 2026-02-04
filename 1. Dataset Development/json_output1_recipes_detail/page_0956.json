@@ -1,0 +1,136 @@
+[
+  {
+    "recipe_id": "MR_948_0",
+    "title_original": "KUE GANDUS\n(Palembang)",
+    "title_normalized": "Kue Gandus",
+    "region": "Palembang",
+    "page_number": 948,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 400 gr.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 400.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 1/2 tjkr.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "ebi 1 ons",
+            "item_original": "ebi",
+            "item_normalized": "ebi",
+            "quantity": 100.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 5 tk.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 5.0,
+            "unit": "tangkai"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dibuat santan dengan air ± 3 gelas.",
+      "Tepung beras diberi garam, diuleni, diaduk dengan santan sedikit demi sedikit sampai tercampur rata.",
+      "Adonan dimasukkan ke dalam loyang.",
+      "Loyang dimasukkan ke dalam kukusan dan dikukus sampai masak.",
+      "Udang kering ditumbuk.",
+      "Bawang diiris, digoreng dengan minyak 1/2 cangkir.",
+      "Seledri dicincang halus.",
+      "Kemudian semuanya dicampur.",
+      "Setelah diangkat, bagian atas ditaburi bumbu yang sudah digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_948_1",
+    "title_original": "KUE GAPIT\n(Bali)",
+    "title_normalized": "Kue Gapit",
+    "region": "Bali",
+    "page_number": 948,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ubi kaju 1/2 kg.",
+            "item_original": "tepung ubi kaju",
+            "item_normalized": "tepung ubi kayu",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 100.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "santan kental 1/2 lt.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

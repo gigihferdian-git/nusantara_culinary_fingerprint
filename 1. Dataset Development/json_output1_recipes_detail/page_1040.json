@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_1032_0",
+    "title_original": "NASI TUAI",
+    "title_normalized": "Nasi Tuai",
+    "region": null,
+    "page_number": 1032,
+    "category": "Kue Basah / Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "beras ketan ½ lt.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kelapa ½ bdj.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan diliwet.",
+      "Kelapa diparut, dikeluarkan santannja sebanjak 4 gelas. Dimasak dengan gula merah, garam dan daun pandan hingga mendidih.",
+      "Dihidangkan dalam piring jang ketjil, saos santan dituangkan diatas ketan."
+    ]
+  },
+  {
+    "recipe_id": "MR_1032_1",
+    "title_original": "NJANJAK ULI",
+    "title_normalized": "Nyanjak Uli",
+    "region": null,
+    "page_number": 1032,
+    "category": "Kue Basah / Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan ½ kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/3 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.33,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula ¼ kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung diberi garam, diuli sambil diberi air sedikit² hingga merupakan adonan jang lemas dan mudah dibentuk."
+    ]
+  }
+]

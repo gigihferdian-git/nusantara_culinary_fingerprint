@@ -1,0 +1,103 @@
+[
+  {
+    "recipe_id": "MR_1010_1",
+    "title_original": "LEMPOG",
+    "title_normalized": "Lempog",
+    "region": "Bandung",
+    "page_number": 1010,
+    "category": "Kue/Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "durian 1 bh.",
+            "item_original": "durian",
+            "item_normalized": "durian",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula djawa 1/2 kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Durian dibuangi bijinya, diambil dagingnya.",
+      "Gula jawa dibuat sirop.",
+      "Gula disaring dahulu, kemudian dicampur dengan durian dan santan.",
+      "Campuran ini dididihkan di atas api sambil dikacau.",
+      "Tandanya masak yaitu: sudah kental dan tidak melekat pada panci.",
+      "Setelah selesai, dihidangkan lalu dimasukkan ke dalam tabung dari bambu.",
+      "Dapat tahan disimpan lama."
+    ]
+  },
+  {
+    "recipe_id": "MR_1010_2",
+    "title_original": "LEN OLEN",
+    "title_normalized": "Len Olen",
+    "region": "Madura",
+    "page_number": 1010,
+    "category": "Kue/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ketan 1/4 kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula siwalan 1/2 ons",
+            "item_original": "gula siwalan",
+            "item_normalized": "gula siwalan",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan ditumbuk halus, kemudian diuleni.",
+      "Dikukus sampai masak.",
+      "Didinginkan, dibentuk silinder, dipotong-potong tipis."
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "recipe_id": "MR_1100_0",
+    "title_original": "SINGKONG SELAI NANAS",
+    "title_normalized": "Singkong Selai Nanas",
+    "region": null,
+    "page_number": 1092,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "nanas 1 bh.",
+            "item_original": "nanas",
+            "item_normalized": "nanas",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kuning telur 1 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "air 1/2 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, direbus sampai masak, dihaluskan, di-tjamput dengan santan sampai mendjadi adonan liat.",
+      "Nanas dikupas, dibuang matanja, ditjutji dengan garam, diparut.",
+      "Gula pasir direbus dengan 1/2 gelas air, ditambah garam, nenas dimasukkan ditambah panili, dibiarkan sampai airnja menjusut.",
+      "Adonan dibentuk segi empat, tengahnja diberi selai nenas, tiap² sudut didjadjikan satu di-tengah², dilumuri dengan kuning telur.",
+      "Dipan sampai ke-merah²an (1/2 djam)."
+    ]
+  },
+  {
+    "recipe_id": "MR_1100_1",
+    "title_original": "SINOLIA (PANEKOEK)",
+    "title_normalized": "Sinolia (Panekuk)",
+    "region": "Ambon",
+    "page_number": 1092,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sagu mentah 2 ons",
+            "item_original": "sagu mentah",
+            "item_normalized": "sagu mentah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 5 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 5.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

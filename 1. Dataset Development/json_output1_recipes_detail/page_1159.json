@@ -1,0 +1,141 @@
+[
+  {
+    "recipe_id": "MR_1159_0",
+    "title_original": "SORBAT DJERUK",
+    "title_normalized": "Sorbet Jeruk",
+    "region": null,
+    "page_number": 1151,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djeruk nipis 3 bh.",
+            "item_original": "djeruk nipis",
+            "item_normalized": "jeruk nipis",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir halus 1/4 kg.",
+            "item_original": "gula pasir halus",
+            "item_normalized": "gula pasir halus",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak sitrun",
+            "item_original": "minjak sitrun",
+            "item_normalized": "minyak sitrun",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikocok selama 5 menit sampai naik betul, dicampur dengan gula pasir halus dan air jeruk nipis.",
+      "Setelah semuanya bercampur dan kental, dimasukkan dalam panci kecil lalu dikukus, sambil dikacau sampai menjadi kental.",
+      "Kemudian ditambahkan sedikit minyak sitrun, lalu didinginkan.",
+      "Crème ini dapat disimpan dalam botol dan tahan kira-kira 1 minggu.",
+      "Cara menghidangkannya: gelas diisi ¼ bagian dengan crème, boleh juga ditambah dengan buah-buahan, lebih baik lagi yang berwarna merah.",
+      "Kemudian gelas itu diisi dengan air soda dingin sampai penuh."
+    ]
+  },
+  {
+    "recipe_id": "MR_1159_1",
+    "title_original": "SUSU DJERUK",
+    "title_normalized": "Susu Jeruk",
+    "region": null,
+    "page_number": 1151,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "air 1/2 ltr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "susu 1/2 ltr.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "djeruk sitrun 2 bh.",
+            "item_original": "djeruk sitrun",
+            "item_normalized": "jeruk sitrun",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1/4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula, air dan susu dimasak selama 5 menit, lalu ditambah air jeruk secukupnya.",
+      "Selama memasak ini harus terus dikacau supaya susu tidak pecah.",
+      "Menghidangkannya dingin atau ditambah dengan es batu."
+    ]
+  },
+  {
+    "recipe_id": "MR_1159_2",
+    "title_original": "SUSU TELUR",
+    "title_normalized": "Susu Telur",
+    "region": null,
+    "page_number": 1151,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu segar 1 gls.",
+            "item_original": "susu segar",
+            "item_normalized": "susu segar",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

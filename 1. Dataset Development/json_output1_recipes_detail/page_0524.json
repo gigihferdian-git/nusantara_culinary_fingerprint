@@ -1,0 +1,212 @@
+[
+  {
+    "recipe_id": "MR_516_1",
+    "title_original": "OSENG OSENG GENDJER",
+    "title_normalized": "Oseng Oseng Genjer",
+    "region": null,
+    "page_number": 516,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gendjer 5 ikt.",
+            "item_original": "gendjer",
+            "item_normalized": "genjer",
+            "quantity": 5.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "taoge kedele 1 ons",
+            "item_original": "taoge kedele",
+            "item_normalized": "tauge kedelai",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tempe bosok 2 pt.",
+            "item_original": "tempe bosok",
+            "item_normalized": "tempe busuk",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "petai 10 mata",
+            "item_original": "petai",
+            "item_normalized": "petai",
+            "quantity": 10.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "udang kering 1/2 ons",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 1/4 btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.25,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 6 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 6.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Genjer dipilih yang hijau dan muda, dicuci baru dipisahkan dari tangkai yang tua.",
+      "Tauge kedelai dikuliti.",
+      "Petai dikuliti, diiris.",
+      "Bawang merah, bawang putih, cabai dan tempe diiris.",
+      "Bumbu ditumis.",
+      "Setelah ½ masak, tempe busuk, udang kering dan tauge dimasukkan.",
+      "Diberi air 1 gelas, setelah agak masak taugenya, garam, lengkuas dan daun salam dimasukkan.",
+      "Genjer dipotong-potong, disiram air panas, terus ditiriskan.",
+      "Lalu genjer dimasukkan pula."
+    ]
+  },
+  {
+    "recipe_id": "MR_516_2",
+    "title_original": "OSENG OSENG GESEK",
+    "title_normalized": "Oseng Oseng Gesek",
+    "region": "Solo",
+    "page_number": 516,
+    "category": "Tumisan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan asin 1 ons",
+            "item_original": "ikan asin",
+            "item_normalized": "ikan asin",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tempe 1 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak kelapa 3 sdm.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "salam 3 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

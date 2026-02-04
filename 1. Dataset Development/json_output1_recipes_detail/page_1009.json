@@ -1,0 +1,117 @@
+[
+  {
+    "recipe_id": "MR_1009_0",
+    "title_original": "LAPEK KEMBANG",
+    "title_normalized": "Lapek Kembang",
+    "region": "Sumatera Barat",
+    "page_number": 1001,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 4 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa parut 2 gls.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah halus 1 gls.",
+            "item_original": "gula merah halus",
+            "item_normalized": "gula merah halus",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam halus sedikit",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "daun pisang 1 lbr.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Dari gula merah dibuat sirop dengan 1 gelas air.",
+      "Tepung, kelapa parut dan garam ditjampur, dimasukkan sirop panas sambil diaduk rata. Adonan dibiarkan kurang lebih 3 djam ditempat jang suam (dekat tungkuk).",
+      "Daun pisang dilajukan dan dipotongi sebesar 20 cm. Tiap 4 sendok adonan dibungkus daun seperti lepat dan kemudian dikukus."
+    ]
+  },
+  {
+    "recipe_id": "MR_1009_1",
+    "title_original": "LAPEK SAGAN",
+    "title_normalized": "Lapek Sagan",
+    "region": "Sumatera Barat",
+    "page_number": 1001,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan ½ lt.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "pisang kepok 5 bh.",
+            "item_original": "pisang kepok",
+            "item_normalized": "pisang kepok",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kelapa parut 1 gls.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1/3 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.33,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam halus sedikit",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "daun pisang 1 lbr.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 1.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

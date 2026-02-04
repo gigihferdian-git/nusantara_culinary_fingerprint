@@ -1,0 +1,151 @@
+[
+  {
+    "recipe_id": "MR_904_1",
+    "title_original": "GETUK TALAS",
+    "title_normalized": "Getuk Talas",
+    "region": "Rembang",
+    "page_number": 896,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tales 1 kg.",
+            "item_original": "tales",
+            "item_normalized": "talas",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "nangka 1/2 kg.",
+            "item_original": "nangka",
+            "item_normalized": "nangka",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 3 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Talas dikupas, direbus, dihaluskan.",
+      "Nangka di-iris², dihaluskan.",
+      "Talas, nangka, gula dan garam ditjampur mendjadi satu.",
+      "Ditjetak atau digiling dengan gilingan daging.",
+      "Ditaburi kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_904_2",
+    "title_original": "GOHU",
+    "title_normalized": "Gohu",
+    "region": "Minahasa",
+    "page_number": 896,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan :",
+        "ingredients": [
+          {
+            "original_text": "pepaja setengah masak 1 bh.",
+            "item_original": "pepaja setengah masak",
+            "item_normalized": "pepaya setengah masak",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 2 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 3 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 3 rsd.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 3.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula pasir 1/2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "bekasang 1 sdt.",
+            "item_original": "bekasang",
+            "item_normalized": "bekasang",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pepaja dikupas, bidji²nja dikeluarkan, ditjutji, disajat tipis memandjang berbentuk batang korek api.",
+      "Bawang merah, djae, lombok dihaluskan, ditjampur dengan garam, gula, tjuka, bekasang dan air masak.",
+      "Irisan pepaja ditjampur dengan kuah bumbu.",
+      "Dihidangkan ± 1 djam kemudian dalam gelas atau piring tjekung."
+    ]
+  }
+]

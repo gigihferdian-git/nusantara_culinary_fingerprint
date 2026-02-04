@@ -1,0 +1,137 @@
+[
+  {
+    "recipe_id": "MR_1097_0",
+    "title_original": "SERABI PAKAI UDANG",
+    "title_normalized": "Serabi Pakai Udang",
+    "region": null,
+    "page_number": 1089,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 kati",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "kati"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "udang basah setjukupnja",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "bawang merah 2 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun sup setjukupnja",
+            "item_original": "daun sup",
+            "item_normalized": "daun seledri",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pertama-tama kita buat induknja (kepalanja), seperti dibawah ini:",
+      "Segenggam tepung beras di-petjah² dengan air mendidih sama halnja dengan kita membuat kandji badju.",
+      "Kemudian tepung itu diseduh dengan air dingin, dimasukkan pula ²/₃ tjangkir dari induknja itu.",
+      "Diaduk hingga bertjampur benar.",
+      "Sekarang udang tadi dimasak sesudah dibersihkan dan ditjintjang hingga halus dengan bawang putih dan bawang merah jang sudah diiris.",
+      "Dibubuhi garam setjukupnja.",
+      "Mulai adonan itu ditumis semuanja sampai kering.",
+      "Dan kita masak pula serabi itu satu² didalam tjobek ketjil jang bertutup.",
+      "Waktu hampir² masak nampaknja, atasnja disapu dengan santan kental sedikit.",
+      "Ditaburi udang jang telah ditumis tadi dan diseraki daun sup jang di-iris²."
+    ]
+  },
+  {
+    "recipe_id": "MR_1097_1",
+    "title_original": "SERABI TELUR",
+    "title_normalized": "Serabi Telur",
+    "region": null,
+    "page_number": 1089,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 1–2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": "1.0-2.0",
+            "unit": "butir"
+          },
+          {
+            "original_text": "santan 2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung terigu ½ kg.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam halus ½ sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      },
+      {
+        "group_name": "sirup",
+        "original_header": "Sirop",
+        "ingredients": [
+          {
+            "original_text": "gula merah ½ gls.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "pandan 2 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

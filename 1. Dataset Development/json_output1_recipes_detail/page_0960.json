@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_952_0",
+    "title_original": "KUE HAVERMOUT",
+    "title_normalized": "Kue Havermouth",
+    "region": null,
+    "page_number": 952,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur 5 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 4½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 4.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "havermout 2½ tjkr.",
+            "item_original": "havermout",
+            "item_normalized": "havermut",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 4½ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 4.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung singkong 2 tjkr.",
+            "item_original": "tepung singkong",
+            "item_normalized": "tepung singkong",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2 tjk",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung susu 1 tjkr.",
+            "item_original": "tepung susu",
+            "item_normalized": "tepung susu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "bubuk tjoklat 1 sdm.",
+            "item_original": "bubuk tjoklat",
+            "item_normalized": "bubuk coklat",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur (dari 5 butir telur), gula dan mentega dikotjok sampai mengembang.",
+      "Sesudah itu dimasukkan havermout, terigu, tepung singkong, tepung susu dan bubuk tjoklat.",
+      "Adonan ini diaduk hingga rata betul, sesudah rata dimasukkkkan lojang dan dibakar dalam oven dengan api diatas dan dibawah hingga kuning.",
+      "Sesudah masak, panas² dipotong persegi pandjang."
+    ]
+  },
+  {
+    "recipe_id": "MR_952_1",
+    "title_original": "KUE INAH",
+    "title_normalized": "Kue Inah",
+    "region": "Bali",
+    "page_number": 952,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan hitam atau ketan putih 1 kg.",
+            "item_original": "ketan hitam atau ketan putih",
+            "item_normalized": "ketan hitam atau ketan putih",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "pelepah pisang kering atau daun pisang kering 2 ikt.",
+            "item_original": "pelepah pisang kering atau daun pisang kering",
+            "item_normalized": "pelepah pisang kering atau daun pisang kering",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kelapa tua 1 bh.",
+            "item_original": "kelapa tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula merah ¾ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.75,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan disangan, ditumbuk halus.",
+      "Kelapa diparut, disangan, dibuat santan kental.",
+      "Gula merah di-iris²."
+    ]
+  }
+]

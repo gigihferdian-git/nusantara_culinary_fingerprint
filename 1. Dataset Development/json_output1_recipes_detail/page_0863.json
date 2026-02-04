@@ -1,0 +1,91 @@
+[
+  {
+    "recipe_id": "MR_863_1",
+    "title_original": "DJADAH",
+    "title_normalized": "Jadah",
+    "region": "Jogjakarta",
+    "page_number": 855,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 lt.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kelapa tua 1 btr.",
+            "item_original": "kelapa tua",
+            "item_normalized": "kelapa tua",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan direndam dalam air ± 6 djam, kemudian ditjujti bersih lalu dikukus ditaruh diatas tampah, diberi parutan kelapa dan garam setjukupnja.",
+      "Diaduk sampai tjampur lalu dikukus lagi sampai masak kemudian ditumbuk sampai liat, ditaruh diatas tampah dengan didasari daun pisang, dinginkan dan di-iris²."
+    ]
+  },
+  {
+    "recipe_id": "MR_863_2",
+    "title_original": "DJADJA BANTAL",
+    "title_normalized": "Jajan Bantal",
+    "region": "Bali",
+    "page_number": 855,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "katjang tolo 1 tjkr.",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan ditjutji bersih dan direndam dalam air dingin kemudian dikukus ½ masak.",
+      "Kelapa diparut dan katjang disangrai sebentar.",
+      "Ditjampurkan ketan, kelapa parut, garam dan katjang merah."
+    ]
+  }
+]

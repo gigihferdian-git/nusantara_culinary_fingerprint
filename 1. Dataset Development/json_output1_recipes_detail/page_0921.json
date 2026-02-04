@@ -1,0 +1,122 @@
+[
+  {
+    "recipe_id": "MR_921_1",
+    "title_original": "KEJABU",
+    "title_normalized": "Kejabu",
+    "region": null,
+    "page_number": 913,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan 1 tjkr.",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa parut 1¹/₂ tjkr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan besar 1 hl.",
+            "item_original": "daun pandan besar",
+            "item_normalized": "daun pandan besar",
+            "quantity": 1.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "lidi 5 pt. sepandjang 4 cm",
+            "item_original": "lidi",
+            "item_normalized": "lidi",
+            "quantity": 5.0,
+            "unit": "potong"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung, kelapa, garam ditjampur sampai rata.",
+      "Gula merah di-potong² sebuku² (seperti gula merah untuk onde²).",
+      "Daun pandan ditjutji, di-potong² sepandjang 15 cm.",
+      "Daun pandan ini dipilatkan sampai berbentuk kerutjut.",
+      "Tepung bersama kelapa dan garam tadi dimasukkan kedalam kerutjut pandan, diisi sepotong gula merah (gula djawa) didalamnja.",
+      "Dibungkus, diberi peniti dari lidi.",
+      "Adonan ini sebanjak 10 bungkus.",
+      "Dikukus."
+    ]
+  },
+  {
+    "recipe_id": "MR_921_2",
+    "title_original": "KEKIPING",
+    "title_normalized": "Kekiping",
+    "region": "Bali",
+    "page_number": 913,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ¹/₂ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir ¹/₂ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "katjang hidjau 1 tjkr.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "minjak ¹/₂ btl.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

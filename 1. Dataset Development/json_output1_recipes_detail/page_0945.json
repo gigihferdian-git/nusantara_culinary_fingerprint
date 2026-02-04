@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_945_0",
+    "title_original": "KUE ARAI PINANG",
+    "title_normalized": "Kue Arai Pinang",
+    "region": "Sumatera Barat",
+    "page_number": 937,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 4 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan entjer 2 gls.",
+            "item_original": "santan entjer",
+            "item_normalized": "santan encer",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam halus 1 sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kapur sirih sedikit",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras disangrai.",
+      "Santan didihkan bersama garam dan sedikit kapur sirih.",
+      "Santan dituangkan sedikit demi sedikit ketepung beras sambil diuli sampai merupakan adonan jang rata dan kental.",
+      "Dari adonan dibuat bulatan sebesar kelereng, setelah mana tiap kelereng ditekan dengan empu djari didalam majang pinang jang sebelumnja diberi minjak, supaja tidak melekat.",
+      "Benda² ini kemudian digoreng dalam minjak hingga kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_945_1",
+    "title_original": "KUE ASIA",
+    "title_normalized": "Kue Asia",
+    "region": null,
+    "page_number": 937,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung gaplek ½ kg.",
+            "item_original": "tepung gaplek",
+            "item_normalized": "tepung gaplek",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir halus ½ kg.",
+            "item_original": "gula pasir halus",
+            "item_normalized": "gula pasir halus",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "margarine 1 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung disangrai.",
+      "Kelapa diparut, dibuat santan, direbus sampai kental.",
+      "Telur dan gula dikotjok sampai mengembang, dimasukkan tepungnja, ditjampur sampai rata kemudian dimasukkan santan dan garam."
+    ]
+  }
+]

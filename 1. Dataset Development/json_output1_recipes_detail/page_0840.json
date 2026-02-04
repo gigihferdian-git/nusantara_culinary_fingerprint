@@ -1,0 +1,122 @@
+[
+  {
+    "recipe_id": "MR_840_1",
+    "title_original": "BUBUR BEKATUL DJAGUNG",
+    "title_normalized": "Bubur Bekatul Jagung",
+    "region": null,
+    "page_number": 832,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "bekatul djagung 1 tjkr.",
+            "item_original": "bekatul djagung",
+            "item_normalized": "bekatul jagung",
+            "quantity": 1.0,
+            "unit": "takaran"
+          },
+          {
+            "original_text": "santan kental 1 tjkr.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "takaran"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "santan entjer 2 tjkr.",
+            "item_original": "santan entjer",
+            "item_normalized": "santan encer",
+            "quantity": 2.0,
+            "unit": "takaran"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bekatul dan santan dimasak sampai setengah masak.",
+      "Dimasukkan gula, garam dan daun pandan lalu dimasak sampai masak dengan terus di-aduk² agar rata.",
+      "Santan kental dimasak dengan sedikit garam dan daun pandan, hati hati djangan sampai petjah santannja.",
+      "Bubur bekatul ini dihidangkan dengan santan kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_840_2",
+    "title_original": "BUBUR DELIMA (Rembang)",
+    "title_normalized": "Bubur Delima",
+    "region": "Rembang",
+    "page_number": 832,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji ¹/₄ kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 3 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 3 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "warna ¹/₂ sdt.",
+            "item_original": "warna",
+            "item_normalized": "pewarna",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pandan 2 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung ditjampur air ¹/₂ gelas dalam piring tebal 1 cm, warna diratakan diatasnja, dibiarkan selama kira² 15 menit lalu dipotong persegi (1 cm).",
+      "Sisa air 2¹/₂ gelas direbus, iris²an tadi dimasukkan, sesudah terapung diambil (namanja bidji delima).",
+      "Santan, gula, pandan direbus, bidji delima dimasukkan, diangkat dari api."
+    ]
+  }
+]

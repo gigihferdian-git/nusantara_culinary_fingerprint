@@ -1,0 +1,119 @@
+[
+  {
+    "recipe_id": "MR_814_1",
+    "title_original": "BERDAPAN",
+    "title_normalized": "Berdapan",
+    "region": "Malang",
+    "page_number": 814,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa agak muda 1/2 btr.",
+            "item_original": "kelapa agak muda",
+            "item_normalized": "kelapa agak muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air direbus dalam pantji bertutup.",
+      "Singkong dikupas, ditjuti, diparut dan ditjampur garam.",
+      "Kemudian singkong parut diratakan diatas tutup dan ditutupkan pada air mendidih sampai singkong berwarna djernih (tebal lapisan ± 2 cm) besarnja sebesar tutup. Sebaiknja disediakan banjak tutup.",
+      "Kelapa diparut, ditambah gula dan garam serta air (± 1/4 gls.) dibuat enten².",
+      "Kemudian kulit dari singkong diisi enten², dilipat seperti dadar gulung."
+    ]
+  },
+  {
+    "recipe_id": "MR_814_2",
+    "title_original": "BIDJI BANGKINANG",
+    "title_normalized": "Biji Bangkinang",
+    "region": "Bandjarmasin",
+    "page_number": 814,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "santan 2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air kapur 1 sdm.",
+            "item_original": "air kapur",
+            "item_normalized": "air kapur",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_892_0",
+    "title_original": "GANEFO KETELA",
+    "title_normalized": "Ganefo Ketela",
+    "region": null,
+    "page_number": 884,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketela/ubi 2 kg.",
+            "item_original": "ketela/ubi",
+            "item_normalized": "ketela/ubi",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa muda 1 kg.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir setjukupnja",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Parutan ketela dan parutan kelapa muda ditjampur dan diberi garam setjukupnja.",
+      "Di-letrek² lalu dikukus sampai masak.",
+      "Letrekan² itu digulung dan tiap² gulungan didalamnja diberi gula pasir 1 sendok makan."
+    ]
+  },
+  {
+    "recipe_id": "MR_892_1",
+    "title_original": "GARBUK",
+    "title_normalized": "Garbuk",
+    "region": "Madura",
+    "page_number": 884,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula ¼ kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut halus, diperas dibuang airnja sedikit, ditjampur garam.",
+      "Disusun dalam lojang; ketela dan kemudian gula jang diirisi atau kelapa parut.",
+      "Dikukus.",
+      "Keterangan : Djika sudah memakai gula, djangan pakai kelapa."
+    ]
+  },
+  {
+    "recipe_id": "MR_892_2",
+    "title_original": "GATOT",
+    "title_normalized": "Gatot",
+    "region": "Jogjakarta",
+    "page_number": 884,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gaplek ¾ kg.",
+            "item_original": "gaplek",
+            "item_normalized": "gaplek",
+            "quantity": 0.75,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_992_1",
+    "title_original": "KUE SIPUT SIPUT",
+    "title_normalized": "Kue Siput Siput",
+    "region": "Sumatera Barat",
+    "page_number": 984,
+    "category": "Kue (Snack)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 4 gls.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "telur ajam 2 bh.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak goreng 3 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili 4 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 4.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dikotjok hingga mengembang, diberi panili, dimasukkan sedikit demi sedikit ketepung sambil diaduk rata.",
+      "Adonan dibentuk pandjang seperti lidi dan kemudian digeleng seperti siput.",
+      "Minjak didjerangkan djangan sampai panas sekali. Kue dimasukkan dan digoreng kuning."
+    ],
+    "notes": "Minjak goreng tidak boleh panas sekali, untuk memberi kesempatan pada kue untuk berkembang."
+  },
+  {
+    "recipe_id": "MR_992_2",
+    "title_original": "KUE SIRNA",
+    "title_normalized": "Kue Sirna",
+    "region": null,
+    "page_number": 984,
+    "category": "Kue (Snack)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 1¹/₂ ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "terigu 2¹/₂ ons",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "maizena 3 sdm.",
+            "item_original": "maizena",
+            "item_normalized": "maizena",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula halus ¹/₄ ons",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 0.25,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "katjang tanah 1 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "soda 1 sdt.",
+            "item_original": "soda",
+            "item_normalized": "soda",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kaju manis halus sedikit",
+            "item_original": "kaju manis halus",
+            "item_normalized": "kayu manis halus",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

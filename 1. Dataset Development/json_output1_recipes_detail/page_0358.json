@@ -1,0 +1,122 @@
+[
+  {
+    "recipe_id": "MR_350_1",
+    "title_original": "SOP SARANG BURUNG",
+    "title_normalized": "Sup Sarang Burung",
+    "region": null,
+    "page_number": 350,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging ajam 1½ kg.",
+            "item_original": "daging ajam",
+            "item_normalized": "daging ayam",
+            "quantity": 1.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "sarang burung ½ ons",
+            "item_original": "sarang burung",
+            "item_normalized": "sarang burung",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ajam direbus sampai empuk, di-sobek².",
+      "Sarang burung diseduh sampai terendam, dibersihkan.",
+      "Direbus bersama daging ajam, telur dikotjok diberi lada dimasukkan.",
+      "Dihidangkan panas²."
+    ]
+  },
+  {
+    "recipe_id": "MR_350_2",
+    "title_original": "SOP SINGKONG",
+    "title_normalized": "Sup Singkong",
+    "region": null,
+    "page_number": 350,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong ¼ kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun bawang 1 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "seledri 1 tk.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "lada 1/3 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/3 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, ditjutji, dipotong-potong ketjil sebesar dadu.",
+      "Daun bawang dan seledri diiris halus.",
+      "Air dididihkan dalam pantji, singkong dimasukkan ; begitu djuga seledri dan daun bawang. Banjaknja air 1½ gelas.",
+      "Bila singkong telah masak, bumbu, lada, garam halus dimasukkan."
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "recipe_id": "MR_759_1",
+    "title_original": "SATE PUSUT",
+    "title_normalized": "Sate Pusut",
+    "region": "Bali",
+    "page_number": 751,
+    "category": "Sate",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging babi (lulur) ½ kg.",
+            "item_original": "daging babi (lulur)",
+            "item_normalized": "daging babi (lulur)",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kelapa ¼ gls.",
+            "item_original": "santan kelapa",
+            "item_normalized": "santan kelapa",
+            "quantity": 0.25,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tusukan sate setjukupnja",
+            "item_original": "tusukan sate",
+            "item_normalized": "tusukan sate",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 2 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos ½ rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae ½ rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunijt ½ rdj.",
+            "item_original": "kunijt",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "djeruk sambal 1 bh.",
+            "item_original": "djeruk sambal",
+            "item_normalized": "jeruk sambal",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjintjang lalu ditumbuk halus.",
+      "Sebagian bawang merah dan putih diiris, digoreng.",
+      "Sebagian lombok di-iris² bulat digoreng sebentar.",
+      "Semua bumbu dihaluskan.",
+      "Kelapa diparut dibuat santan.",
+      "Bumbu jang halus ditjampur dengan daging tjintjang.",
+      "Setelah lumat diberi santan sedikit demi sedikit, hingga mendjadi adonan jang lumat sekali dan mudah dibentuk.",
+      "Ditambahkan bawang merah goreng dan lombok goreng.",
+      "Dibelitkan pada sudjen lalu dibakar sampai masak."
+    ]
+  }
+]

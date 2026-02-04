@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_1086_0",
+    "title_original": "RUDJAK SEMANGGI",
+    "title_normalized": "Rujak Semanggi",
+    "region": null,
+    "page_number": 1078,
+    "category": "Rujak",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "semanggi 4 ggm.",
+            "item_original": "semanggi",
+            "item_normalized": "semanggi",
+            "quantity": 4.0,
+            "unit": "genggam"
+          },
+          {
+            "original_text": "ubi djalar 1 bh.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "lombok rawit 2 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Semanggi dikukus sampai masak.",
+      "Ubi djalar direbus, setelah masak dikupas.",
+      "Terasi dibakar.",
+      "Bumbu dan ubi djalar dihaluskan, ditjairkan dengan air.",
+      "Semanggi ditjampur dengan saos ubi djalar."
+    ]
+  },
+  {
+    "recipe_id": "MR_1086_1",
+    "title_original": "RUDJAK TAHU SAOS TJUKA",
+    "title_normalized": "Rujak Tahu Saus Cuka",
+    "region": "Palembang",
+    "page_number": 1078,
+    "category": "Rujak",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "mie basah ¼ kg.",
+            "item_original": "mie basah",
+            "item_normalized": "mi basah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "soun ½ ons",
+            "item_original": "soun",
+            "item_normalized": "soun",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tahu putih 2 bdj.",
+            "item_original": "tahu putih",
+            "item_normalized": "tahu putih",
+            "quantity": 2.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "timun muda 2 bh.",
+            "item_original": "timun muda",
+            "item_normalized": "timun muda",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kerupuk merah 1 ons",
+            "item_original": "kerupuk merah",
+            "item_normalized": "kerupuk merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "emping 1 ons",
+            "item_original": "emping",
+            "item_normalized": "emping",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak ⅓ btl.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.33,
+            "unit": "botol"
+          },
+          {
+            "original_text": "udang kering ¼ ons",
+            "item_original": "udang kering",
+            "item_normalized": "udang kering",
+            "quantity": 0.25,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu, kerupuk, emping digoreng.",
+      "Soun direndam sampai lemas."
+    ]
+  }
+]

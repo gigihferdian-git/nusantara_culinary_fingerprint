@@ -1,0 +1,176 @@
+[
+  {
+    "recipe_id": "MR_594_0",
+    "title_original": "SERUWIT",
+    "title_normalized": "Seruwit",
+    "region": "Lampung",
+    "page_number": 586,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan tenggiri 1/2 kg.",
+            "item_original": "ikan tenggiri",
+            "item_normalized": "ikan tenggiri",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 1 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "terasi 1/2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kwini 1 pt.",
+            "item_original": "kwini",
+            "item_normalized": "kweni",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 1/2 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan dan dibakar sambil diolesi dengan minjak goreng.",
+      "Kwini ditjintjang, tomat diiris.",
+      "Bumbu lain digiling halus, diberi sedikit air panas.",
+      "Ikan dibuangi tulangnja, di-tjubit² dan ditjampur dengan bumbu. Diatasnja diberi kwini dan tomat jang telah diiris."
+    ]
+  },
+  {
+    "recipe_id": "MR_594_1",
+    "title_original": "SETAM TENEREM",
+    "title_normalized": "Setam Tenerem",
+    "region": "Lampung",
+    "page_number": 586,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan gabus 1/2 kg.",
+            "item_original": "ikan gabus",
+            "item_normalized": "ikan gabus",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "nasi 3 sdm.",
+            "item_original": "nasi",
+            "item_normalized": "nasi",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "salam 2 hl.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan dan dipotong-potong, diberi garam dan nasi sambil diremas-remas; dimasukkan stoples, dibungkus serbet dan disimpan 3 hari ditempat jang agak panas.",
+      "Bumbu diiris halus dan ditjam-pur dengan ikan.",
+      "Tjam-puran ini dibung-kusi daun pisang (dua potong tiap bungkus) dan dipanggang."
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "recipe_id": "MR_460_0",
+    "title_original": "IKAN TJUKA",
+    "title_normalized": "Ikan Cuka",
+    "region": "Padang",
+    "page_number": 460,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan tenggiri 4 ekor",
+            "item_original": "ikan tenggiri",
+            "item_normalized": "ikan tenggiri",
+            "quantity": 4.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 5 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "tjuka 3 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dipotong, dilumuri dengan garam terus digoreng.",
+      "Bawang merah, bawang putih dimemarkan.",
+      "Lombok hidjau dibelah dua.",
+      "Bumbu² ditumis sampai laju, dimasuki air 3 gelas.",
+      "Ikan, tjuka dan garam dimasukkan.",
+      "Kalau sudah mendidih diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_460_1",
+    "title_original": "IKAN TJUKA OLE",
+    "title_normalized": "Ikan Cuka Ole",
+    "region": "Padang",
+    "page_number": 460,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan tenggiri 5 ekor",
+            "item_original": "ikan tenggiri",
+            "item_normalized": "ikan tenggiri",
+            "quantity": 5.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 30 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 30.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 20 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada putih ½ sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus ½ sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjengkeh 4 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "daun salam 3 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "tjuka 2 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, di-potong², digoreng sampai kuning.",
+      "Bawang merah diiris tipis, digoreng. Setelah hampir kuning"
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "recipe_id": "MR_1085_1",
+    "title_original": "RUDJAK KANGKUNG",
+    "title_normalized": "Rujak Kangkung",
+    "region": null,
+    "page_number": 1077,
+    "category": "Rujak",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 2 ikt.",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "katjang tanah 1 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 3 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "asam 2 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 2.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "4 petis 1 sdm.",
+            "item_original": "4 petis",
+            "item_normalized": "petis",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kangkung direbus, di-iris².",
+      "Terasi dibakar.",
+      "Katjang dibakar.",
+      "Bumbu² dihaluskan, katjang goreng dimasukkan dan ditumbuk halus.",
+      "Kangkung jang telah di-iris² diberi bumbu diatasnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_1085_2",
+    "title_original": "RUDJAK MI",
+    "title_normalized": "Rujak Mi",
+    "region": "Palembang",
+    "page_number": 1077,
+    "category": "Rujak",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mi 1 gls.",
+            "item_original": "mi",
+            "item_normalized": "mi",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "soun 1/2 gls.",
+            "item_original": "soun",
+            "item_normalized": "soun",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "taoge 1 gls.",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "ketimun 2 bh.",
+            "item_original": "ketimun",
+            "item_normalized": "timun",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tungtjai setjukupnja",
+            "item_original": "tungtjai",
+            "item_normalized": "tungcai",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 10 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tjuka 5 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mi ditjutji, soun di-potong², ditiriskan.",
+      "Bawang merah diiris, digoreng.",
+      "Bumbu² dihaluskan.",
+      "Tungtjai ditumbuk kasar, ketimun diiris ketjil².",
+      "Gula merah dilarutkan dengan ± 3 gelas air panas mendidih kemudian disaring."
+    ]
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_1132_1",
+    "title_original": "TUMBI",
+    "title_normalized": "Tumbi",
+    "region": null,
+    "page_number": 1132,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "katjang hidjau ½ gls.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 2½ gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "minjak goreng ½ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang 1 siung",
+            "item_original": "bawang",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kunjit 1 iris",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "daun kunjit 10 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 10.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang hidjau direndam ± 1 malam.",
+      "Bumbu² dihaluskan, daun kutjai diiris halus.",
+      "Tepung beras, katjang hidjau, santan, daun kutjai, bumbu² diaduk mendjadi adonan.",
+      "Minjak kelapa didjerangkan.",
+      "Adonan digoreng tipis² seperti rempejek hingga kering."
+    ]
+  },
+  {
+    "recipe_id": "MR_1132_2",
+    "title_original": "ULEN",
+    "title_normalized": "Ulen",
+    "region": null,
+    "page_number": 1132,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan ½ kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/3 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa 1 butir diparut semua.",
+      "Beras ketan ditjutji bersih, direndam dengan air bersih lamanja ± 1 djam.",
+      "Beras ketan dikukus sampai \"timus\" kemudian dikaru dengan air matang, dibiarkan sebentar."
+    ]
+  }
+]

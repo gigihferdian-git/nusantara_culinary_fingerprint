@@ -1,0 +1,158 @@
+[
+  {
+    "recipe_id": "MR_919_1",
+    "title_original": "Kukus Singkong Katjang (Lanjutan)",
+    "title_normalized": "Kukus Singkong Kacang (Lanjutan)",
+    "region": null,
+    "page_number": 911,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut lalu diperas airnja (untuk atji).",
+      "Katjang²an direbus sampai ¹/₂ masak, ditjampur singkong dan ditambah garam. Kalau memakai gula, gula disisir ditjampur singkong parut.",
+      "Dikukus sampai masak.",
+      "Dimakan pakai kelapa."
+    ]
+  },
+  {
+    "recipe_id": "MR_919_2",
+    "title_original": "KATJANG ASIN",
+    "title_normalized": "Kacang Asin",
+    "region": null,
+    "page_number": 911,
+    "category": "Camilan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak kelapa 1/3 btl.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 0.33,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada halus 1 sdm.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "bawang putih 10 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 10.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang direndam dengan air panas sebentar kemudian dikuliti.",
+      "Katjang jang telah dikupas, didjemur sampai kering, terus digoreng.",
+      "Setelah matang diberi lada, garam atau bawang putih jang telah digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_919_3",
+    "title_original": "KATJANG ATOM (Rembang)",
+    "title_normalized": "Kacang Atom (Rembang)",
+    "region": "Rembang",
+    "page_number": 911,
+    "category": "Camilan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1/4 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang tanah 1 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak kelapa 2 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 5 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 5.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "recipe_id": "MR_954_0",
+    "title_original": "KUE DJAGUNG",
+    "title_normalized": "Kue Jagung",
+    "region": null,
+    "page_number": 946,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung pipihan 1 lt.",
+            "item_original": "djagung pipihan",
+            "item_normalized": "jagung pipihan",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "katjang temo 1 gls.",
+            "item_original": "katjang temo",
+            "item_normalized": "kacang temo",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula aren 1 gls.",
+            "item_original": "gula aren",
+            "item_normalized": "gula aren",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung disangrai.",
+      "Ditampi.",
+      "Ditumbuk, diajak.",
+      "Tepung djagung jang halus ditjampur dengan temo.",
+      "Gula aren ditjairkan dalam pantji, diaduk sampai kental dengan air 2 gelas.",
+      "Tepung bersama temo dimasukkan.",
+      "Diaduk sampai rata dan kering.",
+      "Dipaparkan dalam bak kue atau di-bulat²kan."
+    ]
+  },
+  {
+    "recipe_id": "MR_954_1",
+    "title_original": "KUE DJAE",
+    "title_normalized": "Kue Jahe",
+    "region": "Menado",
+    "page_number": 946,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 6 ons",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 6.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "manisan djae 1 ons",
+            "item_original": "manisan djae",
+            "item_normalized": "manisan jahe",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "margarine 3 ons",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 2½ ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Margarine dan gula dikotjok, dimasukkan telur, kemudian tepung terigu.",
+      "Adonan setelah teraduk rata, digiling setebal ½ cm.",
+      "Kue diletakkan diatas lojang, diatasnja disemir dengan telur dan manisan djae jang telah dipotong ketjil² lalu dibakar dalam oven."
+    ]
+  },
+  {
+    "recipe_id": "MR_954_2",
+    "title_original": "KUE DON",
+    "title_normalized": "Kue Don",
+    "region": null,
+    "page_number": 946,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung gaplek 1 kg.",
+            "item_original": "tepung gaplek",
+            "item_normalized": "tepung gaplek",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula ½ kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "ubi djalar 2½ kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 2.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,301 @@
+{
+  "last_active_category": "LAUK PAUK BASAH - BERKUAH",
+  "mappings": [
+    {
+      "recipes_original_name": "Aron",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Arem Arem",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Arem Arem Aron",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Arem Arem Djagung",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Djagung Bose",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Djagung Titi",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Hutspot",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Kapusuk Nosu",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Kentang Ongklok",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Kentang Puri",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Ketupat",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Loka Dipeapi",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Lontong",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Lontong Djagung",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Lontong/Ketupat Djagung dengan Beras",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Briani",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Djagung",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Djagung dengan Beras",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Djagung Gaplek",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Djagung Nangka Muda",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Djagung Ubi Kaju",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Golong",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Goreng",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Gurih Djagung",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Kebuli (Palembang)",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Kebuli (Medan)",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Kukus",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Kukus (dalam Risopan)",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Kukus (dalam soblukan)",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Kuning",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Liwet",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Punar",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Samin",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Tim",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Tumpang",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Nasi Wuduk",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Sagu Sagu",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Sagu Kelapa",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Stamppot Bajam dan Kangkung",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Stamppot Kol Putih",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Tamales",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Tinotuan",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Tiwul",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Tiwul Djagung",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Tortilla",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Tortilla Guadalajara",
+      "category": "MAKANAN UTAMA"
+    },
+    {
+      "recipes_original_name": "Asem Asem",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Asem Asem Buntjis",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Asem Asem Tahu",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Asem Asem Terong",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Aunu",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Brongkos",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Brongkos Katjang Merah",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Brongkos Tahu",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Brongkos Waluh Djipang",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djambrai Sagar",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djangan Singang",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djukut Ares",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djukut Daun Belimbing",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djukut Meliklik",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djukut Mapelapah",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djukut Mapeletjing",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djukut Rambanan",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Djukut Roroban",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gangan Asem Kering",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gangan Daun Mengkudu",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gangan Katjang Hidjau",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gangan Tungkul",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gangan Waluh",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gulai Ajam",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gulai Asam Pedas Ikan",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gulai Bagar",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gulai Bebek",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    },
+    {
+      "recipes_original_name": "Gulai Bebek Masak Hidjau",
+      "category": "LAUK PAUK BASAH - BERKUAH"
+    }
+  ]
+}

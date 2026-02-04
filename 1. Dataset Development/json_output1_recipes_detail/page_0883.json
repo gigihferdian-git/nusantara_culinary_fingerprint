@@ -1,0 +1,239 @@
+[
+  {
+    "recipe_id": "MR_875_1",
+    "title_original": "EMPÉK EMPÉK (INFERRED)",
+    "title_normalized": "Pempek Model (Telur Panggang)",
+    "region": null,
+    "page_number": 875,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bumbu Saos",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 6 bh.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 10 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tongtjai 1 sdm.",
+            "item_original": "tongtjai",
+            "item_normalized": "tongcai",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tjuka 2 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "Bahan Utama (Inferred)",
+        "original_header": "Inferred from Instructions",
+        "ingredients": [
+          {
+            "original_text": "Ikan halus",
+            "item_original": "Ikan halus",
+            "item_normalized": "ikan giling",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "sagu",
+            "item_original": "sagu",
+            "item_normalized": "sagu",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "air garam",
+            "item_original": "air garam",
+            "item_normalized": "air garam",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "Telur",
+            "item_original": "Telur",
+            "item_normalized": "telur",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      },
+      {
+        "group_name": "Saos Tambahan (Inferred)",
+        "original_header": "Saosnja",
+        "ingredients": [
+          {
+            "original_text": "air panas 2 gelas",
+            "item_original": "air panas",
+            "item_normalized": "air panas",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "ketjap",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan halus, ditambah sagu ditambah air garam sampai mendjadi adonan jang dapat dibentuk.",
+      "Telur dikotjok seperti membuat dadar telur, kemudian adonan empék empék diberi bentuk kelereng lalu dimasukkan kedalam telur.",
+      "Telur jang ditjamput empék empék dimasukkan kedalam takir lalu dipanggang sampai masak.",
+      "Saosnja:",
+      "Lombok, garam, bawang putih, gula merah dihaluskan, tongtjai ditumbuk kasar.",
+      "Bumbu halus dimasukkan kedalam mangkok, disiram air panas 2 gelas, diberi tjuka.",
+      "Rasa manis dapat ditambah dengan sedikit ketjap."
+    ]
+  },
+  {
+    "recipe_id": "MR_875_2",
+    "title_original": "EMPEK EMPEK MODEL (Palembang)",
+    "title_normalized": "Pempek Model (Palembang)",
+    "region": "Palembang",
+    "page_number": 875,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan jang telah dihaluskan (gabus, belida, tenggiri) 1 mgk.",
+            "item_original": "ikan jang telah dihaluskan (gabus, belida, tenggiri)",
+            "item_normalized": "ikan giling (gabus, belida, tenggiri)",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "tepung sagu 1 mgk.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "tahu 5 pt.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 7 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang merah 8 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tongtjai 1 sdm.",
+            "item_original": "tongtjai",
+            "item_normalized": "tongcai",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, dikupas, dibuangi tulang-tulangnja, dihaluskan."
+    ]
+  }
+]

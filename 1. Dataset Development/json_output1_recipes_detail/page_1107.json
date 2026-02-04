@@ -1,0 +1,80 @@
+[
+  {
+    "recipe_id": "MR_1107_0",
+    "title_original": "SUSU EOK",
+    "title_normalized": "Susu Eok",
+    "region": null,
+    "page_number": 1099,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu entjer 1 lt.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kaju manis 1 pt.",
+            "item_original": "kaju manis",
+            "item_normalized": "kayu manis",
+            "quantity": 1.0,
+            "unit": "potong"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Susu dicampur gula.",
+      "Dimasak pakai api kecil.",
+      "Diaduk-aduk sampai kental.",
+      "Kayu manis ditumbuk halus, diayak.",
+      "Susu tadi kalau sudah masak dimasukkan dalam cangkir, dibubuhi kayu manis."
+    ]
+  },
+  {
+    "recipe_id": "MR_1107_1",
+    "title_original": "SUSU GORENG",
+    "title_normalized": "Susu Goreng",
+    "region": null,
+    "page_number": 1099,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu entjer 1 lt.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Susu dicampur dengan gula.",
+      "Dimasak dengan api sedang."
+    ]
+  }
+]

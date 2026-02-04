@@ -1,0 +1,108 @@
+[
+  {
+    "recipe_id": "MR_891_1",
+    "title_original": "GAGAOK",
+    "title_normalized": "Gagaok",
+    "region": "Bandjarmasin",
+    "page_number": 883,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras/ terigu 1/4 kg.",
+            "item_original": "tepung beras/ terigu",
+            "item_normalized": "tepung beras/ terigu",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pisang 2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          },
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa parut 1 1/4 btr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung diaduk dengan kelapa parut dan sedikit garam.",
+      "Gula di-iris².",
+      "3 sendok makan dari adonan tepung diletakkan dalam daun pisang, lalu diisi dengan 1 sendok makan gula jang telah disisir.",
+      "Dibungkus berbentuk segi tiga, dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_891_2",
+    "title_original": "GANDOS",
+    "title_normalized": "Gandos",
+    "region": null,
+    "page_number": 883,
+    "category": "Kue Goreng",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, ditjamput dengan tepung ketan, garam dan air mendjadi adonan jang dapat dibentuk.",
+      "Minjak goreng dipanaskan dalam wadjan hingga panas betul. Adonan dibentuk bulat² sebesar kemiri.",
+      "Digoreng dengan minjak jang panas tadi, sampai kuning."
+    ]
+  }
+]

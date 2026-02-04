@@ -1,0 +1,156 @@
+[
+  {
+    "recipe_id": "MR_1026_1",
+    "title_original": "MINJOLOS",
+    "title_normalized": "Minjolos",
+    "region": null,
+    "page_number": 1026,
+    "category": "Kue / Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar 5 bh.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "gula pasir 1 tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur 1 bdj.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "mentega 2 sd.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok"
+          },
+          {
+            "original_text": "terigu 1 tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar ditjutji, direbus, didinginkan.",
+      "Dikupas, isinja di-remas² sampai halus.",
+      "Gula pasir, mentega, telor, terigu dimasukkan bersilang-seling.",
+      "Diaduk sampai rata.",
+      "Di-bulat²kan, digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_1026_2",
+    "title_original": "MIHUN GORENG",
+    "title_normalized": "Bihun Goreng",
+    "region": null,
+    "page_number": 1026,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mihun ¼ kg.",
+            "item_original": "mihun",
+            "item_normalized": "bihun",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kubis 5 lbr.",
+            "item_original": "kubis",
+            "item_normalized": "kubis",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "lontjang 5 btg.",
+            "item_original": "lontjang",
+            "item_normalized": "loncang",
+            "quantity": 5.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "mentega 1½ sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bdj.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada putih 24 bdj.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 24.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "seledri kutjaj 1 ikt .ketjil",
+            "item_original": "seledri kutjaj",
+            "item_normalized": "seledri kucai",
+            "quantity": 1.0,
+            "unit": "ikat kecil"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "vetsin 1 bks.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Mihun direndam dengan air dingin sebentar, kemudian diangkat.",
+      "Daun lontjang dan kubis dibersihkan terus di-potong²."
+    ]
+  }
+]

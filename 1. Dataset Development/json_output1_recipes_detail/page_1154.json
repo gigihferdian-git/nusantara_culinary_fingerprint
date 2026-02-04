@@ -1,0 +1,114 @@
+[
+  {
+    "recipe_id": "MR_1146_1",
+    "title_original": "ES KRIM SIRSAK",
+    "title_normalized": "Es Krim Sirsak",
+    "region": null,
+    "page_number": 1146,
+    "category": "Es Krim",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "air sirsak 1 gls.",
+            "item_original": "air sirsak",
+            "item_normalized": "air sirsak",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "susu entjer 3 gls.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula 2½ ons",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung maizena 4 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Susu, gula dan panili dimasak sampai mendidih, sesudah itu ditjam-purkan air sirsak jang sudah ditjam-pur dengan tepung sedikit² kedalamnja.",
+      "Sekarang dimasak kembali sampai kental, didinginkan dan kemudian dimasukkan kedalam putaran es dan diputar sampai keras."
+    ]
+  },
+  {
+    "recipe_id": "MR_1146_2",
+    "title_original": "ES KRIM PANILI",
+    "title_normalized": "Es Krim Vanili",
+    "region": null,
+    "page_number": 1146,
+    "category": "Es Krim",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "susu 2 gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula 1 ons.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung maizena 3 sdm.",
+            "item_original": "tepung maizena",
+            "item_normalized": "tepung maizena",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Susu dimasak dengan gula dan panili.",
+      "Kuning telur diputar dengan gula sedikit sampai kembang, diadukkan tepung dan sesudah itu dituangkan susu sedikit² kedalamnja.",
+      "Kemudian dimasak lagi sampai mendidih.",
+      "Sesudah dingin lalu dimasukkan kedalam putaran es dan untuk penambah enak rasa dibubuhi manisan nenas."
+    ]
+  }
+]

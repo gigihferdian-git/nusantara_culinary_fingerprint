@@ -1,0 +1,107 @@
+[
+  {
+    "recipe_id": "MR_836_1",
+    "title_original": "BUBUR MENIR DJAGUNG",
+    "title_normalized": "Bubur Menir Jagung",
+    "region": null,
+    "page_number": 836,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "menir djagung 1 tjkr.",
+            "item_original": "menir djagung",
+            "item_normalized": "menir jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "daun pandan",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": "helai"
+          },
+          {
+            "original_text": "santan 3-4 tjkr.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Dibuat bubur kental dari menir dan santan, garam dan daun pandan.",
+      "Dimasukkan lagi kedalam santan kental.",
+      "Dihidangkan lagi kedalam gula merah jang telah dimasak dengan setjangkir air dan daun pandan."
+    ]
+  },
+  {
+    "recipe_id": "MR_836_2",
+    "title_original": "BUBUR NIRA",
+    "title_normalized": "Bubur Nira",
+    "region": "Ambon",
+    "page_number": 836,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "nira jang manis ½ lt.",
+            "item_original": "nira jang manis",
+            "item_normalized": "nira manis",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "tepung beras 2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Nira direbus sampai mendidih, sampai habis buihnja.",
+      "Tepung diaduk dengan air sampai rata dan diberi garam sedikit.",
+      "Adonan dimasukkan kedalam nira, di-aduk² djangan sampai ber-bidji², dimasak sampai matang."
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "recipe_id": "MR_1067_1059A",
+    "title_original": "PONSA",
+    "title_normalized": "Ponsa",
+    "region": null,
+    "page_number": 1059,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan 1 kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kunjit 2 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 2.0,
+            "unit": "ruji"
+          },
+          {
+            "original_text": "tjuka 2 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kunjit diparut, diperas, diambil airnja, diasamkan dengan tjuka.",
+      "Ketan ditjutji, ditjampur air kunjit parut, dikukus dalam dandang."
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "recipe_id": "MR_591_0",
+    "title_original": "SINGGANG AJAM",
+    "title_normalized": "Singgang Ayam",
+    "region": "Padang",
+    "page_number": 591,
+    "category": "Lauk Pauk / Ayam",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah giling 1 sdt.",
+            "item_original": "lombok merah giling",
+            "item_normalized": "cabai merah giling",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "daun kunjit 1/2 hl.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 0.5,
+            "unit": "helai"
+          },
+          {
+            "original_text": "daun djeruk purut 2 lb.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajm dibersihkan, dikeluarkan kepala, kaki dan isi perutnja. Dadannja dibelah memandjang; ajam dibuka.",
+      "Semua bumbu digiling halus, ketjuali daun kunjit dan sereh.",
+      "Ajm dilumari bumbu dan dibiarkan ± 2 djam.",
+      "Kelapa diparut dan dikeluarkan santan kental sebanjak 2 gelas.",
+      "Ajm dimasukkan dalam wadjan besar, diberi santan, dimasak degan api ketjil, sambil ditutup rapat.",
+      "Bila ajam sudah empuk dan kuahnja berminjak dan kental, diangkat.",
+      "Ajm dibakar dianglo sambil disirami bumbu²."
+    ]
+  }
+]

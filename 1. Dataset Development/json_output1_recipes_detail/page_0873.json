@@ -1,0 +1,134 @@
+[
+  {
+    "recipe_id": "MR_865_1",
+    "title_original": "DJUBLEG",
+    "title_normalized": "Djublek",
+    "region": "Yogyakarta",
+    "page_number": 865,
+    "category": "Kue / Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gude 1 kg.",
+            "item_original": "gude",
+            "item_normalized": "gude",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa setengah tua 3 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 3.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "laos 2 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "brambang 10 bh.",
+            "item_original": "brambang",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang 5 siung",
+            "item_original": "bawang",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula 1/4 kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gude direndam semalam lalu ditjutji bersih.",
+      "Kelapa setengah tua diparut lalu ditjampur dengan gude dan di-remas² sampai keluar santannja.",
+      "Adonan bumbu² jang sudah halus ditjampurkan dan diberi gula, diaduk sampai rata.",
+      "Dibungkusi daun pisang lalu direbus sampai masak dan kalau sudah dingin dan kekal baru dimakan."
+    ]
+  },
+  {
+    "recipe_id": "MR_865_2",
+    "title_original": "DODOL BALINGBING",
+    "title_normalized": "Dodol Belimbing",
+    "region": null,
+    "page_number": 865,
+    "category": "Manisan / Dodol",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "buah belimbing 1/2 kg.",
+            "item_original": "buah belimbing",
+            "item_normalized": "buah belimbing",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Buah belimbing direbus sampai masak, diperas airnja dan bidjinja dibuang.",
+      "Kelapa jang 1/2 butir diparut, disangrai sampai masak."
+    ]
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "recipe_id": "MR_879_1",
+    "title_original": "ENGKOK BANDAR",
+    "title_normalized": "Engkok Bandar",
+    "region": "Palembang",
+    "page_number": 879,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar 2 kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar direbus, dikupas dan dihaluskan.",
+      "Santan direbus sampai mendidih.",
+      "Telur dikotjok dengan gula sampai mengembang.",
+      "Ubi djalar dimasukkan, diaduk sampai rata, baru dimasukkan kedalam santan.",
+      "Dimasukkan dalam tjetakan, dimasak selapis demi selapis.",
+      "Lapisan paling atas diberi adonan gula jang telah dikotjok."
+    ]
+  },
+  {
+    "recipe_id": "MR_879_2",
+    "title_original": "EURIMOO",
+    "title_normalized": "Eurimoo",
+    "region": "Irian Barat",
+    "page_number": 879,
+    "category": "Kue/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung sagu kering 1/2 kg.",
+            "item_original": "tepung sagu kering",
+            "item_normalized": "tepung sagu kering",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa parut 2 btr.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pisang masak 10 bh.",
+            "item_original": "pisang masak",
+            "item_normalized": "pisang masak",
+            "quantity": 10.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung, pisang dan kelapa parut ditjampur dan diulet hingga rata.",
+      "Adonan tersebut dibungkusi sebesar kepalan baji dengan daun pisang.",
+      "Dimasukkan kedalam air jang telah mendidih hingga masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_879_3",
+    "title_original": "GABUK AMPAL",
+    "title_normalized": "Gabuk Ampal",
+    "region": "Madura",
+    "page_number": 879,
+    "category": "Kue/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 3 gls.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa parut 1 gls.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1/2 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

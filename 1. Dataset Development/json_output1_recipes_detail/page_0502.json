@@ -1,0 +1,209 @@
+[
+  {
+    "recipe_id": "MR_502_0",
+    "title_original": "MASAK KUNING",
+    "title_normalized": "Masak Kuning",
+    "region": "Bandjarmasin",
+    "page_number": 494,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging 1 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 1 pt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "pot"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "pot"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "gula pasir 1/2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan, di-potong².",
+      "Bumbu² dihaluskan, ketjuali laos dan sereh.",
+      "Bumbu² ditumis, daging dimasukkan.",
+      "Kelapa diparut diambil santannja 5 gelas, dimasukkan dalam no. 3.",
+      "Dimasak sampai dagingnja empuk.",
+      "Djika sudah kental diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_502_1",
+    "title_original": "MASAKAN DAGING",
+    "title_normalized": "Masakan Daging",
+    "region": null,
+    "page_number": 494,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging kambing 1 kg.",
+            "item_original": "daging kambing",
+            "item_normalized": "daging kambing",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kentang 5 bidji",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kelapa 1 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "buah"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 7 bh. (dibuangi bidjinja)",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bumbu arab 1 sdm.",
+            "item_original": "bumbu arab",
+            "item_normalized": "bumbu arab",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "asam 10 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 10.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak samin/margarine 2 sdm.",
+            "item_original": "minjak samin/margarine",
+            "item_normalized": "minyak samin/margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

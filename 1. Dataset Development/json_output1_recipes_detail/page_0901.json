@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": "MR_901_0",
+    "title_original": "GETAS",
+    "title_normalized": "Getas",
+    "region": null,
+    "page_number": 893,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula pasir ¹/₂ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung ketan didjur dengan air sampai kental dan digarami setjukupnja.",
+      "Lalu di-letrek² dan di-iris².",
+      "Digoreng.",
+      "Digongso dengan gula pasir."
+    ]
+  },
+  {
+    "recipe_id": "MR_901_1",
+    "title_original": "GETUK",
+    "title_normalized": "Getuk",
+    "region": null,
+    "page_number": 893,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ¹/₄ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ¹/₂ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "[Tjara membuatnja]:",
+      "Singkong dibersihkan, dikukus sampai masak.",
+      "Ditumbuk halus, dibentuk.",
+      "Ditaburi kelapa parut dan garam.",
+      "[Keterangan]: Getuk ini dapat djuga digoreng.",
+      "[Tjara memasaknja sbb. - Frying Method]:",
+      "Getuk dibuat bulat², dalamnja diisi gula merah.",
+      "Digoreng dalam minjak panas hingga warnanja kekuningan."
+    ]
+  }
+]

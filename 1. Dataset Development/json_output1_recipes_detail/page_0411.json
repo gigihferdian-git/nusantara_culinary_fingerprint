@@ -1,0 +1,117 @@
+[
+  {
+    "recipe_id": "MR_403_0",
+    "title_original": "BETUTU",
+    "title_normalized": "Betutu",
+    "region": "Banten",
+    "page_number": 403,
+    "category": "Unggas",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "telur ajam/bebek 5 btr.",
+            "item_original": "telur ajam/bebek",
+            "item_normalized": "telur ayam/bebek",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "roti tawar 1/2 btg",
+            "item_original": "roti tawar",
+            "item_normalized": "roti tawar",
+            "quantity": 0.5,
+            "unit": "batang"
+          },
+          {
+            "original_text": "kentang 5 bdj.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 5.0,
+            "unit": "biji"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus 1/4 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 1 sdt.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak goreng atau mente ga 4 sdm.",
+            "item_original": "minjak goreng atau mentega",
+            "item_normalized": "minyak goreng atau mentega",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja:",
+      "1. Ajam dibersihkan, dikeluarkan isi perutnja, didjahit separo, diisi dengan pure kentang jang telah dibumbui.",
+      "2. Telur direbus, dikupas, dimasukkan dalam perut ajam kemudian didjahit jang rapat.",
+      "3. Ajam setelah didjahit, dikukus sampai masak.",
+      "4. Setelah masak, dioven dengan api atas dan bawah, tiap kali dibuka, disiram dengan mentega jang telah dilelehkan.",
+      "5. Bila sudah kuning rata, betutu dikeluarkan dari oven.",
+      "Keterangan:",
+      "Dihidangkan dipiring londjong, dihias daun selada, tomat dan daun seledri.",
+      "Tjara mengambil tulang dari tubuh ajam:",
+      "1. Ajam dipotong dan dibersihkan bulunja. Setelah ditjutji, ajam agak dikeringkan, leher ajam boleh dihilangkan boleh tidak.",
+      "2. Dada ajam dibelah dengan pisau jang tadjam sekali. Dibagian telih dipotong memandjang, bagian dada membudjur dan bagian bawah memandjang.",
+      "3. Tulang dikeluarkan pelan² dipisahkan dari daging.",
+      "4. Antara daging dengan tulang harus dipotong dibagian paha separo, dibagian sajap separo dan bagian leher.",
+      "5. Setelah selesai, kulit ajam tidak perlu ditjutji lagi, didjahit sebagian dulu, baru diisi dengan daging ajam jang sudah ditjintjang."
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "recipe_id": "MR_972_0",
+    "title_original": "KUE LENGKITANG",
+    "title_normalized": "Kue Lengkitang",
+    "region": null,
+    "page_number": 964,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung terigu 10 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 10.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gadjih 1 sdm.",
+            "item_original": "gadjih",
+            "item_normalized": "gajih",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air es 1 gelas",
+            "item_original": "air es",
+            "item_normalized": "air es",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Terigu, telur, mentega dan air es diaduk sampai rata, serta di-remas² sampai seperti adonan jang lunak.",
+      "Kemudian digiling dan diatas adonan diletakkan gosret lalu di-lipat² dan ditutup dengan kain basah kira² 15 menit lamanja.",
+      "Sesudah itu adonan jang bergosret tadi digiling tipis.",
+      "Kemudian dil-lapis² lagi dan digiling lagi.",
+      "Demikian diperbuat hingga 5 atau 6 kali.",
+      "Sekali lagi digiling jang tipis dan di-potong² serupa pita. Dililitkan pada tjetakannja jang berbentuk kerutjut dan diatasnja disapu dengan kuningnja telur kemudian dibakar.",
+      "Sesudah masak dikeluarkan dari tjetakannja dan diisi dengan saos atau jam.",
+      "Keterangan: Saos dibuat seperti pada sus."
+    ]
+  },
+  {
+    "recipe_id": "MR_972_1",
+    "title_original": "KUE LIDAH KUTJING",
+    "title_normalized": "Kue Lidah Kucing",
+    "region": null,
+    "page_number": 964,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gula 2 1/2 ons",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "mentega 2 1/2 ons",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung terigu 2 1/2 ons",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "putih telur 6 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 1/2 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

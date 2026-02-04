@@ -1,0 +1,170 @@
+[
+  {
+    "recipe_id": "MR_1069_1",
+    "title_original": "RANTING KEDJU",
+    "title_normalized": "Ranting Keju",
+    "region": null,
+    "page_number": 1069,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega ½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam bersih 1 sdt.",
+            "item_original": "garam bersih",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kedju 1 ons",
+            "item_original": "kedju",
+            "item_normalized": "keju",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tepung susu 2 sdm.",
+            "item_original": "tepung susu",
+            "item_normalized": "tepung susu",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan mentega dikotjok sampai mengembang.",
+      "Kemudian ditjampurkan garam, kedju, terigu, soda dan tepung susu.",
+      "Sudah itu adonan ini di-gulung² sebesar potlot dengan telapak tangan lalu di-potong² dan dimasukkan dalam lojang.",
+      "Atasnja disapu dengan merahnja telur dan dibakar dalam oven dengan api diatas dan dibawahnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_1069_2",
+    "title_original": "RAS KARAS",
+    "title_normalized": "Ras Karas",
+    "region": null,
+    "page_number": 1069,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak kelapa ½ gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong diparut kasar/diiris pandjang².",
+      "Singkong ditjampur gula merah, garam, dibentuk bulat² digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_1069_3",
+    "title_original": "RENGGINANG",
+    "title_normalized": "Rengginang",
+    "region": null,
+    "page_number": 1069,
+    "category": "Kerupuk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras ketan 1 kg.",
+            "item_original": "beras ketan",
+            "item_normalized": "beras ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 2 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan dikukus dengan garam, gula.",
+      "Dibentuk bulat pipih, didjemur sampai kering.",
+      "Digoreng."
+    ]
+  }
+]

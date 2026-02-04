@@ -1,0 +1,135 @@
+[
+  {
+    "recipe_id": "MR_807_1",
+    "title_original": "APEM DJAGUNG",
+    "title_normalized": "Apem Jagung",
+    "region": null,
+    "page_number": 799,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1½ tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir ¼ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air 1½ tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah ½ tjkr.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tape singkong 1 ons",
+            "item_original": "tape singkong",
+            "item_normalized": "tape singkong",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "panili sejukupnja",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung djagung, tape, gula merah, gula pasir dan panili diaduk mendjadi satu dengan diberi air sedikit demi sedikit.",
+      "Kalau adonan sudah djadi, dibiarkan mengembang dahulu selama 8 djam di tempat jang panas.",
+      "Kalau sudah mengembang dikukuskan dalam lojang.",
+      "Dihidangkan dengan kelapa parut jang diberi garam sesedangnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_807_2",
+    "title_original": "APEM DUMBO",
+    "title_normalized": "Apem Dumbo",
+    "region": null,
+    "page_number": 799,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "gula pasir ½ kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan setjukupnja",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "ragi ½ ptg.",
+            "item_original": "ragi",
+            "item_normalized": "ragi",
+            "quantity": 0.5,
+            "unit": "potong"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung beras, gula dan ragi ditjampur, di-aduk² lalu didiamkan semalam setelah di beri air sampai basah (djangan terlalu entjer).",
+      "Paginja diberi lagi santan, di-aduk² dan diberi warna dengan teres merah.",
+      "Kemudian dikukus sampai masak."
+    ]
+  }
+]

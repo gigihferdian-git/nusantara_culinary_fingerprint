@@ -1,0 +1,154 @@
+[
+  {
+    "recipe_id": "MR_390_1",
+    "title_original": "BAU PEAPI",
+    "title_normalized": "Bau Peapi",
+    "region": "Mandar",
+    "page_number": 390,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan tongkol 1 ekor",
+            "item_original": "ikan tongkol",
+            "item_normalized": "ikan tongkol",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "asam setjukupnja",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "bawang merah 15 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok 10 bh.",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kunjit tepung 1/2 sdt.",
+            "item_original": "kunjit tepung",
+            "item_normalized": "kunyit bubuk",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "lada 1 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "minjak kelapa setjukupnja",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, di-potong².",
+      "Bawang merah dikupas, ditjampur dengan asam + garam di-remas² hingga tertjampur rata.",
+      "Lada ditumbuk, lombok ditumbuk, ditjampur rata dengan remasan asam.",
+      "Kunjit dimasukkan dalam tjampuran.",
+      "Ikan dimasukkan dalam tjampuran, diberi air hingga ikannja terendam (djangan terlalu banjak air), dimasak.",
+      "Sesudah masak, sebelum diangkat, dimasukkan bawang merah jang sudah digoreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_390_2",
+    "title_original": "BAWANG AJAM",
+    "title_normalized": "Bawang Ayam",
+    "region": null,
+    "page_number": 390,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "air 1 tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "minjak 1 tjkr.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 20 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 4 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "bawang putih 4 siung.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1/2 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

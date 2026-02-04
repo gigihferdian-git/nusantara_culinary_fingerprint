@@ -1,0 +1,82 @@
+[
+  {
+    "recipe_id": "MR_709_0",
+    "title_original": "URUTAN",
+    "title_normalized": "Urutan",
+    "region": "Bali",
+    "page_number": 709,
+    "category": "Sosis",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "usūs muda babi atau sapi 1/4 kg.",
+            "item_original": "usūs muda babi atau sapi",
+            "item_normalized": "usus muda babi atau sapi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging berlemak 3 ons",
+            "item_original": "daging berlemak",
+            "item_normalized": "daging berlemak",
+            "quantity": 3.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok 1 bh.",
+            "item_original": "lombok",
+            "item_normalized": "cabai",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "djae 1/2 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "rejang"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Usus dibersihkan, satu dari udjungnja diikat.",
+      "Daging setelah dibersihkan di-potong² seperti dadu.",
+      "Semua bumbu dihaluskan.",
+      "Daging ditjampur dengan bumbu.",
+      "Daging dimasukkan kedalam usus, kemudian udjung jang lain diikat, udjung dengan udjung diikat mendjadi satu, hingga merupakan lingkaran. Pada beberapa tempat ditusuk dengan lidi.",
+      "Digoreng sampai masak.",
+      "Dihidangkan utuh atau di-potong²."
+    ]
+  }
+]

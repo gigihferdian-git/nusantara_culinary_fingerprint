@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_1155_1",
+    "title_original": "WEDANG TAPE",
+    "title_normalized": "Wedang Tape",
+    "region": "Rembang",
+    "page_number": 1155,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tape ketan/ketela pohon 1 gls.",
+            "item_original": "tape ketan/ketela pohon",
+            "item_normalized": "tape ketan/singkong",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air mendidih 2 gls.",
+            "item_original": "air mendidih",
+            "item_normalized": "air mendidih",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 6 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tape diberi gula pasir.",
+      "Diberi air masak, diaduk sampai rata dan manis."
+    ]
+  },
+  {
+    "recipe_id": "MR_1155_2",
+    "title_original": "WEDANG TOMAT",
+    "title_normalized": "Wedang Tomat",
+    "region": "Rembang",
+    "page_number": 1155,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tomat masak 3 bh.",
+            "item_original": "tomat masak",
+            "item_normalized": "tomat masak",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "air mendidih 2 gls.",
+            "item_original": "air mendidih",
+            "item_normalized": "air mendidih",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 2 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tomat diiris kecil, dimasukkan dalam gelas, diberi gula pasir.",
+      "Diberi air, diaduk sampai campur.",
+      "Dihidangkan panas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1155_3",
+    "title_original": "WEDANG UBLEK",
+    "title_normalized": "Wedang Ublek",
+    "region": "Rembang",
+    "page_number": 1155,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa muda 1/2 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 5 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 5.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

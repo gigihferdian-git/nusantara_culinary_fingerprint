@@ -1,0 +1,185 @@
+[
+  {
+    "recipe_id": "MR_1037_0",
+    "title_original": "Previous Recipe Continuation",
+    "title_normalized": "Previous Recipe Continuation",
+    "region": null,
+    "page_number": 1037,
+    "category": "Savory Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "(Continuation of Ingredients)",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala 1/3 sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.33,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "seledri 2 lbr.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, di-potong².",
+      "Bawang merah, daun bawang, seledri diiris halus.",
+      "Bawang putih, lada, pala dihaluskan.",
+      "Daging di-potong² seperti dadu, direbus dengan 1 liter air sampai lunak.",
+      "Setelah air tinggal 2/3-nja dimasukkan bumbu jang dihaluskan dan singkong, dibiarkan sampai air hampir habis.",
+      "Daun bawang, seledri, bawang merah ditumis, ditjampurkan dengan singkong",
+      "Diongklok sebentar² sampai air habis."
+    ]
+  },
+  {
+    "recipe_id": "MR_1037_1",
+    "title_original": "ONGOL ONGOL",
+    "title_normalized": "Ongol Ongol",
+    "region": "Rembang",
+    "page_number": 1037,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pati garut 1/4 kg.",
+            "item_original": "pati garut",
+            "item_normalized": "pati garut",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 200.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "garam halus 1/2 sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "air 4 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 4.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula merah direbus dengan 2 gelas air, disaring.",
+      "Pati garut dihantjurkan dengan 1 gelas air, dituangkan kedalam air gula, diaduk mendjadi bubur, dikentalkan dan dimasak.",
+      "Kelapa diparut, ditjampur garam",
+      "Sesendok demi sesendok bubur tersebut di-guling²kan dalam kelapa parut."
+    ]
+  },
+  {
+    "recipe_id": "MR_1037_2",
+    "title_original": "ONGOL ONGOL UBI",
+    "title_normalized": "Ongol Ongol Ubi",
+    "region": null,
+    "page_number": 1037,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalalar 1/2 kg.",
+            "item_original": "ubi djalalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung kandji 1/2 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pandan 1 lbr.",
+            "item_original": "pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "recipe_id": "MR_424_1",
+    "title_original": "[BUNDU AYAM INFERRED]",
+    "title_normalized": "Bundu Ayam",
+    "region": null,
+    "page_number": 424,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama (inferred)",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "Ajam",
+            "item_original": "Ajam",
+            "item_normalized": "ayam",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "santan kental 3/4 liter",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.75,
+            "unit": "liter"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada 5 g.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 5.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "laos 5 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 5.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "djae 4 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 4.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kunjit 1 sdm.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ajam dibersihkan, di-potong².",
+      "Kelapa diparut, dibuat santan kental 3/4 liter.",
+      "Bumbu² dihaluskan.",
+      "Semuanja ditjampurkan, diberi santan.",
+      "Didjerangkan sampai masak (airnja harus habis)."
+    ]
+  },
+  {
+    "recipe_id": "MR_424_2",
+    "title_original": "BUNDU DAGING (Makasar)",
+    "title_normalized": "Bundu Daging (Makassar)",
+    "region": "Makassar",
+    "page_number": 424,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging 1 kg.",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 5 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 5.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "daun salam 3 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "bawang putih 1 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 1.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "sereh 2 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dipotong ketjil².",
+      "Kelapa diparut, dibuat santan ± 3 tjangkir.",
+      "Bawang merah, bawang putih, laos dan sereh di-iris².",
+      "Daging ditjampur dengan bumbu², diberi santan, garam dan daun salam.",
+      "Didjerangkan sampai masak (kental)."
+    ]
+  },
+  {
+    "recipe_id": "MR_424_3",
+    "title_original": "BUNDU MAKASAR",
+    "title_normalized": "Bundu Makassar",
+    "region": "Makassar",
+    "page_number": 424,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung djagung 4 sdm.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

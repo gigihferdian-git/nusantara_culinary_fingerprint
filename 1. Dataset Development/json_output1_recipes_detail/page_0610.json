@@ -1,0 +1,208 @@
+[
+  {
+    "recipe_id": "MR_602_0",
+    "title_original": "[CONTINUED RECIPE - Djengkol]",
+    "title_normalized": "Jengkol Masak Bumbu",
+    "region": null,
+    "page_number": 602,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "djeruk purut 1 ptg.",
+            "item_original": "djeruk purut",
+            "item_normalized": "jeruk purut",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kemiri 5 btr.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djengkol direbus dengan garam 1 sendok makan dan merang sampai masak.",
+      "Diangkat, dibuangi kulitnja, dibelah lalu dimemarkan.",
+      "Bumbu² dihaluskan, ketjuali daun salam, laos, djeruk purut.",
+      "Kelapa diparut, diambil santannja 3½ gelas.",
+      "Semua bumbu dimasukkan dalam santan, direbus sampai mendidih; djengkol dimasukkan, diaduk sampai kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_602_1",
+    "title_original": "TERIK GARING",
+    "title_normalized": "Terik Garing",
+    "region": "Jawa Timur",
+    "page_number": 602,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "daging sapi ½ kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 3 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "laos 2 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 2.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah ½ sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air kelapa 1 gls.",
+            "item_original": "air kelapa",
+            "item_normalized": "air kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjutji, diirisi seperti lapis.",
+      "Bumbu dihaluskan, ketjuali salam dan laos.",
+      "Kelapa diambil santannja.",
+      "Daging dan bumbu² direbus dalam air kelapa, hingga daging mendjadi lunak dan kuahnja mendjadi halus.",
+      "Kemudian santan kental dimasukkan. Dimasak sampai santannja keluar minjaknja."
+    ]
+  }
+]

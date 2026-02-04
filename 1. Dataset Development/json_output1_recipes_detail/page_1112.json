@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_1104_1",
+    "title_original": "TAART KEDJU",
+    "title_normalized": "Tart Keju",
+    "region": null,
+    "page_number": 1104,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 15 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 15.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 5 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 1 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu setjukpnja",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kedju diparut atau ditjintjang 2 sdm.",
+            "item_original": "kedju diparut atau ditjintjang",
+            "item_normalized": "keju parut atau dicincang",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "susu kental 4 sdm.",
+            "item_original": "susu kental",
+            "item_normalized": "susu kental",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur dan gula dikotjok sampai mengembang.",
+      "Lalu dimasukkan mentega dan dikotjok sampai putih.",
+      "Sesudah itu dimasukkan tepung, kedju dan susu.",
+      "Penghabisan sekali dimasukkan putih telur jang telah dikotjok terpisah.",
+      "Dibakar ber-lapis².",
+      "Sebelah atas ditaruh kedju jang telah di-potong²."
+    ]
+  },
+  {
+    "recipe_id": "MR_1104_2",
+    "title_original": "TAART KOPI MOCCA",
+    "title_normalized": "Tart Kopi Moka",
+    "region": null,
+    "page_number": 1104,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merahnja telur 10 btr.",
+            "item_original": "merahnja telur",
+            "item_normalized": "kuning telur",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putihnja telur 6 btr.",
+            "item_original": "putihnja telur",
+            "item_normalized": "putih telur",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 2 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu manis 2 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "brandy setjukupnja",
+            "item_original": "brandy",
+            "item_normalized": "brendi",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "extract kopi setjukupnja",
+            "item_original": "extract kopi",
+            "item_normalized": "ekstrak kopi",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur dan gula dikotjok sampai mengembang.",
+      "Lalu dimasukkan mentega dan dikotjok terus sampai rata.",
+      "Sesudah itu dimasukkan terigu, susu dan panili.",
+      "Kemudian dimasukkan putihnja telur jang telah dikotjok terpisah.",
+      "Adonan ini diambil sedikit dan sedang (5 sendok makan), dimasukkan dalam mangkuk, lalu ditjampur dengan brandy setjukupnja, dibubuhi irisan² kenari.",
+      "Sesudah itu dimasukkan kedalam tjetakan dan dibakar dengan api diatas dan dibawah."
+    ]
+  }
+]

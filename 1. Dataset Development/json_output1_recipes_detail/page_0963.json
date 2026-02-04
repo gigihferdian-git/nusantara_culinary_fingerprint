@@ -1,0 +1,59 @@
+[
+  {
+    "recipe_id": "MR_955_0",
+    "title_original": "KUE KATEN",
+    "title_normalized": "Kue Katen",
+    "region": null,
+    "page_number": 955,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula pasir 4 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung kandji 3 sdm.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung djagung, gula pasir, tepung kandji dan garam ditjampurkan; didjadikan dengan air panas, satu adonan jang dapat di-bulat²kan.",
+      "Dimasak dengan seliter air.",
+      "Kalau air sudah mendidih, dimasukkan bulat²an adonan.",
+      "Kalau sudah terapung tandanja telah matang, diangkat dan di-guling²kan dikelapa parut jang telah digarami setjukupnja."
+    ]
+  }
+]

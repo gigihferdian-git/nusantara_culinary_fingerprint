@@ -1,0 +1,144 @@
+[
+  {
+    "recipe_id": "MR_885_0",
+    "title_original": "EMPEK EMPEK TELUR (KAPAL SELAM)",
+    "title_normalized": "Pempek Telur (Kapal Selam)",
+    "region": "Palembang",
+    "page_number": 877,
+    "category": "Makanan Ringan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging ikan (tenggiri) 1 mgk.",
+            "item_original": "daging ikan (tenggiri)",
+            "item_normalized": "daging ikan (tenggiri)",
+            "quantity": 1.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "telur itik rebus 10 btr.",
+            "item_original": "telur itik rebus",
+            "item_normalized": "telur bebek rebus",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung sagu 1/2 kg.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air garam 1/2 mgk.",
+            "item_original": "air garam",
+            "item_normalized": "air garam",
+            "quantity": 0.5,
+            "unit": "mangkok"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu utama",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          }
+        ]
+      },
+      {
+        "group_name": "saus cuko",
+        "original_header": "Saus ketjap : Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 6 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 6.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok besar 8 bdj.",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 8.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "lombok rawit 8 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 8.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "gula pasir 1 sdm.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjuka 2 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 4 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air masak 1/2 gls.",
+            "item_original": "air masak",
+            "item_normalized": "air matang",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bawang merah, bawang putih dan lada diulek.",
+      "Daging ikan ditjampur bumbu halus, tepung kandji, lalu diberi air garam.",
+      "Kemudian diuli, kalau sudah lemas dibentuk pandjang dan bulat, didalamnja diisi telur rebus, lalu direbus dalam air mendidih.",
+      "Kalau sudah masak kemudian digoreng.",
+      "Dimakan dengan saus ketjap.",
+      "Cara membuat saus: Semua bumbu dihaluskan lalu ditjampur dengan tjuka, gula, ketjap dan air.",
+      "Makannja: Empék empék diletakkan dipiring (di-potong²) lalu disiram saus."
+    ]
+  }
+]

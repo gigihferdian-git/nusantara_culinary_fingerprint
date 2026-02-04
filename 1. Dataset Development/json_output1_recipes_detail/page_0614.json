@@ -1,0 +1,224 @@
+[
+  {
+    "recipe_id": "MR_614_0",
+    "title_original": "TIMBUNGAN",
+    "title_normalized": "Timbungan",
+    "region": "Bali",
+    "page_number": 606,
+    "category": "Masakan Daging",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tetelan daging babi dan tulang² muda ½ kg.",
+            "item_original": "tetelan daging babi dan tulang² muda",
+            "item_normalized": "tetelan daging babi dan tulang muda",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 4 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 4 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombk rawit 2 bh.",
+            "item_original": "lombk rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kunjit 1 rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae ½ rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kentjur ½ rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "laos ¼ rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun salam 4 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 4.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 3 bt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 3.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tetelan daging babi direbus bersama tulang-tulang muda.",
+      "Bumbu dihaluskan, ditumis dan ditambah daun salam.",
+      "Setelah daging agak lunak, dimasukkan bumbu dan direbus sampai lunak."
+    ]
+  },
+  {
+    "recipe_id": "MR_614_1",
+    "title_original": "TJABIK BANDENG",
+    "title_normalized": "Cabik Bandeng",
+    "region": null,
+    "page_number": 606,
+    "category": "Masakan Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan:",
+        "ingredients": [
+          {
+            "original_text": "ikan bandeng 1 ekor",
+            "item_original": "ikan bandeng",
+            "item_normalized": "ikan bandeng",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "kemiri 10 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "asam 5 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "kentjur 2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "terasi ½ sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bandeng dibersihkan, dibakar.",
+      "Bumbu² disembam, ditumbuk dengan terasi dan garam sampai halus dan ditambah air panas sedikit.",
+      "Bandeng diletakkan diatas pinggan, bumbu dituangkan diatasnja."
+    ]
+  }
+]

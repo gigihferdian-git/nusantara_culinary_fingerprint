@@ -1,0 +1,126 @@
+[
+  {
+    "recipe_id": "MR_886_1",
+    "title_original": "GEGADO",
+    "title_normalized": "Gegado",
+    "region": "Palembang",
+    "page_number": 886,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 1/2 kg.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun seledri 3 tk.",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 3.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun bawang 1 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "minjak 1/3 btl",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.33,
+            "unit": "botol"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung terigu diberi air dingin sedikit demi sedikit, bersama garam jang telah dihaluskan.",
+      "Sehingga mendjadi adonan jang sangat kental.",
+      "Kemudian dimasukkan ber-turut² daun seledri dan daun bawang jang telah diradjang halus dan telur.",
+      "Diaduk lagi sampai bertjampur betul.",
+      "Sesudah itu, baru digoreng dalam minjak panas sampai kuning.",
+      "Dimakan bersama kuah tjuka jang disediakan dalam piring lain."
+    ]
+  },
+  {
+    "recipe_id": "MR_886_2",
+    "title_original": "GEGODOH",
+    "title_normalized": "Gegodoh",
+    "region": "Ciamis",
+    "page_number": 886,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "beras ketan putih 1 lt.",
+            "item_original": "beras ketan putih",
+            "item_normalized": "beras ketan putih",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 1/2 btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "kelapa 1/2 tua 1/2 btr.",
+            "item_original": "kelapa 1/2 tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

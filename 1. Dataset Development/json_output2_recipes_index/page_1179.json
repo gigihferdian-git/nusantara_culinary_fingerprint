@@ -1,0 +1,317 @@
+{
+  "last_active_category": "DJADJANAN",
+  "mappings": [
+    {
+      "recipes_original_name": "Sambal Rusip",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Sari Kering",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Sate Ajam",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tautjo",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tappa",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tempe Bosok",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tempojak",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tepung",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Teri",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Teri Goreng",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Terong",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Terong Goreng",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tjabuk",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tjangkediro",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tahu Tomat",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Tomat Goreng",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Udang",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Widjen",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Abug Matjan Ubi Kaju",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Agar² Sarikaja",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ajung Ajung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ambal",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Amparan Tatak Sagu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Ampiang Badadiah",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Amprut",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Angleng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Antakusuma",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Apem",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Apem Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Apem Dumbo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Apem Madura",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Apem Paranggi",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Apem Parsanga",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Apem Singkong",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Arerut Tjepot",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Aria Kusuma",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Asmorodono",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Awug Awug",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Awug Awug Aron",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Awug Awug Djagung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Awug Awug Mutiara",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Babai Maring",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Babingka",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Baeba",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bagea",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bakmi Kaldu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Balung Kuwuk",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bambalungan Ajam",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bangket Bekatul",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bantal Ketan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Baro Baro",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Barongko",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Barubik",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Batun Bedil",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Begine",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bendu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bengawan Solo",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Berdapan",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bidji Bangkinang",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bidji Salak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bika Ambon",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bika Djawa Pona",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bika Putih",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Biluluhe",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bilus",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Blanggem",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bola Anget",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bola Bola",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bola Bola Bandeng",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bola Bola Nenas",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bola Bola Tahu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bolang Baling",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bolu",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bolu Brai",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bolu Gulung",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bolu Kodja",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bolu Kodja Lunak",
+      "category": "DJADJANAN"
+    },
+    {
+      "recipes_original_name": "Bolu Koja",
+      "category": "DJADJANAN"
+    }
+  ]
+}

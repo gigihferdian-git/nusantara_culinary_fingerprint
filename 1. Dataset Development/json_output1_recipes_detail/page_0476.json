@@ -1,0 +1,207 @@
+[
+  {
+    "recipe_id": "MR_468_0",
+    "title_original": "[Continuation]",
+    "title_normalized": "Gulai Gereh Tongkol",
+    "region": null,
+    "page_number": 468,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun salam 2 lbr.",
+            "item_original": "daun salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      },
+      {
+        "group_name": "Bahan Utama (Inferred)",
+        "original_header": "Tjara membuatnja/Keterangan",
+        "ingredients": [
+          {
+            "original_text": "Kelapa diparut, dibuat santan.",
+            "item_original": "kelapa parut",
+            "item_normalized": "kelapa parut",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "Gereh tongkol",
+            "item_original": "gereh tongkol",
+            "item_normalized": "ikan asin tongkol",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Lombok di-iris² jang halus.",
+      "Bawang merah dan bawang putih, laos, terasi, garam, dihaluskan, terus ditjamput dengan irisan lombok dan daun salam, lalu ditumis.",
+      "Kelapa diparut, dibuat santan.",
+      "Santan dimasukkan sambil diaduk.",
+      "Gereh tongkol dimasukkan dan dibiarkan sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_468_1",
+    "title_original": "KULUBAN",
+    "title_normalized": "Kuluban",
+    "region": "Purwokerto",
+    "page_number": 468,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kangkung 2 ikt.",
+            "item_original": "kangkung",
+            "item_normalized": "kangkung",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "katjang pandjang 2 ikt.",
+            "item_original": "katjang pandjang",
+            "item_normalized": "kacang panjang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daun so 1 ikt.",
+            "item_original": "daun so",
+            "item_normalized": "daun melinjo",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "bajam 1 ikt.",
+            "item_original": "bajam",
+            "item_normalized": "bayam",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa setengah tua 1/2 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 btr.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kentjur 1/2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sajuran dibersihkan, direbus, ditiriskan.",
+      "Katjang pandjang di-potong², taoge disiram dengan air mendidih sampai laju.",
+      "Kelapa diparut.",
+      "Bawang putih, lombok, kentjur, terasi digoreng, kemudian dihaluskan, ditambah garam, gula, dan kelapa parut.",
+      "Sajuran, bumbu dan kelapa parut ditjamput rata."
+    ]
+  }
+]

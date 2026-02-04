@@ -1,0 +1,135 @@
+[
+  {
+    "recipe_id": "MR_191_1",
+    "title_original": "HUTSPOT",
+    "title_normalized": "Hutspot",
+    "region": null,
+    "page_number": 183,
+    "category": "Main Course",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kentang 2 kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 2.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "wortel 1 kg.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daging klapstuk ½ kg.",
+            "item_original": "daging klapstuk",
+            "item_normalized": "daging sapi klapstuk",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "mentega 80 g.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 80.0,
+            "unit": "gram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah ¼ kg.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "lada ½ sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala ½ sdt.",
+            "item_original": "pala",
+            "item_normalized": "pala",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging direbus kira² 2 djam lamanja sampai empuk.",
+      "Kentang dikupas, ditjutji, ditaruh diatas daging; wortel dikupas di-potong², dimasukkan dan terachir bawang merah.",
+      "Bahan² jang telah direbus dihaluskan, diselaikan dengan mentega, lada, pala, garam, diaduk sampai rata.",
+      "Daging diiris tipis dan diletakkan diatas.",
+      "Dihidangkan dalam basi tertutup."
+    ]
+  },
+  {
+    "recipe_id": "MR_191_2",
+    "title_original": "KAPUSUK NOSU",
+    "title_normalized": "Kapusuk Nosu",
+    "region": "Buton",
+    "page_number": 183,
+    "category": "Side Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung tua pipilan 1 kg.",
+            "item_original": "djagung tua pipilan",
+            "item_normalized": "jagung tua pipilan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung ditumbuk dengan air sedikit.",
+      "Sesudah lembaganja hilang, diangkat.",
+      "Ditjutji bersih.",
+      "Direbus hingga lembek.",
+      "Air rebusan dibuang.",
+      "Dimasukkan santan biasa.",
+      "Sesudah mendidih dimasukkan santan kental dan diaduk.",
+      "Diberi garam setjukupnja.",
+      "Diangkat sesudah airnja kental."
+    ]
+  }
+]

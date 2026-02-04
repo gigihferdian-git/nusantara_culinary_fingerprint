@@ -1,0 +1,191 @@
+[
+  {
+    "recipe_id": "MR_954_1",
+    "title_original": "(RECIPE CONTINUED)",
+    "title_normalized": "Steamed Layered Cassava Cake",
+    "region": null,
+    "page_number": 954,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_lanjutan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "santan kental 1 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dikupas, diparut, diberi garam, ditempatkan dalam lojang, dikukus sampai 1/2 masak.",
+      "Telur, gula merah, santan dikotjok, ditambah tepung kandji.",
+      "Adonan ini dituang diatas adonan singkong jang telah 1/2 masak, merupakan lapisan atas, kemudian dikukus sampai masak.",
+      "Sesudah dingin di-potong²."
+    ]
+  },
+  {
+    "recipe_id": "MR_954_2",
+    "title_original": "KUE KARANG",
+    "title_normalized": "Kue Karang",
+    "region": null,
+    "page_number": 954,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1/2 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung beras 1/4 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak 1/2 gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1/4 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut (pakai parut jang belubang besar, parut gobet).",
+      "Kelapa diparut, dibuat santan 2 gelas.",
+      "Tepung, santan, gula dan garam dibuat adonan.",
+      "Telur dikatjau.",
+      "Singkong dimasukkan, diaduk rata; demikian pula telur jang telah dikatjau, diaduk rata dalam adonan tersebut.",
+      "Sesendok demi sesendok, digoreng dalam minjak panas."
+    ]
+  },
+  {
+    "recipe_id": "MR_954_3",
+    "title_original": "KUE KARUD",
+    "title_normalized": "Kue Karud",
+    "region": "Bali",
+    "page_number": 954,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/2 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun sudji 3 lbr.",
+            "item_original": "daun sudji",
+            "item_normalized": "daun suji",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "kapur sirih 1/6 sdt.",
+            "item_original": "kapur sirih",
+            "item_normalized": "kapur sirih",
+            "quantity": 0.166,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pelepah pisang setjukupnja",
+            "item_original": "pelepah pisang",
+            "item_normalized": "pelepah pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

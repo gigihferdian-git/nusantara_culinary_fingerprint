@@ -1,0 +1,180 @@
+[
+  {
+    "recipe_id": "MR_610_1",
+    "title_original": "TJAH DAGING",
+    "title_normalized": "Cah Daging",
+    "region": "Bali",
+    "page_number": 610,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "daging sapi 1/4 kg.",
+            "item_original": "daging sapi",
+            "item_normalized": "daging sapi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 btr.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "bawang putih 7 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 7.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak 2 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging ditjintjang sampai halus.",
+      "Lombok, terasi, lada dan garam dihaluskan lalu ditjampur dengan daging jang telah ditjintjang.",
+      "Dibulatkan sebesar kemiri lalu direbus dengan air setjukupnja (kalau ingin kuah banjak, airnja ditambah sampai masak).",
+      "Bawang merah dan bawang putih diiris tipis², digoreng.",
+      "Setelah daging masak, ditaruh piring tjekung dan bulatkan ditaburi bawang goreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_610_2",
+    "title_original": "TJAP TJAI DAUN SAWI",
+    "title_normalized": "Cap Cai Daun Sawi",
+    "region": null,
+    "page_number": 610,
+    "category": "Sayuran",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun sawi 1 ikat",
+            "item_original": "daun sawi",
+            "item_normalized": "daun sawi",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "daging 1 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "wortel 2 ons",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 6 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada 1/2 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "vetsin 1 bks.",
+            "item_original": "vetsin",
+            "item_normalized": "vetsin",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "ebi 1 sdm.",
+            "item_original": "ebi",
+            "item_normalized": "ebi",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak 3 sdm.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

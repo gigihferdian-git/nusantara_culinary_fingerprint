@@ -1,0 +1,203 @@
+[
+  {
+    "recipe_id": "MR_656_1",
+    "title_original": "GURAMI GORENG SAOS TOMAT",
+    "title_normalized": "Gurami Goreng Saus Tomat",
+    "region": "Purwokerto",
+    "page_number": 656,
+    "category": "Lauk Pauk (Ikan)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "gurami 1 kg.",
+            "item_original": "gurami",
+            "item_normalized": "gurami",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tomat 1 ons",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak kelapa 1 gls.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 8 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1/2 rdj.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 0.5,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "salam 3 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "gula merah 1/2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, digoreng.",
+      "Lombok merah dihaluskan.",
+      "Bawang merah, bawang putih, tomat diiris halus, digoreng, ditambahkan salam, laos, gula. Dimasukkan air 2 gelas direbus sampai mendidih dan agak kental mendjadi saus.",
+      "Bila akan dimakan, gurami disiram dengan saus ini."
+    ]
+  },
+  {
+    "recipe_id": "MR_656_2",
+    "title_original": "IKAN KAMBU",
+    "title_normalized": "Ikan Kambu",
+    "region": "Sulawesi Selatan",
+    "page_number": 656,
+    "category": "Lauk Pauk (Ikan)",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ikan bandeng 2 ekor",
+            "item_original": "ikan bandeng",
+            "item_normalized": "ikan bandeng",
+            "quantity": 2.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "kentang 1 ons",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gelas",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawah putih 4 siung",
+            "item_original": "bawah putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pala halus 1/2 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjengkeh halus 1/2 sdt.",
+            "item_original": "tjengkeh halus",
+            "item_normalized": "cengkeh halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun bawang 4 bt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 4.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan. Ditjutji lalu dagingnja serta tulangnja dikeluarkan dari kulitnja, hati² jangan sampai kulitnja sobek. Ditjintjang halus.",
+      "Kentang dikupas di-potong², digoreng dihaluskan."
+    ]
+  }
+]

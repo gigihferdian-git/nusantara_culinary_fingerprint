@@ -1,0 +1,123 @@
+[
+  {
+    "recipe_id": "MR_1046_1",
+    "title_original": "PASUNG",
+    "title_normalized": "Pasung",
+    "region": null,
+    "page_number": 1046,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 3 mgk.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 3.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "gula merah ¼ kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "air 6 mgk.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 6.0,
+            "unit": "mangkok"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dan gula ditjampur dan diberi air sedikit.",
+      "Dilumatkan dengan djalan ditumbuk dalam lumping hingga mendjadi adonan jang lemas dan tertjampur rata, baru diangkat ditaruh dalam baskom.",
+      "Kelapa diparut, dibuat santan ± 6 mangkuk.",
+      "Adonan jang sudah lemas ditjampur dengan santan sambil diaduk hingga tertjampur rata dan diberi sedikit garam.",
+      "Dikukus didalam tjetakan talam hingga masak, tetapi umumnja djadjan ini dikukus dalam kerutjut² terbuat dari daun pisang.",
+      "Djadjan ini dikukus djika air sudah mendidih."
+    ]
+  },
+  {
+    "recipe_id": "MR_1046_2",
+    "title_original": "PATOLA",
+    "title_normalized": "Patola",
+    "region": "Malang",
+    "page_number": 1046,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ½ kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula djawa ¼ kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa ½ kg.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 5 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 5.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung dikukus sampai masak.",
+      "Kelapa diparut diambil santannnja 2 gelas.",
+      "Santan, gula, daun pandan, garam direbus sampai mendidih."
+    ]
+  }
+]

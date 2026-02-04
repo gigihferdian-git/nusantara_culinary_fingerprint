@@ -1,0 +1,168 @@
+[
+  {
+    "recipe_id": "MR_909_0",
+    "title_original": "HARDER WIENER",
+    "title_normalized": "Harder Wiener",
+    "region": null,
+    "page_number": 901,
+    "category": "Kue Eropa",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 2 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 10 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 10.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 3½ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      },
+      {
+        "group_name": "room_bahan",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 4 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 4½ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 4.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 2 sdt.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kismis 1 tjkr.",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu entjer 1 klg.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.0,
+            "unit": "kaleng"
+          },
+          {
+            "original_text": "air ½ gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "jam setjukupnja",
+            "item_original": "jam",
+            "item_normalized": "selai",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikocok sampai mengembang, dimasukkan mentega kemudian dikocok terus sampai putih.",
+      "Sesudah itu dimasukkan terigu dan vanili.",
+      "Kemudian diaduk hingga rata betul.",
+      "Adonan ini dimasukkan dalam mangkuk dan ditekan hingga tipis.",
+      "Dibakar dalam oven dengan api atas dan bawah.",
+      "Diangkat.",
+      "Roomnya dibuat seperti dibawah ini: Kuning telur, gula pasir, terigu, mentega, susu encer dan air dikocok sampai kuning, kemudian dimasak sampai kental.",
+      "Sesudah itu dimasukkan kismis.",
+      "Kemudian diangkat dari api dan dituang dalam kue yang telah dikeluarkan dari cetakannya.",
+      "Diatas room diletakkan sedikit kismis."
+    ]
+  },
+  {
+    "recipe_id": "MR_909_1",
+    "title_original": "HAVERMOUT KOEKJES",
+    "title_normalized": "Havermut Koekjes",
+    "region": null,
+    "page_number": 901,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "havermout 250 g.",
+            "item_original": "havermout",
+            "item_normalized": "havermut",
+            "quantity": 250.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "telur ajam 2 g.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "gula pasir 200 g.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 200.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "mentega 100 g.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 100.0,
+            "unit": "gram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan telur dikocok, havermut dimasukkan.",
+      "Mentega dicairkan, dimasukkan dalam campuran havermut."
+    ]
+  }
+]

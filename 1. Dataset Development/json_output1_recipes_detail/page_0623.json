@@ -1,0 +1,178 @@
+[
+  {
+    "recipe_id": "MR_615_1",
+    "title_original": "[CONTINUATION]",
+    "title_normalized": "Keluwak Daging",
+    "region": null,
+    "page_number": 615,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 4 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 bh.",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 2 sdm.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "daun kutjai 5 btg.",
+            "item_original": "daun kutjai",
+            "item_normalized": "daun kucai",
+            "quantity": 5.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "merica bubuk",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun prei 1 btg.",
+            "item_original": "daun prei",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "keluwak halus 4 sdm.",
+            "item_original": "keluwak halus",
+            "item_normalized": "keluwek halus",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dibersihkan, dipotong-potong.",
+      "Keluwak diberi air 3 tjangkir, ditjampur dengan daging didjerangkan dan dimasukkan : lombok, bawang merah, daun kutjai dan daun prei jang diiris, bawang putih, lada dan garam jang dihaluskan.",
+      "Dimasak sampai dagingnja lunak."
+    ]
+  },
+  {
+    "recipe_id": "MR_615_2",
+    "title_original": "TOMAT ISI DJAGUNG MUDA",
+    "title_normalized": "Tomat Isi Jagung Muda",
+    "region": null,
+    "page_number": 615,
+    "category": "Main Dish",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 4 buah",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 4 buah",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 4.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daging giling 1/2 ons",
+            "item_original": "daging giling",
+            "item_normalized": "daging giling",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 2 buah",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "prei bagian jang putih 2 buah",
+            "item_original": "prei bagian jang putih",
+            "item_normalized": "bagian putih daun bawang",
+            "quantity": 2.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada sedikit",
+            "item_original": "lada",
+            "item_normalized": "merica",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      },
+      {
+        "group_name": "saus",
+        "original_header": "Sausnja",
+        "ingredients": [
+          {
+            "original_text": "1. kelapa 2 sdm.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "2. irisan bawang merah 1 sdm.",
+            "item_original": "irisan bawang merah",
+            "item_normalized": "irisan bawang merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tomat dipotong bagian bawahnja, dikeluarkan isinja dengan hati², djangan sampai rusak; dibalik agar airnja keluar.",
+      "Djagung diiris halus, digiling.",
+      "Ditjampur dengan daging giling, garam, lada, bawang merah jang telah diiris.",
+      "Prei djuga diiris halus.",
+      "Diaduk sampai rata.",
+      "Tjapanan diisikan dalam tomat jang telah dibersihkan sampai"
+    ]
+  }
+]

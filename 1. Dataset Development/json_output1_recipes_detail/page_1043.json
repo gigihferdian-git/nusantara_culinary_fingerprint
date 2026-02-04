@@ -1,0 +1,132 @@
+[
+  {
+    "recipe_id": "MR_1035_0",
+    "title_original": "OLI DJEPRET",
+    "title_normalized": "Oli Jepret",
+    "region": null,
+    "page_number": 1035,
+    "category": "Jajanan/Makanan Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "singkong 1 kg.",
+            "item_original": "singkong",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa setengah tua ½ btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kentjur 1/3 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 0.33,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "asam 1 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 1.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "gula merah ½ sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Singkong dibersihkan, diparut dengan parutan kasar (parut gobet), ditambah dengan garam kemudian dikukus.",
+      "Setelah masak, ditumbuk halus, dibentuk bulat² (getuk).",
+      "Kelapa dibersihkan, diparut, disangan, ditumbuk bersama-sama bumbu sampai halus, dibuat sambal bubuk.",
+      "Singkong tersebut diatas dimakan bersama sambal bubuk."
+    ]
+  },
+  {
+    "recipe_id": "MR_1035_1",
+    "title_original": "OMBUS OMBUS",
+    "title_normalized": "Ombus Ombus",
+    "region": "Batak",
+    "page_number": 1035,
+    "category": "Kue Tradisional",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan",
+        "ingredients": [
+          {
+            "original_text": "ubi kaju 1 kg.",
+            "item_original": "ubi kaju",
+            "item_normalized": "singkong",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "kelapa 1 bdj.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula aren di-iris² 1 tjkr.",
+            "item_original": "gula aren di-iris²",
+            "item_normalized": "gula aren (diiris)",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi dikuliti, ditjutji bersih, lalu diparut. Kemudian dibuang airnja sebanjak mungkin."
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "recipe_id": "MR_838_0",
+    "title_original": "BUBUR SAGU RANGI",
+    "title_normalized": "Bubur Sagu Rangi",
+    "region": "Jakarta",
+    "page_number": 838,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sagu rangi 1 pt.",
+            "item_original": "sagu rangi",
+            "item_normalized": "sagu rangi",
+            "quantity": 1.0,
+            "unit": "pt."
+          },
+          {
+            "original_text": "santan 2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "djae 1 iris",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "kenari 1 sdm.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili setjukupnja",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Sagu direndam beberapa jam, kemudian dihaluskan, direbus dengan airnya sampai kental.",
+      "Kenari dikupas, kemudian diiris kecil-kecil bersama gula dan jahe dimasukkan.",
+      "Santan direbus dengan pandan dan garam, diberi vanili.",
+      "Bubur diangkat, dihidangkan dengan santan."
+    ]
+  },
+  {
+    "recipe_id": "MR_838_1",
+    "title_original": "BUBUR SAMARINDA",
+    "title_normalized": "Bubur Samarinda",
+    "region": "Samarinda",
+    "page_number": 838,
+    "category": "Bubur",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kelapa 2 tjkr.",
+            "item_original": "tepung kelapa",
+            "item_normalized": "tepung kelapa",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "udang basah 1 prg.",
+            "item_original": "udang basah",
+            "item_normalized": "udang basah",
+            "quantity": 1.0,
+            "unit": "prg."
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

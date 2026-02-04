@@ -1,0 +1,119 @@
+[
+  {
+    "recipe_id": "MR_926_1",
+    "title_original": "KEMBANG PATJAR",
+    "title_normalized": "Kembang Pacar",
+    "region": "Brebes",
+    "page_number": 918,
+    "category": "Dessert/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji ¹/₂ kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kelapa ¹/₂ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tawas 1 sdt.",
+            "item_original": "tawas",
+            "item_normalized": "tawas",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, diambil santannja, direbus, ditambah garam, di-aduk² sampai mendidih. Didjaga djangan sampai petjah.",
+      "Tawas direbus bersama dengan air ¹/₂-1 tjangkir sampai suam².",
+      "Tepung kandji dipertjiki dengan air tersebut terus di-kepal² sampai liat.",
+      "Dibagi dua; sebagian diberi warna merah sebagian tidak.",
+      "Ke-dua²nja dipipihkan dengan digiling jang satu diatas jang lain, diiris ketjil².",
+      "Dimasukkan kedalam air mendidih, setelah terapung diangkat dan ditiriskan, ditjutji dengan air dingin supaja tidak melekat jang satu dengan jang lain.",
+      "Gula pasir direbus sampai mendidih, diangkat, kemudian kembang patjar dengan air 1 gelas dimasukkan kedalamnja.",
+      "Dihidangkan dengan diberi santan."
+    ]
+  },
+  {
+    "recipe_id": "MR_926_2",
+    "title_original": "KEMPLANG",
+    "title_normalized": "Kemplang",
+    "region": "Jawa Tengah",
+    "page_number": 918,
+    "category": "Snack/Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1 lt.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "minjak goreng ¹/₂ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          },
+          {
+            "original_text": "garam ¹/₂ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, ditjamput dengan air, garam, tepung ketan sampai dapat dibentuk.",
+      "Adonan diratakan diatas daun pisang setebal sedjari, di-iris² berbentuk djadjaran gendjang, pandjang 4 cm, lebar 3-4 cm.",
+      "Adonan jang sudah dipotong digoreng hingga kuning."
+    ]
+  }
+]

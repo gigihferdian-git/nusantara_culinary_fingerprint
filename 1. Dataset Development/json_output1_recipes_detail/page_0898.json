@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_898_0",
+    "title_original": "GEPLAK DJAHE",
+    "title_normalized": "Geplak Jahe",
+    "region": "Jogjakarta",
+    "page_number": 890,
+    "category": "Kue Basah / Kudapan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan 1 ons",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula merah 3 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 3.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "tepung beras 1½ ons",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "djae ½ ons",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa setengah tua 1 btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut.",
+      "Djae ditjutji, ditumbuk, diberi air, lalu diperas 1 gelas.",
+      "Gula merah dimasak dengan air sampai kental.",
+      "Air djae dan kelapa parut dimasukkan.",
+      "Dikentalkan dengan tepung ketan jang ditjairkan dahulu, ½ ons tepung beras disangan.",
+      "Diaduk sampai kental hingga dapat dibentuk.",
+      "Setelah agak dingin, dibentuk belah ketupat atau bulat pandjang kemudian digulung pada tepung beras jang disangan. Disimpan dalam stoples."
+    ]
+  },
+  {
+    "recipe_id": "MR_898_1",
+    "title_original": "GEPLAK DUREN",
+    "title_normalized": "Geplak Durian",
+    "region": "Jogjakarta",
+    "page_number": 890,
+    "category": "Kue Basah / Kudapan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kelapa ½ tua 10 btr.",
+            "item_original": "kelapa ½ tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "durian 1 bh.",
+            "item_original": "durian",
+            "item_normalized": "durian",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tepung beras setjukupnja",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula djawa ½ kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula pasir 8 kg.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 8.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa muda 10 btr.",
+            "item_original": "kelapa muda",
+            "item_normalized": "kelapa muda",
+            "quantity": 10.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa ½ tua dan kelapa muda diparut lalu ditjampur.",
+      "Dimasak dengan gula pasir ditambah dengan gula djawa."
+    ]
+  }
+]

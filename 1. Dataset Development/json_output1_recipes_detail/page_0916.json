@@ -1,0 +1,55 @@
+[
+  {
+    "recipe_id": "MR_908_1",
+    "title_original": "KAMBEWE",
+    "title_normalized": "Kambewe",
+    "region": null,
+    "page_number": 908,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung muda 10 bh.",
+            "item_original": "djagung muda",
+            "item_normalized": "jagung muda",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "kulit djagung muda setjukupnja",
+            "item_original": "kulit djagung muda",
+            "item_normalized": "kulit jagung muda",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "gula merah 1/2 kl.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung muda dikupas, di-iris² (dipisahkan dari tongkolnja), ditumbuk halus.",
+      "Kelapa diparut, ditumbuk bersama dengan djagung tadi.",
+      "Gula merah di-iris², ditumbuk bersama dengan djagung dan kelapa, dibuat sedemikian rupa sehingga tertjampur rata.",
+      "Dibungkus dengan kulit djagung muda. Tiap bungkus memakai dua helai daun.",
+      "Direbus sampai masak.",
+      "Tjarannja : Bungkusan² diatur dalam belanga, kemudian diberi air sampai bungkusar terendam.",
+      "Tjara mengambil kulit djagung dari djagungnja : Dekat pangkal buah djagung di-iris² melingkar dengan pisau kemudian helai daun tadi ditarik dari udjung lainnja."
+    ]
+  }
+]

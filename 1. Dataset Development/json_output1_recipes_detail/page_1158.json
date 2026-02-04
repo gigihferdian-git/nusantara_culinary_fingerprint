@@ -1,0 +1,108 @@
+[
+  {
+    "recipe_id": "MR_1150_1",
+    "title_original": "SEKOTENG",
+    "title_normalized": "Sekoteng",
+    "region": null,
+    "page_number": 1150,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "air 5 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 5.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula 1 ons",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas"
+          },
+          {
+            "original_text": "bidji delima 1 ons",
+            "item_original": "bidji delima",
+            "item_normalized": "biji delima",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "roti tawar 1/2 bh.",
+            "item_original": "roti tawar",
+            "item_normalized": "roti tawar",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "katjang tanah 2 ons",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 2.0,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bidji delima, katjang tanah direbus lalu dihilangkan kulit selaputnja, bidji delima ditiriskan.",
+      "Air, gula, djae dimasak, dibuat wedang djae.",
+      "Roti di-iris² dadu.",
+      "Wedang dihidangkan dalam mangkuk, dimasukkan 2 sendok makan bidji delima, 2 sendok katjang, beberapa potong roti."
+    ]
+  },
+  {
+    "recipe_id": "MR_1150_2",
+    "title_original": "SITRUN TELUR",
+    "title_normalized": "Sitrun Telur",
+    "region": null,
+    "page_number": 1150,
+    "category": "Minuman",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "sitrun 1 bh.",
+            "item_original": "sitrun",
+            "item_normalized": "sitrun",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula 2 sdm.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djeruk diperas, disaring.",
+      "Telur, gula, sedikit air dikotjok, air djeruk dimasukkan.",
+      "Dapat dimasukkan dalam almari es supaja dingin."
+    ]
+  }
+]

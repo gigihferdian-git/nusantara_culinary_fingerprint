@@ -1,0 +1,178 @@
+[
+  {
+    "recipe_id": "MR_499_0",
+    "title_original": "MALBI HATI",
+    "title_normalized": "Malbi Hati",
+    "region": "Lampung",
+    "page_number": 491,
+    "category": "Daging/Jeroan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "hati ½ kg.",
+            "item_original": "hati",
+            "item_normalized": "hati",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 2 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "santan kental ½ gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae ½ rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lada 10 bdj.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 10.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Hati ditjutji dan dipotong-potong.",
+      "Sebagian dari bawang merah diiris halus dan digoreng; jang lain digiling halus bersama bumbu² lainnja.",
+      "Bumbu jang digiling, ditumis, begitupun hati; dimasukkan 1 gelas air.",
+      "Bila sudah setengah masak, dimasukkan santan. Dimasak hingga empuk dan saosnja kental.",
+      "Dihidangkan dengan ditaburi bawang merah goreng."
+    ]
+  },
+  {
+    "recipe_id": "MR_499_1",
+    "title_original": "MANGARSIK",
+    "title_normalized": "Mangarsik",
+    "region": "Tapanuli",
+    "page_number": 491,
+    "category": "Ikan",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "ikan mas (lele, gabus) 1 ekor",
+            "item_original": "ikan mas (lele, gabus)",
+            "item_normalized": "ikan mas (lele, gabus)",
+            "quantity": 1.0,
+            "unit": "ekor"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "lokio dengan daunnja 10 bh.",
+            "item_original": "lokio dengan daunnja",
+            "item_normalized": "lokio dengan daunnya",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "djae 4 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 4.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "lombok merah 2 ikt.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 2.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "asam 5 mata",
+            "item_original": "asam",
+            "item_normalized": "asam",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kunjit 4 sdt.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 4.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan dan di-potong².",
+      "Bumbu² dihaluskan ketjuali sereh.",
+      "Air dimasak dalam pantji; djika telah mendidih, ikan dan bumbu² dimasukkan.",
+      "Dimasak sampai airnja habis."
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "recipe_id": "MR_939_1",
+    "title_original": "KRUPUK BABI",
+    "title_normalized": "Kerupuk Babi",
+    "region": null,
+    "page_number": 931,
+    "category": "Kerupuk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "kulit babi 1 kg.",
+            "item_original": "kulit babi",
+            "item_normalized": "kulit babi",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak kelapa 1/2 btl.",
+            "item_original": "minjak kelapa",
+            "item_normalized": "minyak kelapa",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu :",
+        "ingredients": [
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kulit babi di-potong² ketjil kira² 3 cm².",
+      "Gemuknja dibersihkan.",
+      "Di-remas² dengan garam sedikit.",
+      "Dimasukkan kedalam wadjan jang telah diisi minjak.",
+      "Digoreng dengan api ketjil sampai kelihatan empuk² sedikit, lalu didinginkan.",
+      "Setelah didinginkan digoreng sekali lagi dengan minjak panas."
+    ]
+  },
+  {
+    "recipe_id": "MR_939_2",
+    "title_original": "KRUPUK BENHUR",
+    "title_normalized": "Kerupuk Benhur",
+    "region": null,
+    "page_number": 931,
+    "category": "Kerupuk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung kandji 1 kg.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air 1 tjkr.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

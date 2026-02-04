@@ -1,0 +1,129 @@
+[
+  {
+    "recipe_id": "MR_755_1",
+    "title_original": "TUFI",
+    "title_normalized": "Tufi",
+    "region": "Flores",
+    "page_number": 755,
+    "category": "Main Course",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan:",
+        "ingredients": [
+          {
+            "original_text": "daging sapi jang masih muda 1 kg.",
+            "item_original": "daging sapi jang masih muda",
+            "item_normalized": "daging sapi yang masih muda",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 15 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 15.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Bumbu ditumbuk sedikit halus.",
+      "Daging dipotong-potong kecil, dicuci, lalu dicampur dengan bumbu.",
+      "Campuran ini dibakar sampai matang. (Cara membakarnya: Dipilih beberapa butir batu kali sebesar bola pingpong. Batu ini dibakar sampai menjadi merah, kemudian dimasukkan ke tengah-tengah campuran daging. Semuanya dimasukkan dalam bambu atau dibungkus daun lontar atau pelepah pisang yang basah. Setelah diikat erat-erat, dipanggang di atas bara.)"
+    ]
+  },
+  {
+    "recipe_id": "MR_755_2",
+    "title_original": "UDANG GAPIT",
+    "title_normalized": "Udang Gapit",
+    "region": "Madura",
+    "page_number": 755,
+    "category": "Seafood",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²:",
+        "ingredients": [
+          {
+            "original_text": "udang besar 1 kg.",
+            "item_original": "udang besar",
+            "item_normalized": "udang besar",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "santan kental 1 tjkr.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²:",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 15 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 15.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 5 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 1 ons",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kentjur 2 rdj.",
+            "item_original": "kentjur",
+            "item_normalized": "kencur",
+            "quantity": 2.0,
+            "unit": "ruas jari"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

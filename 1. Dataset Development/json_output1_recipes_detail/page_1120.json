@@ -1,0 +1,152 @@
+[
+  {
+    "recipe_id": "MR_1112_1",
+    "title_original": "TAHU GULING",
+    "title_normalized": "Tahu Guling",
+    "region": "Tegal",
+    "page_number": 1112,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 10 pt.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "taoge 1 ons",
+            "item_original": "taoge",
+            "item_normalized": "tauge",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "minjak goreng 1/2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu dan saus",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "seledri 1 ikt.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "tjuka 1 sdm.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula merah 1 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 1/2 gls.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu di-potong², digoreng.",
+      "Bawang merah di-iris², digoreng.",
+      "Taoge direndam dalam air mendidih sampai masak.",
+      "Seledri diiris halus.",
+      "Bawang putih, lombok, garam, gula dihaluskan, ditambah air matang 1 gelas dan tjuka, ketjap.",
+      "Dihidangkan dalam piring ketjil, ber-turut² disusun tahu, taoge, seledri dan bawang goreng, disiram dengan saos."
+    ]
+  },
+  {
+    "recipe_id": "MR_1112_2",
+    "title_original": "TAKAR KATUL",
+    "title_normalized": "Takar Katul",
+    "region": "Madura",
+    "page_number": 1112,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katul 1 ons",
+            "item_original": "katul",
+            "item_normalized": "katul",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, ditjamput sama katul, diaduk dengan sedikit air masak, dibuat adonan.",
+      "Ditjamput gula merah.",
+      "Dimasak dalam wadjan (dialas daun pisang atas bawah) sampai ke-kuning²an.",
+      "Dihidangkan di-potong²."
+    ]
+  }
+]

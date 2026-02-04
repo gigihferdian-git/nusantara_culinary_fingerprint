@@ -1,0 +1,148 @@
+[
+  {
+    "recipe_id": "MR_1131_1",
+    "title_original": "TJARA BERDAPA",
+    "title_normalized": "Tiara Berdapa",
+    "region": "Banyumas",
+    "page_number": 1123,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pisang radja 6 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang 2 lbr.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "biting setjukupnja",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 2 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang radja dikupas, diiris tipis².",
+      "Kelapa diparut, diambil santannja 1 gelas.",
+      "Gula merah diiris tipis², daun pandan ditjutji di-potong².",
+      "Telur, gula dikatjau sampai hantjur, irisan pisang dimasukkan, ditjampur sampai rata.",
+      "Santan dimasukkan kedalam adonan, tambahkan garam, di-aduk² sampai rata.",
+      "Dibungkus: dasarnja diberi 1 potong daun pandan.",
+      "Dikukus sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1131_2",
+    "title_original": "TJARA GESING",
+    "title_normalized": "Tiara Gesing",
+    "region": "Rembang",
+    "page_number": 1123,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "pisang radja 7 bh.",
+            "item_original": "pisang radja",
+            "item_normalized": "pisang raja",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "telur ajam 3 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "nangka jang di-iris² 1/2 gls.",
+            "item_original": "nangka jang di-iris²",
+            "item_normalized": "nangka yang diiris",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 4 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pisang 15 lbr.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 15.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "biting 15 bdj.",
+            "item_original": "biting",
+            "item_normalized": "biting",
+            "quantity": 15.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

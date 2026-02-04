@@ -1,0 +1,124 @@
+[
+  {
+    "recipe_id": "MR_1000_0",
+    "title_original": "KUE TAR SUSU",
+    "title_normalized": "Kue Tart Susu",
+    "region": null,
+    "page_number": 992,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 10 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "susu 1 lt.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 1.0,
+            "unit": "liter"
+          },
+          {
+            "original_text": "tepung terigu 4 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "gula ¾ kg.",
+            "item_original": "gula",
+            "item_normalized": "gula",
+            "quantity": 0.75,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "mentega 2 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "kismis 2 sdm.",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kuning telur dan gula dikotjok, ditambah panili.",
+      "Tepung ditjairkan dengan susu, dimasukkan dalam kotjokan telur.",
+      "Adonan dimasukkan dalam lojang jang telah disemir mentega, dibakar hingga kuning.",
+      "Putih telur dikotjok sampai membuih, diratakan diatas tar, ditaburi kismis."
+    ]
+  },
+  {
+    "recipe_id": "MR_1000_1",
+    "title_original": "KUE TELUR",
+    "title_normalized": "Kue Telur",
+    "region": "Jawa Barat",
+    "page_number": 992,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar kuning 7 bh.",
+            "item_original": "ubi djalar kuning",
+            "item_normalized": "ubi jalar kuning",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tepung terigu 50 g.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 50.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng ½ btl.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "botol"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

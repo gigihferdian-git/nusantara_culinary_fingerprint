@@ -1,0 +1,152 @@
+[
+  {
+    "recipe_id": "MR_1114_1",
+    "title_original": "TAART PANILI",
+    "title_normalized": "Tart Vanili",
+    "region": null,
+    "page_number": 1106,
+    "category": "Kue/Roti",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merahnja telur 10 btr.",
+            "item_original": "merahnja telur",
+            "item_normalized": "kuning telur",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putihnja telur 4 btr.",
+            "item_original": "putihnja telur",
+            "item_normalized": "putih telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 2 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 3 1/2 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kenari 2 tjkr.",
+            "item_original": "kenari",
+            "item_normalized": "kenari",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili 2 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "susu manis 2 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "soda kue 1 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merahnja telur dan gula dikotjok hingga mengembang.",
+      "Lalu dimasukkan mentega dan dikotjok sampai rata.",
+      "Sesudah itu dimasukkan terigu, kenari, panili, susu dan soda, kemudian putihnja telur jang telah dikotjok terpisah.",
+      "Diaduk hingga rata.",
+      "Adonan dibakar dalam 3 lapis dengan api sebelah bawah dahulu.",
+      "Kalau kue telah hampir masak apinja dipindahkan keatas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1114_2",
+    "title_original": "TAART ROOM",
+    "title_normalized": "Tart Rum",
+    "region": null,
+    "page_number": 1106,
+    "category": "Kue/Roti",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 10 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putihnja telur 6 btr.",
+            "item_original": "putihnja telur",
+            "item_normalized": "putih telur",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 2 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 2 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 3 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu manis 3 sdm.",
+            "item_original": "susu manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1/2 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur dan gula dikotjok sampai mengembang lalu dimasukkan mentega, dikotjok terus sampai rata.",
+      "Sesudah itu dimasukkan terigu, susu manis dan panili.",
+      "Lalu penghabisan sekali dimasukkan putih telur jang telah dikotjok tersendiri."
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "recipe_id": "MR_1002_1",
+    "title_original": "AREM AREM",
+    "title_normalized": "Kue Spekkoek Preparation (Fragment)",
+    "region": null,
+    "page_number": 994,
+    "category": "Kue / Cake",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "telur ajam 2 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "minjak goreng 3 sdm.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air 1 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air 1 gelas dan gula 2 gelas direbus sampai kental kemudian disaring, didinginkan.",
+      "Telur dikatjau.",
+      "Tepung ditjamper dengan bumbu spekkoek. Tjairan gula, telur, tepung, didjadikan satu adonan, soda dimasukkan terachir.",
+      "Ditjetak dengan penjemprot kue diatas lojang jang telah dilumuri minjak goreng.",
+      "Dibakar dalam oven."
+    ]
+  },
+  {
+    "recipe_id": "MR_1002_2",
+    "title_original": "KUE TERPUTAR",
+    "title_normalized": "Kue Terputar",
+    "region": "Tegal",
+    "page_number": 994,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/4 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 1 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula merah 1 ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 100.0,
+            "unit": "gram"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung ketan dibagi 3 bagian.",
+      "Satu bagian ditjamper dengan santan dan gula merah.",
+      "Tiap adonan diratakan, disusun tiga lapis, jaitu putih, merah dan putih lagi. Dipotong selembar 2 cm, sepandjang 10 cm.",
+      "Diputar lalu digoreng sampai masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_1002_3",
+    "title_original": "KUE TJENDAWAN",
+    "title_normalized": "Kue Cendawan",
+    "region": "Kerinci",
+    "page_number": 994,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 4 gls.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan 1/2 gls.",
+            "item_original": "santan",
+            "item_normalized": "santan",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 1 bdj.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

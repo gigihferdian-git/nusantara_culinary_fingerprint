@@ -1,0 +1,121 @@
+[
+  {
+    "recipe_id": "MR_816_0",
+    "title_original": "Kue [Lanjutan dari Halaman Sebelumnya]",
+    "title_normalized": "Kue [Continuation from Previous Page]",
+    "region": null,
+    "page_number": 816,
+    "category": "Kue/Sweet Cake",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun pandan 10 hl.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 10.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "daun djeruk purut 2 hl.",
+            "item_original": "daun djeruk purut",
+            "item_normalized": "daun jeruk purut",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "panili 3 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 3.0,
+            "unit": "bungkus"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kenari disiram dengan air panas, setelah dikupas kulitnja.",
+      "Gula dibuat sirop dengan daun pandan.",
+      "Kelapa dibuat santan, direbus dengan daun djeruk purut dan daun pandan, djangan sampai petjah.",
+      "Tepung ditjampur dengan biang roti sampai rata.",
+      "Kuning telur dikatjau sampai putih, ditambahkan pada tepung.",
+      "Tepung, kuning telur dan santan, gula didjadikan satu, diuli lalu dibiarkan selama 2 djam.",
+      "Tjetakan cake jang telah dilumuri minjak dalam pembakaran dipanaskan, dituang adonan kedalam tjetakan sampai setengahnja.",
+      "Ditaburi kenari diatasnja bila kue itu setengah masak.",
+      "Dibakar sampai adonan kering dan berlubang-lubang, lalu diketjilkan api bawah.",
+      "Keterangan: Untuk menambah rasa dan warna dapat djuga atasnja dilumuri margarine."
+    ]
+  },
+  {
+    "recipe_id": "MR_816_1",
+    "title_original": "BIKA DJAWA PONA",
+    "title_normalized": "Bika Jawa Pona",
+    "region": "Sumbawa",
+    "page_number": 816,
+    "category": "Kue/Sweet Cake",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/2 kg.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "labu kuning 1 gls.",
+            "item_original": "labu kuning",
+            "item_normalized": "labu kuning",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "telur 2 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Labu dikukus atau direbus sampai lunak, ditiriskan.",
+      "Kelapa diparut dibuat santan.",
+      "Labu dihaluskan ditjampur dengan tepung beras dan bila kurang manis ditambah gula."
+    ]
+  }
+]

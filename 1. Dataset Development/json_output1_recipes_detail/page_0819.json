@@ -1,0 +1,111 @@
+[
+  {
+    "recipe_id": "MR_811_1",
+    "title_original": "BARUBIK",
+    "title_normalized": "Barubik",
+    "region": "Madura",
+    "page_number": 811,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1/4 kg.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula djawa 1/4 kg.",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "pisang tanduk 2 bh.",
+            "item_original": "pisang tanduk",
+            "item_normalized": "pisang tanduk",
+            "quantity": 2.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang dikerat ketjil.",
+      "Beras dibuat tepung.",
+      "Kelapa parut, dibuat santan, direbus dengan gula sampai mendidih.",
+      "Pisang dan tepung jang lebih dulu ditjairkan dengan air, dimasak bersama santan sampai setengah masak, ditaruh dalam lojang, dikukus sampai masak.",
+      "Dimakan dengan parutan kelapa."
+    ]
+  },
+  {
+    "recipe_id": "MR_811_2",
+    "title_original": "BATUN BEDIL",
+    "title_normalized": "Batun Bedil",
+    "region": "Bali",
+    "page_number": 811,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan/",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "ubi kaju 1 kg.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tepung diuli sambil diberi air sedikir sehingga merupakan adonan kental tetapi lemas dan mudah digiling.",
+      "Diambil sebesar kelereng, dibentuk pandjang dan bulat (seperti pensil).",
+      "Dikukus hingga matang, dituangkan kedalam waskom jang berisi larutan garam dan diaduk agar satu sama lain terpisah.",
+      "Ditiriskan airnja.",
+      "Gula dan air seperlunja direbus sampai mendidih dan merupakan larutan gula jang agak kental, baru dimasukkan djadjan diatas. Diaduk pelan² agar djangan sampai rusak bentuknja sedang apinja djangan besar. Bila larutan gulanya sudah mengental semua (tidak banjak kuahnja) air gulanya baru diangkat."
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "recipe_id": "MR_1143_0",
+    "title_original": "VITELLO SPRITS",
+    "title_normalized": "Vitello Sprits",
+    "region": null,
+    "page_number": 1135,
+    "category": "Kue Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 2 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 1 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 3 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 2 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 8 sdm.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 8.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "soda kue 1/2 sdt.",
+            "item_original": "soda kue",
+            "item_normalized": "soda kue",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "susu kental manis 2 sdm.",
+            "item_original": "susu kental manis",
+            "item_normalized": "susu kental manis",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1/2 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dan mentega dikotjok sampai mengembang.",
+      "Tepung terigu, tepung singkong, soda, susu kental manis dan panili dimasukkan.",
+      "Adonan diaduk hingga rata.",
+      "Adonan ditjerotjotkan dengan semprotan jang berbentuk bintang, mendjadi suatu huruf.",
+      "Dibakar dalam oven dengan api diatas dan dibawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_1143_1",
+    "title_original": "WADJIK",
+    "title_normalized": "Wajik",
+    "region": "Jawa Tengah/Timur",
+    "page_number": 1135,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan 1 kg.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula merah 1/2 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pisang 1-2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 1.0,
+            "unit": "pelepah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan ditjutji, dikukus sampai 1/2 masak.",
+      "Kelapa dibersihkan, diparut, dibuat santan ± 3 gelas.",
+      "Santan, daun pandan, gula merah dan garam direbus sampai mendidih (dalam wadjan).",
+      "Ketan dimasukkan kedalam santan dan dimasak sampai masak.",
+      "Didatarkan pada tampah jang dialasi daun pisang dan didinginkan.",
+      "Setelah dingin dipotong persegi."
+    ]
+  }
+]

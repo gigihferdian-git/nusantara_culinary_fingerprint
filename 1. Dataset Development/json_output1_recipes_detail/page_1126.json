@@ -1,0 +1,98 @@
+[
+  {
+    "recipe_id": "MR_1118_01",
+    "title_original": "TIMUS ISI",
+    "title_normalized": "Timus Isi",
+    "region": null,
+    "page_number": 1118,
+    "category": "Gorengan/Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi djalar ½ kg.",
+            "item_original": "ubi djalar",
+            "item_normalized": "ubi jalar",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung kandji ½ gls.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daging ½ ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "wortel 5 bh.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 3 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada 10 btr.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun bawang 1 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "garam 12 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 12.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi djalar putih dibersihkan, dikukus atau direbus, dihaluskan.",
+      "Ditjampur tepung kandji, di-remas² sampai mendjadi adonan liat.",
+      "Bawang merah dan lada dihaluskan.",
+      "Daging ditjintjang halus.",
+      "Bagian putih daun bawang diambil, diiris halus.",
+      "Wortel dibersihkan, dipotong persegi ketjil².",
+      "Semua bahan² ditumis dan dimasak sampai daging dan wortel masak.",
+      "Bentuk bulatan² dari ubi, diisi dengan tumis daging tadi.",
+      "Digoreng sampai berwarna kuning."
+    ]
+  }
+]

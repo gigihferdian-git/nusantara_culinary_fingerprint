@@ -1,0 +1,125 @@
+[
+  {
+    "recipe_id": "MR_1121_0",
+    "title_original": "TJALA ISI (Cont.)",
+    "title_normalized": "Jala Isi",
+    "region": null,
+    "page_number": 1121,
+    "category": "Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "isi (inti)",
+        "original_header": "Bahan isi (inti)",
+        "ingredients": [
+          {
+            "original_text": "daging 2 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "seledri 2 hl.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "lada 1 sdt.",
+            "item_original": "lada",
+            "item_normalized": "lada",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "bawang 3 bdj.",
+            "item_original": "bawang",
+            "item_normalized": "bawang",
+            "quantity": 3.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "mentega 1 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "lombok besar 1 bdj.",
+            "item_original": "lombok besar",
+            "item_normalized": "cabai besar",
+            "quantity": 1.0,
+            "unit": "biji"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "2. Terigu dimasukkan ber-ulang², diseling dengan santan.",
+      "3. Diaduk sampai rata.",
+      "Membuat isi (inti):",
+      "1. Daging dihaluskan.",
+      "2. Bawang, lombok, seledri ditjutji, di-potong² halus.",
+      "3. Lada dan garam diuleg.",
+      "4. Bumbu² ditumis, dimasukkan daging dimasak sampai kering.",
+      "5. Didinginkan.",
+      "Memasak tjala isi sbb.:",
+      "1. Adonan tjala dimasak ditjetakan tjala.",
+      "2. Inti dimasukkan.",
+      "3. Sudah matang diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_1121_1",
+    "title_original": "TJAPENG",
+    "title_normalized": "Japeng",
+    "region": null,
+    "page_number": 1121,
+    "category": "Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1/4 kg.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula djawa 2 ons",
+            "item_original": "gula djawa",
+            "item_normalized": "gula jawa",
+            "quantity": 2.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1/2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tjara membuatnja:",
+      "1. Beras ditumbuk, dibuat tepung.",
+      "2. Kelapa diparut.",
+      "3. Gula djawa dimasak dengan air sampai mendidih, tepung dan kelapa ditjampur.",
+      "4. Ditjetak diwadajan dengan tjangkir ketjil² dan wadjan diulasi minjak kelapa, ditutup, dimasukkan sampai masak."
+    ]
+  }
+]

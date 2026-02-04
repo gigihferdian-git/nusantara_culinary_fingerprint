@@ -1,0 +1,120 @@
+[
+  {
+    "recipe_id": "MR_1039_0",
+    "title_original": "NASI LAMAK",
+    "title_normalized": "Nasi Lamak",
+    "region": "Padang",
+    "page_number": 1031,
+    "category": "Nasi",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketan 1/2 lt.",
+            "item_original": "ketan",
+            "item_normalized": "ketan",
+            "quantity": 0.5,
+            "unit": "liter"
+          },
+          {
+            "original_text": "kelapa 1/4 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "daun pandan 1/2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 0.5,
+            "unit": "lembar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kelapa diparut, dikeluarkan santannja sebanjak 2 gelas.",
+      "Ketan diliwet dalam santan bersama garam dan daun pandan."
+    ]
+  },
+  {
+    "recipe_id": "MR_1039_1",
+    "title_original": "NASI PANDAT",
+    "title_normalized": "Nasi Pandat",
+    "region": "Bandjarmasin",
+    "page_number": 1031,
+    "category": "Nasi",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1 kg.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur 3 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "kelapa (santan kental) 1 btr./4 tjkr.",
+            "item_original": "kelapa (santan kental)",
+            "item_normalized": "kelapa (santan kental)",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 1 ons",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 2 sdm",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ditjutji, direndam ± 15 menit.",
+      "Telur dibuat dadar.",
+      "Bawang merah diiris dan digoreng.",
+      "Kelapa diparut, dibuat santan dan diberi garam."
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "recipe_id": "MR_1062_01",
+    "title_original": "[RECIPE CONTINUED]",
+    "title_normalized": "Ketan Bulatan Manis",
+    "region": null,
+    "page_number": 1062,
+    "category": "Dessert",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "pala halus 1/4 sdt.",
+            "item_original": "pala halus",
+            "item_normalized": "pala halus",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pandan 2 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bahan_lanjutan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "Ketan",
+            "item_original": "Ketan",
+            "item_normalized": "Ketan",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "air daun pandan",
+            "item_original": "air daun pandan",
+            "item_normalized": "air daun pandan",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "Kelapa muda diparut",
+            "item_original": "Kelapa muda diparut",
+            "item_normalized": "Kelapa muda parut",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "gula pasir",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": null,
+            "unit": null
+          },
+          {
+            "original_text": "Kelapa diparut (santan)",
+            "item_original": "Kelapa diparut",
+            "item_normalized": "Kelapa parut",
+            "quantity": 6.0,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ketan dibikin tepung, diaduk dengan air daun pandan sampai rata hingga mendjadi adonan tjukup lemas.",
+      "Kelapa muda diparut, ditjampur dengan pala halus dan gula pasir.",
+      "Kelapa diparut, ambil santannja 6 gelas.",
+      "Adonan dibuat bulatan diisi dengan kelapa parut no. 2.",
+      "Santan, garam, direbus sampai mendidih.",
+      "Masukkan bulatan satu persatu.",
+      "Kalau sudah terapung diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_1062_02",
+    "title_original": "POZOLE JALISCO STYLE",
+    "title_normalized": "Pozole Jalisco Style",
+    "region": "Jalisco",
+    "page_number": 1062,
+    "category": "Main Course",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djagung pipilan 1 gls.",
+            "item_original": "djagung pipilan",
+            "item_normalized": "jagung pipilan",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "bawang merah 5 siung",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "djeruk sitrun 5 bh.",
+            "item_original": "djeruk sitrun",
+            "item_normalized": "jeruk sitrun",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih setjukupnja",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "lombok giling setjukupnja",
+            "item_original": "lombok giling",
+            "item_normalized": "cabai giling",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "kapur 3 sdm.",
+            "item_original": "kapur",
+            "item_normalized": "kapur",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ajam 1 ekor",
+            "item_original": "ajam",
+            "item_normalized": "ayam",
+            "quantity": 1.0,
+            "unit": "ekor"
+          },
+          {
+            "original_text": "salada setjukupnja",
+            "item_original": "salada",
+            "item_normalized": "selada",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam setjukupnja",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djagung ditjutji, dimasak dalam 2 liter air jang telah diberi kapur sampai kulit air dari bidji djagung bisa dilepaskan.",
+      "Djagung ditjutji sampai bersih dan selandjutnja setelah kulitnja dikupas, djagung tadi dimasak dengan air dan diberi beberapa siung bawang putih.",
+      "Apabila djagung mendjadi mekar sekali, potongan daging ajam dimasukkan dan dibiarkan sampai empuk.",
+      "Waktunja menghidangkan, dapat pula diletakkan daun selada jang dipotong halus, bawang jang diiris, djeruk sitrun serta radijs dengan sedikit sambal."
+    ]
+  }
+]

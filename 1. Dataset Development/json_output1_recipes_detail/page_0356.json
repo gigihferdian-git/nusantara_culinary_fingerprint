@@ -1,0 +1,96 @@
+[
+  {
+    "recipe_id": "MR_348_0",
+    "title_original": "SOP MACARONI",
+    "title_normalized": "Sup Makaroni",
+    "region": null,
+    "page_number": 348,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan_utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging 1 ons",
+            "item_original": "daging",
+            "item_normalized": "daging",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "macaroni ½ ons",
+            "item_original": "macaroni",
+            "item_normalized": "makaroni",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "mentega 3 sdm.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung terigu ½ ons",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 0.5,
+            "unit": "ons"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "daun bawang 2 btg.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "seledri 2 btg.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "bunga pala ½ sdt.",
+            "item_original": "bunga pala",
+            "item_normalized": "bunga pala",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "lada bulat 10 btr.",
+            "item_original": "lada bulat",
+            "item_normalized": "lada bulat",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging direbus sampai empuk, kemudan di-potong².",
+      "Macaroni dimasukkan dalam kaldu, sesudah masak ditiriskan.",
+      "Daun bawang seledri, garam, lada bulat, bunga pala dimasukkan.",
+      "Terigu jang ditjairkan dimasukkan, diaduk sampai rata.",
+      "Daging dan macaroni dimasukkan, didjerangkan sebentar.",
+      "Bumbu² dikeluarkan.",
+      "Dihidangkan panas²."
+    ]
+  }
+]

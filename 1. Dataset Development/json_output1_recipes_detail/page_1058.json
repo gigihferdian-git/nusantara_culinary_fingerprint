@@ -1,0 +1,142 @@
+[
+  {
+    "recipe_id": "MR_1050_0",
+    "title_original": "PISANG GORENG TEPUNG DJAGUNG",
+    "title_normalized": "Pisang Goreng Tepung Jagung",
+    "region": null,
+    "page_number": 1050,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 1 tjkr.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "santan kental ¾ tjkr.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.75,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili 1 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "minjak goreng 1 tjkr.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 1 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam halus ½ sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "pisang tanduk/ pisang nangka 4 bh.",
+            "item_original": "pisang tanduk/ pisang nangka",
+            "item_normalized": "pisang tanduk/ pisang nangka",
+            "quantity": 4.0,
+            "unit": "buah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur diaduk sampai kembang.",
+      "Tepung jang telah ditjampur dengan garam dan panili dimasukkan kedalam adukan telur itu.",
+      "Setelah itu, santan dimasukkan sedikit demi sedikit selagi terus diaduk sampai adonan itu rata.",
+      "Pisang dipotong tipis², sebab tepung djagung lekas masak kalau digoreng.",
+      "Digoreng dalam minjak telah tjukup panas, dan digoreng sampai kuning."
+    ]
+  },
+  {
+    "recipe_id": "MR_1050_1",
+    "title_original": "PISANG RAI",
+    "title_normalized": "Pisang Rai",
+    "region": null,
+    "page_number": 1050,
+    "category": "Jajanan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung kandji 1 sdm.",
+            "item_original": "tepung kandji",
+            "item_normalized": "tepung kanji",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "pisang kaju 1 bh.",
+            "item_original": "pisang kaju",
+            "item_normalized": "pisang kayu",
+            "quantity": 1.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "air kapur sirih 1 sdt.",
+            "item_original": "air kapur sirih",
+            "item_normalized": "air kapur sirih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "kelapa setengah tua ¼ btr.",
+            "item_original": "kelapa setengah tua",
+            "item_normalized": "kelapa setengah tua",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Pisang direbus.",
+      "Tepung, garam, air kapur sirih ditjampur, diuli dengan air sedikit, sampai lembut.",
+      "Ditambah air, sehingga adonan mendjadi setjair adonan kue pisang.",
+      "Air didihkan.",
+      "Pisang dipotong serong setebal ¾ cm, direbus diair mendidih.",
+      "Pisang ditjelupkan diadonan, kemudian direbus diair mendidih.",
+      "Kelapa dikupas, diparut diberi garam.",
+      "Kue dihidangkan dengan kelapa parut."
+    ]
+  }
+]

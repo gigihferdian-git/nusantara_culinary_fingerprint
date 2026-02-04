@@ -1,0 +1,313 @@
+{
+  "last_active_category": "SAMBAL SAMBALAN",
+  "mappings": [
+    {
+      "recipes_original_name": "Perkedel Panggang",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Piong Duku Bai",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Piong Duku Manuk",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Ajam",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Ajam Rendang",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Asam Manis",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Babi",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Bandeng",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Bumbu Dendeng",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Gapit",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Gurih",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Kerang",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Lidah",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Lilit",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Manis",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Manis Tempe",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Madura",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Memangut",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Padang",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Penju",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Prentul",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Pusut",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Tjirebon",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Udang",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Udang Menado",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Sate Usus",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Taoge Goreng",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Timbung",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Tufi",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Udang Gapit",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Urip Urip",
+      "category": "LAUK PAUK BAKAR"
+    },
+    {
+      "recipes_original_name": "Asam Kemamah (Sambal Ikan Kaju)",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Luat",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Paluik",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Badjak",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Badjak Daging",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Bangket",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Banteng",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Bantji",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Batjang",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Belimbing",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Belondo",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Biasa",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Bubuk Kedele",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Bumbu Megono",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Buntil",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Daun Pagagah",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Djagung",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Djenggot",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Gado Gado",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Gandaria",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Gandaria dengan Ebi",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Gude",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Ikan Kering",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Katjang",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Katjang Tjuka",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Kelapa",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Keluwak",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Kemangi",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Kemiri",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Kentjur Lalab",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Ketimun",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Kento",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Ketjambah",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Lado Hidjau",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Lado Uap",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Lingkung",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Minjak",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Mustafa",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Nenas",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Ontjom",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Parado",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Penganten",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Padeh",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Petai",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Petjel",
+      "category": "SAMBAL SAMBALAN"
+    },
+    {
+      "recipes_original_name": "Sambal Pletjong",
+      "category": "SAMBAL SAMBALAN"
+    }
+  ]
+}

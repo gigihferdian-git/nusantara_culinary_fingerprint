@@ -1,0 +1,171 @@
+[
+  {
+    "recipe_id": "MR_711_0",
+    "title_original": "IKAN MASAK BUMBU (Lanjutan)",
+    "title_normalized": "Ikan Masak Bumbu (Continuation)",
+    "region": null,
+    "page_number": 703,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bumbu lanjutan",
+        "original_header": null,
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok hidjau 20 bh.",
+            "item_original": "lombok hidjau",
+            "item_normalized": "cabai hijau",
+            "quantity": 20.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok rawit 6 bh.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 6.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tomat 8 bh.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 8.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 3 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 3.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "batang"
+          },
+          {
+            "original_text": "taotjo ½ gls.",
+            "item_original": "taotjo",
+            "item_normalized": "tauco",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan dibersihkan, digoreng.",
+      "Kelapa parut, diambil santannja 5 gelas.",
+      "Bumbu² diiris tipis ketjuali salam ditumis, dimasukkan santan, tomat dan garam.",
+      "Setelah santan mendidih, dimasukkan ikan goreng.",
+      "Djika telah sedang kentalnja, diangkat."
+    ]
+  },
+  {
+    "recipe_id": "MR_711_1",
+    "title_original": "TEMPE BATJEM",
+    "title_normalized": "Tempe Bacem",
+    "region": "Jawa Tengah",
+    "page_number": 703,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tempe 10 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak ½ gls.",
+            "item_original": "minjak",
+            "item_normalized": "minyak",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air kelapa 1 gls.",
+            "item_original": "air kelapa",
+            "item_normalized": "air kelapa",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "salam 2 lbr.",
+            "item_original": "salam",
+            "item_normalized": "daun salam",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "asam djawa 5 mata",
+            "item_original": "asam djawa",
+            "item_normalized": "asam jawa",
+            "quantity": 5.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah ½ ons",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tempe di-potong² persegi, direbus dengan air kelapa.",
+      "Bumbu dihaluskan ketjuali asam, salam, laos, dimasukkan kedalamnja ditutup sampai airnja habis.",
+      "Tempe batjem tadi digoreng dengan minjak jang panas."
+    ]
+  }
+]

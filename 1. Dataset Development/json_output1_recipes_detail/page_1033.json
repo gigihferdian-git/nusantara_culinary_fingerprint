@@ -1,0 +1,101 @@
+[
+  {
+    "recipe_id": "MR_1025_01",
+    "title_original": "MENIRAN",
+    "title_normalized": "Meniran",
+    "region": null,
+    "page_number": 1025,
+    "category": "Jajanan / Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "beras 1 kg.",
+            "item_original": "beras",
+            "item_normalized": "beras",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "kelapa 1/2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun pisang sebagai pembungkus",
+            "item_original": "daun pisang sebagai pembungkus",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras direndam air selama 3 djam, lalu dikeringkan.",
+      "Sesudah itu ditumbuk mendjadi menir (lebih besar dari tepung).",
+      "Kelapa diparut dan didjadikan santan kental (3 gelas).",
+      "Menir dikukus selama 1 djam.",
+      "Santan kental dan garam direbus sampai mendidih.",
+      "Menir jang sudah dikukus, ditjamput dengan santan dan garam jang mendidih tadi.",
+      "Djika sudah dingin, dibungkusi daun pisang.",
+      "Bungkusan dikukus lagi selama satu djam."
+    ]
+  },
+  {
+    "recipe_id": "MR_1025_02",
+    "title_original": "MENTO",
+    "title_normalized": "Mento",
+    "region": null,
+    "page_number": 1025,
+    "category": "Jajanan / Snack",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ketela pohon 1 kg.",
+            "item_original": "ketela pohon",
+            "item_normalized": "ketela pohon",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang tolo 1/4 kg.",
+            "item_original": "katjang tolo",
+            "item_normalized": "kacang tolo",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 1/2 bh.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "buah"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

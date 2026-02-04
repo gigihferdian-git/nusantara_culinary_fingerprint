@@ -1,0 +1,159 @@
+[
+  {
+    "recipe_id": "MR_1105_1",
+    "title_original": "TAART MARMER",
+    "title_normalized": "Tart Marmer",
+    "region": null,
+    "page_number": 1105,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 15 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 15.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 3 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 3¹/₂ tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 4 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "putih telur 8 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 8.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kenari tjintjang ¹/₂ tjkr.",
+            "item_original": "kenari tjintjang",
+            "item_normalized": "kenari cincang",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tjoklat 2 sdm.",
+            "item_original": "tjoklat",
+            "item_normalized": "cokelat",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Merah telur dan gula dikotjok sampai mengembang.",
+      "Lalu dimasukkan mentega dan dikotjok sampai putih, sesudah itu dimasukkan kenari, tepung dan panili.",
+      "Penghabisan sekali dimasukkan putih telur jang telah dikotjok terpisah hingga mengembang.",
+      "Adonan ditaruh dalam tjetakan ontbytkoek atau tjetakan lain.",
+      "Diambil sedikit bumbu tjoklat, dikatjau dengan sedikit adonan jang telah djadi (no. 4).",
+      "Sesudah itu dengan sendok teh pada beberapa tempat dari adonan diberi air (no. 5).",
+      "Kemudian dibakar dalam oven dengan api dibawah dahulu.",
+      "Setelah hampir masak sebagian besar dan api diganti keatas."
+    ]
+  },
+  {
+    "recipe_id": "MR_1105_2",
+    "title_original": "TAART NASI (Tegal)",
+    "title_normalized": "Tart Nasi",
+    "region": "Tegal",
+    "page_number": 1105,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "nasi lembek ¹/₄ kg.",
+            "item_original": "nasi lembek",
+            "item_normalized": "nasi lembek",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "telur ajam 4 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "tepung terigu 1 ons",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "gula pasir 1 ons",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "margarine 1 ons",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "susu 2¹/₂ gls.",
+            "item_original": "susu",
+            "item_normalized": "susu",
+            "quantity": 2.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "panili ¹/₂ sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Gula dan telur dikotjok."
+    ]
+  }
+]

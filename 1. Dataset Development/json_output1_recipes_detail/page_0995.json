@@ -1,0 +1,177 @@
+[
+  {
+    "recipe_id": "MR_995_1",
+    "title_original": "KUE SUS",
+    "title_normalized": "Kue Sus",
+    "region": null,
+    "page_number": 987,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung terigu 2 gls.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "telur ajam 10 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "margarine 1 gls.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 2½ gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air dengan margarine direbus bersama dengan diberi panili.",
+      "Tepung dimasukkan dengan selalu diaduk.",
+      "Djika adonan sudah masak, dibiarkan agak dingin dahulu, kemudian satu persatu dimasukkan telur dalam adonan sambil diaduk keras.",
+      "Sesendok demi sesendok adonan ditaruh dalam lojang lalu dipan dengan api jang besar.",
+      "Untuk isisnja dapat diambil room vla jang kental."
+    ]
+  },
+  {
+    "recipe_id": "MR_995_2",
+    "title_original": "KUE SUS KERAS",
+    "title_normalized": "Kue Sus Keras",
+    "region": null,
+    "page_number": 987,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 1/2 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "terigu 2½ tjkr.",
+            "item_original": "terigu",
+            "item_normalized": "terigu",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "air soda 1/2 tjkr.",
+            "item_original": "air soda",
+            "item_normalized": "air soda",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili 1½ sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Air soda serta mentega sampai mendidih.",
+      "Sesudah itu, dimasukkan terigu sedikit demi sedikit serta panili dengan diaduk.",
+      "Apabila telah kental dan masak diangkat, didinginkan.",
+      "Setelah dingin, dimasukkan telur ajam satu persatu kedalamnja sampai habis dikatjau rata.",
+      "Dibakar dalam oven dalam bentuk sesukanja."
+    ]
+  },
+  {
+    "recipe_id": "MR_995_3",
+    "title_original": "Roomnja",
+    "title_normalized": "Room Vla (Filling)",
+    "region": null,
+    "page_number": 987,
+    "category": "Isi",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Roomnja",
+        "ingredients": [
+          {
+            "original_text": "kuning telur 4 btr.",
+            "item_original": "kuning telur",
+            "item_normalized": "kuning telur",
+            "quantity": 4.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 1½ tjkr.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 1.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 2 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "kismis 1/2 tjkr.",
+            "item_original": "kismis",
+            "item_normalized": "kismis",
+            "quantity": 0.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "susu entjer 1 klg.",
+            "item_original": "susu entjer",
+            "item_normalized": "susu encer",
+            "quantity": 1.0,
+            "unit": "kaleng"
+          },
+          {
+            "original_text": "air 1/3 klg. susu",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 0.33,
+            "unit": "volume kaleng"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

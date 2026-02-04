@@ -1,0 +1,188 @@
+[
+  {
+    "recipe_id": "MR_351_0",
+    "title_original": "SOP SUMSUM",
+    "title_normalized": "Sop Sumsum",
+    "region": null,
+    "page_number": 351,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging dan tetelan 1 kg.",
+            "item_original": "daging dan tetelan",
+            "item_normalized": "daging dan tetelan",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "wortel ¼ kg.",
+            "item_original": "wortel",
+            "item_normalized": "wortel",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minyak goreng ½ gls.",
+            "item_original": "minyak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "kentang ¼ kg.",
+            "item_original": "kentang",
+            "item_normalized": "kentang",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "margarine 2 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun seledri 1 ikat",
+            "item_original": "daun seledri",
+            "item_normalized": "daun seledri",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "lada halus ½ sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam ½ sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging dan tulang direbus sampai lunak beserta sumsumnja.",
+      "Kentang dikupas, digoreng, dipotong bulat² tipis.",
+      "Wortel dikupas, direbus, dipotong bulat².",
+      "Ditumis dengan margarine, dimasukkan daging, kentang dan terachir dimasukkan kaldu.",
+      "Lada, daun seledri dan bawang merah goreng dimasukkan.",
+      "Didjerangkan sampai masak.",
+      "Dihidangkan panas²."
+    ]
+  },
+  {
+    "recipe_id": "MR_351_1",
+    "title_original": "SOP TERNATE",
+    "title_normalized": "Sop Ternate",
+    "region": "Ternate",
+    "page_number": 351,
+    "category": "Sup",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tomat 1 kg.",
+            "item_original": "tomat",
+            "item_normalized": "tomat",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "air kaldu 4 gls.",
+            "item_original": "air kaldu",
+            "item_normalized": "air kaldu",
+            "quantity": 4.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "margarine 2 sdm.",
+            "item_original": "margarine",
+            "item_normalized": "margarin",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tepung ¼ gls.",
+            "item_original": "tepung",
+            "item_normalized": "tepung",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lada putih 1 sdt.",
+            "item_original": "lada putih",
+            "item_normalized": "lada putih",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "tjengkeh 5 bdj.",
+            "item_original": "tjengkeh",
+            "item_normalized": "cengkeh",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "ketjap 1 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tomat direbus, dihaluskan, disaring.",
+      "Bawang merah diiris, digoreng dengan margarine, ditambah air tomat.",
+      "Bumbu², air tomat, air kaldu dimasak ± 2 menit.",
+      "Dikentalkan dengan tepung terigu.",
+      "Dihidangkan dengan ditaburi bawang goreng."
+    ]
+  }
+]

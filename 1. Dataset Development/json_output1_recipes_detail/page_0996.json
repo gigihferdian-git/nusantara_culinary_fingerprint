@@ -1,0 +1,107 @@
+[
+  {
+    "recipe_id": "MR_988_0",
+    "title_original": "ADONAN ISI KUE SUS (Lanjutan)",
+    "title_normalized": "Adonan Isi Kue Sus (Lanjutan)",
+    "region": null,
+    "page_number": 988,
+    "category": "Kue/Pastry",
+    "ingredient_groups": [],
+    "instructions": [
+      "1. Kuning telur, gula, mentega, susu, air, terigu dan kismis dikatjau sampai putih, lalu dimasak.",
+      "2. Setelah masak dan kental diangkat.",
+      "3. Room ini diisikan dalam kue sus dengan djalan dibelah ditengahnja."
+    ]
+  },
+  {
+    "recipe_id": "MR_988_1",
+    "title_original": "KUE TALAM",
+    "title_normalized": "Kue Talam",
+    "region": null,
+    "page_number": 988,
+    "category": "Kue/Jajan Pasar",
+    "ingredient_groups": [
+      {
+        "group_name": "sebelah bawah",
+        "original_header": "Untuk sebelah bawah :",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air 2 gls.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "air gula merah 2 gls.",
+            "item_original": "air gula merah",
+            "item_normalized": "air gula merah",
+            "quantity": 2.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "daun pandan setjukupnja",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "sedikit"
+          }
+        ]
+      },
+      {
+        "group_name": "sebelah atas",
+        "original_header": "Untuk sebelah atas :",
+        "ingredients": [
+          {
+            "original_text": "tepung beras 1/2 gls.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam sedikit",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": null,
+            "unit": "sedikit"
+          },
+          {
+            "original_text": "santan kental 1/2 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Tepung, air dan gula merah, serta garam ditjampur dalam sebuah pantji.",
+      "2. Dimasak dengan api jang sedang panasnja.",
+      "3. Diaduk per-lahan² agar tidak ber-bidji².",
+      "4. Bila sudah kental, menandakan bahwa ia sudah masak.",
+      "5. Dimasak sekali lagi dalam kukusan jang tertutup.",
+      "6. Apabila sudah agak keras kelihatannja, dituangkan lapisan atas.",
+      "7. Bahannja telah disebutkan diatas jaitu:",
+      "8. Tepung beras jang diaduk dengan santan dan sedikit garam dan kemudian dimasak.",
+      "9. Sesudah jang putih ini mendjadi agak kental kelihatannja, baru diangkat.",
+      "10. Kue dibiarkan mendjadi dingin.",
+      "11. Baru boleh di-potong²."
+    ]
+  }
+]

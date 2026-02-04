@@ -1,0 +1,190 @@
+[
+  {
+    "recipe_id": "MR_705_1",
+    "title_original": "TAHU GORENG BERTEPUNG",
+    "title_normalized": "Tahu Goreng Bertepung",
+    "region": "Jawa Tengah",
+    "page_number": 697,
+    "category": "Gorengan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu sedang 10 bh.",
+            "item_original": "tahu sedang",
+            "item_normalized": "tahu sedang",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "tepung beras 6 sdm.",
+            "item_original": "tepung beras",
+            "item_normalized": "tepung beras",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "air 6 sdm.",
+            "item_original": "air",
+            "item_normalized": "air",
+            "quantity": 6.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "minjak goreng setjukupnja",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 3 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 3.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "kemiri 5 bdj.",
+            "item_original": "kemiri",
+            "item_normalized": "kemiri",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ketumbar 1 sdt.",
+            "item_original": "ketumbar",
+            "item_normalized": "ketumbar",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tahu dibelah dua, dipotong serong.",
+      "Bumbu dihaluskan ditjamput dengan tepung dan air.",
+      "Tahu dimasukkan kedalam adonan, digoreng dalam minjak panas sampai berwarna kuning ke-tjoklat²an."
+    ]
+  },
+  {
+    "recipe_id": "MR_705_2",
+    "title_original": "TAHU KERING",
+    "title_normalized": "Tahu Kering",
+    "region": "Rembang",
+    "page_number": 697,
+    "category": "Lauk Pauk Kering",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tahu 10 pt.",
+            "item_original": "tahu",
+            "item_normalized": "tahu",
+            "quantity": 10.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "tempe 5 pt.",
+            "item_original": "tempe",
+            "item_normalized": "tempe",
+            "quantity": 5.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "minjak goreng 1 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 1.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 7 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 7.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 5 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "asam 3 mata",
+            "item_original": "asam",
+            "item_normalized": "asam jawa",
+            "quantity": 3.0,
+            "unit": "mata"
+          },
+          {
+            "original_text": "gula merah 2 sdm.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1/2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "terasi 2 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Tempe diiris ketjil-ketjil tipis, tahu dipotong-potong ketjil, semuanja digoreng sampai kering.",
+      "Bawang merah, bawang putih, lombok merah diiris tipis memandjang, digoreng sampai kering.",
+      "Gula, garam, terasi, laos, salam, asam direbus dengan air ½ gelas, dimasak sampai mendidih.",
+      "Djika telah kental dimasukkan tempe, tahu goreng dan lombok goreng, diaduk hingga rata. Setelah dingin dimasukkan kedalam stoples."
+    ]
+  }
+]

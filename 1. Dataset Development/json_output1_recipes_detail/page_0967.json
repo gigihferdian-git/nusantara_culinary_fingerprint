@@ -1,0 +1,110 @@
+[
+  {
+    "recipe_id": "MR_967_0",
+    "title_original": "KUE KENTANG",
+    "title_normalized": "Kue Kentang",
+    "region": null,
+    "page_number": 959,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 3 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 3.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "mentega 3½ tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "gula halus 4 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 4.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung kentang 10 tjkr.",
+            "item_original": "tepung kentang",
+            "item_normalized": "tepung kentang",
+            "quantity": 10.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 6 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 6.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung susu 3 sdm.",
+            "item_original": "tepung susu",
+            "item_normalized": "susu bubuk",
+            "quantity": 3.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur dan gula dikotjok sampai mengembang, mentega dikotjok tersendiri.",
+      "Sesudah itu, telur dan gula jang sudah dikotjok ditjampurkan dan dikotjok terus sampai rata.",
+      "Kemudian dimasukkan terigu, tepung kentang dan tepung susu.",
+      "Adonan ini diaduk hingga tjampur betul.",
+      "Kemudian digiling dan ditjetak (bentuknja jang disenangi) lalu dibakar dalam oven dengan api diatas dan dibawah."
+    ]
+  },
+  {
+    "recipe_id": "MR_967_1",
+    "title_original": "KUE KERAK KERING",
+    "title_normalized": "Kue Kerak Kering",
+    "region": null,
+    "page_number": 959,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung beras ketan 3 gls.",
+            "item_original": "tepung beras ketan",
+            "item_normalized": "tepung beras ketan",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam halus 2 sdt.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 2.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "telur 3 atau 4 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 3.0,
+            "unit": "butir",
+            "quantity_end": 4.0
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Beras ketan dipilih.",
+      "Direndam lebih dahulu sedjam, sebelum ditumbuk.",
+      "Dan sesudah ditumbuk djangan dibiarkan mendjadi kering tepungnja, tetapi lekas dibuat adonan."
+    ]
+  }
+]

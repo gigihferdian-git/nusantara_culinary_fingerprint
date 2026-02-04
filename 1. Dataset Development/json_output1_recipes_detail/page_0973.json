@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_973_0",
+    "title_original": "Kue (Instruksi Lanjutan)",
+    "title_normalized": "Kue (Instruksi Lanjutan)",
+    "region": null,
+    "page_number": 965,
+    "category": "Kue Kering",
+    "ingredient_groups": [],
+    "instructions": [
+      "Mentega, gula dan panili diaduk sampai putih, kemudian dimasukkan putihnja telur sedikit demi sedikit.",
+      "Di-aduk² sampai mengembang baik, dimasukkan tepung.",
+      "Adonan ini entjer, dapat dimasukkan dalam tjontong dan kertas jang udjungnja diberi lobang sebesar potlot.",
+      "Sesudah itu, adonan disemprotkan dalam lojang tjeper jang sama pandjang dan letaknja.",
+      "Api pembakaran atas dan bawah djangan terlalu besar."
+    ]
+  },
+  {
+    "recipe_id": "MR_973_1",
+    "title_original": "KUE LILIN",
+    "title_normalized": "Kue Lilin",
+    "region": "Palembang",
+    "page_number": 965,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "telur ajam 5 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 5.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula pasir 3/4 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 0.75,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "susu kental 1/2 gls.",
+            "item_original": "susu kental",
+            "item_normalized": "susu kental",
+            "quantity": 0.5,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "mentega/margarine 1/4 gls.",
+            "item_original": "mentega/margarine",
+            "item_normalized": "mentega/margarin",
+            "quantity": 0.25,
+            "unit": "gelas"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Telur, gula dikotjok djangan sampai kembang.",
+      "Dimasukkan susu kental, diaduk sampai rata, ditambahkan margarine.",
+      "Tjetakan diolesi mentega sampai rata.",
+      "Adonan dimasukkan sekaligus.",
+      "Dikukus dalam wadjan jang ditutup rapat selama 4 djam.",
+      "Sesudah masak diangkat, didinginkan.",
+      "Warnanja kuning mengkilat."
+    ]
+  },
+  {
+    "recipe_id": "MR_973_2",
+    "title_original": "KUE LOPIS DJAGUNG",
+    "title_normalized": "Kue Lopis Jagung",
+    "region": "Pasarminggu",
+    "page_number": 965,
+    "category": "Kue Basah",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung djagung 5 gls.",
+            "item_original": "tepung djagung",
+            "item_normalized": "tepung jagung",
+            "quantity": 5.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "tepung sagu 1 gls.",
+            "item_original": "tepung sagu",
+            "item_normalized": "tepung sagu",
+            "quantity": 1.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "gula pasir 3 gls.",
+            "item_original": "gula pasir",
+            "item_normalized": "gula pasir",
+            "quantity": 3.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "santan kental 6 gls.",
+            "item_original": "santan kental",
+            "item_normalized": "santan kental",
+            "quantity": 6.0,
+            "unit": "gelas"
+          },
+          {
+            "original_text": "garam 1/4 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.25,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "panili 2 bks.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 2.0,
+            "unit": "bungkus"
+          },
+          {
+            "original_text": "pewarna merah setjukupnja",
+            "item_original": "pewarna merah",
+            "item_normalized": "pewarna merah",
+            "quantity": null,
+            "unit": "secukupnya"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Santan diberi garam, diaduk sampai rata, kemudian direbus"
+    ]
+  }
+]

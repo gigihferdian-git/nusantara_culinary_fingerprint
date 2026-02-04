@@ -1,0 +1,185 @@
+[
+  {
+    "recipe_id": "MR_670_001",
+    "title_original": "(Continuation from Previous Page)",
+    "title_normalized": "Recipe 1 (Kepiting, Ham, Telur)",
+    "region": null,
+    "page_number": 662,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "(Bahan Lauk Pauk)",
+        "ingredients": [
+          {
+            "original_text": "irisan ham (daging babi) 2 ons",
+            "item_original": "irisan ham (daging babi)",
+            "item_normalized": "irisan ham (daging babi)",
+            "quantity": 200.0,
+            "unit": "gram"
+          },
+          {
+            "original_text": "telur 10 bt.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 10.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "seledri 2 tk.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun bawang 2 ikat",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 2.0,
+            "unit": "ikat"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lada halus ½ sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "gadjih/minjak babi 5 sdm.",
+            "item_original": "gadjih/minjak babi",
+            "item_normalized": "gajih/minyak babi",
+            "quantity": 5.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Kepiting direbus dan daging diambil dari rumahnja.",
+      "Bawang putih diiris, digoreng sampai kuning.",
+      "Seledri dan daun bawah diiris.",
+      "Kemudian dimasukkan didalam tumisan bawang putih beserta ham, kepiting dan telur.",
+      "Setelah itu dibalik, djangan sampai gosong."
+    ]
+  },
+  {
+    "recipe_id": "MR_670_002",
+    "title_original": "KERING IKAN TJUMI TJUMI",
+    "title_normalized": "Kering Ikan Cumi Cumi",
+    "region": "Purwokerto",
+    "page_number": 662,
+    "category": "Lauk Pauk",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan",
+        "original_header": "Bahan² :",
+        "ingredients": [
+          {
+            "original_text": "ikan tjumi tjumi ¼ kg.",
+            "item_original": "ikan tjumi tjumi",
+            "item_normalized": "ikan cumi cumi",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng ½ tj.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 0.5,
+            "unit": "tj."
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu² :",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "bawang putih 2 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 2.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok merah 3 bh.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 3.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "laos 1 iris",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "iris"
+          },
+          {
+            "original_text": "djae ½ rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "gula merah 1 sdt.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap 2 sdm.",
+            "item_original": "ketjap",
+            "item_normalized": "kecap",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ikan ditjutji, direbus sampai masak, di-potong².",
+      "Bawang merah, bawang putih, lombok merah diiris halus, digoreng kering.",
+      "Bumbu ditumbuk, dibatjam bersama ikan.",
+      "Bawang merah, bawang putih, lombok jang telah digoreng diaduk rata pada batjaman tersebut."
+    ]
+  }
+]

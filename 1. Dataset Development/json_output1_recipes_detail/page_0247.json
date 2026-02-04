@@ -1,0 +1,102 @@
+[
+  {
+    "recipe_id": "MR_239_1",
+    "title_original": "GULAI PADEH DAUN SINGKONG",
+    "title_normalized": "Gulai Padeh Daun Singkong",
+    "region": "Padang",
+    "page_number": 239,
+    "category": "Gulai",
+    "ingredient_groups": [
+      {
+        "group_name": "Bahan Utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daun singkong muda 4 ikt.",
+            "item_original": "daun singkong muda",
+            "item_normalized": "daun singkong muda",
+            "quantity": 4.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "kelapa jang tua 1 btr.",
+            "item_original": "kelapa jang tua",
+            "item_normalized": "kelapa yang tua",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "Bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lombok merah 1 ons",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 1.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kunjit ¼ rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.25,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "sereh ½ btg.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 0.5,
+            "unit": "batang"
+          },
+          {
+            "original_text": "bawang merah 5 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 5.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "daun kunjit 1 hl.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 1.0,
+            "unit": "helai"
+          },
+          {
+            "original_text": "terasi 1 sdt.",
+            "item_original": "terasi",
+            "item_normalized": "terasi",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daun singkong ditjutji dan dimasukkan dalam pantji dengan sedikit air, didjerangkan diatas api. Dibiarkan mendidih sampai airnja kering dan daun singkongnja empuk.",
+      "Kelapa diparut dan diambil santannja 3 gelas.",
+      "Bumbu digiling halus, ketjuali daun kunjit dan sereh.",
+      "Bumbu jang telah halus diaduk dengan santan bersama daun kunjit dan sereh dan dituangkan dalam pantji jang berisi daun singkong jang sudah empuk; direbus.",
+      "Asam dan garam dimasukkan dalam pantji.",
+      "Sambil di-aduk² pantji didjerangkan sampai mendidih dan masak. Diaduk terus agar santan djangan petjah."
+    ]
+  }
+]

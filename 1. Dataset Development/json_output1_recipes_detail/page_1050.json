@@ -1,0 +1,191 @@
+[
+  {
+    "recipe_id": "MR_1042_01",
+    "title_original": "PANGSIT",
+    "title_normalized": "Pangsit",
+    "region": null,
+    "page_number": 1042,
+    "category": "Makanan Utama",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "daging babi 8 ons",
+            "item_original": "daging babi",
+            "item_normalized": "daging babi",
+            "quantity": 8.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "udang ½ kg.",
+            "item_original": "udang",
+            "item_normalized": "udang",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "tepung 8 ons",
+            "item_original": "tepung",
+            "item_normalized": "tepung",
+            "quantity": 8.0,
+            "unit": "ons"
+          },
+          {
+            "original_text": "telur 1 btr.",
+            "item_original": "telur",
+            "item_normalized": "telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kutjai 1 ikt.",
+            "item_original": "kutjai",
+            "item_normalized": "kucai",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "seledri 2 tk.",
+            "item_original": "seledri",
+            "item_normalized": "seledri",
+            "quantity": 2.0,
+            "unit": "tangkai"
+          },
+          {
+            "original_text": "daun bawang 1 ikt.",
+            "item_original": "daun bawang",
+            "item_normalized": "daun bawang",
+            "quantity": 1.0,
+            "unit": "ikat"
+          },
+          {
+            "original_text": "minjak babi 1/3 btl.",
+            "item_original": "minjak babi",
+            "item_normalized": "minyak babi",
+            "quantity": 0.33,
+            "unit": "botol"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "lada halus 1 sdt.",
+            "item_original": "lada halus",
+            "item_normalized": "lada halus",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "garam 1 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 1.0,
+            "unit": "sendok makan"
+          }
+        ]
+      },
+      {
+        "group_name": "sambal",
+        "original_header": "Tjara membuat sambal",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 4 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 4.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "lombok rawit 5 bdj.",
+            "item_original": "lombok rawit",
+            "item_normalized": "cabai rawit",
+            "quantity": 5.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "tautjo 2 sdm.",
+            "item_original": "tautjo",
+            "item_normalized": "tauco",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          },
+          {
+            "original_text": "tjuka 1 sdt.",
+            "item_original": "tjuka",
+            "item_normalized": "cuka",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "ketjap manis 4 sdm.",
+            "item_original": "ketjap manis",
+            "item_normalized": "kecap manis",
+            "quantity": 4.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Daging babi dengan udang ditjatjah ber-sama².",
+      "Bawang putih, kutjai, seledri, daun bawang diradjang tipis dan tiap² bumbu ditumis.",
+      "Daging babi dan udang jang telah ditjatjah, ditumis beserta bumbu² lainnja.",
+      "Dari tepung, telur dan garam dibuat adonan seperti adonan roti.",
+      "Adonan tadi digulung tipis, dipotong persegi dari 5 atau 6 cm.",
+      "Adonan jang tipis tadi lalu diisi.",
+      "Pangsit ini dilipat segi tiga, dan sudut kanan kirinja ditumpuk.",
+      "Pangsit ini digoreng sampai kuning dan dimakan dengan sambal.",
+      "semua bumbu² dihaluskan ketjuali tjuka dan ketjap."
+    ]
+  },
+  {
+    "recipe_id": "MR_1042_02",
+    "title_original": "PANSET CAKE",
+    "title_normalized": "Panset Cake",
+    "region": null,
+    "page_number": 1042,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "mentega 3 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung roti",
+            "item_original": "tepung roti",
+            "item_normalized": "tepung roti",
+            "quantity": 0.0,
+            "unit": null
+          },
+          {
+            "original_text": "gula tumbuk 2½ tjkr.",
+            "item_original": "gula tumbuk",
+            "item_normalized": "gula tumbuk",
+            "quantity": 2.5,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "telur ajam 6 btr.",
+            "item_original": "telur ajam",
+            "item_normalized": "telur ayam",
+            "quantity": 6.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "recipe_id": "MR_254_1",
+    "title_original": "KALIO DJARING (DJENGKOL)",
+    "title_normalized": "Kalio Jaring (Jengkol)",
+    "region": "Padang",
+    "page_number": 254,
+    "category": "Kalio",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "djengkol 30 bdj.",
+            "item_original": "djengkol",
+            "item_normalized": "jengkol",
+            "quantity": 30.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "ikan teri ½ ons",
+            "item_original": "ikan teri",
+            "item_normalized": "ikan teri",
+            "quantity": 0.5,
+            "unit": "ons"
+          },
+          {
+            "original_text": "kelapa 1 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 1.0,
+            "unit": "butir"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang merah 10 bh.",
+            "item_original": "bawang merah",
+            "item_normalized": "bawang merah",
+            "quantity": 10.0,
+            "unit": "buah"
+          },
+          {
+            "original_text": "lombok merah 20 bdj.",
+            "item_original": "lombok merah",
+            "item_normalized": "cabai merah",
+            "quantity": 20.0,
+            "unit": "biji"
+          },
+          {
+            "original_text": "laos 1 pt.",
+            "item_original": "laos",
+            "item_normalized": "lengkuas",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "djae 1 rdj.",
+            "item_original": "djae",
+            "item_normalized": "jahe",
+            "quantity": 1.0,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "kunjit ½ rdj.",
+            "item_original": "kunjit",
+            "item_normalized": "kunyit",
+            "quantity": 0.5,
+            "unit": "ruas jari"
+          },
+          {
+            "original_text": "daun kunjit 2 lbr.",
+            "item_original": "daun kunjit",
+            "item_normalized": "daun kunyit",
+            "quantity": 2.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "sereh 1 pt.",
+            "item_original": "sereh",
+            "item_normalized": "serai",
+            "quantity": 1.0,
+            "unit": "potong"
+          },
+          {
+            "original_text": "garam 2 sdm.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Djengkol direbus sampai masak.",
+      "Kelapa diparut, diambil santannja 6 gelas.",
+      "Bumbu² dihaluskan ketjuali sereh, daun kunjit.",
+      "Santan, bumbu² dimasak, dimasukkan ikan teri, dibiarkan sampai mendidih.",
+      "Dimasukkan djengkolnja, dimasak sampai berminjak."
+    ]
+  },
+  {
+    "recipe_id": "MR_254_2",
+    "title_original": "KALIO HATI",
+    "title_normalized": "Kalio Hati",
+    "region": "Padang",
+    "page_number": 254,
+    "category": "Kalio",
+    "ingredient_groups": [
+      {
+        "group_name": "bahan utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "hati 1 kg.",
+            "item_original": "hati",
+            "item_normalized": "hati",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "kelapa 2 btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 2.0,
+            "unit": "butir"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

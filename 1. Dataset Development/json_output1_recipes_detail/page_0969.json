@@ -1,0 +1,133 @@
+[
+  {
+    "recipe_id": "MR_969_1",
+    "title_original": "KUE KOTJI",
+    "title_normalized": "Kue Kotji",
+    "region": "Sumatera Barat",
+    "page_number": 961,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "tepung ketan 1/2 kg.",
+            "item_original": "tepung ketan",
+            "item_normalized": "tepung ketan",
+            "quantity": 0.5,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah 1/4 kg.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "katjang hidjau 1/4 kg.",
+            "item_original": "katjang hidjau",
+            "item_normalized": "kacang hijau",
+            "quantity": 0.25,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "daun pandan 1 lbr.",
+            "item_original": "daun pandan",
+            "item_normalized": "daun pandan",
+            "quantity": 1.0,
+            "unit": "lembar"
+          },
+          {
+            "original_text": "daun pisang setjukupnja",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": null,
+            "unit": "secukupnya"
+          },
+          {
+            "original_text": "garam 1/2 sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang hidjau ditjutji dan direndam selama 3 djam, disangrai, ditjutji sambil dibuang kulitnja dan digiling halus.",
+      "Gula merah dimasak dengan 1 gelas air, garam, daun pandan hingga merupakan sirop kental dan disaring.",
+      "Sebagian dari gula ditjamput dengan katjang hidjau, dipanaskan sebentar hingga merupakan adonan kental (untuk dipakai sebagai inti).",
+      "Sebagian dari gula panas jang lain ditjampur dengan tepung ketan hingga berupa adonan seperti kelepon.",
+      "Daun pisang dipotong bundar² (15-20 cm), diberi minjak dan dibentuk kerutjut. Adonan dimasukkan dan dikukus hingga masak."
+    ]
+  },
+  {
+    "recipe_id": "MR_969_2",
+    "title_original": "KUE KULIT KAPAS",
+    "title_normalized": "Kue Kulit Kapas",
+    "region": null,
+    "page_number": 961,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "merah telur 2 btr.",
+            "item_original": "merah telur",
+            "item_normalized": "kuning telur",
+            "quantity": 2.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "putih telur 1 btr.",
+            "item_original": "putih telur",
+            "item_normalized": "putih telur",
+            "quantity": 1.0,
+            "unit": "butir"
+          },
+          {
+            "original_text": "gula halus 2 tjkr.",
+            "item_original": "gula halus",
+            "item_normalized": "gula halus",
+            "quantity": 2.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "mentega 3 tjkr.",
+            "item_original": "mentega",
+            "item_normalized": "mentega",
+            "quantity": 3.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung terigu 10 tjkr.",
+            "item_original": "tepung terigu",
+            "item_normalized": "tepung terigu",
+            "quantity": 10.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "tepung singkong/maizena 1 tjkr.",
+            "item_original": "tepung singkong/maizena",
+            "item_normalized": "tepung singkong/maizena",
+            "quantity": 1.0,
+            "unit": "cangkir"
+          },
+          {
+            "original_text": "panili 1 sdt.",
+            "item_original": "panili",
+            "item_normalized": "vanili",
+            "quantity": 1.0,
+            "unit": "sendok teh"
+          }
+        ]
+      }
+    ],
+    "instructions": []
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "recipe_id": "MR_920_1",
+    "title_original": "KATJANG BAWANG",
+    "title_normalized": "Kacang Bawang",
+    "region": "Rembang",
+    "page_number": 912,
+    "category": "Camilan",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "katjang tanah 1 kg.",
+            "item_original": "katjang tanah",
+            "item_normalized": "kacang tanah",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "minjak goreng 2 gls.",
+            "item_original": "minjak goreng",
+            "item_normalized": "minyak goreng",
+            "quantity": 2.0,
+            "unit": "gelas"
+          }
+        ]
+      },
+      {
+        "group_name": "bumbu",
+        "original_header": "Bumbu²",
+        "ingredients": [
+          {
+            "original_text": "bawang putih 20 siung",
+            "item_original": "bawang putih",
+            "item_normalized": "bawang putih",
+            "quantity": 20.0,
+            "unit": "siung"
+          },
+          {
+            "original_text": "garam halus 2 sdm.",
+            "item_original": "garam halus",
+            "item_normalized": "garam halus",
+            "quantity": 2.0,
+            "unit": "sendok makan"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Katjang direndam dalam air panas ± 15 menit.",
+      "Kulit arinja dibuang, katjang ditjutji dan ditiriskan.",
+      "Bawang putih diirisi halus dan digoreng.",
+      "Katjang digoreng sampai matang.",
+      "Bawang goreng, katjang goreng, garam halus ditjampur dalam pantji, diaduk sampai agak dingin.",
+      "Disimpan dalam tempat jang dapat ditutup rapat."
+    ]
+  },
+  {
+    "recipe_id": "MR_920_2",
+    "title_original": "KATJEPIT MANDI",
+    "title_normalized": "Kacang Kepit Mandi",
+    "region": "Palembang",
+    "page_number": 912,
+    "category": "Kue",
+    "ingredient_groups": [
+      {
+        "group_name": "utama",
+        "original_header": "Bahan²",
+        "ingredients": [
+          {
+            "original_text": "ubi kaju 1 kg.",
+            "item_original": "ubi kaju",
+            "item_normalized": "ubi kayu",
+            "quantity": 1.0,
+            "unit": "kilogram"
+          },
+          {
+            "original_text": "gula merah ¼ btr.",
+            "item_original": "gula merah",
+            "item_normalized": "gula merah",
+            "quantity": 0.25,
+            "unit": "butir"
+          },
+          {
+            "original_text": "kelapa ½ btr.",
+            "item_original": "kelapa",
+            "item_normalized": "kelapa",
+            "quantity": 0.5,
+            "unit": "butir"
+          },
+          {
+            "original_text": "garam ½ sdt.",
+            "item_original": "garam",
+            "item_normalized": "garam",
+            "quantity": 0.5,
+            "unit": "sendok teh"
+          },
+          {
+            "original_text": "daun pisang 2 plp.",
+            "item_original": "daun pisang",
+            "item_normalized": "daun pisang",
+            "quantity": 2.0,
+            "unit": "pelepah"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      "Ubi kaju dikupas, diparut.",
+      "Gula merah diirisi halus."
+    ]
+  }
+]
